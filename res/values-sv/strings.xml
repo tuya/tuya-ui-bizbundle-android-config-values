@@ -843,6 +843,7 @@
   <string name="ty_device_network_detecting">Upptäcker nätverket.</string>
   <string name="ty_device_network_status_init">Kontrollera nätverket</string>
   <string name="ty_device_network_title">Detekterar nätverksstatus</string>
+  <string name="ty_devices_disvocer_success">Hittade %s Enhet (er)</string>
   <string name="ty_disable">inaktivera</string>
   <string name="ty_disagree">Instämmer ej</string>
   <string name="ty_dndr_bad">Dåliga nätverksförhållanden</string>

@@ -1096,7 +1096,7 @@
   <string name="personal_speech_service">Φωνητική υπηρεσία</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
-  <string name="personal_speech_service_dueros">DuerOS</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="personal_speech_service_google">Google Assistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
@@ -1302,7 +1302,6 @@
   <string name="setup">Ρύθμιση</string>
   <string name="setup_debug_log">Καταγραφής Εκκαθάριση</string>
   <string name="setup_debug_switch">Εντοπισμού Σφαλμάτων</string>
-  <string name="share_methods">Αν ένας μόνιμος κάτοικος της οικίας σας έχει έναν λογαριασμό, προτείνουμε να ορίσετε τον λογαριασμό αυτό ως οικογενειακό μέλος, και να διαμοιραστείτε όλες τις οικογενειακές συσκευές με το οικογενειακό μέλος</string>
   <string name="shared_title">Μοιράστηκα</string>
   <string name="show_first_page">Εμφάνιση στην πρώτη σελίδα</string>
   <string name="single_week_five">Παρασκευή</string>
@@ -1623,6 +1622,7 @@
   <string name="ty_device_network_title">Έλεγχος κατάστασης δικτύου</string>
   <string name="ty_device_to_add">Προσθήκη</string>
   <string name="ty_device_to_add_retry">Επαναπροσπάθεια</string>
+  <string name="ty_devices_disvocer_success">%s Συσκευές Που Βρέθηκαν</string>
   <string name="ty_disable">Απενεργοποίηση</string>
   <string name="ty_disagree">Διαφωνώ</string>
   <string name="ty_dndr_bad">Δίκτυο Σε Κακή Κατάσταση</string>

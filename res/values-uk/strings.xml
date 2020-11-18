@@ -926,7 +926,7 @@
   <string name="personal_speech_service">Голосова служба</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
-  <string name="personal_speech_service_dueros">DuerOS</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="personal_speech_service_google">GoogleAssistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
@@ -1114,7 +1114,6 @@
   <string name="setup">Налаштування</string>
   <string name="setup_debug_log">Очистити журнал</string>
   <string name="setup_debug_switch">Вмикання/вимикання усунення дефектів</string>
-  <string name="share_methods">Рекомендуємо надати спільний доступ до всіх пристроїв членам сім’ї, додавши їх у програму.</string>
   <string name="shared_title">Мої пристрої зі спільним доступом</string>
   <string name="show_first_page">Показати головну сторінку</string>
   <string name="single_week_five">Пт</string>
@@ -1372,6 +1371,7 @@
   <string name="ty_device_network_title">Перевірити умови мережі</string>
   <string name="ty_device_to_add">Додати</string>
   <string name="ty_device_to_add_retry">Повторити спробу</string>
+  <string name="ty_devices_disvocer_success">Знайдено пристроїв: %s</string>
   <string name="ty_disable">Відключити</string>
   <string name="ty_dndr_bad">Погані умови мережі</string>
   <string name="ty_dndr_good">Хороші умови мережі</string>

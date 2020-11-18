@@ -1383,7 +1383,7 @@
   <string name="personal_speech_service">Dịch vụ giọng nói</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
-  <string name="personal_speech_service_dueros">DuerOS</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="personal_speech_service_google">Trợ lý Google</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
@@ -1430,7 +1430,6 @@
   <string name="privacy">Chính sách về quyền riêng tư</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
-  <string name="privacy_url">https://images.tuyacn.com/app/pAs/Privacy_Policy_en.html</string>
   <string name="private_and_user_agreement">Thỏa thuận dịch vụ và chính sách bảo mật</string>
   <string name="problemSubmit_content_placeholder">Vui lòng mô ta chi tiết sự cố mà bạn đang gặp và đường dẫn xãy ra sự cố. Mô tả không rõ ràng hoặc không đầy đủ có thể ảnh hưởng đến tiến trình xử lý sự cố</string>
   <string name="productProposal_content_placeholder">Vui lòng mô tả chi tiết đề xuất tối ưu hóa hoặc phương án cải tiến của bạn</string>
@@ -1661,7 +1660,6 @@
   <string name="setup">Cài đặt</string>
   <string name="setup_debug_log">Xóa nhật ký</string>
   <string name="setup_debug_switch">Gỡ lỗi</string>
-  <string name="share_methods">Nếu một người là thành viên của gia đình và có tài khoản, Chúng tôi khuyên bạn nên chia sẽ tất cả thiết bị với anh ấy bằng cách thêm thành viên</string>
   <string name="shared_title">Chia sẻ của tôi</string>
   <string name="show_first_page">Hiển thị trên trang chủ</string>
   <string name="single_week_five">Thứ sáu</string>
@@ -2011,6 +2009,7 @@
   <string name="ty_device_network_title">Kiểm tra mạng thiết bị</string>
   <string name="ty_device_to_add">Thêm</string>
   <string name="ty_device_to_add_retry">Thử lại</string>
+  <string name="ty_devices_disvocer_success">Đã tìm thấy %s thiết bị</string>
   <string name="ty_disable">Vô hiệu hóa</string>
   <string name="ty_disagree">Không đồng ý</string>
   <string name="ty_dndr_bad">Mạng yếu</string>
@@ -2278,6 +2277,7 @@
   <string name="ty_scene_goto_set_home_location">Đi đến trang Quản lý để đặt địa chỉ nhà của bạn?</string>
   <string name="ty_scene_home_location">Địa chỉ nhà</string>
   <string name="ty_scene_home_location_set">Cài đặt</string>
+  <string name="ty_scene_is_cancel_no">Không</string>
   <string name="ty_scene_log_empty">Không có nhật ký</string>
   <string name="ty_scene_member_back_home">Thành viên gia đình đang ở nhà</string>
   <string name="ty_scene_menu_log">Nhật ký</string>
