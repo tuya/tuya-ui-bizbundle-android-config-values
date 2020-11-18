@@ -524,6 +524,7 @@
   <string name="personal_device_share">שיתוף</string>
   <string name="personal_devices_all">כל ההתקנים</string>
   <string name="personal_devices_user_account">חשבון</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="phone_email">מספר טלפון</string>
   <string name="phone_number">מספר טלפון</string>
   <string name="phone_or_email">מספר טלפון או כתובת דוא\"ל</string>
@@ -795,6 +796,7 @@
   <string name="ty_device_network_detecting">זיהוי רשת ..</string>
   <string name="ty_device_network_status_init">בדוק את הרשת</string>
   <string name="ty_device_network_title">זיהוי תנאי רשת</string>
+  <string name="ty_devices_disvocer_success">%s התקנים שנמצאו</string>
   <string name="ty_disable">השבת</string>
   <string name="ty_disagree">אנני מסכים</string>
   <string name="ty_dndr_bad">רשת במצב גרוע</string>

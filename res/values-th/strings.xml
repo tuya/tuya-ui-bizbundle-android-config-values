@@ -927,7 +927,7 @@
   <string name="personal_speech_service">บริการเสียง</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
-  <string name="personal_speech_service_dueros">DuerOS</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="personal_speech_service_google">GoogleAssistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
@@ -1116,7 +1116,6 @@
   <string name="setup">การตั้งค่า</string>
   <string name="setup_debug_log">ล้างบันทึก</string>
   <string name="setup_debug_switch">ดีบั๊กสวิตช์เปิด/ปิด</string>
-  <string name="share_methods">สำหรับสมาชิกครอบครัว ขอแนะนำในแชร์อุปกรณ์ทั้งหมดร่วมกับพวกเขาโดยการเพิ่มพวกเขาเป็นสมาชิกครอบครัว</string>
   <string name="shared_title">สิ่งที่ฉันแชร์</string>
   <string name="show_first_page">แสดงบนหน้าหลัก</string>
   <string name="single_week_five">ศ</string>
@@ -1373,6 +1372,7 @@
   <string name="ty_device_network_title">ตรวจสอบสภาพเครือข่าย</string>
   <string name="ty_device_to_add">เพิ่ม</string>
   <string name="ty_device_to_add_retry">ลองใหม่</string>
+  <string name="ty_devices_disvocer_success">พบ %s เครื่อง</string>
   <string name="ty_disable">ปิดใช้งาน</string>
   <string name="ty_dndr_bad">สภาพเครือข่ายไม่ดี</string>
   <string name="ty_dndr_good">สภาพเครือข่ายที่ดี</string>

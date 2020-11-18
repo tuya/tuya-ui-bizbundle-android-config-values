@@ -840,6 +840,7 @@
   <string name="ty_device_network_detecting">Detectare retea</string>
   <string name="ty_device_network_status_init">Verificati reteaua de internet</string>
   <string name="ty_device_network_title">Detectare stare retea</string>
+  <string name="ty_devices_disvocer_success">%s dispozitive gasite</string>
   <string name="ty_disable">Dezactivati</string>
   <string name="ty_disagree">Dezacord</string>
   <string name="ty_dndr_bad">Conexiune retea slaba</string>

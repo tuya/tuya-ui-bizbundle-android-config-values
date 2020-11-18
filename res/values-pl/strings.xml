@@ -30,7 +30,7 @@
   <string name="action_cancel">Anuluj</string>
   <string name="action_close">Zamknij</string>
   <string name="action_copy_log">Skopiuj dziennik do schowka</string>
-  <string name="action_done">Zakońćzono</string>
+  <string name="action_done">Zakończono</string>
   <string name="action_more">Więcej</string>
   <string name="action_send">Wyślij</string>
   <string name="action_send_email">Wyslij e-mailem</string>
@@ -234,7 +234,7 @@
   <string name="devices_share_methods">Metody udost.</string>
   <string name="direct_login">Bezpośrednie logowanie</string>
   <string name="discover_choose_pic_source">Proszę wybrać źródło obrazka</string>
-  <string name="done">Zakońćzono</string>
+  <string name="done">Zakończono</string>
   <string name="download_error_with_md5_unrectify">Weryfikacja nie powiodła się, nie można pobrać</string>
   <string name="download_unzip_error">Nie udało się załadować interfejsu</string>
   <string name="echo_use_equipment">%d obsługiwanych urządzeń</string>
@@ -931,7 +931,7 @@
   <string name="personal_speech_service">Usługa głosowa</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
-  <string name="personal_speech_service_dueros">DuerOS</string>
+  <string name="personal_speech_service_dueros">XIAODU</string>
   <string name="personal_speech_service_google">GoogleAssistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
@@ -1120,7 +1120,6 @@
   <string name="setup">Ustawienia</string>
   <string name="setup_debug_log">Wyczyść dziennik</string>
   <string name="setup_debug_switch">Przełącznik debugowania</string>
-  <string name="share_methods">W przypadku członka rodziny zaleca się udostępnienie wszystkich urządzeń poprzez dodanie go jako członka rodziny.</string>
   <string name="shared_title">Moje udostępnienia</string>
   <string name="show_first_page">Pokaż na ekranie głównym</string>
   <string name="single_week_five">Pt.</string>
@@ -1381,6 +1380,7 @@
   <string name="ty_device_network_title">Wykryj stan sieci</string>
   <string name="ty_device_to_add">Dodaj</string>
   <string name="ty_device_to_add_retry">Ponów</string>
+  <string name="ty_devices_disvocer_success">Znaleziono %s urządzeń</string>
   <string name="ty_disable">Wyłącz</string>
   <string name="ty_disagree">Brak zgody</string>
   <string name="ty_dndr_bad">Słabe połączenie sieciowe</string>
