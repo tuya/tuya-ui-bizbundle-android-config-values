@@ -224,7 +224,7 @@
   <string name="config_nearby_device_select">Chọn thiết bị</string>
   <string name="config_nearby_device_status_tip">Đảm bảo rằng thiết bị đã sẵn sàng cho kết nối mạng.</string>
   <string name="config_nearty_alert_try_again">Tiếp tục</string>
-  <string name="config_no_wifi_tips">Gói cài đặt doanh nghiệp không được phép truy cập vị trí. Vui lòng nhập tên Wifi theo cách thủ công.</string>
+  <string name="config_no_wifi_tips">Nhập tên Wifi của bạn hoặc cho phép ứng dụng truy cập vị trí để tìm các thiết bị Wifi gần đó.</string>
   <string name="config_only_support_2_4g">Thiết bị hiện tại chỉ hỗ trợ Wifi 2.4Ghz, vui lòng thay đổi mạng Wifi hoặc đặt bộ định tuyến thành 2,4Hhz và thử lại</string>
   <string name="config_progress_step1">Tìm kiếm thiết bị</string>
   <string name="config_progress_step2">Đăng ký trên Cloud</string>
@@ -443,7 +443,7 @@
   <string name="firmware_downloading_show_6">Đảm bảo thiết bị được sạc đầy trong quá trình tải Firmware</string>
   <string name="firmware_gw_updating">Nâng cấp: mô-đun mạng</string>
   <string name="firmware_has_upgrade_title">Đã tìm thấy firmware mới của thiết bị</string>
-  <string name="firmware_info">Thông tin Firmware</string>
+  <string name="firmware_info">Kiểm tra nâng cấp firmware</string>
   <string name="firmware_no_update">Phiên bản hiện tại: %s (Chưa có cập nhật)</string>
   <string name="firmware_no_update_one">Phiên bản hiện tại</string>
   <string name="firmware_no_update_title">Đây là phiên bản mới nhất</string>
@@ -1932,6 +1932,7 @@
   <string name="ty_confirm">Xác nhận</string>
   <string name="ty_connect">Kết nối</string>
   <string name="ty_connected">Đã kết nối</string>
+  <string name="ty_consumer_hotline">Đường dây nóng của người tiêu dùng</string>
   <string name="ty_contact_manager">Vui lòng liên hệ với chủ sở hữu Nhà \n để kích hoạt quyền vào mục \"Cài đặt Nhà - Thành viên trong Nhà\"</string>
   <string name="ty_control_device">Điều khiển thiết bị thông minh</string>
   <string name="ty_control_panel_factory_reset">Khôi phục cài đặt gốc</string>
@@ -2116,6 +2117,7 @@
   <string name="ty_input_validate_code">Vui lòng nhập mã xác minh</string>
   <string name="ty_ip_addr">Địa chỉ IP</string>
   <string name="ty_join_testflight">Tham gia nhóm thử nghiệm</string>
+  <string name="ty_jump">Nhảy</string>
   <string name="ty_keep_power_working">Vui lòng không ngắt nguồn điện</string>
   <string name="ty_lightskin_edit_info">Chỉnh sửa</string>
   <string name="ty_load_error">Tải thất bại</string>

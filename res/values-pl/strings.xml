@@ -171,6 +171,7 @@
   <string name="config_nearby_device_select">Wybierz urządzenie </string>
   <string name="config_nearby_device_status_tip">Sprawdź dostępność sieci w urządzeniu</string>
   <string name="config_nearty_alert_try_again">Wyszukuj dalej</string>
+  <string name="config_no_wifi_tips">Wpisz ręcznie nazwę sieci Wi-Fi lub zezwól na otrzymywanie informacji o Twojej lokalizacji, aby uzyskać dane pobliskich urządzeń Wi-Fi</string>
   <string name="config_wifi">Powiązanie urządzenia</string>
   <string name="confirm_delete">Potwierdź usunięcie</string>
   <string name="confirm_leave">Potwierdź wyjście</string>
@@ -306,7 +307,7 @@
   <string name="firmware_device_updating">Aktualizacja: wersja urządzenia</string>
   <string name="firmware_gw_updating">Aktualizacja: moduł połączenia</string>
   <string name="firmware_has_upgrade_title">Znaleziono nowe oprogramowanie urządzenie</string>
-  <string name="firmware_info">Informacje o oprogramowaniu układowym</string>
+  <string name="firmware_info">Sprawdź aktualizację oprogramowania układowego</string>
   <string name="firmware_no_update">Bieżąca wersja %s jest najnowsza.</string>
   <string name="firmware_no_update_one">Nr bieżącej wersji:</string>
   <string name="firmware_no_update_title">To najnowsza wersja</string>

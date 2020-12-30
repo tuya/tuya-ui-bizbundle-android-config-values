@@ -184,6 +184,7 @@
   <string name="config_nearby_device_select">Επιλογή Συσκευής </string>
   <string name="config_nearby_device_status_tip">Βεβαιωθείτε ότι η συσκευή είναι έτοιμη για σύνδεση στο δίκτυο</string>
   <string name="config_nearty_alert_try_again">Συνέχεια</string>
+  <string name="config_no_wifi_tips">Εισάγετε το όνομα Wi-Fi ή ενεργοποιήστε την πρόβαση τοποθεσίας για να λάβετε αυτόματα τις γύρω συσκευές Wi-Fi.</string>
   <string name="config_reconnect">Επανασύνδεση</string>
   <string name="config_wifi">Ενεργοποίηση Της Συσκευής</string>
   <string name="confirm_delete">Επιβεβαίωση διαγραφής</string>
@@ -333,7 +334,7 @@
   <string name="firmware_device_updating">Αναβαθμίζονται: Έκδοση Της Συσκευής</string>
   <string name="firmware_gw_updating">Αναβαθμίζονται: Δικτύωση Ενότητες</string>
   <string name="firmware_has_upgrade_title">Η ανακάλυψη του νέου firmware της συσκευής</string>
-  <string name="firmware_info">Πληροφορίες λογισμικού</string>
+  <string name="firmware_info">Ελέγξτε την αναβάθμιση του firmware</string>
   <string name="firmware_no_update">Η τρέχουσα έκδοση του %s (η τελευταία έκδοση είναι ήδη)</string>
   <string name="firmware_no_update_one">Τρέχουσα Έκδοση:</string>
   <string name="firmware_no_update_title">Είναι Μέχρι Σήμερα</string>

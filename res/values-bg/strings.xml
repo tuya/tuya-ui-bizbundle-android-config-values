@@ -221,7 +221,7 @@
   <string name="config_nearby_device_select">Изберете Устройство</string>
   <string name="config_nearby_device_status_tip">Моля, уверете се, че устройството е готово за сдвояване.</string>
   <string name="config_nearty_alert_try_again">Продължи</string>
-  <string name="config_no_wifi_tips">Инсталационният пакет не може да получи данни за Вашето местоположение. Моля въведете WIFI името ръчно.</string>
+  <string name="config_no_wifi_tips">Въведете ръчно името на Wi-Fi или активирайте разрешението за местоположение, за да намерите близките Wi-Fi устройства</string>
   <string name="config_only_support_2_4g">Устройството подържа само 2.4 GHz мрежи. Моля от рутера сменете мрежата на 2.4 GHz и опитайте отново.</string>
   <string name="config_progress_step1">Сканирайте устройства</string>
   <string name="config_progress_step2">Регистрация в Облака</string>
@@ -439,7 +439,7 @@
   <string name="firmware_downloading_show_6">Уверете се, че устройството е напълно заредено по време на свалянето на фърмуера.</string>
   <string name="firmware_gw_updating">Актуализиране: модул за връзка</string>
   <string name="firmware_has_upgrade_title">Намерен е нов фърмуер на устройството</string>
-  <string name="firmware_info">Информация за фърмуера</string>
+  <string name="firmware_info">Проверете за актуализация на фърмуера</string>
   <string name="firmware_no_update">Текуща версия%s (Няма налична актуализация)</string>
   <string name="firmware_no_update_one">Текуща версия:</string>
   <string name="firmware_no_update_title">Няма налична актуализация</string>
