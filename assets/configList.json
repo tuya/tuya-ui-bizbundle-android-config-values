@@ -1,0 +1,35 @@
+{
+  "deviceDetail": [
+    {
+      "type": "header"
+    },
+    {
+      "type": "device_info"
+    },
+    {
+      "type": "device_net_info"
+    },
+    {
+      "type": "off_line_warn"
+    },
+    {
+      "type": "section_other"
+    },
+    {
+      "type":"help_and_feedback"
+    },
+    {
+      "type":"check_device_network"
+    },
+    {
+      "type":"check_firmware_update"
+    },
+    {
+      "type": "empty",
+      "height": 10
+    },
+    {
+      "type": "footer"
+    }
+  ]
+}

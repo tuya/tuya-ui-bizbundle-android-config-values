@@ -195,7 +195,7 @@
   <string name="config_nearby_device_select">Pilih perangkat</string>
   <string name="config_nearby_device_status_tip">Pastikan perangkat sudah siap untuk koneksi jaringan.</string>
   <string name="config_nearty_alert_try_again">Coba lagi</string>
-  <string name="config_no_wifi_tips">Paket instalasi tidak dapat mendapatkan ijin lokasi ini. Mohon masukan nama Wi-Fi secara manual.</string>
+  <string name="config_no_wifi_tips">Masukan nama Wi-Fi dan aktifkan layanan lokasi anda untuk dapat terhubung secara otomatis kepada perangkat Wi-fi di sekitar anda.</string>
   <string name="config_reconnect">Menghubungkan kembali</string>
   <string name="config_sub_device_help_list_title">Bagaimana saya menjadikan perangkat ke mode pairing?</string>
   <string name="config_sub_device_search_config_confirm_tip">Pastikan perangkat ada dalam mode pairing</string>
@@ -349,7 +349,7 @@
   <string name="firmware_device_updating">Peningkatan: versi perangkat</string>
   <string name="firmware_gw_updating">Upgrading: module</string>
   <string name="firmware_has_upgrade_title">Firmware perangkat baru ditemukan</string>
-  <string name="firmware_info">Informasi firmware</string>
+  <string name="firmware_info">Periksa pembaruan jaringan tagar</string>
   <string name="firmware_no_update">Versi sekarang: %s (Tidak ada Pembaruan yang Tersedia)</string>
   <string name="firmware_no_update_one">Versi sekarang</string>
   <string name="firmware_no_update_title">Tidak ada update yang tersedia</string>

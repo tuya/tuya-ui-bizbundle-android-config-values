@@ -171,6 +171,7 @@
   <string name="config_nearby_device_select">Vyberte zariadenie</string>
   <string name="config_nearby_device_status_tip">Zabezpečte dostupnosť siete pre toto zariadenie.</string>
   <string name="config_nearty_alert_try_again">Pokračovať v hľadaní</string>
+  <string name="config_no_wifi_tips">Manuálne vložte meno WiFi alebo aktivujte povolenie na získanie polohy, aby ste automaticky našli WiFi zariadenia v blízkosti</string>
   <string name="config_wifi">Aktivácia zariadenia</string>
   <string name="confirm_delete">Potvrdiť zmazanie</string>
   <string name="confirm_leave">Potvrdiť zmazanie</string>
@@ -305,7 +306,7 @@
   <string name="firmware_device_updating">Aktualizácia modulu</string>
   <string name="firmware_gw_updating">Aktualizácia: pripojovací modul</string>
   <string name="firmware_has_upgrade_title">Nový firmware zariadenia</string>
-  <string name="firmware_info">Informácie o firmware</string>
+  <string name="firmware_info">Kontrola verzie firmwaru</string>
   <string name="firmware_no_update">Aktuálna verzia %s je najnovšia</string>
   <string name="firmware_no_update_one">Verzia:</string>
   <string name="firmware_no_update_title">Toto je aktuálna verzia</string>

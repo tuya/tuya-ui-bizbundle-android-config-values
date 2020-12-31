@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><resources/>
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="ty_no_services">暫無可用服務</string>
+</resources>

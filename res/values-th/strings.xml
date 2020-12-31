@@ -171,6 +171,7 @@
   <string name="config_nearby_device_select">เลือกอุปกรณ์ </string>
   <string name="config_nearby_device_status_tip">โปรดตรวจสอบให้แน่ใจว่าเครือข่ายพร้อมใช้งานสำหรับอุปกรณ์</string>
   <string name="config_nearty_alert_try_again">ค้นหาต่อไป</string>
+  <string name="config_no_wifi_tips">ป้อนชื่อ Wi-Fi ด้วยตัวเองหรือเปิดใช้งานสิทธิ์การเข้าถึงตำแหน่งเพื่อเชื่อมต่อกับอุปกรณ์ Wi-Fi ใกล้เคียงโดยอัตโนมัติ</string>
   <string name="config_wifi">การผูกอุปกรณ์</string>
   <string name="confirm_delete">ยืนยันการลบ</string>
   <string name="confirm_leave">ยืนยันการออก</string>
@@ -303,7 +304,7 @@
   <string name="firmware_device_updating">กำลังอัปเกรด: เวอร์ชันอุปกรณ์</string>
   <string name="firmware_gw_updating">กำลังอัปเกรด: มอดูลการเชื่อมต่อ</string>
   <string name="firmware_has_upgrade_title">เฟิร์มแวร์ของอุปกรณ์ใหม่ที่พบ</string>
-  <string name="firmware_info">ข้อมูลเฟิร์มแวร์</string>
+  <string name="firmware_info">ตรวจสอบการอัปเดตของเฟิร์มแวร์</string>
   <string name="firmware_no_update_one">หมายเลขเวอร์ชันปัจจุบัน:</string>
   <string name="firmware_upgrade_dev">เวอร์ชันอุปกรณ์:</string>
   <string name="firmware_upgrade_exception_check">ดูวิธี</string>

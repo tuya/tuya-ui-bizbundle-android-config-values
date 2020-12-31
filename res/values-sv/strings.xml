@@ -212,7 +212,7 @@
   <string name="firmware_device_updating">Uppdaterar modul nu</string>
   <string name="firmware_gw_updating">Uppdatering: nätverksanslutningsmodul</string>
   <string name="firmware_has_upgrade_title">Ny fast programvara hittades!</string>
-  <string name="firmware_info">Firmware Info</string>
+  <string name="firmware_info">Kontrollera firmwareuppdatering</string>
   <string name="firmware_no_update">Aktuell version %s är den senaste</string>
   <string name="firmware_no_update_one">Version:</string>
   <string name="firmware_no_update_title">Firmware är den senaste versionen</string>

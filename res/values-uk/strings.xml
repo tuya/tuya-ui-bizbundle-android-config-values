@@ -171,6 +171,7 @@
   <string name="config_nearby_device_select">Вибрати пристрій </string>
   <string name="config_nearby_device_status_tip">Переконайтеся, що пристрій доступний у мережі.</string>
   <string name="config_nearty_alert_try_again">Продовжити пошук</string>
+  <string name="config_no_wifi_tips">Вручну введіть назву Wi-Fi або ввімкніть дозвіл на отримання інформації про місце розташування, щоб автоматично отримати відомості про пристрої Wi-Fi поблизу</string>
   <string name="config_wifi">Прив’язка пристрою</string>
   <string name="confirm_delete">Підтвердити видалення</string>
   <string name="confirm_leave">Підтвердити вихід</string>
@@ -303,7 +304,7 @@
   <string name="firmware_device_updating">Оновлення: версія пристрою</string>
   <string name="firmware_gw_updating">Оновлення: модуль підключення</string>
   <string name="firmware_has_upgrade_title">Знайдено нове вбудоване ПЗ пристрою</string>
-  <string name="firmware_info">Інформація про вбудоване ПЗ</string>
+  <string name="firmware_info">Перевірити наявність оновлення вбудованого ПЗ</string>
   <string name="firmware_no_update_one">Поточний номер версії:</string>
   <string name="firmware_upgrade_dev">Версія пристрою:</string>
   <string name="firmware_upgrade_exception_check">ПЕРЕГЛЯД ІНСТРУКЦІЇ</string>
