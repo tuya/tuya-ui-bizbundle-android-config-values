@@ -24,7 +24,7 @@
     ],
     "PIPE_LINE_APPLICATION_ASYNC": [
       "com.tuya.smart.netdiagnosis.AppStartPipeLine",
-      "com.tuya.smart.android.tangram.scheduler.StartUpConfig",
+      "com.tuya.smart.android.tangram.scheduler.StartUpConfig"
     ]
   },
   "moduleMap": {
