@@ -91,6 +91,15 @@
       "com.tuya.smart.rnplugin.tyrcttopbar.TYRCTTopBarPackage",
       "com.tuya.smart.rnplugin.tyrctmusicmanager.TYRCTMusicManagerPackage",
       "com.tuya.smart.rnplugin.tyrctofficialgeofencemanager.TYRCTOfficialGeofenceManagerPackage"
+    ],
+    "camera": [
+      "com.tuya.smart.rnplugin.tyrctcameramanager.TYRCTCameraManagerPackage",
+      "com.tuya.smart.rnplugin.tyrctcameramessagemanager.TYRCTCameraMessageManagerPackage",
+      "com.tuya.smart.rnplugin.tyrctcameratimelineviewmanager.TYRCTCameraTimeLineViewManagerPackage",
+      "com.tuya.smart.rnplugin.tyrcttuyacameraplayer.TYRCTTuyaCameraPlayerPackage",
+      "com.tuya.smart.rnplugin.tyrctcameramessagemediaplayermanager.TYRCTCameraMessageMediaPlayerManagerPackage",
+      "com.tuya.smart.rnplugin.tyrctdoorbellmanager.TYRCTDoorBellManagerPackage",
+      "com.tuya.smart.rnplugin.tyrctcameraplayer.TYRCTCameraPlayerPackage"
     ]
   }
 }
