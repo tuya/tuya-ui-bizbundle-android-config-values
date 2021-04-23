@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="ipc_alarm_interval_set">報警間隔設置</string>
+  <string name="ipc_recording_duration">錄像時長設置</string>
+  <string name="ipc_recording_duration_set">時長</string>
+  <string name="ipc_toast_hungup">已掛斷</string>
+  <string name="ty_dark_mode">深色模式</string>
+  <string name="ty_dark_mode_description">開啟後，將跟隨系統打開或關閉深色模式</string>
+  <string name="ty_dark_mode_follow_system">跟隨系統</string>
+  <string name="ty_dark_mode_off">已關閉</string>
+  <string name="ty_dark_mode_on">已打開</string>
+  <string name="ty_light_mode">普通模式</string>
+  <string name="ty_logoff_conform">確認註銷</string>
+  <string name="ty_logoff_continue">繼續註銷</string>
+  <string name="ty_logoff_forever">註銷後，此賬戶下的所有用戶數據也將被永久刪除</string>
+  <string name="ty_logoff_getcode">點擊“獲取驗證碼”，驗證碼將發送到你的%1$s： %2$s</string>
+  <string name="ty_logoff_password">請輸入你的賬號關聯的密碼，完成你的註銷請求</string>
+  <string name="ty_logoff_query_sure">確定要註銷賬號嗎?</string>
+  <string name="ty_logoff_setpassword_skip">跳過</string>
+  <string name="ty_logoff_title">註銷賬號</string>
+  <string name="ty_no_services">暫無可用服務</string>
+  <string name="ty_password_bind">可用綁定的 %s 和密碼的方式登錄你的賬號</string>
+  <string name="ty_password_skip">如要設置密碼，請前往”賬號與安全&gt;修改登錄密碼“進行操作</string>
+</resources>
