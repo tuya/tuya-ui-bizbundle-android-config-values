@@ -1,3 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="service_url">#</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_right">©2019 Tuya Inc. All Rights Reserved</string>
 </resources>
