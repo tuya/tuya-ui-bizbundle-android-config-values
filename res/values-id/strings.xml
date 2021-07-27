@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="copy_right">©2019 Tuya Inc. All Rights Reserved</string>
-    <string name="ipc_settings_anti_flicker_50hz">50Hz</string>
-    <string name="ipc_settings_anti_flicker_60hz">60Hz</string>
-</resources>
