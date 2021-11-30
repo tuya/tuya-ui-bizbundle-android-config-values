@@ -419,7 +419,7 @@
   <string name="family_jurisdiction_setting_confirm">Продължете</string>
   <string name="family_jurisdiction_setting_room_tips">Този ползвател може да контролира Устройства или Смарт сцени, за които няма разрешения за други стаи през тези устройства. Правете настройките внимателно.</string>
   <string name="family_jurisdiction_setting_scene_tips">Този ползвател може да контролира устройства и в други стаи с тези смарт настройки. Правете внимателно настройките.</string>
-  <string name="family_location">Местоположение на Дома</string>
+  <string name="family_location">Местоположение</string>
   <string name="family_manage">Управление на дома</string>
   <string name="family_member">Семеен член</string>
   <string name="family_member_jurisdiction_custom">Общ семеен член</string>
@@ -455,8 +455,6 @@
   <string name="family_transfer_family_owner_to">Трансфер в</string>
   <string name="family_transfer_family_owner_to_confirm_tips">След прехвърляне на собствеността на \"%s\", вече няма да сте собственик на този дом.</string>
   <string name="family_wait_join">Изчакване за свързване...</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
   <string name="feaadback_is_null">Моля, въведете коментари</string>
   <string name="feed_back_add_hint">Моля, опишете подробно проблема, като например, кога е възникнал проблемът, какви функции искате да добавим и т.н.</string>
   <string name="feed_back_no_content">Няма обратни отзиви</string>
@@ -1224,7 +1222,6 @@
   <string name="ipc_toco_unsupport_dig_body">Съжаляваме, но Вашето устройство вече не поддържа текущето приложение, моля проверете инфото за да разрешите проблема</string>
   <string name="ipc_toco_unsupport_dig_detail">Вижте детайли</string>
   <string name="ipc_toco_unsupport_dig_title">Неподдържано устройство</string>
-  <string name="ipc_toco_unsupport_guide">https://images.tuyacn.com/app/html/toco_transfer_guide_eng.html</string>
   <string name="ipc_tutk_not_support">Неподдържано устройство</string>
   <string name="ipc_video_call_accept">Приемане</string>
   <string name="ipc_video_call_accepted_warning">Беше отговорено на Видео съобщението</string>
@@ -1585,7 +1582,6 @@
   <string name="privacy">Декларация за поверителност</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
-  <string name="privacy_url">https://images.tuyacn.com/app/pAs/Privacy_Policy_en.html</string>
   <string name="private_and_user_agreement">Споразумение за услуги и Декларация за поверителност</string>
   <string name="problemSubmit_content_placeholder">Опишете проблема и укажете вида на проблема в приложението. Изчистената и пълна информация би ни помогнала бързо да локализираме и разрешим проблема.</string>
   <string name="productProposal_content_placeholder">Подменете \"Детайл\" със \"Описание\"</string>
@@ -1815,7 +1811,6 @@
   <string name="service_doc_name">#</string>
   <string name="service_running_tips_content">Използва се услуга за работа във фонов режим</string>
   <string name="service_running_tips_title">Работещи във фонов режим</string>
-  <string name="service_url">https://images.tuyacn.com/app/html/Service_Agreement_en.html</string>
   <string name="set_center_account">Регион</string>
   <string name="set_family_manage">Задайте се като семеен администратор</string>
   <string name="set_location">Включи</string>
@@ -1898,7 +1893,6 @@
   <string name="toolbar_menu_refresh">Опресняване</string>
   <string name="topTips">Ако съобщите за грешка, инфомацията за вашето устройство ще бъде свалена за да индентифицираме проблема.</string>
   <string name="tuesday">Четв.</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Записи на минали добавяния</string>
   <string name="tv_add_clock_time">Добавете график</string>
   <string name="tx_ap_hotpot_view_title">Намерете точка достъп за разпространение</string>
@@ -2084,7 +2078,6 @@
   <string name="ty_all_devices">Всички устройства</string>
   <string name="ty_android_app_share">Споделете адреса за изтегляне за Android приложението</string>
   <string name="ty_android_share">Споделете връзката за изтегляне за Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smartlife</string>
   <string name="ty_anonymous_homekit">HomeKit се намира при Експертен режим</string>
   <string name="ty_anonymous_login_func">Някои функционалности може да не са налични без да се логнете</string>
   <string name="ty_ap_connect_description">Отворете \"Настройки-WLAN\" на телефона си и се свържете с WIFI мрежата, показана по-горе</string>
@@ -2376,7 +2369,6 @@
   <string name="ty_home_tip_refresh_start">Освободете, за да опресните</string>
   <string name="ty_home_tip_refreshing">Освежаващ ...</string>
   <string name="ty_iOS_app_share">Споделете връзката за изтегляне за iOS приложението</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=9</string>
   <string name="ty_igonre_tip">Да не се показва това съобщение отново</string>
   <string name="ty_illegal_dp_data">Незаконни данни за DP</string>
   <string name="ty_input_email">Имейл адрес</string>

@@ -16,7 +16,7 @@
   <string name="ROOM_EXIST_DONT_ADD">Pokoj existuje</string>
   <string name="_device">%s - zařízení</string>
   <string name="_room">%s Pokoje</string>
-  <string name="about">Asi</string>
+  <string name="about">O</string>
   <string name="account">Číslo účtu</string>
   <string name="account_facebook">Facebook</string>
   <string name="account_not_empty">Zadejte prosím číslo účtu</string>
@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Znovu načíst</string>
   <string name="family_initialize_error_tips">Něco není v pořádku, zkuste to prosím znovu</string>
   <string name="family_initialize_from_cloud_tips">Synchronizace dat / n Počkejte prosím ...</string>
-  <string name="family_location">Umístění rodiny</string>
+  <string name="family_location">Umístění</string>
   <string name="family_manage">Správa domů</string>
   <string name="family_member">Členové rodiny</string>
   <string name="family_menber_detail">Podrobnosti o členu</string>
@@ -286,8 +286,6 @@
   <string name="family_remove">Odstraňte údaj o rodině</string>
   <string name="family_setting">nastavení rodiny</string>
   <string name="family_wait_join">Čekání na připojení</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=cz</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_cz.html</string>
   <string name="feaadback_is_null">Zadejte prosím obsah zpětné vazby</string>
   <string name="feed_back_add_hint">Podrobně popište své problémy nebo stížnosti, včetně informací o situaci, problému, čase, místě a vašich očekáváních atd.</string>
   <string name="feed_back_no_content">Zatím žádná zpětná vazba</string>
@@ -1029,7 +1027,6 @@
   <string name="scene_brightness">Jas</string>
   <string name="scene_buy">Nákup</string>
   <string name="scene_call_to">Volání</string>
-  <string name="scene_click_execute">Klepnutím spustíte</string>
   <string name="scene_color">Barva</string>
   <string name="scene_condition_type">Zvolte typ podmínky</string>
   <string name="scene_condition_type_and">Když jsou splněny všechny podmínky</string>
@@ -1110,7 +1107,6 @@
   <string name="service_agreement">Smlouva o poskytování služeb</string>
   <string name="service_running_tips_content">Aktuálně běží služby na pozadí</string>
   <string name="service_running_tips_title">Běží na pozadí</string>
-  <string name="service_url">#</string>
   <string name="set_center_account">Lokace účtu</string>
   <string name="set_family_manage">Nastavit jako správce rodiny</string>
   <string name="set_news">Oznámení</string>
@@ -1175,7 +1171,6 @@
   <string name="toolbar_menu_refresh">Obnovit</string>
   <string name="topTips">Pokud nahlásíte chybu, budou informace o vašich zařízeních nahrány za účelem nalezení chyby.</string>
   <string name="tuesday">Úterý</string>
-  <string name="tuya_address">http://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Přidat historii</string>
   <string name="tv_add_clock_time">Přidat časování</string>
   <string name="ty_about_tuyasmart">O Tuya Smart</string>
@@ -1258,7 +1253,6 @@
   <string name="ty_all_devices">Všechna zařízení</string>
   <string name="ty_android_app_share">Sdílejte odkaz ke stažení - Android OS</string>
   <string name="ty_android_share">Sdílejte odkaz ke stažení - Android OS</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Otevřete \"Nastavení Wi-Fi\" v telefonu a připojte se k výše uvedené síti Wi-Fi</string>
   <string name="ty_ap_connect_go">Připojit</string>
   <string name="ty_ap_connect_help">Nelze spojit? Další informace naleznete v nápovědě</string>
@@ -1334,9 +1328,6 @@
   <string name="ty_create_new_account">Registrovat</string>
   <string name="ty_create_scene_succ">Vytvořeno úspěšně</string>
   <string name="ty_current_bind_phone_tip">Váš současný vázaný účet je:</string>
-  <string name="ty_dark_mode">Tmavý režim</string>
-  <string name="ty_dark_mode_description">Je-li tato funkce povolena, aplikace zapne nebo vypne tmavý režim tak, aby odpovídal vašemu nastavení systému.</string>
-  <string name="ty_dark_mode_follow_system">Systém</string>
   <string name="ty_debug_dns">Interval přířazení DNS</string>
   <string name="ty_debug_network">Testování rychlosti sítě, prosím čekejte</string>
   <string name="ty_debug_networkspeed">Rychlost stahování</string>
@@ -1479,14 +1470,12 @@
   <string name="ty_home_tip_refresh_start">Uvolněte k obnovení</string>
   <string name="ty_home_tip_refreshing">Aktualizuji…</string>
   <string name="ty_iOS_app_share">Sdílejte adresu pro stahování pro systém iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/de/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Nelegální data DP</string>
   <string name="ty_input_name">Zadejte název jednotky Smart</string>
   <string name="ty_input_old_keyword">Zadejte své staré heslo</string>
   <string name="ty_input_validate_code">Zadejte ověřovací kód</string>
   <string name="ty_jump">Skok</string>
   <string name="ty_keep_power_working">Nevypínejte napájení</string>
-  <string name="ty_light_mode">Standardní režim</string>
   <string name="ty_lightskin_edit_info">Editovat</string>
   <string name="ty_load_error">Načítání se nezdařilo</string>
   <string name="ty_loading">Načítá se ...</string>

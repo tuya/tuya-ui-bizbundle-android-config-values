@@ -269,7 +269,7 @@
   <string name="family_initialize_again">โหลด</string>
   <string name="family_initialize_error_tips">มีข้อผิดพลาดโปรดลองอีกครั้ง</string>
   <string name="family_initialize_from_cloud_tips">การซิงค์ข้อมูล / n โปรดรอสักครู่ ...</string>
-  <string name="family_location">ตำแหน่งครอบครัว</string>
+  <string name="family_location">ที่ตั้ง</string>
   <string name="family_manage">การจัดการบ้าน</string>
   <string name="family_member">สมาชิกครอบครัว</string>
   <string name="family_menber_detail">รายละเอียดสมาชิก</string>
@@ -1107,7 +1107,6 @@
   <string name="service_agreement">ข้อตกลงการให้บริการ</string>
   <string name="service_running_tips_content">มีการใช้งานบริการในพื้นหลัง</string>
   <string name="service_running_tips_title">ทำงานในพื้นหลัง</string>
-  <string name="service_url">#</string>
   <string name="set_center_account">ตำแหน่งบัญชี</string>
   <string name="set_family_manage">ตั้งเป็นผู้ดูแลระบบของครอบครัว</string>
   <string name="set_news">การแจ้งเตือนแบบพุช</string>
@@ -1251,7 +1250,6 @@
   <string name="ty_all_devices">อุปกรณ์ทั้งหมด</string>
   <string name="ty_android_app_share">แชร์ที่อยู่การดาวน์โหลดสำหรับ Android</string>
   <string name="ty_android_share">แชร์ที่อยู่การดาวน์โหลดสำหรับ Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">เปิด \"การตั้งต่า-WLAN\" บนโทรศัพท์ของคุณและเชื่อมต่อไปยังเครือข่าย Wi-Fi ที่แสดงด้านบน</string>
   <string name="ty_ap_connect_go">ไปที่การเชื่อมต่อ</string>
   <string name="ty_ap_connect_help">ไม่สามารถเชื่อมต่อได้ใช่ไหม โปรดไปที่ความช่วยเหลือ</string>

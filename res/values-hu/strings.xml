@@ -426,7 +426,7 @@
   <string name="family_jurisdiction_setting_confirm">Folytatja</string>
   <string name="family_jurisdiction_setting_room_tips">A felhasználó közvetett módon vezérelheti más helyiségek eszközeit csatlakozó automatizációkon keresztül, felhatalmazás nélkül is. Kérjük, járjon el körültekintően.</string>
   <string name="family_jurisdiction_setting_scene_tips">A felhasználó ezen automatizációk révén közvetett módon vezérelheti más helyiségek eszközeit, kérjük, gondosan járjon el a beállításoknál.</string>
-  <string name="family_location">Otthon helye</string>
+  <string name="family_location">Elhelyezkedés</string>
   <string name="family_manage">Tagkezelés</string>
   <string name="family_member">Otthon tag</string>
   <string name="family_member_jurisdiction_custom">Egyedi tag</string>
@@ -462,8 +462,6 @@
   <string name="family_transfer_family_owner_to">Átadás ide:</string>
   <string name="family_transfer_family_owner_to_confirm_tips">Miután az Otthon tulajdonosi státuszát átruházta \"\"%s\"\"-ra, Ön már nem lesz az Otthon tulajdonosa.</string>
   <string name="family_wait_join">Várakozás a csatlakozásra...</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_en.html</string>
   <string name="feaadback_is_null">Kérjük, adja meg a visszajelzés tartalmát</string>
   <string name="feed_back_add_hint">Kérjük, írja le részletesen problémáját vagy elégedetlenségét, például azt, amivel találkozott valamilyen tevékenység során, milyen funkciókat szeretne elérni, stb.</string>
   <string name="feed_back_no_content">Nincs visszajelzés</string>
@@ -1325,7 +1323,6 @@
   <string name="ipc_toco_unsupport_dig_body">Nagyon sajnáljuk, de eszköze már nem érhető el az aktuális APP-ban. Ellenőrizze a részleteket a megoldás érdekében.</string>
   <string name="ipc_toco_unsupport_dig_detail">Részletek</string>
   <string name="ipc_toco_unsupport_dig_title">Az eszköz nem kompatibilis</string>
-  <string name="ipc_toco_unsupport_guide">https://images.tuyacn.com/smart/app/oem_toco_transfer_guide_en_1.html</string>
   <string name="ipc_tutk_not_support">Az eszköz nem kompatibilis</string>
   <string name="ipc_video_call_accept">Elfogad</string>
   <string name="ipc_video_call_accepted_warning">A videohívás megválaszolásra került</string>
@@ -1699,7 +1696,6 @@
   <string name="privacy">Adatvédelmi irányelvek</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
-  <string name="privacy_url">https://images.tuyacn.com/app/pAs/TuyaSmart1202en.html</string>
   <string name="private_and_user_agreement">Szolgáltatási szerződés és adatvédelmi irányelvek</string>
   <string name="problemSubmit_content_placeholder">Kérjük, írja le részletesen az éppen jelentett hibát/problémát, és adja meg a probléma konkrét elérési útját. A nem egyértelmű leírás vagy hiányos információk befolyásolhatják a probléma feldolgozásának előrehaladását.</string>
   <string name="productProposal_content_placeholder">Kérjük, írja le részletesen optimalizálási javaslatát vagy fejlesztési tervét</string>
@@ -1930,7 +1926,6 @@
   <string name="service_doc_name">#</string>
   <string name="service_running_tips_content">A háttérben futó szolgáltatás használatban van</string>
   <string name="service_running_tips_title">A háttérben is fut</string>
-  <string name="service_url">https://images.tuyacn.com/app/html/Service_Agreement_en.html</string>
   <string name="set_center_account">Régió</string>
   <string name="set_family_manage">Beállítás Otthon-adminisztrátorként</string>
   <string name="set_location">Beállít</string>
@@ -2013,7 +2008,6 @@
   <string name="toolbar_menu_refresh">Frissítés</string>
   <string name="topTips">Hiba beküldése feltölti az eszközzel kapcsolatos információkat hibaelhárítás céljából.</string>
   <string name="tuesday">Ke.</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Hozzáadási napló</string>
   <string name="tv_add_clock_time">Új időzítés</string>
   <string name="tx_ap_hotpot_view_title">Konfigurációs hotspot keresése</string>
@@ -2201,7 +2195,6 @@
   <string name="ty_all_devices">Minden eszköz</string>
   <string name="ty_android_app_share">Ossza meg az Android APP letöltési címet</string>
   <string name="ty_android_share">Ossza meg az Android APP letöltési címet</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_anonymous_homekit">Az élmény mód támogatja a HomeKit alkalmazást</string>
   <string name="ty_anonymous_login_func">Fiók nélkül nem fogja tudni használni az alkalmazás egyes funkcióit</string>
   <string name="ty_ap_connect_description">Nyissa meg a telefont \"\"Beállítások-Wi-Fi\"\", csatlakozzon a jelzett Wi-Fi hálózathoz</string>
@@ -2520,7 +2513,6 @@
   <string name="ty_homekit_unbindable">Nem társítható</string>
   <string name="ty_homekit_unbindable_tips">Az eszköz nem csatlakoztatható, kérjük, csatlakoztassa mobileszközét az eszközzel megegyező Wi-Fi-hez, majd frissítse a listát és próbálja újra a társítási műveletet</string>
   <string name="ty_iOS_app_share">Ossza meg az iOS letöltési URL-jét</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_iap_can_not_pay">Vásárlásra nem jogosult.</string>
   <string name="ty_iap_is_gray_test">A béta verzió nem támogatja az Apple Pay-t</string>
   <string name="ty_iap_jailbroken">Tört vagy rootolt firmware-s készülékről nem indítható vásárlás.</string>

@@ -269,7 +269,7 @@
   <string name="family_initialize_again">Перезавантажити</string>
   <string name="family_initialize_error_tips">Щось не так, спробуйте ще раз</string>
   <string name="family_initialize_from_cloud_tips">Синхронізація даних / n</string>
-  <string name="family_location">Місце розташування сім’ї</string>
+  <string name="family_location">Розташування</string>
   <string name="family_manage">Керування домом</string>
   <string name="family_member">Члени сім’ї</string>
   <string name="family_menber_detail">Докладні відомості про члена сім’ї</string>
@@ -1249,7 +1249,6 @@
   <string name="ty_all_devices">Усі пристрої</string>
   <string name="ty_android_app_share">Надішліть адресу завантаження для Android</string>
   <string name="ty_android_share">Надішліть адресу завантаження для Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Відкрийте на телефоні розділ «Налаштування — WLAN» і підключіться до мережі Wi-Fi, показаної вище</string>
   <string name="ty_ap_connect_go">Підключитися</string>
   <string name="ty_ap_connect_help">Не вдається підключитися? Див. довідку</string>
