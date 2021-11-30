@@ -391,7 +391,7 @@
   <string name="family_jurisdiction_setting_confirm">Tiếp tục</string>
   <string name="family_jurisdiction_setting_room_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
   <string name="family_jurisdiction_setting_scene_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
-  <string name="family_location">Vị trí Nhà</string>
+  <string name="family_location">Vị trí</string>
   <string name="family_manage">Quản lý nhà</string>
   <string name="family_member">Thành viên trong nhà</string>
   <string name="family_member_jurisdiction_custom">Thành viên tuỳ chỉnh</string>
@@ -421,8 +421,6 @@
   <string name="family_transfer_family_owner_to">Chuyển đến</string>
   <string name="family_transfer_family_owner_to_confirm_tips">Sau khi chuyển quyền quản trị của nhà \"%s\", bạn sẽ không còn là quản trị viên của nhà nữa</string>
   <string name="family_wait_join">Đang chờ để tham gia...</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_en.html</string>
   <string name="feaadback_is_null">Vui lòng nhập nội dung phản hồi</string>
   <string name="feed_back_add_hint">Vui lòng mô tả chi tiết vấn đề hoặc sự không hài lòng của bạn, ví dụ, khi nào lỗi xãy ra, muốn thêm chức năng gì,...</string>
   <string name="feed_back_no_content">Không có phản hồi</string>
@@ -1107,7 +1105,6 @@
   <string name="ipc_toco_unsupport_dig_body">Xin lỗi, Ứng dụng hiện tại không hỗ trợ thiết bị của ban. Vui lòng xem chi tiết để tìm giải pháp</string>
   <string name="ipc_toco_unsupport_dig_detail">Xem chi tiết</string>
   <string name="ipc_toco_unsupport_dig_title">Thiết bị không tương thích</string>
-  <string name="ipc_toco_unsupport_guide">https://images.tuyacn.com/app/html/toco_transfer_guide_eng.html</string>
   <string name="ipc_tutk_not_support">Thiết bị không tương thích</string>
   <string name="ipc_video_call_accept">Chấp nhận</string>
   <string name="ipc_video_call_accepted_warning">Cuộc gọi video đã được trả lời</string>
@@ -1648,7 +1645,6 @@
   <string name="service_doc_name">#</string>
   <string name="service_running_tips_content">Cho phép chạy ẩn</string>
   <string name="service_running_tips_title">Cho phép chạy ẩn</string>
-  <string name="service_url">https://images.tuyacn.com/app/html/Service_Agreement_en.html</string>
   <string name="set_center_account">Khu vực</string>
   <string name="set_family_manage">Đặt làm Quản trị viên trong Nhà</string>
   <string name="set_location">Cài đặt</string>
@@ -1728,7 +1724,6 @@
   <string name="toolbar_menu_refresh">Làm mới</string>
   <string name="topTips">Gửi một lỗi sẽ tải lên thông tin về thiết bị của bạn cho mục đích khắc phục sự cố. Vui lòng đồng ý</string>
   <string name="tuesday">Thứ ba</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Thêm lịch sử</string>
   <string name="tv_add_clock_time">Thêm lịch trình</string>
   <string name="tx_ap_hotpot_view_title">Phát hiện các điểm phát sóng của thiết bị được cấu hình</string>
@@ -1873,7 +1868,6 @@
   <string name="ty_all_devices">Tất cả thiết bị</string>
   <string name="ty_android_app_share">Chia sẽ đường dẫn ứng dụng trên Android</string>
   <string name="ty_android_share">Chia sẽ đường dẫn ứng dụng trên Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Vui lòng truy cập \"Cài đặt -&gt; WLAN\" để kết nối với Wifi được hiển thị ở trên</string>
   <string name="ty_ap_connect_go">Kết nối</string>
   <string name="ty_ap_connect_help">Không thể kết nối, tham khảo trợ giúp</string>
@@ -2111,7 +2105,6 @@
   <string name="ty_home_tip_refresh_start">Kéo lên và nhả để làm mới</string>
   <string name="ty_home_tip_refreshing">Đang làm mới</string>
   <string name="ty_iOS_app_share">Chia sẽ đường dẫn ứng dụng trên iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Dữ liệu DP bất hợp pháp</string>
   <string name="ty_input_name">Nhập tên ngữ cảnh thông minh</string>
   <string name="ty_input_old_keyword">Nhập mật khẩu cũ</string>

@@ -269,7 +269,7 @@
   <string name="family_initialize_again">vernieuwen</string>
   <string name="family_initialize_error_tips">Er is iets mis, probeer het opnieuw</string>
   <string name="family_initialize_from_cloud_tips">Gegevenssynchronisatie / n Even geduld ...</string>
-  <string name="family_location">Familielocatie</string>
+  <string name="family_location">Plaats</string>
   <string name="family_manage">Home-beheer</string>
   <string name="family_member">Familielid</string>
   <string name="family_menber_detail">Gegevens van de leden</string>
@@ -285,7 +285,6 @@
   <string name="family_remove">Verwijder familie</string>
   <string name="family_setting">Familie instelling</string>
   <string name="family_wait_join">Wachten op deelnemen</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
   <string name="feaadback_is_null">Voer de inhoud van de feedback in</string>
   <string name="feed_back_add_hint">Beschrijf uw problemen of klachten in detail, inclusief informatie over de situatie, probleem, tijd, plaats en uw verwachtingen, enz.</string>
   <string name="feed_back_no_content">Geen Problemen Gemeld</string>
@@ -1109,7 +1108,6 @@
   <string name="service_agreement">Service-overeenkomst</string>
   <string name="service_running_tips_content">Achtergrondservice wordt gebruikt</string>
   <string name="service_running_tips_title">Actief op de achtergrond</string>
-  <string name="service_url">https://images.tuyacn.com/app/pAs/Service_Agreement_af.html</string>
   <string name="set_center_account">Accountlocatie</string>
   <string name="set_family_manage">Ingesteld als home-beheerder</string>
   <string name="set_news">Pushnotificatie</string>
@@ -1174,7 +1172,6 @@
   <string name="toolbar_menu_refresh">Vernieuwen</string>
   <string name="topTips">Als u een fout meldt, wordt informatie over uw apparaten geüpload voor het zoeken van de fout.</string>
   <string name="tuesday">Dinsdag</string>
-  <string name="tuya_address">http://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Eerdere toevoegingsrecords</string>
   <string name="tv_add_clock_time">Schema Toevoegen</string>
   <string name="ty_about_tuyasmart">Over Tuya Smart</string>
@@ -1258,8 +1255,6 @@
   <string name="ty_all_devices">Alle toestellen</string>
   <string name="ty_android_app_share">Deel het download-adres voor Android</string>
   <string name="ty_android_share">Deel het download-adres voor Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/
-apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Open de \"WLAN-Instellingen\" op je telefoon en verbind met het Wi-Fi netwerk</string>
   <string name="ty_ap_connect_go">Verbind Nu</string>
   <string name="ty_ap_connect_help">Niet verbonden?  Kijk bij Help</string>
@@ -1477,7 +1472,6 @@ apps/details?id=com.tuya.smart</string>
   <string name="ty_home_tip_refresh_start">Vernieuwen Vrijlating</string>
   <string name="ty_home_tip_refreshing">We proberen op te frissen</string>
   <string name="ty_iOS_app_share">Deel het download-adres voor iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Onrechtmatige DP-gegevens</string>
   <string name="ty_input_name">Voer de naam van de Smart in.</string>
   <string name="ty_input_old_keyword">Voer uw oud wachtwoord in</string>

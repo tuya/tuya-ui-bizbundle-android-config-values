@@ -184,15 +184,13 @@
   <string name="family_initialize_again">Ladda om</string>
   <string name="family_initialize_error_tips">Något fel, var god försök igen</string>
   <string name="family_initialize_from_cloud_tips">Datasynkronisering / n Vänta ett ögonblick ...</string>
-  <string name="family_location">Familjens Plats</string>
+  <string name="family_location">Plats</string>
   <string name="family_manage">Hemhantering</string>
   <string name="family_member">Familjemedlem</string>
   <string name="family_name">Hemnamn</string>
   <string name="family_name_not_empty">Vänligen ange familjenamn</string>
   <string name="family_remove">Ta bort familjen</string>
   <string name="family_setting">Familjeinställning</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_en.html</string>
   <string name="feaadback_is_null">Vänligen ange feedbackinnehåll.</string>
   <string name="feed_back_add_hint">Beskriv dina problem eller klagomål i detalj, inklusive information om situationen, problemet, tid, plats och dina förväntningar o.s.v..</string>
   <string name="feed_back_no_content">Inga problem rapporterade</string>
@@ -689,9 +687,8 @@
   <string name="title_device_offline">Enheten är offline</string>
   <string name="toolbar_menu_refresh">Uppdatera</string>
   <string name="tuesday">Tisdag</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tv_add_clock_time">Lägg till timing</string>
-  <string name="ty_about_tuyasmart">Om TuyaSmart</string>
+  <string name="ty_about_tuyasmart">Om Tuya Smart</string>
   <string name="ty_activator_ezSearch_devices">Vilken typ av enhet</string>
   <string name="ty_activator_ezSearch_modifyWifi">Ändra Wi-Fi-konfiguration</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurera Wi-Fi</string>
@@ -760,7 +757,6 @@
   <string name="ty_all_devices">Alla enheter</string>
   <string name="ty_android_app_share">Dela nedladdningsadressen för Android</string>
   <string name="ty_android_share">Dela nedladdningsadressen för Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Öppna telefonen \"WiFi inställningar\" och anslut till Wi-Fi-nätverket</string>
   <string name="ty_ap_connect_go">Anslut nu</string>
   <string name="ty_ap_connect_help">Ej ansluten. Vänligen se hjälp.</string>
@@ -919,7 +915,6 @@
   <string name="ty_home_tip_refresh_start">släpp för att uppdatera</string>
   <string name="ty_home_tip_refreshing">Försöker uppdatera</string>
   <string name="ty_iOS_app_share">Dela nedladdningsadressen för iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Illegala DP-data</string>
   <string name="ty_input_name">Ange namnet på Smart.</string>
   <string name="ty_input_old_keyword">Ange gamla lösenordet</string>

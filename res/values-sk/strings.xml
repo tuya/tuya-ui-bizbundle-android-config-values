@@ -270,7 +270,7 @@
   <string name="family_initialize_again">obnoviť</string>
   <string name="family_initialize_error_tips">Niečo nie je v poriadku, skúste to znova</string>
   <string name="family_initialize_from_cloud_tips">Synchronizácia údajov / n Počkajte chvíľu ...</string>
-  <string name="family_location">Umiestnenie</string>
+  <string name="family_location">Poloha</string>
   <string name="family_manage">Správa domova</string>
   <string name="family_member">Členovia rodiny</string>
   <string name="family_menber_detail">Podrobnosti o členoch</string>
@@ -286,7 +286,6 @@
   <string name="family_remove">Odstránenie rodiny</string>
   <string name="family_setting">Domáce nastavenia</string>
   <string name="family_wait_join">Čaká sa na pridanie</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
   <string name="feaadback_is_null">Zadajte prosím obsah spätnej väzby</string>
   <string name="feed_back_add_hint">Popíšte prosím podrobne svoje problémy, alebo sťažnosti, vrátane informácií o situácii, probléme, čase, mieste a vašich očakávaniach atď.</string>
   <string name="feed_back_no_content">Žiadny problém nie je reportovaný</string>
@@ -1173,7 +1172,6 @@
   <string name="toolbar_menu_refresh">Obnovenie</string>
   <string name="topTips">Ak nahlásite poruchu, za účelom zistenia jej polohy sa odovzdajú informácie o vašich zariadeniach.</string>
   <string name="tuesday">Ut</string>
-  <string name="tuya_address">http://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Záznamy o minulých pridaniach</string>
   <string name="tv_add_clock_time">Pridať plán</string>
   <string name="ty_about_tuyasmart">O platforme Tuya Smart</string>
@@ -1256,7 +1254,6 @@
   <string name="ty_all_devices">Všetko</string>
   <string name="ty_android_app_share">Zdieľajte adresu pre stiahnutie pre Android</string>
   <string name="ty_android_share">Zdieľajte adresu pre stiahnutie pre Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Choďte do nastavenia WiFi a pripojte sa k WiFi sieti</string>
   <string name="ty_ap_connect_go">Pripojiť teraz</string>
   <string name="ty_ap_connect_help">Nepripojené? Viď nápoveda</string>
@@ -1473,7 +1470,6 @@
   <string name="ty_home_tip_refresh_start">uvoľnite pre obnovenie</string>
   <string name="ty_home_tip_refreshing">Nahrávanie</string>
   <string name="ty_iOS_app_share">Zdialať adresu pre stiahnutie na iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Nelegálne údaje DP</string>
   <string name="ty_input_name">Zadajte názov</string>
   <string name="ty_input_old_keyword">Zadajte pôvodné heslo</string>

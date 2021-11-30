@@ -310,7 +310,7 @@
   <string name="family_initialize_again">Reload</string>
   <string name="family_initialize_error_tips">Ada sesuatu yang salah, mohon coba lagi</string>
   <string name="family_initialize_from_cloud_tips">Data sedang di sinkronisasi /n Mohon menunggu sejenak..</string>
-  <string name="family_location">Lokasi rumah</string>
+  <string name="family_location">Lokasi</string>
   <string name="family_manage">Manajemen keluarga</string>
   <string name="family_member">Anggota rumah ini</string>
   <string name="family_menber_detail">Informasi anggota</string>
@@ -897,7 +897,6 @@
   <string name="ipc_toco_unsupport_dig_body">Maaf, perangkat anda sudah tidak lagi mendukung pemakaian aplikasi saat ini, mohon cek detilnya untuk mendapatkan solusi.</string>
   <string name="ipc_toco_unsupport_dig_detail">Periksa detail</string>
   <string name="ipc_toco_unsupport_dig_title">Perangkat tidak ditunjang</string>
-  <string name="ipc_toco_unsupport_guide">https://images.tuyacn.com/app/html/toco_transfer_guide_eng.html</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="ipc_video_call_accept">Terima</string>
   <string name="ipc_video_call_accepted_warning">Panggilan video telah dijawab</string>
@@ -1369,7 +1368,6 @@
   <string name="service_doc_name">#</string>
   <string name="service_running_tips_content">Memakai layanan background</string>
   <string name="service_running_tips_title">Running in the background</string>
-  <string name="service_url">https://images.tuyacn.com/app/html/Service_Agreement_en.html</string>
   <string name="set_center_account">Lokasi</string>
   <string name="set_family_manage">Dipilih sebagai Admin</string>
   <string name="set_location">Set</string>

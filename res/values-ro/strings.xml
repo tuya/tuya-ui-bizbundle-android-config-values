@@ -183,15 +183,13 @@
   <string name="family_initialize_again">Reîncarcă</string>
   <string name="family_initialize_error_tips">Ceva greșit, încercați din nou</string>
   <string name="family_initialize_from_cloud_tips">Sincronizare date / n Vă rugăm să așteptați un moment ...</string>
-  <string name="family_location">Locatie familie</string>
+  <string name="family_location">Locația</string>
   <string name="family_manage">Administrator familii</string>
   <string name="family_member">Membrii familiei</string>
   <string name="family_name">Nume de familie</string>
   <string name="family_name_not_empty">Setati numele grupului</string>
   <string name="family_remove">Stergere detalii colaboratori</string>
   <string name="family_setting">Setarile familiei</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_en.html</string>
   <string name="feaadback_is_null">Introduceti comentariul</string>
   <string name="feed_back_add_hint">Descrieti problema sau nelamurirea in detaliu, adaugand informatii situatia intampinata, data/ora, locatia si asteptarile dumneavoastra.</string>
   <string name="feed_back_no_content">Nici o eroare raportata</string>
@@ -686,7 +684,6 @@
   <string name="title_device_offline">Dispozitiv inactiv</string>
   <string name="toolbar_menu_refresh">Reimprospatare</string>
   <string name="tuesday">Marti</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tv_add_clock_time">Adaugati programare</string>
   <string name="ty_about_tuyasmart">Despre Tuya Smart</string>
   <string name="ty_activator_ezSearch_devices">Ce fel de dispozitiv</string>
@@ -757,7 +754,6 @@
   <string name="ty_all_devices">Toate dispozitivele</string>
   <string name="ty_android_app_share">Impartaseste adresa de descarcare pentru Android</string>
   <string name="ty_android_share">Impartasiti adresa de descarcare pentru Android</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Mergeti la setarile telefonului \"Setari-WLAN\" si conectati-va la reteaua Wi-Fi</string>
   <string name="ty_ap_connect_go">Conectati-va</string>
   <string name="ty_ap_connect_help">Nu se poate stabili conexiunea? Incercati sectiunea ajutor</string>
@@ -916,7 +912,6 @@
   <string name="ty_home_tip_refresh_start">eliberati pentru actualizare</string>
   <string name="ty_home_tip_refreshing">Reactualizare</string>
   <string name="ty_iOS_app_share">Impartasiti adresa de descarcare pentru iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Datele ilegale ale DP</string>
   <string name="ty_input_name">Introduceti numele pentru Smart</string>
   <string name="ty_input_old_keyword">Introduceti vechea parola</string>

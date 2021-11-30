@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="image_size_limit_5MB">Vaizdo dydis negali viršyti 5 MB</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
+  <string name="select_image_from_album">Pasirinkite paveikslėlį iš telefono albumo</string>
+  <string name="select_video_from_album">Pasirinkite vaizdo įrašą iš telefono albumo</string>
+  <string name="ty_check_progress">Patikrinkite pažangą</string>
+  <string name="ty_has_unbinded">Pateikėte paraišką atsieti įrenginį ir negalite jos pateikti pakartotinai. Galite peržiūrėti tolesnio įrenginio atsiejimo eigą</string>
+  <string name="video_size_limit_40MB">Vaizdo įrašo dydis negali viršyti 40 MB</string>
 </resources>

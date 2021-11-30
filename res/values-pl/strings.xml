@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Przeładować</string>
   <string name="family_initialize_error_tips">Coś nie tak, spróbuj ponownie</string>
   <string name="family_initialize_from_cloud_tips">Synchronizacja danych / n Poczekaj chwilę ...</string>
-  <string name="family_location">Lokalizacja rodziny</string>
+  <string name="family_location">Lokalizacja</string>
   <string name="family_manage">Zarządzanie domem</string>
   <string name="family_member">Członkowie rodziny</string>
   <string name="family_menber_detail">Szczegóły członka</string>
@@ -286,8 +286,6 @@
   <string name="family_remove">Usuń rodzinę</string>
   <string name="family_setting">Ustawienia rodziny</string>
   <string name="family_wait_join">Oczekiwanie na dołączenie</string>
-  <string name="faq">https://smartapp.tuya.com/tuyasmart/help?lang=en</string>
-  <string name="faq_url">https://images.tuyacn.com/app/html/faq_en.html</string>
   <string name="feaadback_is_null">Wpisz treść opinii</string>
   <string name="feed_back_add_hint">Opisz szczegółowo swoje problemy lub skargi, w tym informacje o czasie wystąpienia problemu lub funkcji, które możemy dodać itp.</string>
   <string name="feed_back_no_content">Nie przesłano opinii</string>
@@ -1110,7 +1108,6 @@
   <string name="service_agreement">Umowa o świadczeniu usług</string>
   <string name="service_running_tips_content">Używana jest usługa w tle</string>
   <string name="service_running_tips_title">Działa w tle</string>
-  <string name="service_url">https://images.tuyacn.com/app/html/Service_Agreement_pl.html</string>
   <string name="set_center_account">Lokalizacja konta</string>
   <string name="set_family_manage">Ustaw jako administratora rodziny</string>
   <string name="set_news">Powiadomienie push</string>
@@ -1175,10 +1172,9 @@
   <string name="toolbar_menu_refresh">Odśwież</string>
   <string name="topTips">W przypadku zgłoszenia usterki przesłane zostaną informacje o urządzeniu, umożliwiające zlokalizowanie usterki.</string>
   <string name="tuesday">Wt.</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Wpisy historyczne dodawania</string>
   <string name="tv_add_clock_time">Dodaj harmonogram</string>
-  <string name="ty_about_tuyasmart">O TuyaSmart</string>
+  <string name="ty_about_tuyasmart">O Tuya Smart</string>
   <string name="ty_activator_ezSearch_devices">Jakie urządzenie</string>
   <string name="ty_activator_ezSearch_modifyWifi">Zmień konfigurację Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurowanie Wi-Fi</string>
@@ -1258,7 +1254,6 @@
   <string name="ty_all_devices">Wszystkie urządzenia</string>
   <string name="ty_android_app_share">Udostępnij adres pobierania dla Androida</string>
   <string name="ty_android_share">Udostępnij adres pobierania dla Androida</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smartlife</string>
   <string name="ty_ap_connect_description">W telefonie otwórz \"Ustawienia-WLAN\" i połącz z siecią Wi-Fi pokazaną powyżej</string>
   <string name="ty_ap_connect_go">Połącz teraz</string>
   <string name="ty_ap_connect_help">Brak połączenia? Skorzystaj z pomocy</string>
@@ -1352,8 +1347,8 @@
   <string name="ty_device_bind_add_associated">Dodaj powiązania (maksymalnie 4)</string>
   <string name="ty_device_bind_key">Przycisk</string>
   <string name="ty_device_bind_max_device_count_error">Ten 4-pozycyjny przełącznik może sterować maksymalnie czterema urządzeniami.</string>
-  <string name="ty_device_bind_multi_control">Sterowanie wieloma elementami:</string>
-  <string name="ty_device_bind_multi_control_group">Grupa sterowania wieloma elementami</string>
+  <string name="ty_device_bind_multi_control">Grupa sterowania</string>
+  <string name="ty_device_bind_multi_control_group">Grupa sterowania</string>
   <string name="ty_device_bind_multi_control_group_name">Nazwa grupy sterowania wieloma elementami</string>
   <string name="ty_device_bind_multi_control_link">Powiązania sterowania wieloma elementami</string>
   <string name="ty_device_bind_open_associated">Włącz</string>
@@ -1476,7 +1471,6 @@
   <string name="ty_home_tip_refresh_start">Puść, aby odświeżyć</string>
   <string name="ty_home_tip_refreshing">Odświeżanie...</string>
   <string name="ty_iOS_app_share">Udostępnij adres pobierania dla iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Nielegalne dane DP</string>
   <string name="ty_input_name">Wpisz nazwę urządzenia Smart</string>
   <string name="ty_input_old_keyword">Wpisz stare hasło</string>

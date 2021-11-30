@@ -176,7 +176,7 @@
   <string name="family_initialize_again">טען מחדש</string>
   <string name="family_initialize_error_tips">משהו לא בסדר, נסה שוב</string>
   <string name="family_initialize_from_cloud_tips">סנכרון נתונים / n אנא המתן רגע ...</string>
-  <string name="family_location">מיקום המשפחה</string>
+  <string name="family_location">מיקום העיר</string>
   <string name="family_manage">ניהול הבית</string>
   <string name="family_member">בן משפחה</string>
   <string name="family_name">שם הבית</string>
@@ -599,7 +599,6 @@
   <string name="scene_set_start_time">קבע זמן התחלה</string>
   <string name="search">חיפוש</string>
   <string name="select_more">בחר</string>
-  <string name="service_url">#</string>
   <string name="set_center_account">מיקום חשבון</string>
   <string name="set_family_manage">קבע בתור מנהל הבית</string>
   <string name="set_news">עדכוני הודעות</string>
@@ -649,7 +648,6 @@
   <string name="title_device_offline">ההתקן במצב כבוי</string>
   <string name="toolbar_menu_refresh">רענן</string>
   <string name="tuesday">יום שלישי</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tv_add_clock_time">עיתוי הוספה</string>
   <string name="ty_activator_ezSearch_devices">איזה סוג של מכשיר</string>
   <string name="ty_activator_ezSearch_modifyWifi">שינוי תצורת Wi-Fi</string>
@@ -719,7 +717,6 @@
   <string name="ty_all_devices">כל ההתקנים</string>
   <string name="ty_android_app_share">שתף את כתובת ההורדה עבור אנדרואיד</string>
   <string name="ty_android_share">שתף את כתובת ההורדה עבור אנדרואיד</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">&amp;quot;הגדרות - Wireless רשת תקשורת מקומית&amp;quot; Open Mobile, הקשרים באיור Wi-Fi רשת</string>
   <string name="ty_ap_connect_go">כדי להתחבר</string>
   <string name="ty_ap_connect_help">אתה לא יכול להתחבר? ראה עזרה</string>
@@ -870,7 +867,6 @@
   <string name="ty_home_tip_refresh_start">שחרור רענן</string>
   <string name="ty_home_tip_refreshing">אנחנו מנסים לרענן</string>
   <string name="ty_iOS_app_share">שתף את כתובת ההורדה עבור iOS</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">נתוני DP לא חוקיים</string>
   <string name="ty_input_name">הזן את שם החכם.</string>
   <string name="ty_input_old_keyword">הזן את הסיסמה הישנה שלך</string>
@@ -992,6 +988,7 @@
   <string name="ty_set_mobile">הטלפון שלך לא עשויה לאפשר פנקס הכתובות, עבור אל הגדרות מערכת - לפתוח את רשימת היישומים</string>
   <string name="ty_set_password">הגדר סיסמה</string>
   <string name="ty_set_photoalbum">אנא פתח את אלבום הרשאות יישום בהגדרות המערכת</string>
+  <string name="ty_setting_pad_switch">מצב טאבלט</string>
   <string name="ty_share_add">שתף חברים חדשים</string>
   <string name="ty_share_add_device">שיתוף התקן</string>
   <string name="ty_share_add_device_nodevice">אין חברים לשתף ציוד</string>

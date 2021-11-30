@@ -281,7 +281,7 @@
   <string name="family_initialize_again">Tekrar yükle</string>
   <string name="family_initialize_error_tips">Bir sorun var, lütfen tekrar deneyin</string>
   <string name="family_initialize_from_cloud_tips">Veri senkronizasyonu / n Lütfen biraz bekleyin ...</string>
-  <string name="family_location">Aile konumu</string>
+  <string name="family_location">Konumu</string>
   <string name="family_manage">Aile Yönetimi</string>
   <string name="family_member">Aile üyeleri</string>
   <string name="family_menber_detail">Üye ayrıntıları</string>
@@ -1232,7 +1232,6 @@
   <string name="service_doc_name">#</string>
   <string name="service_running_tips_content">Arka plan hizmeti kullanılıyor</string>
   <string name="service_running_tips_title">Arka planda çalışıyor</string>
-  <string name="service_url">#</string>
   <string name="set_center_account">Hesap konumu</string>
   <string name="set_family_manage">Aile yöneticisi olarak ayarla</string>
   <string name="set_news">Anlık Bildirim</string>
@@ -1304,7 +1303,6 @@
   <string name="toolbar_menu_refresh">Yenile</string>
   <string name="topTips">Bir hata bildirdiğinizde, hatanın bulunması için cihazlarınız hakkındaki bilgiler yüklenir.</string>
   <string name="tuesday">Salı</string>
-  <string name="tuya_address">https://a.app.qq.com/o/simple.jsp?pkgname=com.tuya.smart</string>
   <string name="tuyaconfig_add_history">Geçmiş Ekleme Kayıtları</string>
   <string name="tv_add_clock_time">Program Ekle</string>
   <string name="ty_about_tuyasmart">Tuya Smart Hakkında</string>
@@ -1410,7 +1408,6 @@
   <string name="ty_all_devices">Tüm Cihazlar</string>
   <string name="ty_android_app_share">Android için indirme adresini paylaşın</string>
   <string name="ty_android_share">Android için indirme adresini paylaşın</string>
-  <string name="ty_android_share_url">https://play.google.com/store/apps/details?id=com.tuya.smart</string>
   <string name="ty_ap_connect_description">Telefonunuzda “Ayarlar - WLAN”ı açın ve yukarıda gösterilen Wi-Fi ağına bağlanın</string>
   <string name="ty_ap_connect_go">Bağlan’a gidin</string>
   <string name="ty_ap_connect_help">Bağlanamıyor musunuz? Lütfen Yardım’a bakın</string>
@@ -1634,7 +1631,6 @@
   <string name="ty_home_tip_refresh_start">yenilemek için bırak</string>
   <string name="ty_home_tip_refreshing">Yenileniyor…</string>
   <string name="ty_iOS_app_share">iOS için indirme adresini paylaşın</string>
-  <string name="ty_iOS_share_url">https://itunes.apple.com/us/app/tuyasmart/id1034649547?mt=8</string>
   <string name="ty_illegal_dp_data">Geçersiz DP verileri</string>
   <string name="ty_input_name">Akıllı cihaz adını girin</string>
   <string name="ty_input_old_keyword">Eski Parolayı Girin</string>
