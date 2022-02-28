@@ -632,6 +632,7 @@
     ]
   },
   "serviceMap": {
+    "com.tuya.smart.scene.business.api.ITuyaSceneBusinessService": "com.tuya.smart.scene.business.TuyaSceneBusinessManager",
     "com.tuya.smart.sharedevice.api.AbsDeviceShareBusiness": "com.tuya.smart.sharedevice.biz.DeviceShareBusinessImpl",
     "com.tuya.smart.scene.business.service.SceneConditionService": "com.tuya.samrt.scene.condition.service.SceneConditionServiceImpl",
     "com.tuya.android.tracker.tool.open.api.TrackerToolFloatViewEventApi": "com.tuya.smart.flutter.tuya_flutter_track.AutoTrackerToolFloatViewEventImpl",
@@ -925,6 +926,14 @@
       },
       {
         "name": "com.tuya.smart.mqtt_compensation.MqttCompensationApp",
+        "thread": false
+      },
+      {
+        "name": "com.tuya.smart.speech.SpeechApp",
+        "thread": false
+      },
+      {
+        "name": "com.tuya.smart.social.auth.manager.SocialAuthManagerApp",
         "thread": false
       }
     ],
