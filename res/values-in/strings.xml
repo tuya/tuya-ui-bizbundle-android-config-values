@@ -310,7 +310,7 @@
   <string name="family_initialize_again">Reload</string>
   <string name="family_initialize_error_tips">Ada sesuatu yang salah, mohon coba lagi</string>
   <string name="family_initialize_from_cloud_tips">Data sedang di sinkronisasi /n Mohon menunggu sejenak..</string>
-  <string name="family_location">Lokasi</string>
+  <string name="family_location">Lokasi rumah</string>
   <string name="family_manage">Manajemen keluarga</string>
   <string name="family_member">Anggota rumah ini</string>
   <string name="family_menber_detail">Informasi anggota</string>

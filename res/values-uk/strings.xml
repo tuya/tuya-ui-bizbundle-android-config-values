@@ -269,7 +269,7 @@
   <string name="family_initialize_again">Перезавантажити</string>
   <string name="family_initialize_error_tips">Щось не так, спробуйте ще раз</string>
   <string name="family_initialize_from_cloud_tips">Синхронізація даних / n</string>
-  <string name="family_location">Розташування</string>
+  <string name="family_location">Місце розташування сім’ї</string>
   <string name="family_manage">Керування домом</string>
   <string name="family_member">Члени сім’ї</string>
   <string name="family_menber_detail">Докладні відомості про члена сім’ї</string>

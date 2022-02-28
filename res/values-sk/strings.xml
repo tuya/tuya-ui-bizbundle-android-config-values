@@ -270,7 +270,7 @@
   <string name="family_initialize_again">obnoviť</string>
   <string name="family_initialize_error_tips">Niečo nie je v poriadku, skúste to znova</string>
   <string name="family_initialize_from_cloud_tips">Synchronizácia údajov / n Počkajte chvíľu ...</string>
-  <string name="family_location">Poloha</string>
+  <string name="family_location">Umiestnenie</string>
   <string name="family_manage">Správa domova</string>
   <string name="family_member">Členovia rodiny</string>
   <string name="family_menber_detail">Podrobnosti o členoch</string>

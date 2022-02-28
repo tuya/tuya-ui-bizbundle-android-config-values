@@ -269,7 +269,7 @@
   <string name="family_initialize_again">vernieuwen</string>
   <string name="family_initialize_error_tips">Er is iets mis, probeer het opnieuw</string>
   <string name="family_initialize_from_cloud_tips">Gegevenssynchronisatie / n Even geduld ...</string>
-  <string name="family_location">Plaats</string>
+  <string name="family_location">Familielocatie</string>
   <string name="family_manage">Home-beheer</string>
   <string name="family_member">Familielid</string>
   <string name="family_menber_detail">Gegevens van de leden</string>

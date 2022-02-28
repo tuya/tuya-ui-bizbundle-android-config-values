@@ -269,7 +269,7 @@
   <string name="family_initialize_again">โหลด</string>
   <string name="family_initialize_error_tips">มีข้อผิดพลาดโปรดลองอีกครั้ง</string>
   <string name="family_initialize_from_cloud_tips">การซิงค์ข้อมูล / n โปรดรอสักครู่ ...</string>
-  <string name="family_location">ที่ตั้ง</string>
+  <string name="family_location">ตำแหน่งครอบครัว</string>
   <string name="family_manage">การจัดการบ้าน</string>
   <string name="family_member">สมาชิกครอบครัว</string>
   <string name="family_menber_detail">รายละเอียดสมาชิก</string>

@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Przeładować</string>
   <string name="family_initialize_error_tips">Coś nie tak, spróbuj ponownie</string>
   <string name="family_initialize_from_cloud_tips">Synchronizacja danych / n Poczekaj chwilę ...</string>
-  <string name="family_location">Lokalizacja</string>
+  <string name="family_location">Lokalizacja rodziny</string>
   <string name="family_manage">Zarządzanie domem</string>
   <string name="family_member">Członkowie rodziny</string>
   <string name="family_menber_detail">Szczegóły członka</string>

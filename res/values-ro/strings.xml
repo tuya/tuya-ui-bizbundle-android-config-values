@@ -183,7 +183,7 @@
   <string name="family_initialize_again">Reîncarcă</string>
   <string name="family_initialize_error_tips">Ceva greșit, încercați din nou</string>
   <string name="family_initialize_from_cloud_tips">Sincronizare date / n Vă rugăm să așteptați un moment ...</string>
-  <string name="family_location">Locația</string>
+  <string name="family_location">Locatie familie</string>
   <string name="family_manage">Administrator familii</string>
   <string name="family_member">Membrii familiei</string>
   <string name="family_name">Nume de familie</string>
