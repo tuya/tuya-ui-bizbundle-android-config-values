@@ -419,7 +419,7 @@
   <string name="family_jurisdiction_setting_confirm">Продължете</string>
   <string name="family_jurisdiction_setting_room_tips">Този ползвател може да контролира Устройства или Смарт сцени, за които няма разрешения за други стаи през тези устройства. Правете настройките внимателно.</string>
   <string name="family_jurisdiction_setting_scene_tips">Този ползвател може да контролира устройства и в други стаи с тези смарт настройки. Правете внимателно настройките.</string>
-  <string name="family_location">Местоположение</string>
+  <string name="family_location">Местоположение на Дома</string>
   <string name="family_manage">Управление на дома</string>
   <string name="family_member">Семеен член</string>
   <string name="family_member_jurisdiction_custom">Общ семеен член</string>

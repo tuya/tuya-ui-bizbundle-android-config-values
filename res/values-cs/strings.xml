@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Znovu načíst</string>
   <string name="family_initialize_error_tips">Něco není v pořádku, zkuste to prosím znovu</string>
   <string name="family_initialize_from_cloud_tips">Synchronizace dat / n Počkejte prosím ...</string>
-  <string name="family_location">Umístění</string>
+  <string name="family_location">Umístění rodiny</string>
   <string name="family_manage">Správa domů</string>
   <string name="family_member">Členové rodiny</string>
   <string name="family_menber_detail">Podrobnosti o členu</string>

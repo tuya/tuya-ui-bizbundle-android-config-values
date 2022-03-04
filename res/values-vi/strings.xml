@@ -391,7 +391,7 @@
   <string name="family_jurisdiction_setting_confirm">Tiếp tục</string>
   <string name="family_jurisdiction_setting_room_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
   <string name="family_jurisdiction_setting_scene_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
-  <string name="family_location">Vị trí</string>
+  <string name="family_location">Vị trí Nhà</string>
   <string name="family_manage">Quản lý nhà</string>
   <string name="family_member">Thành viên trong nhà</string>
   <string name="family_member_jurisdiction_custom">Thành viên tuỳ chỉnh</string>

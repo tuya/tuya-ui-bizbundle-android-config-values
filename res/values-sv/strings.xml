@@ -184,7 +184,7 @@
   <string name="family_initialize_again">Ladda om</string>
   <string name="family_initialize_error_tips">Något fel, var god försök igen</string>
   <string name="family_initialize_from_cloud_tips">Datasynkronisering / n Vänta ett ögonblick ...</string>
-  <string name="family_location">Plats</string>
+  <string name="family_location">Familjens Plats</string>
   <string name="family_manage">Hemhantering</string>
   <string name="family_member">Familjemedlem</string>
   <string name="family_name">Hemnamn</string>

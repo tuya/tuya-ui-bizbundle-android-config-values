@@ -426,7 +426,7 @@
   <string name="family_jurisdiction_setting_confirm">Folytatja</string>
   <string name="family_jurisdiction_setting_room_tips">A felhasználó közvetett módon vezérelheti más helyiségek eszközeit csatlakozó automatizációkon keresztül, felhatalmazás nélkül is. Kérjük, járjon el körültekintően.</string>
   <string name="family_jurisdiction_setting_scene_tips">A felhasználó ezen automatizációk révén közvetett módon vezérelheti más helyiségek eszközeit, kérjük, gondosan járjon el a beállításoknál.</string>
-  <string name="family_location">Elhelyezkedés</string>
+  <string name="family_location">Otthon helye</string>
   <string name="family_manage">Tagkezelés</string>
   <string name="family_member">Otthon tag</string>
   <string name="family_member_jurisdiction_custom">Egyedi tag</string>

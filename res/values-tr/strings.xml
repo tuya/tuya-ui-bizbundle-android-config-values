@@ -281,7 +281,7 @@
   <string name="family_initialize_again">Tekrar yükle</string>
   <string name="family_initialize_error_tips">Bir sorun var, lütfen tekrar deneyin</string>
   <string name="family_initialize_from_cloud_tips">Veri senkronizasyonu / n Lütfen biraz bekleyin ...</string>
-  <string name="family_location">Konumu</string>
+  <string name="family_location">Aile konumu</string>
   <string name="family_manage">Aile Yönetimi</string>
   <string name="family_member">Aile üyeleri</string>
   <string name="family_menber_detail">Üye ayrıntıları</string>
