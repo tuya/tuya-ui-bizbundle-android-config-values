@@ -269,7 +269,7 @@
   <string name="family_initialize_again">Перезавантажити</string>
   <string name="family_initialize_error_tips">Щось не так, спробуйте ще раз</string>
   <string name="family_initialize_from_cloud_tips">Синхронізація даних / n</string>
-  <string name="family_location">Місце розташування сім’ї</string>
+  <string name="family_location">Розташування</string>
   <string name="family_manage">Керування домом</string>
   <string name="family_member">Члени сім’ї</string>
   <string name="family_menber_detail">Докладні відомості про члена сім’ї</string>
@@ -1421,6 +1421,7 @@
   <string name="ty_ez_status_success">Додано успішно</string>
   <string name="ty_ez_wifi_title">Введіть пароль Wi-Fi</string>
   <string name="ty_family_manager">Керування домом</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Автоматичне оновлення</string>
   <string name="ty_gallery_all_img">Всі фотографії</string>
   <string name="ty_gallery_title">Альбом</string>
   <string name="ty_gateway_choose_title">Виберіть шлюз</string>
@@ -1531,6 +1532,8 @@
   <string name="ty_message_alarm_enable">Сигналізація</string>
   <string name="ty_message_allow_no">Не дозволяє</string>
   <string name="ty_message_allow_yes">Дозволити</string>
+  <string name="ty_message_center_device">Пристрій</string>
+  <string name="ty_message_device_enable">Пристрій</string>
   <string name="ty_message_dnd_device_count_tip">Повідомлення для %d пристроїв буде відключено</string>
   <string name="ty_message_family_enable">Сім\'я</string>
   <string name="ty_message_notice_enable">Бюлетень</string>

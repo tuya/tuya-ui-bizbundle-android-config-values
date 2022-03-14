@@ -176,7 +176,7 @@
   <string name="family_initialize_again">טען מחדש</string>
   <string name="family_initialize_error_tips">משהו לא בסדר, נסה שוב</string>
   <string name="family_initialize_from_cloud_tips">סנכרון נתונים / n אנא המתן רגע ...</string>
-  <string name="family_location">מיקום המשפחה</string>
+  <string name="family_location">מיקום העיר</string>
   <string name="family_manage">ניהול הבית</string>
   <string name="family_member">בן משפחה</string>
   <string name="family_name">שם הבית</string>
@@ -930,6 +930,8 @@
   <string name="ty_message_alarm_enable">אזעקה</string>
   <string name="ty_message_allow_no">לא מורשה</string>
   <string name="ty_message_allow_yes">להתיר</string>
+  <string name="ty_message_center_device">ציוד</string>
+  <string name="ty_message_device_enable">ציוד</string>
   <string name="ty_message_dnd_device_count_tip">הודעות עבור התקנים %d יהיו אילמות</string>
   <string name="ty_message_family_enable">משפחה</string>
   <string name="ty_message_notice_enable">עלון</string>
@@ -988,6 +990,7 @@
   <string name="ty_set_mobile">הטלפון שלך לא עשויה לאפשר פנקס הכתובות, עבור אל הגדרות מערכת - לפתוח את רשימת היישומים</string>
   <string name="ty_set_password">הגדר סיסמה</string>
   <string name="ty_set_photoalbum">אנא פתח את אלבום הרשאות יישום בהגדרות המערכת</string>
+  <string name="ty_setting_pad_switch">מצב טאבלט</string>
   <string name="ty_share_add">שתף חברים חדשים</string>
   <string name="ty_share_add_device">שיתוף התקן</string>
   <string name="ty_share_add_device_nodevice">אין חברים לשתף ציוד</string>

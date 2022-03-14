@@ -81,7 +81,7 @@
   <string name="alexa_flip_auth_info">Свържете Вашият %s профил със Amazon Alexa</string>
   <string name="alexa_flip_confirm">Съгласявам се и свързвам</string>
   <string name="alexa_flip_info">Приложението ще има следните разрешения след оторизация:</string>
-  <string name="alexa_flip_permission">· Управление устройства \n· Детайли за профила.</string>
+  <string name="alexa_flip_permission">· Резрешения контролиране устройства</string>
   <string name="alexa_flip_refuse_auth">Отказ</string>
   <string name="alexa_flip_unbind_info">Може да откачите Вашия профил по всяко време</string>
   <string name="alexa_guidance_tip">Намира се в  \"Me - More Services - Alexa\" настройки.</string>
@@ -419,7 +419,7 @@
   <string name="family_jurisdiction_setting_confirm">Продължете</string>
   <string name="family_jurisdiction_setting_room_tips">Този ползвател може да контролира Устройства или Смарт сцени, за които няма разрешения за други стаи през тези устройства. Правете настройките внимателно.</string>
   <string name="family_jurisdiction_setting_scene_tips">Този ползвател може да контролира устройства и в други стаи с тези смарт настройки. Правете внимателно настройките.</string>
-  <string name="family_location">Местоположение на Дома</string>
+  <string name="family_location">Местоположение</string>
   <string name="family_manage">Управление на дома</string>
   <string name="family_member">Семеен член</string>
   <string name="family_member_jurisdiction_custom">Общ семеен член</string>
@@ -516,7 +516,7 @@
   <string name="google_flip_info">Приложението ще има следните разрешения след орторизация</string>
   <string name="google_flip_link">Връзка с Google Асистент</string>
   <string name="google_flip_link_google_info">След връзването на Вашия профил с Google профила Ви, може да използвате Умните говорители да контролират устройства които работят с Google Асистент. Например, може да кажете \"OK Google, please turn on  the light.\"</string>
-  <string name="google_flip_permission">· Резрешения контролиране устройства \n· Акаунт детайли</string>
+  <string name="google_flip_permission">· Резрешения контролиране устройства</string>
   <string name="google_flip_refuse_auth">Отказ</string>
   <string name="google_flip_success_tip_content">OK Google, turn on light\n\nOK Google, brighten my light\n\nOK Google, change kitchen lamp to blue\n\nOK Google, set my light to 50%</string>
   <string name="google_flip_unbind_info">Можете да откажете одобрението по всяко време.</string>
@@ -1835,6 +1835,7 @@
   <string name="single_week_six">Съб.</string>
   <string name="single_week_three">Сря.</string>
   <string name="single_week_two">Вторник</string>
+  <string name="skip">Пропусни</string>
   <string name="sl_homepage_client_order">Последователност устройства</string>
   <string name="sl_homepage_grid_sort">Табличен изглед</string>
   <string name="sl_homepage_ipc_preview">Всички Камери</string>
@@ -2308,7 +2309,7 @@
   <string name="ty_fdq_call_phone">%s is calling</string>
   <string name="ty_firmware_auto_upgrade_switch_desc">Устройството автоматично ще се актуализира, но някои функционалности е необходимо</string>
   <string name="ty_firmware_auto_upgrade_switch_open_tip">Устройствата ще бъдат временно недостъпни и ще се актуализират.</string>
-  <string name="ty_firmware_auto_upgrade_switch_title">Автоматични актуализации</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Автоматично обновление</string>
   <string name="ty_fqd_disconnect_tip">%s е изключен и не работи. Моля отворете апликацията за да проследите вашите устройства.</string>
   <string name="ty_gallery_all_img">Всички снимки</string>
   <string name="ty_gallery_choose_tip">Не се подържа избирането на видеа и снимки едновременно.</string>
@@ -2467,6 +2468,8 @@
   <string name="ty_message_all_device_dnd_tip">Изключване на всички алармени нотификации</string>
   <string name="ty_message_allow_no">Не се разрешава</string>
   <string name="ty_message_allow_yes">Позволява</string>
+  <string name="ty_message_center_device">Устройство</string>
+  <string name="ty_message_device_enable">Устройство</string>
   <string name="ty_message_dnd_device_count_tip">Известията за %d устройства ще бъдат заглушени</string>
   <string name="ty_message_family_enable">Моят дом</string>
   <string name="ty_message_had_read">Отметни като прочетено</string>
@@ -2661,7 +2664,7 @@
   <string name="ty_scene_please_select_notice_way">Моля избери</string>
   <string name="ty_scene_please_select_scene_smart">Моля избери</string>
   <string name="ty_scene_please_select_touch_smart">Моля избери</string>
-  <string name="ty_scene_recom_not_interest_toast">Тази \"умна\" настройка не Ви се препоръчва!</string>
+  <string name="ty_scene_recom_not_interest_toast">Тази \"сценарий\" настройка не Ви се препоръчва!</string>
   <string name="ty_scene_regular">Нормално</string>
   <string name="ty_scene_set_time">Задайте време</string>
   <string name="ty_scene_stop_ahead_of_time">Сигурни ли сте, че искате да го спрете предварително?</string>

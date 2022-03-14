@@ -87,7 +87,7 @@
   <string name="alexa_flip_auth_info">Társítás %s fiókját az Amazon Alexa fiókhoz</string>
   <string name="alexa_flip_confirm">Erősítse meg az engedélyt</string>
   <string name="alexa_flip_info">Az engedélyezést követően az alkalmazás a következő engedélyeket kapja meg</string>
-  <string name="alexa_flip_permission">· Eszközök kezelése \n· Fiókadatok</string>
+  <string name="alexa_flip_permission">· Eszközvezérlő jogosultság</string>
   <string name="alexa_flip_refuse_auth">Mégsem</string>
   <string name="alexa_flip_unbind_info">Bármikor törölheti az engedélyt</string>
   <string name="alexa_guidance_tip">Beállítható a \"\"Saját - Egyéb szolgáltatások - Alexa\"\" alatt</string>
@@ -426,7 +426,7 @@
   <string name="family_jurisdiction_setting_confirm">Folytatja</string>
   <string name="family_jurisdiction_setting_room_tips">A felhasználó közvetett módon vezérelheti más helyiségek eszközeit csatlakozó automatizációkon keresztül, felhatalmazás nélkül is. Kérjük, járjon el körültekintően.</string>
   <string name="family_jurisdiction_setting_scene_tips">A felhasználó ezen automatizációk révén közvetett módon vezérelheti más helyiségek eszközeit, kérjük, gondosan járjon el a beállításoknál.</string>
-  <string name="family_location">Otthon helye</string>
+  <string name="family_location">Elhelyezkedés</string>
   <string name="family_manage">Tagkezelés</string>
   <string name="family_member">Otthon tag</string>
   <string name="family_member_jurisdiction_custom">Egyedi tag</string>
@@ -523,7 +523,7 @@
   <string name="google_flip_info">Az engedélyezést követően az alkalmazás a következő engedélyeket kapja meg</string>
   <string name="google_flip_link">Csatlakozás a Google Segédhez</string>
   <string name="google_flip_link_google_info">Miután összekapcsolta alkalmazásfiókját Google-fiókjával, a Google Home hangszóróival vezérelheti azokat az eszközöket, amelyek támogatják a Google Segédet, például \"\"Ok Google, kapcsold fel a lámpát\"\".</string>
-  <string name="google_flip_permission">· Eszközvezérlő jogosultság\n· Fiókadatok</string>
+  <string name="google_flip_permission">· Eszközvezérlő jogosultság</string>
   <string name="google_flip_refuse_auth">Mégsem</string>
   <string name="google_flip_success_tip_content">OK Google, kapcsold fel a fényt\n\nOK Google, több fényt\n\nOK Google, váltsd a konyhai lámpát kékre\n\nOK Google, állítsd a fényemet 50%%-ra</string>
   <string name="google_flip_unbind_info">Bármikor törölheti az engedélyt</string>
@@ -1950,6 +1950,7 @@
   <string name="single_week_six">Szo.</string>
   <string name="single_week_three">Sze.</string>
   <string name="single_week_two">Ke.</string>
+  <string name="skip">Átlép</string>
   <string name="sl_homepage_client_order">Eszközsorrend</string>
   <string name="sl_homepage_grid_sort">Rács nézet</string>
   <string name="sl_homepage_ipc_preview">Minden kamera</string>
@@ -2437,7 +2438,7 @@
   <string name="ty_fdq_call_phone">%s telefonál</string>
   <string name="ty_firmware_auto_upgrade_switch_desc">Az automatikus frissítési funkció engedélyezése után a készülék automatikusan frissíteni fog. A fontos funkciófrissítéseket még meg kell erősíteni</string>
   <string name="ty_firmware_auto_upgrade_switch_open_tip">Bekapcsolás után az eszköz az alapértelmezett inaktív időszak alatt frissül, és a frissítési folyamat során rövid offline állapot lesz</string>
-  <string name="ty_firmware_auto_upgrade_switch_title">Tartsa a berendezést automatikusan naprakészen</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Automatikus frissítés</string>
   <string name="ty_fqd_disconnect_tip">%s nem csatlakozik, és nem fut. Kérjük, nyissa meg az alkalmazást az elemek nyomon követéséhez.</string>
   <string name="ty_gallery_all_img">Minden kép</string>
   <string name="ty_gallery_choose_tip">Képeket és videókat nem lehet egyszerre kiválasztani</string>
@@ -2631,6 +2632,8 @@
   <string name="ty_message_all_device_dnd_tip">Ne fogadjon push értesítéseket minden eszközről</string>
   <string name="ty_message_allow_no">Nem fogad</string>
   <string name="ty_message_allow_yes">Üzenetek engedélyezése</string>
+  <string name="ty_message_center_device">Eszköz</string>
+  <string name="ty_message_device_enable">Eszköz</string>
   <string name="ty_message_dnd_device_count_tip">Ne fogadjon push értesítéseket %d eszközről</string>
   <string name="ty_message_family_enable">Otthon</string>
   <string name="ty_message_had_read">Olvasta</string>

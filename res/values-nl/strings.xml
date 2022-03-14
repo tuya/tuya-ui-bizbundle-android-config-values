@@ -269,7 +269,7 @@
   <string name="family_initialize_again">vernieuwen</string>
   <string name="family_initialize_error_tips">Er is iets mis, probeer het opnieuw</string>
   <string name="family_initialize_from_cloud_tips">Gegevenssynchronisatie / n Even geduld ...</string>
-  <string name="family_location">Familielocatie</string>
+  <string name="family_location">Plaats</string>
   <string name="family_manage">Home-beheer</string>
   <string name="family_member">Familielid</string>
   <string name="family_menber_detail">Gegevens van de leden</string>
@@ -1428,6 +1428,7 @@
   <string name="ty_ez_status_success">Toevoegen Succesvol</string>
   <string name="ty_ez_wifi_title">Wi-Fi Wachtwoord Ingeven</string>
   <string name="ty_family_manager">Home-beheer</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Automatische upgrade</string>
   <string name="ty_gallery_all_img">Alle foto\'s</string>
   <string name="ty_gallery_title">Album</string>
   <string name="ty_gateway_choose_title">Selecteer de gateway</string>
@@ -1538,6 +1539,8 @@
   <string name="ty_message_alarm_enable">Alarm</string>
   <string name="ty_message_allow_no">Niet toelaten</string>
   <string name="ty_message_allow_yes">Toestaan</string>
+  <string name="ty_message_center_device">Toestel</string>
+  <string name="ty_message_device_enable">Toestel</string>
   <string name="ty_message_dnd_device_count_tip">Meldingen voor %d apparaten zijn gedempt</string>
   <string name="ty_message_family_enable">Familie</string>
   <string name="ty_message_notice_enable">Bulletin</string>

@@ -269,7 +269,7 @@
   <string name="family_initialize_again">โหลด</string>
   <string name="family_initialize_error_tips">มีข้อผิดพลาดโปรดลองอีกครั้ง</string>
   <string name="family_initialize_from_cloud_tips">การซิงค์ข้อมูล / n โปรดรอสักครู่ ...</string>
-  <string name="family_location">ตำแหน่งครอบครัว</string>
+  <string name="family_location">ที่ตั้ง</string>
   <string name="family_manage">การจัดการบ้าน</string>
   <string name="family_member">สมาชิกครอบครัว</string>
   <string name="family_menber_detail">รายละเอียดสมาชิก</string>
@@ -1422,6 +1422,7 @@
   <string name="ty_ez_status_success">เพิ่มเรียบร้อยแล้ว</string>
   <string name="ty_ez_wifi_title">ป้อนรหัสผ่าน Wi-Fi</string>
   <string name="ty_family_manager">การจัดการบ้าน</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">การอัปเกรดอัตโนมัติ</string>
   <string name="ty_gallery_all_img">ภาพถ่ายทั้งหมด</string>
   <string name="ty_gallery_title">อัลบั้ม</string>
   <string name="ty_gateway_choose_title">โปรดเลือกเกตเวย์</string>
@@ -1532,6 +1533,8 @@
   <string name="ty_message_alarm_enable">สัญญาณเตือนภัย</string>
   <string name="ty_message_allow_no">ไม่อนุญาต</string>
   <string name="ty_message_allow_yes">อนุญาต</string>
+  <string name="ty_message_center_device">อุปกรณ์</string>
+  <string name="ty_message_device_enable">อุปกรณ์</string>
   <string name="ty_message_dnd_device_count_tip">การแจ้งเตือนสำหรับอุปกรณ์ %d จะถูกปิดเสียง</string>
   <string name="ty_message_family_enable">ครอบครัว</string>
   <string name="ty_message_notice_enable">แถลงการณ์</string>

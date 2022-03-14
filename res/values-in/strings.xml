@@ -310,7 +310,7 @@
   <string name="family_initialize_again">Reload</string>
   <string name="family_initialize_error_tips">Ada sesuatu yang salah, mohon coba lagi</string>
   <string name="family_initialize_from_cloud_tips">Data sedang di sinkronisasi /n Mohon menunggu sejenak..</string>
-  <string name="family_location">Lokasi rumah</string>
+  <string name="family_location">Lokasi</string>
   <string name="family_manage">Manajemen keluarga</string>
   <string name="family_member">Anggota rumah ini</string>
   <string name="family_menber_detail">Informasi anggota</string>
@@ -1389,6 +1389,7 @@
   <string name="single_week_six">Hari Sabtu</string>
   <string name="single_week_three">Hari Rabu</string>
   <string name="single_week_two">Hari Selasa</string>
+  <string name="skip">Lewati</string>
   <string name="sl_homepage_client_order">Pengaturan perangkat</string>
   <string name="sl_homepage_grid_sort">Grid View</string>
   <string name="sl_homepage_list_sort">Tampilan daftar</string>
@@ -1751,6 +1752,7 @@
   <string name="ty_ez_status_success">Berhasil ditambahkan</string>
   <string name="ty_ez_wifi_title">Masukkan Kata Sandi Wi-Fi</string>
   <string name="ty_family_manager">Manajemen Keluarga</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Peningkatan Otomatis</string>
   <string name="ty_gallery_all_img">Semua photo</string>
   <string name="ty_gallery_title">Album</string>
   <string name="ty_gateway_choose_title">Pilih gerbang jaringan</string>
@@ -1874,6 +1876,8 @@
   <string name="ty_message_alarm_enable">Alarm</string>
   <string name="ty_message_allow_no">Tidak diperbolehkan</string>
   <string name="ty_message_allow_yes">Perbolehkan</string>
+  <string name="ty_message_center_device">Perangkat</string>
+  <string name="ty_message_device_enable">Perangkat</string>
   <string name="ty_message_dnd_device_count_tip">Notifikasi untuk perangkat %d akan di mute</string>
   <string name="ty_message_family_enable">Rumah</string>
   <string name="ty_message_notice_enable">Buletin</string>

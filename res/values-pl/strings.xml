@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Przeładować</string>
   <string name="family_initialize_error_tips">Coś nie tak, spróbuj ponownie</string>
   <string name="family_initialize_from_cloud_tips">Synchronizacja danych / n Poczekaj chwilę ...</string>
-  <string name="family_location">Lokalizacja rodziny</string>
+  <string name="family_location">Lokalizacja</string>
   <string name="family_manage">Zarządzanie domem</string>
   <string name="family_member">Członkowie rodziny</string>
   <string name="family_menber_detail">Szczegóły członka</string>
@@ -1175,6 +1175,9 @@
   <string name="tuyaconfig_add_history">Wpisy historyczne dodawania</string>
   <string name="tv_add_clock_time">Dodaj harmonogram</string>
   <string name="ty_about_tuyasmart">O Tuya Smart</string>
+  <string name="ty_activator_dialog_add_dev">Urządzeń do dodania: %s</string>
+  <string name="ty_activator_dialog_cancel">Nie dodawaj</string>
+  <string name="ty_activator_dialog_confirm">Dodaj</string>
   <string name="ty_activator_ezSearch_devices">Jakie urządzenie</string>
   <string name="ty_activator_ezSearch_modifyWifi">Zmień konfigurację Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurowanie Wi-Fi</string>
@@ -1427,6 +1430,7 @@
   <string name="ty_ez_status_success">Dodano pomyślnie</string>
   <string name="ty_ez_wifi_title">Wpisz hasło domowej sieci Wi-Fi</string>
   <string name="ty_family_manager">Ustawienia</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Automatyczna aktualizacja</string>
   <string name="ty_gallery_all_img">Wszystkie zdjęcia</string>
   <string name="ty_gallery_title">Album</string>
   <string name="ty_gateway_choose_title">Proszę wybrać bramkę</string>
@@ -1537,6 +1541,8 @@
   <string name="ty_message_alarm_enable">Alarm</string>
   <string name="ty_message_allow_no">Nie wolno</string>
   <string name="ty_message_allow_yes">Dopuszczać</string>
+  <string name="ty_message_center_device">Urządzenie</string>
+  <string name="ty_message_device_enable">Urządzenie</string>
   <string name="ty_message_dnd_device_count_tip">Powiadomienia dla urządzeń %d będą wyciszone</string>
   <string name="ty_message_family_enable">Rodzina</string>
   <string name="ty_message_notice_enable">Biuletyn</string>
