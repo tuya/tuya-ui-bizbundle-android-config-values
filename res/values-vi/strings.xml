@@ -75,6 +75,7 @@
   <string name="add_subDevice">Thêm thiết bị</string>
   <string name="alaxa_success_title">Đã liên kết với Amazon Alexa</string>
   <string name="alexa_binding">Đang liên kết, vui lòng đợi...</string>
+  <string name="alexa_flip_permission">· Quyền kiểm soát thiết bị</string>
   <string name="alexa_guidance_tip">Có thể được cài đặt trong \"Tôi - Dịch vụ khác - Alexa\"</string>
   <string name="alexa_how_to_link">Không thể kết nối? \ nXem cách kết nối trong Ứng dụng Alexa</string>
   <string name="alexa_how_to_remove_link">Để hủy liên kết, hãy truy cập Ứng dụng Alexa để tắt các kỹ năng %s</string>
@@ -391,7 +392,7 @@
   <string name="family_jurisdiction_setting_confirm">Tiếp tục</string>
   <string name="family_jurisdiction_setting_room_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
   <string name="family_jurisdiction_setting_scene_tips">Người dùng có thể gián tiếp điều khiển các thiết bị trong các phòng khác bằng các ngữ cảnh thông minh. Vui lòng thực hiện các cài đặt một cách thận trọng.</string>
-  <string name="family_location">Vị trí Nhà</string>
+  <string name="family_location">Vị trí</string>
   <string name="family_manage">Quản lý nhà</string>
   <string name="family_member">Thành viên trong nhà</string>
   <string name="family_member_jurisdiction_custom">Thành viên tuỳ chỉnh</string>
@@ -479,7 +480,7 @@
   <string name="google_flip_confirm">Xác nhận liên kết</string>
   <string name="google_flip_deny">Hủy bỏ</string>
   <string name="google_flip_info">Sau khi ủy quyền, ứng dụng sẽ nhận được các quyền sau</string>
-  <string name="google_flip_permission">· Quyền kiểm soát thiết bị \n · Thông tin tài khoản</string>
+  <string name="google_flip_permission">· Quyền kiểm soát thiết bị</string>
   <string name="google_flip_refuse_auth">Hủy bỏ</string>
   <string name="google_flip_unbind_info">Bạn có thể hủy ủy quyền bất cứ lúc nào</string>
   <string name="google_flip_unbind_info_goto_app">Vui lòng truy cập Ứng dụng Google Home để ngắt kết nối hành động.</string>
@@ -1666,6 +1667,7 @@
   <string name="single_week_six">Thứ bảy</string>
   <string name="single_week_three">Thứ tư</string>
   <string name="single_week_two">Thứ ba</string>
+  <string name="skip">Bỏ qua</string>
   <string name="sl_homepage_client_order">Trình tự thiết bị</string>
   <string name="sl_homepage_grid_sort">Chế độ hiển thị theo ô lưới</string>
   <string name="sl_homepage_ipc_preview">Tất cả các camera</string>
@@ -2055,6 +2057,7 @@
   <string name="ty_ez_status_success">Thêm thành công</string>
   <string name="ty_ez_wifi_title">Nhập mật khẩu Wifi</string>
   <string name="ty_family_manager">Quản lý Nhà</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Tự động nâng cấp</string>
   <string name="ty_gallery_all_img">Tất cả ảnh</string>
   <string name="ty_gallery_title">Album</string>
   <string name="ty_gateway_choose_title">Vui lòng chọn một cổng</string>
@@ -2185,6 +2188,8 @@
   <string name="ty_message_alarm_enable">Cảnh báo</string>
   <string name="ty_message_allow_no">Không cho phép</string>
   <string name="ty_message_allow_yes">Cho phép</string>
+  <string name="ty_message_center_device">Thiết bị</string>
+  <string name="ty_message_device_enable">Thiết bị</string>
   <string name="ty_message_dnd_device_count_tip">Không nhận được thông báo đẩy của thiết bị %d</string>
   <string name="ty_message_family_enable">Nhà</string>
   <string name="ty_message_had_read">Đã đọc</string>

@@ -293,7 +293,7 @@
   <string name="family_initialize_again">Φορτώνω πάλι</string>
   <string name="family_initialize_error_tips">Κάτι λάθος, δοκιμάστε ξανά</string>
   <string name="family_initialize_from_cloud_tips">Συγχρονισμός δεδομένων / n Περιμένετε μια στιγμή ...</string>
-  <string name="family_location">Τοποθεσία οικογένειας</string>
+  <string name="family_location">Τοποθεσία</string>
   <string name="family_manage">Διαχείριση σπιτιού</string>
   <string name="family_member">Οικογενειακό μέλος</string>
   <string name="family_menber_detail">Πληροφορίες μέλους</string>
@@ -485,15 +485,15 @@
   <string name="ipc_basic_batterylock">Κάντε κλικ για ξεκλείδωμα της μπαταρίας</string>
   <string name="ipc_basic_calibration">Калибровка камеры</string>
   <string name="ipc_basic_calibration_text">Калибровка камеры занимает около 25 секунд, чтобы продолжить ли?</string>
-  <string name="ipc_basic_feature_list">Основной набор функций</string>
+  <string name="ipc_basic_feature_list">Ρυθμίσεις Βασικών Λειτουργιών</string>
   <string name="ipc_basic_feature_list_tips">Πληροφορίες όπως η ένδειξη κατάστασης και η περιστροφή οθόνης</string>
   <string name="ipc_basic_hibernate">спячка</string>
-  <string name="ipc_basic_night_vision">Функция инфракрасного ночного видения</string>
-  <string name="ipc_basic_night_vision_auto">автоматическая</string>
-  <string name="ipc_basic_night_vision_off">близко</string>
-  <string name="ipc_basic_night_vision_on">открытый</string>
-  <string name="ipc_basic_osd_watermark">Время водяного знака</string>
-  <string name="ipc_basic_picture_flip">Переверните экран</string>
+  <string name="ipc_basic_night_vision">Νυχτερινή Όραση IR</string>
+  <string name="ipc_basic_night_vision_auto">Αυτόματο</string>
+  <string name="ipc_basic_night_vision_off">Απενεργοποίηση</string>
+  <string name="ipc_basic_night_vision_on">Ενεργοποίηση</string>
+  <string name="ipc_basic_osd_watermark">Υδατογράφημα Χρόνου</string>
+  <string name="ipc_basic_picture_flip">Αναστροφή Οθόνης</string>
   <string name="ipc_basic_picture_flip_tips">Επιλέξτε την επιλογή όταν η κάμερα είναι αντεστραμένη</string>
   <string name="ipc_basic_shimmer_settings">Λαμπύρισμα</string>
   <string name="ipc_basic_status_indicator">Индикатор состояния</string>
@@ -693,7 +693,7 @@
   <string name="ipc_motion_sensitivity_settings">Επίπεδο ευαισθησίας συναγερμού</string>
   <string name="ipc_motion_sensitivity_settings_tips">Επιλέξτε επίπεδο ευαισθησίας ανίχνευσης</string>
   <string name="ipc_motion_settings">Параметры обнаружения движения</string>
-  <string name="ipc_motion_switch">Motion Переключатель сигнализации обнаружения</string>
+  <string name="ipc_motion_switch">Συναγερμός Ανίχνευσης Κίνησης</string>
   <string name="ipc_motion_time_interval">Интервал сигнализации обнаружения Выбор движения</string>
   <string name="ipc_motion_time_no_data">Пожалуйста, установите время начала и окончания</string>
   <string name="ipc_motion_time_order_wrong">Время начала должно быть раньше, чем в конце времени</string>
@@ -1311,6 +1311,7 @@
   <string name="single_week_six">Σάββατο</string>
   <string name="single_week_three">Τετάρτη</string>
   <string name="single_week_two">Τρίτη</string>
+  <string name="skip">Μεταπήδηση</string>
   <string name="sl_homepage_client_order">Ακολουθία συσκευών</string>
   <string name="sl_homepage_grid_sort">Προβολή πλέγματος</string>
   <string name="sl_homepage_list_sort">Προβολή λίστας</string>
@@ -1670,6 +1671,7 @@
   <string name="ty_ez_status_success">Προστέθηκε Με Επιτυχία</string>
   <string name="ty_ez_wifi_title">Εισάγετε τον κωδικό wifi</string>
   <string name="ty_family_manager">Διαχείριση σπιτιού</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Αυτόματη αναβάθμιση</string>
   <string name="ty_gallery_all_img">Όλες οι φωτογραφίες</string>
   <string name="ty_gallery_title">Αλμπουμ</string>
   <string name="ty_gateway_choose_title">Παρακαλούμε επιλέξτε πύλη</string>
@@ -1788,6 +1790,8 @@
   <string name="ty_message_alarm_enable">Συναγερμος</string>
   <string name="ty_message_allow_no">Δεν επιτρέπω</string>
   <string name="ty_message_allow_yes">Επιτρέπω</string>
+  <string name="ty_message_center_device">Εξοπλισμός</string>
+  <string name="ty_message_device_enable">Εξοπλισμός</string>
   <string name="ty_message_dnd_device_count_tip">Οι ειδοποιήσεις για συσκευές %d θα είναι σίγαση</string>
   <string name="ty_message_family_enable">Οικογένεια</string>
   <string name="ty_message_notice_enable">Δελτίο</string>

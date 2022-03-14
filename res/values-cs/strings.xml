@@ -270,7 +270,7 @@
   <string name="family_initialize_again">Znovu načíst</string>
   <string name="family_initialize_error_tips">Něco není v pořádku, zkuste to prosím znovu</string>
   <string name="family_initialize_from_cloud_tips">Synchronizace dat / n Počkejte prosím ...</string>
-  <string name="family_location">Umístění rodiny</string>
+  <string name="family_location">Umístění</string>
   <string name="family_manage">Správa domů</string>
   <string name="family_member">Členové rodiny</string>
   <string name="family_menber_detail">Podrobnosti o členu</string>
@@ -1427,6 +1427,7 @@
   <string name="ty_ez_status_success">Přidáno úspěšně</string>
   <string name="ty_ez_wifi_title">Zadejte heslo Wi-Fi</string>
   <string name="ty_family_manager">Správa</string>
+  <string name="ty_firmware_auto_upgrade_switch_title">Automatické aktualizace</string>
   <string name="ty_gallery_all_img">Všechny fotky</string>
   <string name="ty_gallery_title">Album</string>
   <string name="ty_gateway_choose_title">Vyberte prosím bránu</string>
@@ -1537,6 +1538,8 @@
   <string name="ty_message_alarm_enable">Poplach</string>
   <string name="ty_message_allow_no">Nedovolit</string>
   <string name="ty_message_allow_yes">Dovolit</string>
+  <string name="ty_message_center_device">Zařízení</string>
+  <string name="ty_message_device_enable">Zařízení</string>
   <string name="ty_message_dnd_device_count_tip">Upozornění pro zařízení %d budou ztlumena</string>
   <string name="ty_message_family_enable">Rodina</string>
   <string name="ty_message_notice_enable">Bulletin</string>
