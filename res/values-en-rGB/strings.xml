@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources/>
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="ty_avg_prefix">Avg</string>
+  <string name="ty_max_prefix">Max</string>
+  <string name="ty_min_prefix">Min</string>
+</resources>

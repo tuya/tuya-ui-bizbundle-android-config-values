@@ -19,6 +19,7 @@
   <string name="ty_activator_feedback_ble_sub_title">你可以點擊以下按鈕嘗試解決</string>
   <string name="ty_activator_no_wifi_content">手機連接WI-FI後才能與設備聯網</string>
   <string name="ty_agree_privacy_and_service_attention">請先勾選同意</string>
+  <string name="ty_avg_prefix">平均</string>
   <string name="ty_check_progress">查看進度</string>
   <string name="ty_dark_mode">深色模式</string>
   <string name="ty_dark_mode_description">開啟後，將跟隨系統打開或關閉深色模式</string>
@@ -47,6 +48,8 @@
   <string name="ty_logoff_query_sure">確定要註銷賬號嗎?</string>
   <string name="ty_logoff_setpassword_skip">跳過</string>
   <string name="ty_logoff_title">註銷賬號</string>
+  <string name="ty_max_prefix">最大</string>
+  <string name="ty_min_prefix">最小</string>
   <string name="ty_no_services">暫無可用服務</string>
   <string name="ty_open_line_notify">開啟 LINE App 通知</string>
   <string name="ty_password_bind">可用綁定的 %s 和密碼的方式登錄你的賬號</string>

@@ -144,6 +144,9 @@
   <string name="code_has_send_to_email">Na vaši poštovní adresu byl odeslán ověřovací kód:</string>
   <string name="code_has_send_to_phone">Ověřovací kód byl odeslán do vašeho telefonu:</string>
   <string name="commonDetails_title">Otázky a odpovědi</string>
+  <string name="commonbiz_device_shortcut_create_dialog_negative">Zrušit</string>
+  <string name="commonbiz_device_shortcut_create_dialog_positive">Spustit</string>
+  <string name="commonbiz_device_shortcut_create_dialog_title">Přidat ikonu na domovskou stránku</string>
   <string name="complete_submit">Dokončeno</string>
   <string name="conditions_not_empty">Nastavte prosím podmínky</string>
   <string name="config_activator_fail">Přihlaste se k původnímu účtu a nejdříve jej odeberte, nebo kontaktujte zákaznickou službu</string>
@@ -336,10 +339,12 @@
   <string name="group_add_no_devices_selected">Vyberte prosím alespoň jedno zařízení</string>
   <string name="group_control_tip">Synchronizované řízení lze realizovat po vytvoření skupiny</string>
   <string name="group_create">Vytvořit skupinu</string>
+  <string name="group_create_control_tip">Všechna zařízení v jedné skupině je možné ovládat současně.</string>
   <string name="group_detail">Další</string>
   <string name="group_device_add_fail">Nepodařilo se přidat</string>
   <string name="group_device_delete_fail">Smazání se nezdařilo</string>
   <string name="group_device_offline">Níže uvedená zařízení se dočasně nedají upravovat</string>
+  <string name="group_device_to_be_added">Přidat zařízení</string>
   <string name="group_dismiss">Rozpusťte skupinu</string>
   <string name="group_dismiss_dialog_title">Opravdu chcete tuto skupinu rozpustit?</string>
   <string name="group_dismiss_success">Skupina byla úspěšně zrušena</string>
@@ -361,6 +366,7 @@
   <string name="has_update">&lt;font color = # ff0000&gt; Nová verze%s &lt;/ font&gt;</string>
   <string name="head_icon">Profilový obrázek</string>
   <string name="headportrait_change_select">Vyberte z místního alba</string>
+  <string name="help_and_feedback">Časté dotazy a podpora</string>
   <string name="help_center">FAQ a zpětná vazba</string>
   <string name="home_add_device">Přidat zařízení</string>
   <string name="home_my_device">Moje zařízení</string>
@@ -1118,6 +1124,7 @@
   <string name="setup">Nastavení</string>
   <string name="setup_debug_log">Vymazat protokol</string>
   <string name="setup_debug_switch">Testování zap / vyp</string>
+  <string name="share_methods">Pokud má člen domácnosti také účet, doporučujeme, abyste účet nastavili jako \"rodinný účet\" a sdíleli zařízení v domácnosti se členy rodiny.</string>
   <string name="shared_title">Moje sdílení</string>
   <string name="show_first_page">Zobrazit na domovské stránce</string>
   <string name="single_week_five">Pá</string>
@@ -1177,6 +1184,7 @@
   <string name="ty_activator_ezSearch_devices">Jaké zařízení</string>
   <string name="ty_activator_ezSearch_modifyWifi">Upravte konfiguraci Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurace Wi-Fi</string>
+  <string name="ty_activator_input_wifi_title_des">Zadejte informace o své síti Wi-Fi.</string>
   <string name="ty_activator_off_line_warn">Oznámení když je offline</string>
   <string name="ty_activator_openLimit_ble">Povolit Bluetooth</string>
   <string name="ty_activator_openLimit_tips">Povolit oprávnění pro skenovací zařízení</string>
@@ -1375,11 +1383,13 @@
   <string name="ty_device_network_detecting">Detekce sítě ...</string>
   <string name="ty_device_network_status_init">Zkontrolujte síť</string>
   <string name="ty_device_network_title">Zkontrolujte stav sítě</string>
+  <string name="ty_device_shortcut_create_dialog_tip">Pokud přidání selže, přejděte do nastavení a zapněte oprávnění, aby mohla aplikace  %s přidat ikonu na domovskou stránku.</string>
   <string name="ty_device_to_add">Přidat do</string>
   <string name="ty_device_to_add_retry">Opakovat</string>
   <string name="ty_devices_disvocer_success">Nalezeno %s zařízení</string>
   <string name="ty_disable">Zakázat</string>
   <string name="ty_disagree">Nesouhlasím</string>
+  <string name="ty_disagree_logoff">Nesouhlasím</string>
   <string name="ty_dndr_bad">Špatné podmínky v síti</string>
   <string name="ty_dndr_good">Dobré podmínky v síti</string>
   <string name="ty_dndr_network_error">Současná síť je abnormální; nemůžete se připojit k síti</string>
@@ -1599,9 +1609,11 @@
   <string name="ty_scanning_remind">Prosím, zarovnejte kód QR do rámečku, aby se automaticky skenoval</string>
   <string name="ty_scanning_skip">Budete přesměrováni na</string>
   <string name="ty_scene">Scéna</string>
+  <string name="ty_scene_and_automation">Rychlá předvolba a automatizace</string>
   <string name="ty_scene_dp_duration">Doba trvání</string>
   <string name="ty_scene_empty_tip">Ovládejte více zařízení jedním kliknutím nebo pomocí reproduktoru AI a hlasových příkazů.</string>
   <string name="ty_scene_member_back_home">Člen rodiny jde domů</string>
+  <string name="ty_scene_no_related_scenes">Ještě nebyly vytvořeny rychlé předvolby ani automatizace.</string>
   <string name="ty_scene_set_time">Nastavte čas</string>
   <string name="ty_search_retry">Nové skenování</string>
   <string name="ty_search_timeout_no_device">Skenování skončilo. Nebylo nalezeno žádné zařízení.</string>
@@ -1630,6 +1642,7 @@
   <string name="ty_share_empty_device_content">Rodina a přátelé se s vámi mohou snadno sdílet zařízení \n, takže můžete inteligentní zařízení ovládat společně</string>
   <string name="ty_share_fail">Sdílení se nezdařilo</string>
   <string name="ty_share_succeed">Sdíleno úspěšně</string>
+  <string name="ty_sharedevice_cant_share_reason">V současné době není možné s jinými uživateli sdílet zařízení Bluetooth Mesh, Zigbee, zařízení s infračerveným portem and zařízení Bluetooth Beacon.</string>
   <string name="ty_shortcut_adddevice">Přidat zařízení</string>
   <string name="ty_shortcut_message">Centrum zpráv</string>
   <string name="ty_shortcut_voice">Hlas</string>

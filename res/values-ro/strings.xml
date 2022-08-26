@@ -103,6 +103,7 @@
   <string name="close_device">Opriti</string>
   <string name="code_has_send_to_email">Codul de verificare a fost trimis pe e-mail</string>
   <string name="code_has_send_to_phone">Codul de verificare a fost trimis</string>
+  <string name="commonbiz_device_shortcut_create_dialog_title">Adăugați o comandă rapidă pe ecranul dumneavoastră de pornire</string>
   <string name="complete_submit">Complet</string>
   <string name="conditions_not_empty">Va rugam setati conditiile</string>
   <string name="config_device_success">Adaugare dispozitiv cu succes</string>
@@ -239,6 +240,7 @@
   <string name="group_add_no_devices_selected">Selectati cel putin un dispozitiv</string>
   <string name="group_control_tip">Grupare dispozitive si control simultan</string>
   <string name="group_create">Creati un grup</string>
+  <string name="group_create_control_tip">Dispozitivele din același grup pot fi controlate împreună.</string>
   <string name="group_dismiss">Detasare</string>
   <string name="group_dismiss_dialog_title">Sunteti sigur ca vreti sa degrupati dispozitivele ?</string>
   <string name="group_dismiss_success">Detasare confirmata</string>
@@ -255,6 +257,7 @@
   <string name="has_update">&lt;font color=#ff0000&gt;Versiune noua %s&lt;/font&gt;</string>
   <string name="head_icon">Poza de profil</string>
   <string name="headportrait_change_select">Selectati din galeria media a telefonului</string>
+  <string name="help_and_feedback">Întrebări frecvente și feedback</string>
   <string name="home_add_device">Adaugati dispozitiv</string>
   <string name="home_my_device">Dispozitive</string>
   <string name="home_personal_center">Profil</string>
@@ -644,6 +647,7 @@
   <string name="setup">Setari</string>
   <string name="setup_debug_log">Jurnal magazin</string>
   <string name="setup_debug_switch">Buton deblocare</string>
+  <string name="share_methods">Dacă un rezident permanent în casa dumneavoastră are un cont, vă recomandăm să setați contul ca membru al familiei și să partajați toate dispozitivele familiei dumneavoastră cu membrii familiei.</string>
   <string name="shared_title">Distribuirile mele</string>
   <string name="show_first_page">Afisare in panoul de scenarii</string>
   <string name="single_week_five">Vineri</string>
@@ -689,6 +693,7 @@
   <string name="ty_activator_ezSearch_devices">Ce fel de dispozitiv</string>
   <string name="ty_activator_ezSearch_modifyWifi">Modificați configurația Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">Configurarea Wi-Fi</string>
+  <string name="ty_activator_input_wifi_title_des">Vă rugăm să introduceți informațiile dvs. Wi-Fi.</string>
   <string name="ty_activator_openLimit_ble">Activați Bluetooth</string>
   <string name="ty_activator_openLimit_tips">Activați permisiunile pentru scanarea dispozitivelor</string>
   <string name="ty_activator_openLimit_wifi">Activați Wi-Fi</string>
@@ -836,9 +841,11 @@
   <string name="ty_device_network_detecting">Detectare retea</string>
   <string name="ty_device_network_status_init">Verificati reteaua de internet</string>
   <string name="ty_device_network_title">Detectare stare retea</string>
+  <string name="ty_device_shortcut_create_dialog_tip">Dacă nu ați reușit să adăugați, vă rugăm să accesați setările sistemului dumneavoastră pentru a activa permisiunea de a adăuga o comandă rapidă %s pe ecranul de pornire</string>
   <string name="ty_devices_disvocer_success">%s dispozitive gasite</string>
   <string name="ty_disable">Dezactivati</string>
   <string name="ty_disagree">Dezacord</string>
+  <string name="ty_disagree_logoff">Dezacord</string>
   <string name="ty_dndr_bad">Conexiune retea slaba</string>
   <string name="ty_dndr_good">Reteaua este in conditii optime</string>
   <string name="ty_dndr_network_error">Reteaua curenta este instabila, nu se poate face conexiunea</string>
@@ -1030,7 +1037,9 @@
   <string name="ty_scanning_remind">Incadrati codul QR in chenar pentru scanare</string>
   <string name="ty_scanning_skip">Avansare catre</string>
   <string name="ty_scene">Scenariu</string>
+  <string name="ty_scene_and_automation">Atingere pentru executare și Automatizare</string>
   <string name="ty_scene_dp_duration">Durată</string>
+  <string name="ty_scene_no_related_scenes">Nu au fost create încă scene/automatizări inteligente.</string>
   <string name="ty_scene_set_time">Potriveste ora</string>
   <string name="ty_send_veri_code">Codul de verificare a fost trimis la numaul %s</string>
   <string name="ty_set_cover">Setare fundal</string>
@@ -1056,6 +1065,7 @@
   <string name="ty_share_empty_device_content">Permiteti accesul la dispozitive\n Bucurati-va de o viata smart impreuna</string>
   <string name="ty_share_fail">Distribuire esuata</string>
   <string name="ty_share_succeed">Distribuire cu succes</string>
+  <string name="ty_sharedevice_cant_share_reason">În prezent, nu puteți partaja cu alți utilizatori dispozitive Bluetooth mesh, dispozitive Zigbee, dispozitive cu infraroșu și dispozitive Bluetooth Beacon.</string>
   <string name="ty_simple_confirm_title">Sfat</string>
   <string name="ty_smart">Smart</string>
   <string name="ty_smart_city">Oras</string>

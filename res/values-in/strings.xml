@@ -1479,6 +1479,7 @@
   <string name="ty_activator_feedback_placehold">Masukan brand/model</string>
   <string name="ty_activator_feedback_unSelectedTips">Pilih minimal satu opsi</string>
   <string name="ty_activator_find_device">Perangkat yang tersedia</string>
+  <string name="ty_activator_input_wifi_title_des">Masukkan informasi Wi-Fi Anda.</string>
   <string name="ty_activator_locationAlert_always">Selalu</string>
   <string name="ty_activator_locationAlert_location">Lokasi rumah</string>
   <string name="ty_activator_locationAlert_manualInput">Input manual</string>
@@ -1596,6 +1597,7 @@
   <string name="ty_arrive_or_leave">Tiba di/ pergi</string>
   <string name="ty_auto_empty_tip">Jalankan secara otomatis sesuai dengan kondisi seperti cuaca, status perangkat, dan waktu.</string>
   <string name="ty_automatic">Otomatisasi</string>
+  <string name="ty_avg_prefix">Rata-rata</string>
   <string name="ty_bind_phone_num">Daftarkan nomor ponsel terlebih dahulu kepada aplikasi</string>
   <string name="ty_bind_phone_num_now">Menghubungkan</string>
   <string name="ty_ble_bind">Tambah</string>
@@ -1705,6 +1707,7 @@
   <string name="ty_devices_disvocer_success">%sperangkat ditemukan</string>
   <string name="ty_disable">Nonaktifkan</string>
   <string name="ty_disagree">Tidak setuju</string>
+  <string name="ty_disagree_logoff">Tidak setuju</string>
   <string name="ty_dndr_bad">Kondisi jaringan buruk</string>
   <string name="ty_dndr_good">Kondisi jaringan yang baik</string>
   <string name="ty_dndr_network_error">Jaringan eror, gagal untuk tersambung kepada jaringan</string>
@@ -1827,6 +1830,7 @@
   <string name="ty_manual_tips">Waktu anda tekan skenario %s</string>
   <string name="ty_map_title">Alamat</string>
   <string name="ty_max_pick_tip">Hanya pilih sampai %d perangkat</string>
+  <string name="ty_max_prefix">Maksimum</string>
   <string name="ty_member_not_operate">Anggota biasa tidak punya izin untuk mengoperasikan</string>
   <string name="ty_mesh_ble_add_complete">%1$s perangkat ditemukan, %2$s perangkat ditambahkan</string>
   <string name="ty_mesh_ble_add_device">Menambahkan perangkat Bluetooth….</string>
@@ -1883,6 +1887,7 @@
   <string name="ty_message_notice_enable">Buletin</string>
   <string name="ty_message_push_enable">Aktifkan notifikasi</string>
   <string name="ty_message_push_title">Pengaturan notifikasi</string>
+  <string name="ty_min_prefix">Minimum</string>
   <string name="ty_mobile_binding_tip">Setelah verifikasi berhasil, anda bisa memakai nomor ponsel anda untuk log in</string>
   <string name="ty_mobile_change_button">Ubah nomor telepon</string>
   <string name="ty_mobile_change_phone">Nomor ponsel</string>
