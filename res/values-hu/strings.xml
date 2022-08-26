@@ -536,6 +536,7 @@
   <string name="group_add_no_devices_selected">Válasszon legalább egy eszközt</string>
   <string name="group_control_tip">Csoport létrehozása után egyszerre vezérelheti ezeket az eszközöket</string>
   <string name="group_create">Csoport létrehozása</string>
+  <string name="group_create_control_tip">Az egy csoportba tartozó összes készüléket egyidejűleg lehet működtetni.</string>
   <string name="group_detail">Tovább</string>
   <string name="group_device_add_fail">A hozzáadás nem sikerült</string>
   <string name="group_device_delete_fail">Nem sikerült törölni</string>
@@ -608,6 +609,9 @@
   <string name="hometab_ignore_tip">Ne jelenítse meg ismét</string>
   <string name="hs_abnormal_device_number">Eszköz kivételek</string>
   <string name="hs_add_gateway_device">Átjáró eszköz hozzáadása</string>
+  <string name="hs_arm_all_hours_subTile">Írja be a vezetéknevet</string>
+  <string name="hs_arm_all_hours_subTitle">Írja be a vezetéknevet</string>
+  <string name="hs_arm_mode">Adja meg a keresztnevet</string>
   <string name="hs_armed_disarm">Hatástalanítás</string>
   <string name="hs_armed_leaving">Élesítés</string>
   <string name="hs_armed_stay">Héjvédelem</string>
@@ -1812,6 +1816,7 @@
   <string name="scene_execute_device">Eszköz működtetése</string>
   <string name="scene_execute_manual">Jelenetparancs futtatása</string>
   <string name="scene_execute_smart">Automatizáció</string>
+  <string name="scene_execute_task">Akkor</string>
   <string name="scene_face_detect">Arcfelismerés</string>
   <string name="scene_family_member_go_home">Családtag hazaérkezése</string>
   <string name="scene_find_new_actionexecutor">Az alkalmazás jelenlegi verziója túl egyes műveleteket nem jeleníthet meg vagy nem hajthat végre. Kérjük, frissítsen a legújabb verzióra.</string>
@@ -1819,6 +1824,7 @@
   <string name="scene_humidity_tip">Száraz (0% -40%), kényelmes (40% -70%), nedves (70% -100%)</string>
   <string name="scene_icon">Ikon</string>
   <string name="scene_if">Amennyiben (ha)</string>
+  <string name="scene_if_condition">Ha</string>
   <string name="scene_image">Kép</string>
   <string name="scene_is_deleting">Törlés ...</string>
   <string name="scene_is_validating">Ellenőrzés ...</string>
@@ -1940,7 +1946,7 @@
   <string name="setup_debug_switch">Hibakeresés</string>
   <string name="share_ble_wifi_device_offline_tip">Kérjük, ellenőrizze, hogy ez a kettős módú eszköz csatlakozik-e a hálózathoz, különben előfordulhat, hogy a megosztott nem tudja irányítani ezt az eszközt. Folytatja?</string>
   <string name="share_ble_wifi_group_offline_tip">Jelenlegi csoportjába kettős módú eszközök tartoznak (Bluetooth + Wi-Fi), előfordulhat, hogy a megosztott nem tudja irányítani ezt az eszközt. Folytatja?</string>
-  <string name="share_methods">Ha egy tag felé (pl. családtag) az Otthon összes eszközét meg szeretné osztani, vegye fel tagként az Otthonba.</string>
+  <string name="share_methods">Amennyiben más családtag is rendelkezik fiókkal, akkor javasoljuk, hogy a fiókot „családi fiókként” állítsák be, hogy a készüléket más családtagokkal is meg lehessen osztani.</string>
   <string name="shared_title">Megosztásaim</string>
   <string name="show_first_page">Megjelenítés kezdőlapon</string>
   <string name="single_week_five">Pé.</string>
@@ -2033,6 +2039,7 @@
   <string name="ty_activator_add_device_title">Szkennelt %1$s eszköz, %2$s eszköz sikeresen hozzáadva</string>
   <string name="ty_activator_ap_failure1">Ellenőrizze, hogy az eszköz visszaállt-e, és a fény lassan villog-e</string>
   <string name="ty_activator_ap_failure2">Csatlakozzon-e az eszköz hotspotjához</string>
+  <string name="ty_activator_auto_search_text">Searching for nearby devices. Make sure your device has entered pairing mode.</string>
   <string name="ty_activator_bleLimit_open">Beállítva</string>
   <string name="ty_activator_bleLimit_share">Kérjük, engedélyezze a Bluetooth-t</string>
   <string name="ty_activator_bleLimit_shareText">Bluetooth</string>
@@ -2073,6 +2080,7 @@
   <string name="ty_activator_gprsNB_failure">Kérjük, ellenőrizze, hogy az eszköz online állapotban van-e, és próbálja újra</string>
   <string name="ty_activator_has_clicked_add_all">Hozzáadva</string>
   <string name="ty_activator_input_wifi_title">Válassza ki azt az eszközt, amelyen a Wi-Fi működik, és írja be a jelszót</string>
+  <string name="ty_activator_input_wifi_title_des">Kérjük, adja meg a Wi-Fi adatait</string>
   <string name="ty_activator_lightning_device_timeout_content">Kérjük, ellenőrizze, hogy a készülék készenléti állapotban van-e és a közelben van-e</string>
   <string name="ty_activator_local_network">Helyi hálózati engedélyek</string>
   <string name="ty_activator_local_network_fail">Győződjön meg arról, hogy a \"\"helyi hálózat\"\" engedély be van kapcsolva</string>
@@ -2089,6 +2097,7 @@
   <string name="ty_activator_openLimit_details">Engedélyezze a Bluetooth használatát a közeli Bluetooth-eszközök kereséséhez. Ha nem biztos az eszköz típusában, javasoljuk az összes engedély engedélyezését</string>
   <string name="ty_activator_openLimit_tips">Engedélyezze az eszközök keresését</string>
   <string name="ty_activator_openLimit_wifi">Engedélyezze a Wi-Fi-t</string>
+  <string name="ty_activator_open_bluetooth_text">Kapcsolja be a Bluetooth-t</string>
   <string name="ty_activator_open_permission_tips_content1">1. Engedélyezze a helymeghatározást a közeli Wi-Fi-eszközök kereséséhez. Ne aggódjon, nem rögzítjük az Ön tartózkodási helyét.</string>
   <string name="ty_activator_open_permission_tips_content2">2. Ha nem biztos az eszköz típusában, ajánlott mindegyiket bekapcsolni.</string>
   <string name="ty_activator_open_permission_wifi_button">Látogassa meg a helyet</string>
@@ -2183,7 +2192,7 @@
   <string name="ty_add_share_tab1_note">A következő felhasználókkal osztotta meg a társított eszközét</string>
   <string name="ty_add_share_tab2">Megosztás érkezett</string>
   <string name="ty_add_share_tab2_note">A következő felhasználókhoz társított eszközöket osztották meg veled</string>
-  <string name="ty_add_smart">Adjon hozzá jelenetparancsot</string>
+  <string name="ty_add_smart">Téma létrehozása</string>
   <string name="ty_add_stop">Leállítja az eszközök hozzáadását és kilép?</string>
   <string name="ty_add_to_siri">Hozzáadás a Sirihez</string>
   <string name="ty_add_touch_condition">Aktiválási feltétel hozzáadása</string>
@@ -2381,6 +2390,7 @@
   <string name="ty_devices_disvocer_success">%s eszköz található</string>
   <string name="ty_disable">Inaktiválja</string>
   <string name="ty_disagree">nem ért egyet</string>
+  <string name="ty_disagree_logoff">nem ért egyet</string>
   <string name="ty_dndr_bad">Gyenge hálózati állapot</string>
   <string name="ty_dndr_good">Jó</string>
   <string name="ty_dndr_network_error">A jelenlegi hálózat rendellenes, nem tud csatlakozni a hálózathoz</string>
@@ -2483,6 +2493,7 @@
   <string name="ty_has_unbind">Eltávolítva</string>
   <string name="ty_homeKit_info">HomeKit információk</string>
   <string name="ty_home_Intelligent_recommendation">Ajánlás</string>
+  <string name="ty_home_addhub_device">Eszköz hozzáadása</string>
   <string name="ty_home_default_home_name">Otthonom...</string>
   <string name="ty_home_device_over_limit">Az eszközök száma betelt</string>
   <string name="ty_home_dont_show_again">Ne jelenjen meg többé</string>
@@ -2815,6 +2826,11 @@
   <string name="ty_scene_action_count">%d feladat</string>
   <string name="ty_scene_and_automation">Jelenetparancs és automatizálás</string>
   <string name="ty_scene_auto_max_count_limit">Az automatizálások száma megtelt</string>
+  <string name="ty_scene_create_tip_click_excute">Example: turn off all lights in the bedroom with one tap.</string>
+  <string name="ty_scene_create_tip_device_status_change">Example: when an unusual activity is detected.</string>
+  <string name="ty_scene_create_tip_position_change">Példa: Ha elhagyod az otthonod</string>
+  <string name="ty_scene_create_tip_timer">Példa: Minden reggel 7 órakor</string>
+  <string name="ty_scene_create_tip_weather_change">Example: when local temperature is greater than 28°c</string>
   <string name="ty_scene_device_remove_tip">Az eszközt eltávolítottuk</string>
   <string name="ty_scene_dp_duration">Időtartama</string>
   <string name="ty_scene_empty_tip">Több eszköz vezérlése egy érintéssel vagy hangvezérléssel intelligens hangszórókon keresztül</string>
@@ -2823,6 +2839,8 @@
   <string name="ty_scene_guide_tip">Több eszközt vezérelhet egy érinésre jelenetparancsokkal, vagy automatikus végrehajásokal olyan körülményeknek megfelelően, mint az időjárás, eszközök állapotváltozása, időpont stb.</string>
   <string name="ty_scene_home_location">Otthon címe</string>
   <string name="ty_scene_home_location_set">Beállít</string>
+  <string name="ty_scene_invalid_smart_tip">%s automations unavailable.</string>
+  <string name="ty_scene_invalid_title_tip">Koppintson a részletekért.</string>
   <string name="ty_scene_is_cancel_edit">Megszakítja a jelenetszerkesztést?</string>
   <string name="ty_scene_is_cancel_no">Nem</string>
   <string name="ty_scene_is_cancel_yes">Megszakít</string>
@@ -2832,7 +2850,7 @@
   <string name="ty_scene_menu_log">Napló</string>
   <string name="ty_scene_menu_manage">Kezelés</string>
   <string name="ty_scene_no_home_location">Az Otthon címe nincs megadva</string>
-  <string name="ty_scene_no_related_scenes">Nincs beállított intelligencia ehhez az eszközhöz</string>
+  <string name="ty_scene_no_related_scenes">Gyorsbeállítás és automatizálás még nincs létrehozva.</string>
   <string name="ty_scene_not_exist">A jelenet nem létezik</string>
   <string name="ty_scene_not_support_add_the_condition">Ezek a feltételek nem állíthatók be egyszerre</string>
   <string name="ty_scene_not_support_and_multi_condition">Ez a feltételtípus nem támogatott</string>
@@ -2877,6 +2895,7 @@
   <string name="ty_share_empty_device_content">Más Otthonok, család, barátok megoszthatnak Önnel eszközöket,\namelyeket ezután közösen vezérelhetnek.</string>
   <string name="ty_share_fail">A megosztás nem sikerült</string>
   <string name="ty_share_succeed">Sikeres megosztás</string>
+  <string name="ty_sharedevice_cant_share_reason">Jelenleg még nem lehet más felhasználókkal megosztani a Bluetooth Mesh, Zigbee, Bluetooth Beacon, és az infravörös érzékelővel szerelt készülékeket.</string>
   <string name="ty_shortcut_adddevice">Eszköz hozzáadása</string>
   <string name="ty_shortcut_message">Üzenetek</string>
   <string name="ty_shortcut_voice">Hang</string>
@@ -2920,7 +2939,7 @@
   <string name="ty_smart_scene_select_condition">Feltétel megadása</string>
   <string name="ty_smart_scene_start">Végrehajtás</string>
   <string name="ty_smart_scene_start_succ">Végrehajtás sikeres</string>
-  <string name="ty_smart_setting">Okos-funkció hozzáadása</string>
+  <string name="ty_smart_setting">Téma létrehozása</string>
   <string name="ty_sms">SMS</string>
   <string name="ty_sort_fail">A rendezés nem sikerült</string>
   <string name="ty_splash_skip_ad">Átlépés</string>

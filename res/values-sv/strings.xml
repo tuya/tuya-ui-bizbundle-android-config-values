@@ -692,6 +692,7 @@
   <string name="ty_activator_ezSearch_devices">Vilken typ av enhet</string>
   <string name="ty_activator_ezSearch_modifyWifi">Ändra Wi-Fi-konfiguration</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurera Wi-Fi</string>
+  <string name="ty_activator_input_wifi_title_des">Ange din Wi-Fi-information.</string>
   <string name="ty_activator_openLimit_ble">Aktivera Bluetooth</string>
   <string name="ty_activator_openLimit_tips">Aktivera behörigheter för skanningsenheter</string>
   <string name="ty_activator_openLimit_wifi">Aktivera Wi-Fi</string>
@@ -842,6 +843,7 @@
   <string name="ty_devices_disvocer_success">Hittade %s Enhet (er)</string>
   <string name="ty_disable">inaktivera</string>
   <string name="ty_disagree">Instämmer ej</string>
+  <string name="ty_disagree_logoff">Instämmer ej</string>
   <string name="ty_dndr_bad">Dåliga nätverksförhållanden</string>
   <string name="ty_dndr_good">Bra nätverksförhållande</string>
   <string name="ty_dndr_network_error">Det nuvarande nätverket är onormalt och kan inte nås.</string>

@@ -1399,6 +1399,7 @@
   <string name="ty_activator_feedback_item4">5 GHz Wi-Fi</string>
   <string name="ty_activator_feedback_placehold">Εισάγετε τη μάρκα/μοντέλο.</string>
   <string name="ty_activator_find_device">Βρέθηκαν διαθέσιμες συσκευές</string>
+  <string name="ty_activator_input_wifi_title_des">Εισαγάγετε τα στοιχεία Wi-Fi σας.</string>
   <string name="ty_activator_locationAlert_always">Πάντα</string>
   <string name="ty_activator_locationAlert_location">Τοποθεσία</string>
   <string name="ty_activator_locationAlert_manualInput">Μη αυτόματη εισαγωγή</string>
@@ -1624,6 +1625,7 @@
   <string name="ty_devices_disvocer_success">%s Συσκευές Που Βρέθηκαν</string>
   <string name="ty_disable">Απενεργοποίηση</string>
   <string name="ty_disagree">Διαφωνώ</string>
+  <string name="ty_disagree_logoff">Διαφωνώ</string>
   <string name="ty_dndr_bad">Δίκτυο Σε Κακή Κατάσταση</string>
   <string name="ty_dndr_good">Δίκτυο Σε Καλή Κατάσταση</string>
   <string name="ty_dndr_network_error">Η τρέχουσα ανωμαλίες του δικτύου και δεν μπορεί να συνδεθεί με το δίκτυο</string>
@@ -1857,6 +1859,7 @@
   <string name="ty_scanning_remind">Το δισδιάστατο κώδικα / bar code προς την αντίπαλη περιοχή μπορεί να ανιχνεύσει αυτόματα</string>
   <string name="ty_scanning_skip">Θα Πάτε</string>
   <string name="ty_scene">Ενημέρωση: μονάδα σύνδεσης δικτύου</string>
+  <string name="ty_scene_and_automation">Αυτοματισμοί</string>
   <string name="ty_scene_dp_duration">Διάρκεια</string>
   <string name="ty_scene_empty_tip">Έλεγχος πολλαπλών συσκευών με ένα χτύπημα, ή με τη χρήση ηχείου AI μέσω των φωνητικών εντολών</string>
   <string name="ty_scene_member_back_home">Μέλος της οικογένειας πηγαίνει σπίτι</string>

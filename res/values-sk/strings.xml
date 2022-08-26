@@ -69,7 +69,7 @@
   <string name="app_guide_comment_title">Ďakujeme za vašu podporu</string>
   <string name="app_guide_feedback_content">Môžete popísať problém?</string>
   <string name="app_guide_feedback_ok">Spätná väzba</string>
-  <string name="app_guide_feedback_title">Prepáčte</string>
+  <string name="app_guide_feedback_title">Дякуємо</string>
   <string name="app_guide_satis_bad">Nedostatočné</string>
   <string name="app_guide_satis_content">Ohodnoťte náš servis</string>
   <string name="app_guide_satis_ok">Spokojný</string>
@@ -86,7 +86,7 @@
   <string name="bluemesh_config_fail_tip">Chyba pridania %s zariadení, skúste znovu</string>
   <string name="bluemesh_deal_with">Dokončené %s</string>
   <string name="bluemesh_device_add_group_full">Zariadenie bolo pridané do ôsmich skupín.</string>
-  <string name="bluemesh_device_disconnect_tip">Udržujte vzdialenosť medzi telefónom a zariadením menej ako 5 metrov.</string>
+  <string name="bluemesh_device_disconnect_tip">Зберігайте відстань менш ніж п’ять метрів між телефоном і пристроєм та переконайтеся, що Bluetooth підключено.</string>
   <string name="bluemesh_lowpower_no_state">Stav nie je hlásený</string>
   <string name="bluemesh_please_open_bluetooth">Zapnite Bluetooth</string>
   <string name="bluetooth_add">Pridať bluetooth zariadenie</string>
@@ -144,6 +144,7 @@
   <string name="code_has_send_to_email">Overovací kód bol poslaný na:</string>
   <string name="code_has_send_to_phone">Verifikačný kód je zaslaný na telefón</string>
   <string name="commonDetails_title">FAQ (často kladené otázky)</string>
+  <string name="commonbiz_device_shortcut_create_dialog_title">Pridať ikonu na domovskú stránku</string>
   <string name="complete_submit">Hotovo</string>
   <string name="conditions_not_empty">Nastavte podmienky</string>
   <string name="config_activator_fail">Prihláste sa s pôvodným účtom pre možnosť jeho zmazania, alebo kontaktujte pracovníkov služieb zákazníkom</string>
@@ -160,9 +161,9 @@
   <string name="config_failure_try_again">Skúsiť znova</string>
   <string name="config_nearby_add_device_title">Pridať zariadenie</string>
   <string name="config_nearby_alert_no_device">Hľadanie prerušené, nenašlo sa žiadne zariadenie.</string>
-  <string name="config_nearby_back_alert_no">Pridať ďalšie</string>
+  <string name="config_nearby_back_alert_no">Додати</string>
   <string name="config_nearby_back_alert_title">Zariadenie nájdené. Chcete zrušiť pridávanie zariadenia?</string>
-  <string name="config_nearby_back_alert_yes">Áno</string>
+  <string name="config_nearby_back_alert_yes">Скасувати</string>
   <string name="config_nearby_device_add_all">Pridať všetky</string>
   <string name="config_nearby_device_add_success">Pridanie je úspešné</string>
   <string name="config_nearby_device_all">Všetky zariadenia</string>
@@ -262,7 +263,7 @@
   <string name="ez_notSupport_5G">Táto aplikácia je podporovaná len na 2,4 GHz WiFi kanáloch</string>
   <string name="ez_notSupport_5G_change">Zmeniť</string>
   <string name="ez_notSupport_5G_continue">Pokračovať</string>
-  <string name="ez_notSupport_5G_tip">Táto aplikácia je podporovaná len na 2,4 GHz WiFi kanáloch, skúste to znova</string>
+  <string name="ez_notSupport_5G_tip">Підтримується лише в безпроводових мережах 2,4 ГГц. Повторіть вибір</string>
   <string name="fail">Chyba</string>
   <string name="family_add_Incompatible">Tento účet dočasne nepodporuje rodinný režim, takže ho nemožno pridať do vašej rodiny. Odporúčame vám kontaktovať používateľa na inováciu aplikácie na najnovšiu verziu.</string>
   <string name="family_create_suc">Vytvorenie domova bolo úspešné</string>
@@ -336,6 +337,7 @@
   <string name="group_add_no_devices_selected">Vyberte aspoň jedno zariadenie</string>
   <string name="group_control_tip">Vytvoriť skupinu a ovládať zariadenia naraz</string>
   <string name="group_create">Vytvoriť skupinu</string>
+  <string name="group_create_control_tip">Všetky zariadenia v jednej skupine je možné ovládať súčasne.</string>
   <string name="group_detail">Viac</string>
   <string name="group_device_add_fail">Nepodarilo sa pridať</string>
   <string name="group_device_delete_fail">Nepodarilo sa odstrániť</string>
@@ -361,6 +363,7 @@
   <string name="has_update">&lt;font color=#ff0000&gt;Nová verzia %s&lt;/font&gt;</string>
   <string name="head_icon">Profilový obrázok</string>
   <string name="headportrait_change_select">Vyberte z galérie telefónu</string>
+  <string name="help_and_feedback">Časté otázky a podpora</string>
   <string name="help_center">FAQ a spätná väzba</string>
   <string name="home_add_device">Pridať zariadenie</string>
   <string name="home_my_device">Zariadenie</string>
@@ -415,7 +418,7 @@
   <string name="ipc_basic_feature_list">Nastavenie základných funkcií</string>
   <string name="ipc_basic_feature_list_tips">Informácia ako napríklad indikácia statusu a otočenie obrazovky</string>
   <string name="ipc_basic_hibernate">Uspanie kamery</string>
-  <string name="ipc_basic_night_vision">IR nočné videnie</string>
+  <string name="ipc_basic_night_vision">ІЧ-функція нічного бачення</string>
   <string name="ipc_basic_night_vision_auto">Automaticky</string>
   <string name="ipc_basic_night_vision_off">Zavrieť</string>
   <string name="ipc_basic_night_vision_on">Zap</string>
@@ -428,7 +431,7 @@
   <string name="ipc_basic_talkmode_two">Obojsmerné audio</string>
   <string name="ipc_basic_talkmode_txt">Efekt je ovplyvňovaný prostredím, vyberte audio režim podľa vašej situácie.</string>
   <string name="ipc_basic_wdr">Režim WDR</string>
-  <string name="ipc_chime_type_digital">Bezdrôtový zvonček</string>
+  <string name="ipc_chime_type_digital">Безпроводовий дзвінок</string>
   <string name="ipc_chime_type_mechanical">Mechanický zvonček</string>
   <string name="ipc_chime_type_without">Žiadny zvonček</string>
   <string name="ipc_cloudstorage_amount">Množstvo</string>
@@ -471,7 +474,7 @@
   <string name="ipc_connect_qc">QR kód</string>
   <string name="ipc_connect_qc_txt">Použite kameru pre naskenovanie QR kódu na telefóne s informáciou o pripojení k sieti</string>
   <string name="ipc_connect_tip">Vyberte správny režim konfigurácie siete podľa typu zariadenia alebo si pozrite používateľskú príručku.</string>
-  <string name="ipc_connect_wired">Konfigurácie káblovej siete</string>
+  <string name="ipc_connect_wired">Конфігурація проводової мережі</string>
   <string name="ipc_connect_wired_txt">Na pripojenie zariadenia k smerovaču použite sieťový kábel. Registrujte a pridajte zariadenie do cloudu.</string>
   <string name="ipc_cruise_mode_full">Automatické sledovanie zdarma</string>
   <string name="ipc_cruise_mode_full_tips">Fotoaparát bude sledovať každý uhol</string>
@@ -495,9 +498,9 @@
   <string name="ipc_cstorage_button_renew">Obnoviť</string>
   <string name="ipc_date_of_album_today">Dnes</string>
   <string name="ipc_day_fri">Pi</string>
-  <string name="ipc_day_mon">Po</string>
+  <string name="ipc_day_mon">Вт</string>
   <string name="ipc_day_sat">So</string>
-  <string name="ipc_day_sun">Ne</string>
+  <string name="ipc_day_sun">понеділок</string>
   <string name="ipc_day_thu">Št</string>
   <string name="ipc_day_tue">Ut</string>
   <string name="ipc_day_wed">St</string>
@@ -519,13 +522,14 @@
   <string name="ipc_electric_percentage">Úroveň batérie</string>
   <string name="ipc_electric_power_source">Zdroj napájania</string>
   <string name="ipc_electric_power_source_batt">Batéria</string>
-  <string name="ipc_electric_power_source_wire">Kábel (nabíjanie)</string>
+  <string name="ipc_electric_power_source_wire">Кабель живлення (зарядний пристрій акумулятора)</string>
   <string name="ipc_electric_title">Riadenie napájania</string>
   <string name="ipc_errmasg_add_memory_point_cruise">Stránky sa nedajú pridať do režimu sledovania.</string>
   <string name="ipc_errmsg_add_memory_point_max">Počet stránok dosiahol hornú hranicu.</string>
   <string name="ipc_errmsg_ap_timeout">Čas vypršal</string>
   <string name="ipc_errmsg_awaken_without_permission">Zdieľané zariadenie, nemáte povolenie na používanie</string>
   <string name="ipc_errmsg_change_definition_failed">Chyba prepnutia definície</string>
+  <string name="ipc_errmsg_cloud_disk_limit_ch">Ви досягли ліміту за пристроями, вимкніть інший пристрій, щоб активувати цей</string>
   <string name="ipc_errmsg_cruise_memorypint_limit">Automatické sledovanie stránok potrebuje minimálne 2 obľúbené stránky.</string>
   <string name="ipc_errmsg_cruise_mode_set_falie">Automatické sledovanie stránok potrebuje minimálne 2 obľúbené stránky.</string>
   <string name="ipc_errmsg_del_memory_point_cruise">Nie je možné upraviť režim sledovania.</string>
@@ -549,7 +553,7 @@
   <string name="ipc_errmsg_stream_connectfail">Šifrovanie vypršalo</string>
   <string name="ipc_errmsg_wrong_password">Nesprávne heslo</string>
   <string name="ipc_firmware_check_update_txt">Kontrola verzie firmwaru</string>
-  <string name="ipc_firmware_current_version_txt">Aktuálna verzia:</string>
+  <string name="ipc_firmware_current_version_txt">Поточна версія вбудованого ПЗ:</string>
   <string name="ipc_firmware_has_upgrade_txt">Nový Firmware</string>
   <string name="ipc_firmware_last_update_never">Nikdy</string>
   <string name="ipc_firmware_last_update_time_txt">Posledná aktualizácia:</string>
@@ -628,7 +632,7 @@
   <string name="ipc_panel_monitor_awake">Prebudiť</string>
   <string name="ipc_panel_monitor_retry">Skúsiť znova</string>
   <string name="ipc_panel_netstatus_signal">Signál</string>
-  <string name="ipc_panel_network_tip">Na kontrolu videa používate mobilné dáta. Venujte pozornosť spotrebe dát.</string>
+  <string name="ipc_panel_network_tip">Для перегляду відео використовується мобільний зв’язок. Стежте за використанням трафіку.</string>
   <string name="ipc_panel_open_camera">Zapnite fotoaparát</string>
   <string name="ipc_panel_setting_chime">Nastavenie zvonenia</string>
   <string name="ipc_panel_setting_chime_tips">Pred použitím nastavte správny zvonček</string>
@@ -674,7 +678,7 @@
   <string name="ipc_setting_ring_add">Pridať</string>
   <string name="ipc_setting_ring_remove">Odstrániť</string>
   <string name="ipc_settings_anti_flicker_50hz">50Hz</string>
-  <string name="ipc_settings_anti_flicker_60hz">60Hz</string>
+  <string name="ipc_settings_anti_flicker_60hz">60 Гц</string>
   <string name="ipc_settings_page_basic_function_txt">Základné nastavenia</string>
   <string name="ipc_settings_page_motion_detected_txt">Alarm detekcie</string>
   <string name="ipc_settings_page_other_function_txt">Ďalšie</string>
@@ -711,7 +715,7 @@
   <string name="ipc_tips_sound_open_success">Zvuk bol úspešne zapnutý</string>
   <string name="ipc_tips_speaker_closed_success">Reproduktor bol úspešne vypnutý</string>
   <string name="ipc_tips_speaker_open_success">Reproduktor bol úspešne zapnutý</string>
-  <string name="ipc_tutk_not_support">Unsupported Device</string>
+  <string name="ipc_tutk_not_support">Пристрій, який не підтримується</string>
   <string name="ipc_video_end">Koniec videa</string>
   <string name="is_save_room_update">Chcete uložiť zmeny pre miestnosť?</string>
   <string name="is_save_smart_update">Potvrdiť zmeny</string>
@@ -725,7 +729,7 @@
   <string name="link_save_empty">Musí byť pridružený minimálne jeden spínač</string>
   <string name="link_switch_empty">Nie je možné pridružiť žiadny spínač</string>
   <string name="load_error">Chyba nahrania</string>
-  <string name="load_failed_check_network">Časový limit načítania skontrolujte v sieti</string>
+  <string name="load_failed_check_network">Час очікування завантаження закінчився, перевірте мережу</string>
   <string name="loading">Nahrávanie</string>
   <string name="local_log">Log aplikácia</string>
   <string name="local_space_no_enough">Nedostatok miesta</string>
@@ -815,7 +819,7 @@
   <string name="message_dnd_add">Pridať plán</string>
   <string name="message_dnd_desc">Alarm zariadenia nerušiť</string>
   <string name="message_dnd_device">Zariadenia nerušiť</string>
-  <string name="message_dnd_endTime">Do</string>
+  <string name="message_dnd_endTime">Кінець</string>
   <string name="message_dnd_everyday">Každý deň</string>
   <string name="message_dnd_fri">Pi</string>
   <string name="message_dnd_mon">Po</string>
@@ -910,7 +914,7 @@
   <string name="ota_update_remind">1. Skontrolujte, či je vaše zariadenie počas aktualizácie pripojené k zdroju napájania. \n2. Táto aktualizácia zaberie 3 až 5 minút. Počas tohto času je vaše zariadenie nepoužiteľné.</string>
   <string name="out_room_device">Príslušenstvo nie je v tejto miestnosti</string>
   <string name="panel_uncompress_error">Chyba pri dekomprimácii</string>
-  <string name="person_panel_dev">Zavolanie riadiaceho panela</string>
+  <string name="person_panel_dev">Розробка панелі керування</string>
   <string name="personal_add_share">Pridať</string>
   <string name="personal_add_share_devices">Pridať zdieľané zariadenia</string>
   <string name="personal_center">Profil</string>
@@ -962,7 +966,7 @@
   <string name="pps_no_sdcard">SD karta sa nenašla</string>
   <string name="pps_not_recording">Nie je prístup k mikrofónu</string>
   <string name="pps_not_storage">Chýba oprávnenie na zápis dát, obrázky a videá nie je možné uložiť</string>
-  <string name="pps_open_recording">Prosím povoľte oprávnenie zápisu</string>
+  <string name="pps_open_recording">Увімкніть доступ до мікрофона в системних налаштуваннях програми</string>
   <string name="pps_open_storage">Otvorte nastavenie zápisu v nastavení aplikácie</string>
   <string name="pps_owner">Vlastník</string>
   <string name="pps_photo_saved">Snímka obrazovky je uložená</string>
@@ -1048,7 +1052,7 @@
   <string name="scene_device_write_error">Chyba zápisu</string>
   <string name="scene_dp_not_exist">Informácie o skupine sa zmenili. Skupinu vymažte a znova pridajte.</string>
   <string name="scene_effective_period_err">Prosím, vyberte región.</string>
-  <string name="scene_effective_period_time">Možnosti časového segmentu platnosti</string>
+  <string name="scene_effective_period_time">Параметри часового відрізка сфери дії</string>
   <string name="scene_end_time">Do</string>
   <string name="scene_excute_start">Spustiť automatizáciu počas realizácie scenára</string>
   <string name="scene_excute_stop">Zastaviť automatizáciu počas realizácie scenára</string>
@@ -1119,6 +1123,7 @@
   <string name="setup">Nastavenie</string>
   <string name="setup_debug_log">Protokol</string>
   <string name="setup_debug_switch">Prepínač ľadenia</string>
+  <string name="share_methods">Ak má člen domácnosti aj účet, odporúčame, aby ste účet nastavili ako „rodinný účet“ a zdieľali zariadenie v domácnosti s členmi rodiny.</string>
   <string name="shared_title">Moje zdieľanie</string>
   <string name="show_first_page">Zobraziť na hlavnej stránke</string>
   <string name="single_week_five">Pi</string>
@@ -1126,7 +1131,7 @@
   <string name="single_week_one">Po</string>
   <string name="single_week_seven">Ne</string>
   <string name="single_week_six">So</string>
-  <string name="single_week_three">St</string>
+  <string name="single_week_three">Середовище</string>
   <string name="single_week_two">Ut</string>
   <string name="sl_homepage_grid_sort">Zobrazenie mriežky</string>
   <string name="sl_homepage_list_sort">Zobrazenie zoznamu</string>
@@ -1178,6 +1183,7 @@
   <string name="ty_activator_ezSearch_devices">Aký druh zariadenia</string>
   <string name="ty_activator_ezSearch_modifyWifi">Upravte konfiguráciu Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">Konfigurácia Wi-Fi</string>
+  <string name="ty_activator_input_wifi_title_des">Zadajte informácie o svojej sieti Wi-Fi.</string>
   <string name="ty_activator_off_line_warn">Oznámenie keď je offline</string>
   <string name="ty_activator_openLimit_ble">Povoliť Bluetooth</string>
   <string name="ty_activator_openLimit_tips">Povoliť povolenia pre skenovacie zariadenia</string>
@@ -1300,7 +1306,7 @@
   <string name="ty_config_dev_pwd_length_too_long">Heslo je moc dlhé, skúste AP mód.</string>
   <string name="ty_config_device_init_tip">Inicializácia zariadenia...</string>
   <string name="ty_config_gateway_dev">Zariadenie Gateway</string>
-  <string name="ty_config_gateway_sub_dev">Subway vedľajšieho zariadenia</string>
+  <string name="ty_config_gateway_sub_dev">Шлюзовий допоміжний пристрій</string>
   <string name="ty_config_id_not_found">Zariadenie nemôže byť odpojené, pretože jeho ID je prázdne.</string>
   <string name="ty_config_reconnect_tips">Potvrďte hot spot</string>
   <string name="ty_config_wifi_dev">Zariadenie Wi-Fi</string>
@@ -1374,11 +1380,13 @@
   <string name="ty_device_network_detecting">Detekcia siete</string>
   <string name="ty_device_network_status_init">Kontrola siete</string>
   <string name="ty_device_network_title">Stav detekcie siete</string>
+  <string name="ty_device_shortcut_create_dialog_tip">Ak pridanie zlyhá, prejdite do nastavenia a zapnite oprávnenie, aby mohla aplikácia %s pridať ikonu na domovskú stránku.</string>
   <string name="ty_device_to_add">Pridať</string>
   <string name="ty_device_to_add_retry">Skúsiť znova</string>
   <string name="ty_devices_disvocer_success">Nájdené %s zariadenie</string>
   <string name="ty_disable">Vypnúť</string>
   <string name="ty_disagree">Nesúhlasím</string>
+  <string name="ty_disagree_logoff">Nesúhlasím</string>
   <string name="ty_dndr_bad">Zlé podmienky v sieti</string>
   <string name="ty_dndr_good">Sieť je v dobrom stave</string>
   <string name="ty_dndr_network_error">Aktuálna sieť je nepoužiteľná a nie je možné sa k nej pripojiť</string>
@@ -1398,7 +1406,7 @@
   <string name="ty_ec_find_add_device_title">Pridať zariadenie</string>
   <string name="ty_edit_scene">Upraviť názov</string>
   <string name="ty_encourage_error_info">Táto funkcia nie je v tejto verzii podporovaná</string>
-  <string name="ty_enter_keyword_tip">Heslo musí mať 6-20 znakov a obsahovať čísla</string>
+  <string name="ty_enter_keyword_tip">Пароль має містити 6-20 символів, літери або цифри</string>
   <string name="ty_enter_scene_name">Zadajte názov scény</string>
   <string name="ty_equipment_information">Informácia o zariadení</string>
   <string name="ty_exe">Vykonať</string>
@@ -1445,7 +1453,7 @@
   <string name="ty_geofence_title">Odišli ste alebo dorazili na miesto (beta)</string>
   <string name="ty_geoprivacy_allowinfo">POVOLIŤ PRÍSTUP K POLOHE</string>
   <string name="ty_geoprivacy_always">Vždy</string>
-  <string name="ty_geoprivacy_appallow">POVOLIŤ PRÍSTUP PRE APLIKACJA „%s“</string>
+  <string name="ty_geoprivacy_appallow">HAДATИ ДОСТУП ПРОГРАМІ «%s»</string>
   <string name="ty_geoprivacy_siri">Siri &amp; vyhľadávanie</string>
   <string name="ty_geoprivacy_wheninuse">Pri používaní apky</string>
   <string name="ty_gesture_not_correct">Chybné heslo, skúste to znova</string>
@@ -1460,7 +1468,7 @@
   <string name="ty_gprs_scanning">Naskenovať QR kód zariadenia</string>
   <string name="ty_home_default_home_name">Môj domov ..</string>
   <string name="ty_home_nav_family">Môj domov</string>
-  <string name="ty_home_nav_mall">Obchod</string>
+  <string name="ty_home_nav_mall">Торговельний центр</string>
   <string name="ty_home_nav_me">Profil</string>
   <string name="ty_home_nav_scene">Smart scény</string>
   <string name="ty_home_tip_add_all_device">Kliknite na \"+\" v pravom hornom rohu pre pridanie zariadení</string>
@@ -1492,7 +1500,7 @@
   <string name="ty_logout_loading">Vypínam, čakajte</string>
   <string name="ty_make_call">Volanie</string>
   <string name="ty_manager">Administrátor</string>
-  <string name="ty_manual_tips">Kliknutím na scénu %s</string>
+  <string name="ty_manual_tips">Після натискання %s виконується миттєвий сценарій</string>
   <string name="ty_max_pick_tip">Vyberte iba %d obrázkov</string>
   <string name="ty_member_not_operate">Bežní členovia nemôžu ovládať.</string>
   <string name="ty_mesh_ble_add_complete">Zariadenie %1$s pridané %2$s</string>
@@ -1539,9 +1547,9 @@
   <string name="ty_message_allow_yes">dovoliť</string>
   <string name="ty_message_center_device">Zariadenie</string>
   <string name="ty_message_device_enable">Zariadenie</string>
-  <string name="ty_message_dnd_device_count_tip">Upozornenia pre zariadenia %d budú stlmiť</string>
+  <string name="ty_message_dnd_device_count_tip">Повідомлення для %d пристроїв буде вимкнено</string>
   <string name="ty_message_family_enable">rodina</string>
-  <string name="ty_message_notice_enable">bulletin</string>
+  <string name="ty_message_notice_enable">Повідомити</string>
   <string name="ty_message_push_enable">Povoliť upozornenia</string>
   <string name="ty_message_push_title">Nastavenia upozornení</string>
   <string name="ty_mobile_binding_tip">Po overení sa môžete prihlásiť pomocou mobilného čísla</string>
@@ -1584,7 +1592,7 @@
   <string name="ty_profile_select_tz">Vyberte časovú zónu</string>
   <string name="ty_refresh_footer_idle">Ak chcete načítať viac údajov, kliknite sem alebo prejdite nahor</string>
   <string name="ty_refresh_footer_nomoredata">Všetky údaje boli načítané.</string>
-  <string name="ty_refresh_footer_pulling">Posunúť nahor a uvoľniť</string>
+  <string name="ty_refresh_footer_pulling">Відпустіть, щоб оновити</string>
   <string name="ty_refresh_footer_refreshing">Načítavanie...</string>
   <string name="ty_remove_out_family">Boli ste odstránený z rodiny %s a nemôžete ovládať zariadenia tejto rodiny.</string>
   <string name="ty_remove_out_family_subtitle">Zariadenia rodiny nemôžu byť použité</string>
@@ -1598,9 +1606,11 @@
   <string name="ty_scanning_remind">Prosím zarovnajte QR kód do rámčeku pre skenovanie</string>
   <string name="ty_scanning_skip">Poslať na</string>
   <string name="ty_scene">Scéna</string>
+  <string name="ty_scene_and_automation">Rýchla predvoľba a automatizácia</string>
   <string name="ty_scene_dp_duration">trvanie</string>
   <string name="ty_scene_empty_tip">Ovládať viacero zariadení jedným kliknutím alebo pomocou reproduktora AI prostredníctvom hlasových príkazov.</string>
   <string name="ty_scene_member_back_home">Člen rodiny na ceste domov</string>
+  <string name="ty_scene_no_related_scenes">Ešte neboli vytvorené rýchle predvoľby ani automatizácie.</string>
   <string name="ty_scene_set_time">Nastavte čas</string>
   <string name="ty_search_retry">Znovu vyhľadať</string>
   <string name="ty_search_timeout_no_device">Skenovanie prerušené. Nenašlo sa žiadne zariadenie.</string>
@@ -1629,6 +1639,7 @@
   <string name="ty_share_empty_device_content">Jednoducho zdieľajte zariadenie s rodinou\n Smart domov je tu</string>
   <string name="ty_share_fail">Zdieľanie zlyhalo</string>
   <string name="ty_share_succeed">Zdieľanie bolo úspešné</string>
+  <string name="ty_sharedevice_cant_share_reason">V súčasnosti nie je možné s inými používateľmi zdieľať zariadenie Bluetooth Mesh, Zigbee, zariadenie s infračerveným portom a zariadenie Bluetooth Beacon.</string>
   <string name="ty_shortcut_adddevice">Pridať zariadenie</string>
   <string name="ty_shortcut_message">Centrum správ</string>
   <string name="ty_shortcut_voice">Hlas</string>

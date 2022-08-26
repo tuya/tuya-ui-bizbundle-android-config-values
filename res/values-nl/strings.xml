@@ -1179,6 +1179,7 @@
   <string name="ty_activator_ezSearch_devices">Wat voor soort apparaat</string>
   <string name="ty_activator_ezSearch_modifyWifi">Wijzig Wi-Fi-configuratie</string>
   <string name="ty_activator_ezSearch_wifi">Wi-Fi configureren</string>
+  <string name="ty_activator_input_wifi_title_des">Voer uw wifi-gegevens in.</string>
   <string name="ty_activator_off_line_warn">Melding Bij Offline</string>
   <string name="ty_activator_openLimit_ble">Schakel Bluetooth in</string>
   <string name="ty_activator_openLimit_tips">Machtigingen inschakelen voor scanapparaten</string>
@@ -1277,6 +1278,7 @@
   <string name="ty_arrive_or_leave">Aangekomen op/vertrekken van een plaats</string>
   <string name="ty_auto_empty_tip">Automatisch uitvoeren overeenkomstig condities zoals weer, apparaatstatus en tijd.</string>
   <string name="ty_automatic">Instellen</string>
+  <string name="ty_avg_prefix">Gemiddeld</string>
   <string name="ty_bind_phone_num">Telefoonnummer Verbinden</string>
   <string name="ty_bind_phone_num_now">Activeren</string>
   <string name="ty_ble_bind">Toevoegen</string>
@@ -1381,6 +1383,7 @@
   <string name="ty_devices_disvocer_success">%s Apparaten Gevonden</string>
   <string name="ty_disable">Uitschakelen</string>
   <string name="ty_disagree">Niet akkoord</string>
+  <string name="ty_disagree_logoff">Niet akkoord</string>
   <string name="ty_dndr_bad">Netwerk in Slechte Staat</string>
   <string name="ty_dndr_good">Netwerk in Goede Staat</string>
   <string name="ty_dndr_network_error">Het huidige netwerk anomalieën en kan geen verbinding maken met het netwerk</string>
@@ -1496,6 +1499,7 @@
   <string name="ty_manager">Beheerder</string>
   <string name="ty_manual_tips">Bij het klikken van %s scène.</string>
   <string name="ty_max_pick_tip">Selecteer alleen tot %d afbeeldingen</string>
+  <string name="ty_max_prefix">Maximum</string>
   <string name="ty_member_not_operate">Gewone leden mogen het niet bedienen</string>
   <string name="ty_mesh_ble_add_complete">%1$s apparaten gevonden en %2$s apparaten succesvol toegevoegd.</string>
   <string name="ty_mesh_ble_add_device">Het toevoegen van een Bluetooth-apparaat</string>
@@ -1546,6 +1550,7 @@
   <string name="ty_message_notice_enable">Bulletin</string>
   <string name="ty_message_push_enable">Notificaties aanzetten</string>
   <string name="ty_message_push_title">Meldingen Instellingen</string>
+  <string name="ty_min_prefix">Minimum</string>
   <string name="ty_mobile_binding_tip">Login met je telefoonnummer na verificatie</string>
   <string name="ty_mobile_change_button">Mobiel Nummer Veranderen</string>
   <string name="ty_mobile_change_phone">Uw Mobiel Nummer</string>

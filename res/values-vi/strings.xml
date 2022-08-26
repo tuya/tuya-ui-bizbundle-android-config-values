@@ -1774,6 +1774,7 @@
   <string name="ty_activator_feedback_placehold">Nhập tên nhãn hiệu/model</string>
   <string name="ty_activator_feedback_unSelectedTips">Chọn ít nhất một mục</string>
   <string name="ty_activator_find_device">Phát hiện thiết bị khả dụng</string>
+  <string name="ty_activator_input_wifi_title_des">Vui lòng nhập thông tin Wifi</string>
   <string name="ty_activator_locationAlert_always">Luôn luôn</string>
   <string name="ty_activator_locationAlert_location">Địa điểm</string>
   <string name="ty_activator_locationAlert_manualInput">Nhập thủ công</string>
@@ -2010,6 +2011,7 @@
   <string name="ty_devices_disvocer_success">Đã tìm thấy %s thiết bị</string>
   <string name="ty_disable">Vô hiệu hóa</string>
   <string name="ty_disagree">Không đồng ý</string>
+  <string name="ty_disagree_logoff">Không đồng ý</string>
   <string name="ty_dndr_bad">Mạng yếu</string>
   <string name="ty_dndr_good">Tốt</string>
   <string name="ty_dndr_network_error">Lỗi mạng, không thể kết nối với mạng</string>

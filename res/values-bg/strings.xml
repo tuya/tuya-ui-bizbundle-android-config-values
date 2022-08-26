@@ -601,6 +601,9 @@
   <string name="hometab_ignore_tip">Не показвайте това съобщение отново.</string>
   <string name="hs_abnormal_device_number">Непостоянни устройства</string>
   <string name="hs_add_gateway_device">Добави Портал</string>
+  <string name="hs_arm_all_hours_subTile">Моля въведете фамилно име</string>
+  <string name="hs_arm_all_hours_subTitle">Моля въведете фамилно име</string>
+  <string name="hs_arm_mode">Моял въведете първо име</string>
   <string name="hs_armed_disarm">Изкл.</string>
   <string name="hs_armed_leaving">Напускане Дом</string>
   <string name="hs_armed_stay">Вкъщи</string>
@@ -1956,6 +1959,7 @@
   <string name="ty_activator_gprsNB_failure">Ако устройството е online, опитаите отново</string>
   <string name="ty_activator_has_clicked_add_all">Добавяне</string>
   <string name="ty_activator_input_wifi_title">Изберете WIFI и въведете парола</string>
+  <string name="ty_activator_input_wifi_title_des">Моля, въведете Wi-Fi данни</string>
   <string name="ty_activator_lightning_device_timeout_content">Потвърдете че устройството е наблизо и готово да се свърже.</string>
   <string name="ty_activator_local_network">Локален достъп до мрежата</string>
   <string name="ty_activator_local_network_fail">Потвърдете че \"локален достъп\" е вкл.</string>
@@ -2254,6 +2258,7 @@
   <string name="ty_devices_disvocer_success">Намерено%s Device (s)</string>
   <string name="ty_disable">Разкачване</string>
   <string name="ty_disagree">Несъгласен</string>
+  <string name="ty_disagree_logoff">Несъгласен</string>
   <string name="ty_dndr_bad">Лоша мрежова връзка</string>
   <string name="ty_dndr_good">Добре</string>
   <string name="ty_dndr_network_error">Мрежова грешка, не може да се свърже с мрежата</string>

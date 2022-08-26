@@ -1177,6 +1177,7 @@
   <string name="ty_activator_ezSearch_devices">อุปกรณ์ประเภทใด</string>
   <string name="ty_activator_ezSearch_modifyWifi">ปรับเปลี่ยนการกำหนดค่า Wi-Fi</string>
   <string name="ty_activator_ezSearch_wifi">การกำหนดค่า Wi-Fi</string>
+  <string name="ty_activator_input_wifi_title_des">กรุณาป้อนข้อมูล Wi-Fi ของคุณ</string>
   <string name="ty_activator_openLimit_ble">เปิดใช้งาน Bluetooth</string>
   <string name="ty_activator_openLimit_tips">เปิดใช้งานการอนุญาตสำหรับอุปกรณ์สแกน</string>
   <string name="ty_activator_openLimit_wifi">เปิดใช้งาน Wi-Fi</string>
@@ -1272,6 +1273,7 @@
   <string name="ty_arrive_or_leave">มาถึงที่/ออกจากสถานที่</string>
   <string name="ty_auto_empty_tip">ดำเนินการโดยอัตโนมัติอิงตามเงื่อนไขเช่น สภาพอากาศ สถานะอุปกรณ์ และเวลา</string>
   <string name="ty_automatic">ระบบอัตโนมัติ</string>
+  <string name="ty_avg_prefix">ขั้นต่ำ</string>
   <string name="ty_bind_phone_num">โปรดผูกหมายเลขโทรศัพท์เป็นอันดับแรก</string>
   <string name="ty_bind_phone_num_now">ผูก</string>
   <string name="ty_ble_bind">เพิ่ม</string>
@@ -1490,6 +1492,7 @@
   <string name="ty_manager">ผู้ดูแลระบบ</string>
   <string name="ty_manual_tips">เมื่อคลิกที่ฉาก %s</string>
   <string name="ty_max_pick_tip">เลือกได้สูงสุด %d ภาพ</string>
+  <string name="ty_max_prefix">ขีดสุด</string>
   <string name="ty_member_not_operate">สมาชิกธรรมดาจะไม่สามารถดำเนินการได้</string>
   <string name="ty_mesh_ble_add_complete">พบอุปกรณ์ %1$s เครื่อง และเพิ่มอุปกรณ์ %2$s เครื่องเรียบร้อยแล้ว</string>
   <string name="ty_mesh_ble_add_device">กำลังเพิ่มอุปกรณ์บลูทูธ</string>
@@ -1540,6 +1543,7 @@
   <string name="ty_message_notice_enable">แถลงการณ์</string>
   <string name="ty_message_push_enable">เปิดใช้งานการแจ้งเตือน</string>
   <string name="ty_message_push_title">การตั้งค่าการแจ้งเตือน</string>
+  <string name="ty_min_prefix">ขั้นต่ำ</string>
   <string name="ty_mobile_binding_tip">คุณสามารถเข้าสู่ระบบได้โดยตรงโดยใช้หมายเลขโทรศัพท์หลังเสร็จสิ้นการตรวจสอบ</string>
   <string name="ty_mobile_change_button">เปลี่ยนหมายเลขโทรศัพท์</string>
   <string name="ty_mobile_change_phone">หมายเลขโทรศัพท์ของคุณ</string>
