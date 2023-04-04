@@ -1,4 +1,4 @@
-# Config files of Tuya Smart UI Bizbundle for Android
+# Config files of Thing Smart UI Bizbundle for Android
 
 Contains the configuration files and language settings.
 

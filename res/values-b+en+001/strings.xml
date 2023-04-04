@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources/>
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="thing_avg_prefix">Avg</string>
+  <string name="thing_max_prefix">Max</string>
+  <string name="thing_min_prefix">Min</string>
+</resources>
