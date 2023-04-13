@@ -59,6 +59,9 @@
     ]
   },
   "moduleMap": {
+    "com.thingclips.smart.mlkit.qrcode.MLKitModuleApp": [
+      "scan_qrcode"
+    ],
     "com.thingclips.smart.ipc.localphotovideo.LocalPhotoVideoApp": [
       "ipc_album_panel"
     ],
@@ -190,7 +193,7 @@
     "com.thingclips.smart.country.select.CountrySelectApp": [
       "country_list"
     ],
-    "com.thingclips.smart.activator.device.guide.ActivatorDeviceGuideApp": [
+    "com.thingclips.smart.activator.matter.ui.ActivatorMatterUiApp": [
       "scan_matter_dev_active",
       "manual_input_matter_device_info"
     ],
@@ -416,6 +419,7 @@
     ]
   },
   "serviceMap": {
+    "com.thingclips.smart.personal.third.service.api.AbsPersonalThirdService": "com.thingclips.smart.personal_third_service.PersonalThirdServiceImpl",
     "com.thingclips.smart.activator.device.list.plug.api.ThingPlugActivatorDeviceListService": "com.thingclips.smart.activator.device.list.ActivatorDeviceListServiceImpl",
     "com.thingclips.smart.family.member.api.AbsFamilyMemberUseCaseApi": "com.thingclips.smart.family.member.domain.FamilyMemberUseCaseApiImpl",
     "com.thingclips.smart.family.api.AbsFamilyBusinessService": "com.thingclips.smart.family.AbsFamilyBusinessServiceImpl",
@@ -567,7 +571,8 @@
     "com.thingclips.group_ui_api.GroupManagerService": "com.thingclips.smart.group.GroupManagerImpl",
     "com.thingclips.smart.webcontainer_api.WebContainerService": "com.thingclips.smart.jsbridge.WebContainerServiceImpl",
     "com.thingclips.smart.panelcaller.api.AbsPanelCallerService": "com.thingclips.smart.panelcaller.PanelCallerServiceImpl",
-    "com.thingclips.smart.ipc.panel.api.AbsCameraStateService": "com.thingclips.smart.ipc.camera.rnpanel.service.CameraStateServiceImpl"
+    "com.thingclips.smart.ipc.panel.api.AbsCameraStateService": "com.thingclips.smart.ipc.camera.rnpanel.service.CameraStateServiceImpl",
+    "com.thingclips.smart.multimedia.qrcode.api.ScanQRCodeService": "com.thingclips.smart.mlkit.qrcode.ScanQRCodeServiceImpl"
   },
   "eventMap": {
     "global_clear_event": [
@@ -577,6 +582,10 @@
       }
     ],
     "global_user_event": [
+      {
+        "name": "com.thingclips.smart.activator.matter.ui.ActivatorMatterUiApp",
+        "thread": false
+      },
       {
         "name": "com.thingclips.smart.camera.CameraApp",
         "thread": false
