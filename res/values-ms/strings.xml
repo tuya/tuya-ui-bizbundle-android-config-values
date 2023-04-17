@@ -3,4 +3,8 @@
   <string name="ipc_settings_anti_flicker_60hz">60Hz</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="personal_speech_service_dueros">XIAODU</string>
+  <string name="thing_activator_input_wifi_title_des">Sila masukkan maklumat Wi-Fi anda.</string>
+  <string name="thing_avg_prefix">Purata</string>
+  <string name="thing_max_prefix">Maksimum</string>
+  <string name="thing_min_prefix">Minimum</string>
 </resources>

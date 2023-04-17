@@ -2,4 +2,5 @@
   <string name="ipc_settings_anti_flicker_50hz">50Hz</string>
   <string name="ipc_settings_anti_flicker_60hz">60Hz</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
+  <string name="thing_activator_input_wifi_title_des">Vennligst skriv inn Wi-Fi-informasjonen din.</string>
 </resources>

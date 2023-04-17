@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><resources/>
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="thing_activator_progress_exit_alert_message">Maybe the device is being added. Are you sure to exit? If you exit now, please reset the device when you add it again.</string>
+</resources>
