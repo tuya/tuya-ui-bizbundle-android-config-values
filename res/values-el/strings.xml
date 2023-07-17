@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Αποτυχία λήψης υπηρεσίας αποκωδικοποίησης</string>
-  <string name="Confirm">Επιβεβαιώνω</string>
-  <string name="Help">Βοήθεια</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Υπέρβαση ορίου έως %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Για πρσσθήκη ή χρήση συσκευών Bluetooth, ενεργοποιηστε το Bluetooth στο κινητό σας τηλεφωνο</string>
   <string name="NSBluetoothPeripheralUsageDescription">Για πρσσθήκη ή χρήση συσκευών Bluetooth, ενεργοποιηστε το Bluetooth στο κινητό σας τηλεφωνο</string>
@@ -1366,6 +1364,7 @@
   <string name="thingconfig_add_history">Αρχεία ιστορικών προσθηκών</string>
   <string name="tv_add_clock_time">Προσθήκη Χρονισμού</string>
   <string name="thing_about_thingsmart">Σχετικά με την εφαρμογη</string>
+  <string name="thing_activator_add_device_timeout">Η προσθήκη συσκευής απέτυχε</string>
   <string name="thing_activator_ap_failure1">Ελέγξτε αν η συσκευή έχει μηδενιστεί και η ένδειξη αναβοσβήνει αργά</string>
   <string name="thing_activator_ap_failure2">Ελέγξτε αν το κινητό είναι συνδεδεμένο στο hotspot της συσκευής</string>
   <string name="thing_activator_bleLimit_open">Ρύθμιση</string>
@@ -1577,6 +1576,7 @@
   <string name="thing_debug_networktime">Η μέση καθυστέρηση του δικτύου</string>
   <string name="thing_del_scene_succ">Διαγράφηκε Με Επιτυχία</string>
   <string name="thing_delete">Διαγραφή</string>
+  <string name="thing_delete_scene">Διαγραφή έξυπνης</string>
   <string name="thing_delete_scene_task">Διαγράψτε Το Έργο</string>
   <string name="thing_delete_scene_tips">Οι εργασίες δεν μπορούν να εκτελεστούν κανονικά μετά την διαγραφή της σκηνής.</string>
   <string name="thing_delete_share">Διαγραφή κοινοποίησης.</string>

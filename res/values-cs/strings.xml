@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">OK</string>
-  <string name="Help">Pomoc</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Překročení limitu až %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">Aplikace potřebuje telefon k otevření Bluetooth pro přidání a používání zařízení Bluetooth. Dovolíte aplikaci povolit Bluetooth?</string>
   <string name="NSCameraUsageDescription">Funkce, jako je přidání kamery a skenování QR kódu, vyžadují použití kamery</string>
@@ -1179,6 +1177,7 @@
   <string name="thingconfig_add_history">Přidat historii</string>
   <string name="tv_add_clock_time">Přidat časování</string>
   <string name="thing_about_thingsmart">O Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Nepodařilo se přidat zařízení</string>
   <string name="thing_activator_ezSearch_devices">Jaké zařízení</string>
   <string name="thing_activator_ezSearch_modifyWifi">Upravte konfiguraci Wi-Fi</string>
   <string name="thing_activator_ezSearch_wifi">Konfigurace Wi-Fi</string>
@@ -1343,6 +1342,7 @@
   <string name="thing_debug_networktime">Průměrné zpoždění v síti</string>
   <string name="thing_del_scene_succ">Úspěšně smazán</string>
   <string name="thing_delete">Odstranit</string>
+  <string name="thing_delete_scene">Smazat Smart</string>
   <string name="thing_delete_scene_task">Smazat tento úkol</string>
   <string name="thing_delete_scene_tips">Po smazání nebude možné úkoly zařízení běžně provádět</string>
   <string name="thing_delete_share">Odstranit sdílení</string>

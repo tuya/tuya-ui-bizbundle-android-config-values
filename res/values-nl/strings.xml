@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">Bevestigen</string>
-  <string name="Help">Zie Help</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Een limiet van maximaal %s overschrijden</string>
   <string name="NSBluetoothPeripheralUsageDescription">U moet Bluetooth op uw telefoon inschakelen om Bluetooth-apparaten toe te voegen of te gebruiken.</string>
   <string name="NSCameraUsageDescription">Functies zoals het toevoegen van een camera en het scannen van een QR-code vereisen het gebruik van een camera</string>
@@ -1173,6 +1171,7 @@
   <string name="thingconfig_add_history">Eerdere toevoegingsrecords</string>
   <string name="tv_add_clock_time">Schema Toevoegen</string>
   <string name="thing_about_thingsmart">Over Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Toevoegen van toestel niet gelukt</string>
   <string name="thing_activator_dev_off_line_warn">Melding Bij Offline</string>
   <string name="thing_activator_ezSearch_devices">Wat voor soort apparaat</string>
   <string name="thing_activator_ezSearch_modifyWifi">Wijzig Wi-Fi-configuratie</string>
@@ -1337,6 +1336,7 @@
   <string name="thing_debug_networktime">Netwerk Tijd</string>
   <string name="thing_del_scene_succ">Verwijderen Succesvol</string>
   <string name="thing_delete">verwijderen</string>
+  <string name="thing_delete_scene">Smart annuleren</string>
   <string name="thing_delete_scene_task">Verwijder De Opdracht</string>
   <string name="thing_delete_scene_tips">Taken kunnen normaal niet worden uitgevoerd na het verwijderen van de scène.</string>
   <string name="thing_delete_share">Delen verwijderen,</string>

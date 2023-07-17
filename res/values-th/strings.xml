@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">ยืนยัน</string>
-  <string name="Help">ช่วยเหลือ</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">เกินขีด จำกัด สูงสุดถึง %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">คุณต้องเปิดบลูทูธบนโทรศัพท์เพื่อที่จะเพิ่มหรือใช้งานอุปกรณ์บลูทูธ</string>
   <string name="NSCameraUsageDescription">ฟังก์ชัน เช่น การเพิ่มกล้องหรือสแกนคิวอาร์โค้ด จำเป็นต้องใช้กล้อง</string>
@@ -383,6 +381,7 @@
   <string name="invitation_confirm">ยืนยันคำเชิญ</string>
   <string name="invitation_confirm_detail">คุณได้รับคำเชิญให้เข้าร่วมบ้านอัจฉริยะ \"%s\" เพื่อเพลิดเพลินไปกับชีวิตที่ชาญฉลาด คุณแน่ใจหรือไม่ว่าต้องการเข้าร่วม</string>
   <string name="invitation_refuse">ปฏิเสธ</string>
+  <string name="ipc_ai_cloud_empty_des">ไม่พบวิดีโอที่เกี่ยวข้อง\nไม่พบเป้าหมายหรือไม่ได้เปิดใช้การวิเคราะห์ AI</string>
   <string name="ipc_ai_fr_list_delete_inverse">สลับส่วนที่เลือก</string>
   <string name="ipc_ai_fr_list_person_merge_done">เสร็จสิ้น</string>
   <string name="ipc_ai_fr_list_person_more_delete">ลบใบหน้า</string>
@@ -400,6 +399,10 @@
   <string name="ipc_ai_fr_record_list_title">บันทึกการรู้จำ</string>
   <string name="ipc_ai_fr_tab1">ใบหน้าที่แท็ก</string>
   <string name="ipc_ai_fr_tab2">ใบหน้าที่ยกเลิกการแท็ก</string>
+  <string name="ipc_ai_recognition_item">เป้าหมายการวิเคราะห์</string>
+  <string name="ipc_ai_video_ability_des">มีการปรับปรุงความสามารถในการวิเคราะห์เพิ่มเติมอย่างต่อเนื่อง</string>
+  <string name="ipc_ai_video_analyse">การวิเคราะห์อย่างชาญฉลาด</string>
+  <string name="ipc_ai_video_des">การเปิดใช้งานคุณสมบัติจะทำการวิเคราะห์ AI ในการบันทึกเหตุการณ์การตรวจจับการเคลื่อนไหว</string>
   <string name="ipc_alarm_detected_feature_list">การตั้งค่าการเตือนการตรวจจับ</string>
   <string name="ipc_alarm_region_settings_tips">ลาก/ปรับขนาดกรอบสีแดงเพื่อตั้งค่าภูมิภาคกิจกรรม</string>
   <string name="ipc_alarm_timer_settings">กำหนดการ</string>
@@ -428,6 +431,7 @@
   <string name="ipc_chime_type_digital">กริ่งไร้สาย</string>
   <string name="ipc_chime_type_mechanical">กริ่งเครื่องจักร</string>
   <string name="ipc_chime_type_without">ไม่มีกริ่ง</string>
+  <string name="ipc_cloud_empty_event_des">ไม่มีวิดีโอเหตุการณ์ที่เกี่ยวข้อง</string>
   <string name="ipc_cloudstorage_amount">ปริมาณการซื้อ</string>
   <string name="ipc_cloudstorage_annually">แผนประจำปี</string>
   <string name="ipc_cloudstorage_billed">เลือกแผน</string>
@@ -1172,6 +1176,7 @@
   <string name="thingconfig_add_history">บันทึกเพิ่มเติมย้อนหลัง</string>
   <string name="tv_add_clock_time">เพิ่มกำหนดการ</string>
   <string name="thing_about_thingsmart">เกี่ยวกับ Smart Life</string>
+  <string name="thing_activator_add_device_timeout">เพิ่มอุปกรณ์ล้มเหลว</string>
   <string name="thing_activator_ezSearch_devices">อุปกรณ์ประเภทใด</string>
   <string name="thing_activator_ezSearch_modifyWifi">ปรับเปลี่ยนการกำหนดค่า Wi-Fi</string>
   <string name="thing_activator_ezSearch_wifi">การกำหนดค่า Wi-Fi</string>
@@ -1333,6 +1338,7 @@
   <string name="thing_debug_networktime">การหน่วงเวลาเครือข่ายเฉลี่ย</string>
   <string name="thing_del_scene_succ">ลบเรียบร้อยแล้ว</string>
   <string name="thing_delete">ลบ</string>
+  <string name="thing_delete_scene">ลบอุปกรณ์อัจฉริยะ</string>
   <string name="thing_delete_scene_task">ลบงาน</string>
   <string name="thing_delete_scene_tips">เมื่อลบแล้ว งานของอุปกรณ์จะไม่สามารถดำเนินการได้ตามปกติ</string>
   <string name="thing_delete_share">ลบการแชร์</string>

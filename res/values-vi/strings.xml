@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Không thể nhận dịch vụ giải mã</string>
-  <string name="Confirm">Xác nhận</string>
-  <string name="Help">Trợ giúp</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Vượt quá số lượng cho phép: %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Điều này sẽ cho phép ứng dụng tìm và kết nối các phụ kiện Bluetooth. Ứng dụng này cũng có thể sử dụng để lấy vị trí của thiết bị Bluetooth</string>
   <string name="NSBluetoothPeripheralUsageDescription">Ứng dụng cần sử dụng Bluetooth của điện thoại để thêm và sử dụng các thiết bị Bluetooth</string>
@@ -1736,6 +1734,7 @@
   <string name="tx_status_slow">Nhấp nháy chậm (3 giây / 1 lần)</string>
   <string name="tx_status_title">Chọn trạng thái đèn chỉ báo</string>
   <string name="thing_about_thingsmart">Giới thiệu về Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Thêm thiết bị thất bại</string>
   <string name="thing_activator_ap_failure1">Xác nhận rằng thiết bị đã được đặt lại và đèn nhấp nháy chậm</string>
   <string name="thing_activator_ap_failure2">Điện thoại di động của bạn có được kết nối với điểm phát sóng của thiết bị không.</string>
   <string name="thing_activator_bleLimit_open">Đã được cài đặt</string>
@@ -1961,6 +1960,7 @@
   <string name="thing_debug_networktime">Độ trễ mạng trung bình</string>
   <string name="thing_del_scene_succ">Đã xoá</string>
   <string name="thing_delete">Xóa</string>
+  <string name="thing_delete_scene">Xóa</string>
   <string name="thing_delete_scene_task">Xóa tác vụ</string>
   <string name="thing_delete_scene_tips">Sau khi kịch bản bị xóa, các tác vụ của thiết bị không thể được thực thi nữa</string>
   <string name="thing_delete_share">Xóa chia sẻ</string>

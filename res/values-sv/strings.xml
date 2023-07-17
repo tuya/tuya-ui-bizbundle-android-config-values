@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">Bekräfta</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Överstiger en gräns på upp till %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">Vi måste öppna Bluetooth för att lägga till och använda Bluetooth-enheten.</string>
   <string name="NSCameraUsageDescription">Vi behöver använda kameran för att lägga till nytt porträtt, skanna tvådimensionella koder och andra funktioner.</string>
@@ -687,6 +686,7 @@
   <string name="tuesday">Tisdag</string>
   <string name="tv_add_clock_time">Lägg till timing</string>
   <string name="thing_about_thingsmart">Om Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Tillägg misslyckades</string>
   <string name="thing_activator_ezSearch_devices">Vilken typ av enhet</string>
   <string name="thing_activator_ezSearch_modifyWifi">Ändra Wi-Fi-konfiguration</string>
   <string name="thing_activator_ezSearch_wifi">Konfigurera Wi-Fi</string>
@@ -817,6 +817,7 @@
   <string name="thing_debug_networktime">Genomsnittlig nätverksfördröjning</string>
   <string name="thing_del_scene_succ">Borttagning klart.</string>
   <string name="thing_delete">Radera</string>
+  <string name="thing_delete_scene">Radera Smart</string>
   <string name="thing_delete_scene_task">Ta bort uppgiften</string>
   <string name="thing_delete_scene_tips">Uppgifter kan normalt inte utföras efter att scenen har raderats.</string>
   <string name="thing_delete_share">Radera delning.</string>

@@ -2,13 +2,11 @@
   <string name="AES_KEY_LOAD_ERROR">Не вдалося розшифрувати</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Пристрій</string>
   <string name="CATEGORY_ICON_LAMPS">Освітлення</string>
-  <string name="Confirm">Підтвердити</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYARRIVE">Розблоковано</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYLEAVE">Заблоковано</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Прихід додому</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Покинути дім</string>
   <string name="HOME_BANNER_CARD_ENERGY_DATA_DESC">Останні відомості про енергоспоживання</string>
-  <string name="Help">Довідка</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Перевищення ліміту до %s</string>
   <string name="NSAppleMusicUsageDescription">Застосунку потрібен доступ до вашої медіатеки для доступу до музики. Якщо ви не надасте доступ, локальні музичні файли не можна буде додати.</string>
   <string name="NSBluetoothAlwaysUsageDescription">Активуйте Bluetooth для додавання і використання пристрою Bluetooth.</string>
@@ -2482,7 +2480,7 @@
   <string name="thing_activator_add_device_failure">Не вдалося додати</string>
   <string name="thing_activator_add_device_failure_code_3">Невірний пароль Wi-Fi</string>
   <string name="thing_activator_add_device_text">Додати</string>
-  <string name="thing_activator_add_device_timeout">Тайм-аут додавання пристрою</string>
+  <string name="thing_activator_add_device_timeout">Не вдалося додати пристрій</string>
   <string name="thing_activator_add_device_title">Знайдено %1$s пристроїв. Додано %2$s успішно.</string>
   <string name="thing_activator_alert_ble_desc">Увімкнути дозвіл для Bluetooth</string>
   <string name="thing_activator_alert_ble_open_text">Увімкнути Bluetooth</string>
@@ -2907,6 +2905,7 @@
   <string name="thing_delete">Видалити</string>
   <string name="thing_delete_accessory_content">Після Скасування прив\'язки ви не зможете керувати пристроєм через пульт дистанційного керування.</string>
   <string name="thing_delete_accessory_title">Справді скасувати прив\'язку пульта дистанційного керування?</string>
+  <string name="thing_delete_scene">Видалити смарт-пристрій</string>
   <string name="thing_delete_scene_task">Видалити завдання</string>
   <string name="thing_delete_scene_tips">Завдання пристрою не зможуть нормально виконуватися після видалення</string>
   <string name="thing_delete_share">Видалити спільний доступ</string>

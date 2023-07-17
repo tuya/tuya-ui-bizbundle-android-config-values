@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">Potvrdiť</string>
-  <string name="Help">Pomoc</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Prekročenie limitu až do %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">Ak chcete pridať Bluetooth zariadenia, musíte na svojom telefóne zapnúť funkciu Bluetooth.</string>
   <string name="NSCameraUsageDescription">Funkcie ako pridanie fotoaparátu a skenovanie QR kódu si vyžadujú použitie fotoaparátu</string>
@@ -1180,6 +1178,7 @@
   <string name="thingconfig_add_history">Záznamy o minulých pridaniach</string>
   <string name="tv_add_clock_time">Pridať plán</string>
   <string name="thing_about_thingsmart">O platforme Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Chyba pridania zariadenia</string>
   <string name="thing_activator_ezSearch_devices">Aký druh zariadenia</string>
   <string name="thing_activator_ezSearch_modifyWifi">Upravte konfiguráciu Wi-Fi</string>
   <string name="thing_activator_ezSearch_wifi">Konfigurácia Wi-Fi</string>
@@ -1340,6 +1339,7 @@
   <string name="thing_debug_networktime">Priemerný čas siete</string>
   <string name="thing_del_scene_succ">Zmazanie úspešné</string>
   <string name="thing_delete">Zmazať</string>
+  <string name="thing_delete_scene">Zmazať</string>
   <string name="thing_delete_scene_task">Zmazať úlohu</string>
   <string name="thing_delete_scene_tips">Úlohy nemôžu byť vykonané po zmazaní scény.</string>
   <string name="thing_delete_share">Zmazať zdieľanie</string>

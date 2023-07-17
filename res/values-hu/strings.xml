@@ -2,12 +2,10 @@
   <string name="AES_KEY_LOAD_ERROR">Sikertelen dekódolási csatlakozás</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Háztartási gépek</string>
   <string name="CATEGORY_ICON_LAMPS">Világítás</string>
-  <string name="Confirm">Jóváhagy</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYARRIVE">Kizárva</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYLEAVE">Bezárva</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Hazaérkezés</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Távozás</string>
-  <string name="Help">Súgó</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Túllépi a maximális korlátot: %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Ez lehetővé teszi az alkalmazás számára, hogy megtalálja és csatlakozzon a Bluetooth-kiegészítőkhöz. Ez az alkalmazás Bluetooth-t is használhat a Bluetooth-eszköz helyének meghatározásához</string>
   <string name="NSBluetoothPeripheralUsageDescription">Az alkalmazásnak a telefon Bluetooth-ját kell használnia a Bluetooth-eszközök hozzáadásához és használatához.</string>
@@ -2034,6 +2032,7 @@
   <string name="thing_activator_add_all_finish">A feladat hozzáadása befejeződött</string>
   <string name="thing_activator_add_device_failure">a hozzáadás nem sikerült</string>
   <string name="thing_activator_add_device_failure_code_3">Wi-Fi jelszó hiba</string>
+  <string name="thing_activator_add_device_timeout">Az eszköz hozzáadása nem sikerült</string>
   <string name="thing_activator_add_device_title">Szkennelt %1$s eszköz, %2$s eszköz sikeresen hozzáadva</string>
   <string name="thing_activator_ap_failure1">Ellenőrizze, hogy az eszköz visszaállt-e, és a fény lassan villog-e</string>
   <string name="thing_activator_ap_failure2">Csatlakozzon-e az eszköz hotspotjához</string>
@@ -2326,6 +2325,7 @@
   <string name="thing_debug_networktime">Átlagos hálózati késés</string>
   <string name="thing_del_scene_succ">Sikeresen törölve</string>
   <string name="thing_delete">töröl</string>
+  <string name="thing_delete_scene">Automatizáció törlése</string>
   <string name="thing_delete_scene_task">Törölje ezt a feladatot</string>
   <string name="thing_delete_scene_tips">Törlés után az eszközfeladat nem lesz normálisan végrehajtva</string>
   <string name="thing_delete_share">Megosztás eltávolítása</string>

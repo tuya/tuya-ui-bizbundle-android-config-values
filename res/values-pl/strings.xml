@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">Potwierdź</string>
-  <string name="Help">Spytaj o pomoc</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Przekroczenie limitu do %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">Aby włączyć lub używać urządzeń Bluetooth, musisz włączyć Bluetooth na telefonie.</string>
   <string name="NSCameraUsageDescription">Funkcje dodawania aparatu i skanowania kodu QR wymagają użycia aparatu</string>
@@ -42,6 +40,7 @@
   <string name="actions_not_empty">Proszę ustawić akcje</string>
   <string name="activate">Powiąż</string>
   <string name="activate_gateway">Bramka zostanie powiązan</string>
+  <string name="activator_addDevice_title">Dodawanie urządzenia</string>
   <string name="activator_reset_first">Zresetuj urządzenie</string>
   <string name="activity_title_setting">Ustawienia</string>
   <string name="add">Dodaj</string>
@@ -178,6 +177,8 @@
   <string name="config_no_wifi_tips">Wpisz ręcznie nazwę sieci Wi-Fi lub zezwól na otrzymywanie informacji o Twojej lokalizacji, aby uzyskać dane pobliskich urządzeń Wi-Fi</string>
   <string name="config_progress_step1">Skanowanie</string>
   <string name="config_progress_step2">Rejestracja w chmurze</string>
+  <string name="config_progress_step3">Inicjalizacja urządzenia</string>
+  <string name="config_reset_go_next">Dale</string>
   <string name="config_wifi">Powiązanie urządzenia</string>
   <string name="confirm_delete">Potwierdź usunięcie</string>
   <string name="confirm_leave">Potwierdź wyjście</string>
@@ -641,7 +642,7 @@
   <string name="ipc_pir_switch">Czułość PIR</string>
   <string name="ipc_play_mobileplay_tips">Do sprawdzania nagrania wideo używasz komórkowej transmisji danych. Zwróć uwagę na ilość przesyłanych danych.</string>
   <string name="ipc_playback_no_records_today">Brak dzisiejszych filmów video</string>
-  <string name="ipc_qrpair_button_help">Nic nie usły</string>
+  <string name="ipc_qrpair_button_help">Nic nie usłyszałem</string>
   <string name="ipc_qrpair_button_next">Słyszałem dźwięk</string>
   <string name="ipc_qrpair_help">Pomoc</string>
   <string name="ipc_qrpair_help_tip">1.Upewnij się, że obiektyw jest czysty i nie jest zablokowany. Jeśli obiektyw aparatu posiada filię ochronną, zdejmij ją zanim rozpoczniesz parowanie sieciowe z użyciem kodu QR.\n\n 2. Ustaw kod QR w obiektywie aparatu w odległości około 15-20 cm. Jeśli aparat nie wyemituje dźwięku, dostosuj kąt oraz odległość i spróbuj ponownie.</string>
@@ -1190,7 +1191,7 @@
   <string name="tv_add_clock_time">Dodaj harmonogram</string>
   <string name="thing_about_thingsmart">O Smart Life</string>
   <string name="thing_activator_accessory_help">Pokaż pomoc</string>
-  <string name="thing_activator_add_device_timeout">Upłynął czas dodawania</string>
+  <string name="thing_activator_add_device_timeout">Dodawanie urządzenia nie powiodło się</string>
   <string name="thing_activator_auto_search_text">Wyszukiwanie urządzeń w pobliżu. Upewnij się, że urządzenie jest w tryb parowania.</string>
   <string name="thing_activator_bleLimit_system_open">Włącz Bluetooth</string>
   <string name="thing_activator_check_device_online">Sprawdź czy urządzenie jest online.</string>
@@ -1203,6 +1204,7 @@
   <string name="thing_activator_ezSearch_wifi">Konfigurowanie Wi-Fi</string>
   <string name="thing_activator_failure_tips">Sprawdż poniższe wskazówki</string>
   <string name="thing_activator_has_clicked_add_all">Dodawanie</string>
+  <string name="thing_activator_home_title">Dodaj urządzenie</string>
   <string name="thing_activator_input_wifi_title_des">
 Wprowadź informacje o swojej sieci Wi-Fi.</string>
   <string name="thing_activator_keep_power_on">Włącz urządzenie</string>
@@ -1215,6 +1217,10 @@ Wprowadź informacje o swojej sieci Wi-Fi.</string>
   <string name="thing_activator_pair_bind_other">Urządzenie dodano do innego konta</string>
   <string name="thing_activator_pairing_device_success_title">%s dodano pomyślnie</string>
   <string name="thing_activator_pairing_edit_room_title">Umieść urządzenie w pokoju:</string>
+  <string name="thing_activator_progress_exit_alert_cancel">Kontynuuj dodawanie</string>
+  <string name="thing_activator_progress_exit_alert_confirm">Zakończ dodawanie</string>
+  <string name="thing_activator_progress_exit_alert_message">Urządzenie jest dodawane. Czy na pewno chcesz wyjść? Jeżeli tak, zresetuj ponownie urządzenie aby je ponownie dodać</string>
+  <string name="thing_activator_progress_exit_alert_title">Czy chcesz zakończyć dodawanie?</string>
   <string name="thing_activator_qr_content">Zeskanuj kod QR na urządzeniu lub opakowaniu urządzenia, aby dodać</string>
   <string name="thing_activator_reset_device">Najpierw zrestartuj urządzenie</string>
   <string name="thing_activator_reset_device_help">Resetowanie urządzenia</string>
@@ -1378,6 +1384,7 @@ Wprowadź informacje o swojej sieci Wi-Fi.</string>
   <string name="thing_debug_networktime">Średni czas opóźnienia sieci</string>
   <string name="thing_del_scene_succ">Pomyślnie usunięto</string>
   <string name="thing_delete">Usuń</string>
+  <string name="thing_delete_scene">Usuń Smart</string>
   <string name="thing_delete_scene_task">Usuń zadanie</string>
   <string name="thing_delete_scene_tips">Po usunięciu nie można wykonywać zadań</string>
   <string name="thing_delete_share">Usuń udostępnianie</string>

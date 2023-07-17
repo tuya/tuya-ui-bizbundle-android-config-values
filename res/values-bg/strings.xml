@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Грешка при декриптиране</string>
-  <string name="Confirm">Потвърждение</string>
-  <string name="Help">Помощ</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Превишава лимита: %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Това ще разреши на Приложението да намира и свързва Bluetooth аксесоари. Това приложение може също да използва Bluetooth за намиране на устройства.</string>
   <string name="NSBluetoothPeripheralUsageDescription">За да добавите Bluetooth устройство, моля включете си Bluetooth на телефона.</string>
@@ -1914,6 +1912,7 @@
   <string name="thing_activator_add_all_finish">Готово</string>
   <string name="thing_activator_add_device_failure">Неуспешно добавяне</string>
   <string name="thing_activator_add_device_failure_code_3">Грешна WIFI парола</string>
+  <string name="thing_activator_add_device_timeout">Добавянето на устройство не бе успешно</string>
   <string name="thing_activator_add_device_title">Намерени %1$s устройства.  %2$s успешно добавени.</string>
   <string name="thing_activator_ap_failure1">Моля проверете, дали устройството е рестартирано и дали индикатора мига бавно.</string>
   <string name="thing_activator_ap_failure2">Потвърдете, че телефонът Ви е свързан към устройството</string>
@@ -2201,6 +2200,7 @@
   <string name="thing_debug_networktime">Средно Мрежово Закъснение</string>
   <string name="thing_del_scene_succ">Изтрито успешно</string>
   <string name="thing_delete">Изтриване</string>
+  <string name="thing_delete_scene">Изтриване</string>
   <string name="thing_delete_scene_task">Изтриване на задачата</string>
   <string name="thing_delete_scene_tips">След изтриване на Сцената, задачите на устройството няма да може да се изпълняват.</string>
   <string name="thing_delete_share">Изтриване на споделяне</string>

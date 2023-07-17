@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">אשרו</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">חריגה ממגבלה של עד %s</string>
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">מתוך אחסון בענן</string>
   <string name="OUT_OF_FILE_CAPACITY">תמונה בודדת חורגת ממגבלת %s MB</string>
@@ -648,6 +647,7 @@
   <string name="toolbar_menu_refresh">רענן</string>
   <string name="tuesday">יום שלישי</string>
   <string name="tv_add_clock_time">עיתוי הוספה</string>
+  <string name="thing_activator_add_device_timeout">הוספת ציוד כושל</string>
   <string name="thing_activator_ezSearch_devices">איזה סוג של מכשיר</string>
   <string name="thing_activator_ezSearch_modifyWifi">שינוי תצורת Wi-Fi</string>
   <string name="thing_activator_ezSearch_wifi">הגדרת Wi-Fi</string>
@@ -775,6 +775,7 @@
   <string name="thing_debug_networktime">ההשהיה ברשת הממוצעת</string>
   <string name="thing_del_scene_succ">נמחק בהצלחה</string>
   <string name="thing_delete">הוסף מצלמה (מצב AP)</string>
+  <string name="thing_delete_scene">מחק חכם</string>
   <string name="thing_delete_scene_task">מחק את המשימה</string>
   <string name="thing_delete_scene_tips">לא ניתן לבצע בדרך כלל משימות לאחר מחיקת תרחיש.</string>
   <string name="thing_delete_share">מחק שיתוף.</string>

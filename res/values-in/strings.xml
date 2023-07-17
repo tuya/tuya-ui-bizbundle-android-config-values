@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Gagal untuk mendapatkan layanan decryption</string>
-  <string name="Confirm">Konfirmasi</string>
-  <string name="Help">Bantuan</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Melewati jumlah batas sampai %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Untuk menambahkan atau memakai perangkat Bluetooth, pastikan Bluetooth aktif di ponsel anda.</string>
   <string name="NSBluetoothPeripheralUsageDescription">Untuk menambahkan atau memakai perangkat Bluetooth, pastikan Bluetooth aktif di ponsel anda.</string>
@@ -437,6 +435,7 @@
   <string name="invitation_confirm">Konfirmasi Undangan</string>
   <string name="invitation_confirm_detail">Anda diundang untuk bergabung dalam keluarga \"%s\" untuk menikmati smart life. Apakah anda mau bergabung dalam keluarga ini?</string>
   <string name="invitation_refuse">Menolak</string>
+  <string name="ipc_ai_cloud_empty_des">Tidak ada video terkait\nTidak ada target yang terdeteksi atau analisis AI tidak diaktifkan</string>
   <string name="ipc_ai_fr">Pengenalan Wajah</string>
   <string name="ipc_ai_fr_expried_date">Tanggal kedaluwarsa</string>
   <string name="ipc_ai_fr_list">Wajah yang Dikenal</string>
@@ -489,6 +488,10 @@
   <string name="ipc_ai_fr_tag_tip2">Apakah kamu kenal orang ini?</string>
   <string name="ipc_ai_fr_value_add_dig_body">Layanan Pengenalan Wajah adalah layanan tambahan. Mohon beli layanan ini untuk dapat menggunakannya.</string>
   <string name="ipc_ai_fr_value_add_dig_title">VAS</string>
+  <string name="ipc_ai_recognition_item">Sasaran Analisis</string>
+  <string name="ipc_ai_video_ability_des">Lebih banyak kemampuan analisis terus diperbarui</string>
+  <string name="ipc_ai_video_analyse">Analisis Cerdas</string>
+  <string name="ipc_ai_video_des">Mengaktifkan fitur akan melakukan analisis AI pada rekaman peristiwa deteksi gerakan</string>
   <string name="ipc_alarm_detected_feature_list">Pengaturan Deteksi Alarm</string>
   <string name="ipc_alarm_region_settings_tips">Tarik/atur bingkai merah kepada area dimana ada aktifitas.</string>
   <string name="ipc_alarm_timer_settings">Jadwal</string>
@@ -544,6 +547,7 @@
   <string name="ipc_chime_type_digital">Digital</string>
   <string name="ipc_chime_type_mechanical">Mekanikal</string>
   <string name="ipc_chime_type_without">Tidak ada</string>
+  <string name="ipc_cloud_empty_event_des">Tidak ada video acara yang relevan</string>
   <string name="ipc_cloud_subscribe_now">Subscribe sekarang</string>
   <string name="ipc_cloudstorage_amount">Jumlah pembelian</string>
   <string name="ipc_cloudstorage_annually">Rencana tahunan</string>
@@ -1444,6 +1448,7 @@
   <string name="thingconfig_add_history">Historical Addition Records</string>
   <string name="tv_add_clock_time">Tambahkan Jadwal</string>
   <string name="thing_about_thingsmart">Tentang Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Gagal menambahkan perangkat</string>
   <string name="thing_activator_ap_failure1">Cek jika perangkat telah di reset dan lampu indikator berkelip secara perlahan</string>
   <string name="thing_activator_ap_failure2">Cek jika ponsel anda sudah tergabung dalam hotspot perangkat</string>
   <string name="thing_activator_bleLimit_open">Di aktifkan</string>
@@ -1660,6 +1665,7 @@
   <string name="thing_debug_networktime">Tundaan rata-rata jaringan</string>
   <string name="thing_del_scene_succ">Telah dihapus</string>
   <string name="thing_delete">Hapus</string>
+  <string name="thing_delete_scene">Hapus</string>
   <string name="thing_delete_scene_task">Hapus aksi</string>
   <string name="thing_delete_scene_tips">Setelah skenario di hapus, aksi perangkat tidak akan bisa di eksekusi lagi.</string>
   <string name="thing_delete_share">Hapus berbagi</string>

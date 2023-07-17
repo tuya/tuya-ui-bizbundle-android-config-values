@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="Confirm">Confirmare</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Depășind o limită de până la %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">Este necesar accesul la functia Bluetooth pentru adaugare si folosire dispozitiv</string>
   <string name="NSCameraUsageDescription">Este necesar accesul la camera pentru adaugare portrete, scanare coduri si alte functii</string>
@@ -688,6 +687,7 @@
   <string name="tuesday">Marti</string>
   <string name="tv_add_clock_time">Adaugati programare</string>
   <string name="thing_about_thingsmart">Despre Smart Life</string>
+  <string name="thing_activator_add_device_timeout">Adaugare dispozitiv esuata</string>
   <string name="thing_activator_ezSearch_devices">Ce fel de dispozitiv</string>
   <string name="thing_activator_ezSearch_modifyWifi">Modificați configurația Wi-Fi</string>
   <string name="thing_activator_ezSearch_wifi">Configurarea Wi-Fi</string>
@@ -818,6 +818,7 @@
   <string name="thing_debug_networktime">Timp mediu retea</string>
   <string name="thing_del_scene_succ">Stergere confirmata</string>
   <string name="thing_delete">Stergere</string>
+  <string name="thing_delete_scene">Stergere Smart</string>
   <string name="thing_delete_scene_task">Stergere comanda</string>
   <string name="thing_delete_scene_tips">Comenzile nu pot fi executate dupa stergerea scenariului</string>
   <string name="thing_delete_share">Stergere impartasire</string>
