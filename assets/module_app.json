@@ -619,6 +619,7 @@
     "com.gzl.smart.gzlminiapp.core.api.miniapp.AbsMiniAppExtApiService": "com.gzl.smart.gzlminiapp.core.service.MiniAppExtApiServiceImpl",
     "com.thingclips.group_ui_api.GroupManagerService": "com.thingclips.smart.group.GroupManagerImpl",
     "com.thingclips.smart.webcontainer_api.WebContainerService": "com.thingclips.smart.jsbridge.WebContainerServiceImpl",
+    "com.thingclips.smart.social.auth.manager.api.AbsSocialAuthManager":"com.thingclips.smart.social.auth.manager.SocialAuthManagerService",
     "com.thingclips.smart.panelcaller.api.AbsPanelCallerService": "com.thingclips.smart.panelcaller.PanelCallerServiceImpl",
     "com.thingclips.smart.ipc.panel.api.AbsCameraStateService": "com.thingclips.smart.ipc.camera.rnpanel.service.CameraStateServiceImpl"
   },
