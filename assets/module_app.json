@@ -441,6 +441,9 @@
       "camera_old_motion_monitor",
       "camera_old_panel_more"
     ],
+    "com.thingclips.smart.social.auth.manager.SocialAuthManagerApp": [
+      "SocialAuthManagerAppAction"
+    ],
     "com.thingclips.smart.jsbridge.HyBridBrowserApp": [
       "hybrid_browser",
       "thingweb"
