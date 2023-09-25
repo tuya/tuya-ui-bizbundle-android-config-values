@@ -36,6 +36,7 @@
   <string name="action_copy_log">Sao chép nhật ký vào clipboard</string>
   <string name="action_done">Hoàn tất</string>
   <string name="action_more">Thêm</string>
+  <string name="action_ok">OK</string>
   <string name="action_send">Gửi</string>
   <string name="action_send_email">Gửi bằng email</string>
   <string name="action_send_wechat">Gửi bằng wechat</string>
@@ -49,6 +50,7 @@
   <string name="activator_addDevice_title">Đang thêm thiết bị...</string>
   <string name="activator_device_work">Đảm bảo thiết bị được bật nguồn</string>
   <string name="activator_guide_tips">Lưu ý ghép nối mạng</string>
+  <string name="activator_reset_device_help_url_text">Xem Hướng dẫn đặt lại thiết bị</string>
   <string name="activator_reset_first">Đặt lại thiết bị</string>
   <string name="activator_search_overtime_tips">Hết thời gian tìm kiếm, Không tìm thấy thiết bị nào.</string>
   <string name="activator_wifi_input_des">Nếu tín hiệu Wifi của bạn là 5GHz, vui lòng cài đặt thành 2.4GHz trước.</string>
@@ -72,6 +74,7 @@
   <string name="add_room">Thêm phòng</string>
   <string name="add_subDevice">Thêm thiết bị</string>
   <string name="alaxa_success_title">Đã liên kết với Amazon Alexa</string>
+  <string name="album_permission_tips">Đi đến mục Cài đặt &gt; Quyền riêng tư &gt; Ảnh trên iPhone của bạn và bật %s.</string>
   <string name="alexa_binding">Đang liên kết, vui lòng đợi...</string>
   <string name="alexa_flip_permission">· Quyền kiểm soát thiết bị</string>
   <string name="alexa_guidance_tip">Có thể được cài đặt trong \"Tôi - Dịch vụ khác - Alexa\"</string>
@@ -89,7 +92,11 @@
   <string name="alexa_your_device_has_supported">Thiết bị của bạn đã hỗ trợ Amazon Alexa, bạn có thể truy cập chỉ bằng một cú nhấp chuột.</string>
   <string name="all_dev">Tất cả thiết bị</string>
   <string name="all_dev_shared">Thiết bị chia sẻ với tôi</string>
+  <string name="allow_access_to_all_photos">Cho phép Truy cập toàn bộ ảnh</string>
   <string name="already_add_dev">Đã thêm thiết bị</string>
+  <string name="animal_detect_on_tips">Đã bật chế độ dò tìm chim chóc. Bạn sẽ chỉ nhận được các thông báo đẩy về chim chóc.</string>
+  <string name="animal_expel_on_tips">Đã bật chế độ chống sóc tự động. Nếu tìm thấy sóc, hệ thống sẽ tự động chống lại chúng.</string>
+  <string name="animal_identify_loading_tips">Đang nhận dạng...</string>
   <string name="ap_mode">Chế độ AP</string>
   <string name="app_experience">Phiên bản dùng thử</string>
   <string name="app_experience_debug">Ứng dụng này là gói thử nghiệm và chỉ được sử dụng để thử nghiệm.</string>
@@ -105,9 +112,16 @@
   <string name="app_guide_satis_content">Đánh giá chúng tôi</string>
   <string name="app_guide_satis_ok">Hài lòng</string>
   <string name="app_guide_satis_title">Khảo sát độ hài lòng</string>
+  <string name="app_personal_center_family">Quản lý Nhà</string>
+  <string name="app_personal_center_help">Câu hỏi thường gặp và phản hồi</string>
+  <string name="app_personal_center_message">Trung tâm tin nhắn</string>
+  <string name="app_personal_center_more_service">Dịch vụ nổi bật</string>
+  <string name="app_personal_center_third_service">Dịch vụ thoại và truy cập của bên thứ ba</string>
   <string name="at_login_sns">Đăng nhập tài khoản xã hội</string>
   <string name="auto_discover_device">Tự động quét</string>
   <string name="before_add_activate_gateway">Trước khi thêm thiết bị, cấu hình cổng kết nối</string>
+  <string name="bird_id_no_tips">Đăng ký để nhận diện chim chóc để nhận diện không giới hạn ở bất kỳ đâu, bất kỳ lúc nào để biết thêm về chim chóc.</string>
+  <string name="bird_identify_null_tips">Rất tiếc, không thể tìm thấy loài chim này từ ảnh của bạn. Hãy cung cấp phản hồi và giúp cải thiện dịch vụ của bạn.</string>
   <string name="bleconfig_ble_not_open">Chưa bật Bluetooth</string>
   <string name="bleconfig_ble_scan">Tìm kiếm qua Bluetooth</string>
   <string name="bleconfig_ble_scan_tip">Quá trình tìm kiếm có thể mất 2 phút, vui lòng không thực hiện các thao tác khác</string>
@@ -141,6 +155,7 @@
   <string name="bluetooth_on_viewdevices">Kiểm tra thiết bị</string>
   <string name="bluetooth_reconnection">Đang kết nối lai...</string>
   <string name="bluetooth_scanningdevice">Đang quét…</string>
+  <string name="camera_permission_tips">Đi đến mục Cài đặt &gt; Quyền riêng tư &gt; Camera trên iPhone của bạn và bật %s.</string>
   <string name="camera_permissions">Yêu cầu cho phép truy cập vào máy ảnh</string>
   <string name="camera_permissions_access">3 %s Cho phép truy cập vào camera…</string>
   <string name="camera_permissions_methods">Phương pháp kích hoạt</string>
@@ -149,8 +164,11 @@
   <string name="camera_permisssions_camera">Camera</string>
   <string name="camera_permisssions_privacy">Quyền riêng tư</string>
   <string name="can_connect">Thiết bị có thể kết nối</string>
+  <string name="can_not_choose_both_photo_and_gif">Khi bạn chọn ảnh, sẽ không thể chọn các tập tin GIF.</string>
+  <string name="can_not_choose_both_video_and_photo">Khi bạn chọn ảnh, sẽ không thể chọn video.</string>
   <string name="can_not_leave">Không thể rời khỏi nhà</string>
   <string name="can_not_locate">Không thể xác định vị trí thành phố</string>
+  <string name="can_not_use_camera">Camera không khả dụng</string>
   <string name="cancel">Hủy bỏ</string>
   <string name="cancel_connect">Gỡ bỏ thiết bị</string>
   <string name="cancel_tip">Tôi đã hiểu</string>
@@ -271,6 +289,7 @@
   <string name="config_wifi_support_wifi">Hỗ trợ Wifi với mạng phân phối</string>
   <string name="config_wifi_switch">Chuyển đổi Wifi</string>
   <string name="config_wifi_switch_wifi_title">Chọn bộ định tuyến Wifi</string>
+  <string name="confirm">Xác nhận</string>
   <string name="confirm_delete">Xóa</string>
   <string name="confirm_leave">Rời đi</string>
   <string name="confirm_send_log">Bạn có muốn gửi nhật ký?</string>
@@ -343,6 +362,7 @@
   <string name="download_unzip_error">Tải giao diện không thành công</string>
   <string name="du_help_url">#</string>
   <string name="du_skill">#</string>
+  <string name="dual_lens_cooperate_tips">Kéo để xoay camera PTZ.</string>
   <string name="dualmode_equipment_network_error">Thiết bị không được kết nối với Wifi \n Vui lòng kiểm tra mạng thiết bị trước khi nâng cấp</string>
   <string name="echo_help_url">#</string>
   <string name="echo_use_equipment">Thiết bị %d được hỗ trợ</string>
@@ -524,9 +544,11 @@
   <string name="home_my_device">Thiết bị của tôi</string>
   <string name="home_personal_center">Tôi</string>
   <string name="home_wait_join">Được thêm vào</string>
+  <string name="homekit_add_device_fail">Không thể thêm (các) thiết bị vào màn hình chính.</string>
   <string name="hometab_auto_start_tip">Bạn đã tắt %s chế độ tự khởi động (chạy ẩn), điều này có thể ảnh hưởng đến chức năng sau: \n Nhận tin nhắn trong thời gian thực (Bạn có thể bỏ lỡ các cảnh báo bảo mật.) \n Bạn có cho phép ứng dụng tự động khởi động (chạy ẩn) khi điện thoại của bạn được bật không?</string>
   <string name="hometab_auto_start_title">Bật tự động nhắc nhở</string>
   <string name="hometab_ignore_tip">Không hiển thị lại lời nhắc này.</string>
+  <string name="icloud_sync_failed">Không thể đồng bộ ảnh từ iCloud.</string>
   <string name="ift_skill">#</string>
   <string name="ifttt_help_url">#</string>
   <string name="image_load_failure">Tải hình ảnh thất bại</string>
@@ -550,6 +572,7 @@
   <string name="invitation_confirm">Xác nhận lời mời</string>
   <string name="invitation_confirm_detail">Bạn được mời tham gia vào Nhà\"%s\" để tận hưởng một cuộc sống thông minh. Bạn có muốn tham gia Nhà này?</string>
   <string name="invitation_refuse">Từ chối</string>
+  <string name="ipc_add_birdfeeder_info">Hãy đảm bảo dung lượng pin còn đủ và chỉ báo nháy nhanh hoặc có thể nghe thấy âm báo nhắc.</string>
   <string name="ipc_ai_fr">Nhận dạng khuôn mặt</string>
   <string name="ipc_ai_fr_detect_device">Tên thiết bị</string>
   <string name="ipc_ai_fr_detect_time">Thời gian</string>
@@ -617,6 +640,18 @@
   <string name="ipc_album_settings">Album</string>
   <string name="ipc_album_videos_list">Video</string>
   <string name="ipc_alert_siren_dialog">Còi báo động sẽ được kích hoạt</string>
+  <string name="ipc_animal_alarm_mode_tips">Nhấn để chuyển đổi giữa các chế độ thông báo cảnh báo.</string>
+  <string name="ipc_animal_cap_tips">Nhấn để chụp ảnh chim chóc và xác định loài.</string>
+  <string name="ipc_animal_detail">Chi tiết</string>
+  <string name="ipc_animal_expel_tips">Nhấn để thiết lập chống sóc tự động hay không.</string>
+  <string name="ipc_animal_favorite_edit">Chỉnh sửa mục Ưa thích</string>
+  <string name="ipc_animal_favorite_folder_del_tips">Thao tác này cũng sẽ xóa các bức ảnh ưa thích. Tiếp tục?</string>
+  <string name="ipc_animal_feedback">Phản hồi</string>
+  <string name="ipc_animal_feedback_tips">Bạn có thắc mắc? Hãy hỏi chúng tôi.</string>
+  <string name="ipc_animal_guess">Khách của chúng ta</string>
+  <string name="ipc_animal_identify_result">Chim chóc được nhận dạng</string>
+  <string name="ipc_animal_kind">Tên</string>
+  <string name="ipc_animal_similarity">Đặc điểm giống nhau</string>
   <string name="ipc_bases_add_device">Thêm thiết bị</string>
   <string name="ipc_bases_base_station">Trạm cơ sở</string>
   <string name="ipc_bases_connected">Đã kết nối</string>
@@ -659,6 +694,9 @@
   <string name="ipc_basic_talkmode_txt">Do việc đàm thoại bị ảnh hưởng bởi môi trường. Chúng tôi khuyên bạn nên sử dụng đàm thoại 1 chiều hay 2 chiều tùy tình huống cụ thể</string>
   <string name="ipc_basic_tap_to_talk">Nhấn để nói</string>
   <string name="ipc_basic_wdr">Chế độ chống ngược sáng WDR</string>
+  <string name="ipc_bird_detect">Dò tìm chim chóc</string>
+  <string name="ipc_bird_identify_error">Lỗi nhận dạng.</string>
+  <string name="ipc_bird_service_expiring_tips">Tính năng nhận dạng chim chóc thử nghiệm của bạn sẽ hết hạn vào %s. Đăng ký dịch vụ để tiếp tục sử dụng.</string>
   <string name="ipc_button_enter_album">Xem Album</string>
   <string name="ipc_chime_run_time">%s Phút</string>
   <string name="ipc_chime_type_digital">Chuông không dây</string>
@@ -681,9 +719,11 @@
   <string name="ipc_cloudstorage_amount">Số lượng mua sắm</string>
   <string name="ipc_cloudstorage_annually">Gói hàng năm</string>
   <string name="ipc_cloudstorage_billed">Chọn gói phù hợp</string>
+  <string name="ipc_cloudstorage_buy_alipay">Thanh toán qua Alipay</string>
   <string name="ipc_cloudstorage_buy_button">Thanh toán ngay</string>
   <string name="ipc_cloudstorage_buy_confirm">Xác nhận thanh toán $ %s</string>
   <string name="ipc_cloudstorage_buy_method">Hình thức thanh toán</string>
+  <string name="ipc_cloudstorage_buy_wechat">Thanh toán qua Wechat</string>
   <string name="ipc_cloudstorage_date_today">Hôm nay</string>
   <string name="ipc_cloudstorage_entry">Lưu trữ đám mây</string>
   <string name="ipc_cloudstorage_groupbound">Dịch vụ lưu trữ đám mây video và dữ liệu video của thiết bị thuộc về gia đình. \n nếu bạn thay đổi gia đình, bạn cần mua lại dịch vụ</string>
@@ -1083,6 +1123,7 @@
   <string name="ipc_sound_sensitivity_select">Chọn độ nhạy decibel (dB)</string>
   <string name="ipc_sound_sensitivity_settings">Độ nhạy cảnh báo</string>
   <string name="ipc_sound_sensitivity_settings_tips">Chọn độ nhạy decibel (dB)</string>
+  <string name="ipc_squirrel_expel">Chống sóc</string>
   <string name="ipc_status_awake">Đang đánh thức các thiết bị</string>
   <string name="ipc_status_awake_failed">Không thể đánh thức thiết bị</string>
   <string name="ipc_status_cloudstorage_stream_failed">Không thể tải dữ liệu lưu trữ đám mây</string>
@@ -1202,6 +1243,11 @@
   <string name="logout">Đăng xuất</string>
   <string name="low_power">Pin yếu</string>
   <string name="manual_add_device_mode">Thêm thủ công</string>
+  <string name="matter_share_code_desc">Sao chép mã thiết lập hoặc chia sẻ mã QR để chia sẻ với thiết bị Chính.</string>
+  <string name="matter_share_code_tips">Chia sẻ mã thiết lập với các ứng dụng khác</string>
+  <string name="matter_share_expired_time_tip">Hiệu lực còn lại:</string>
+  <string name="matter_share_show_qr_code">Chia sẻ bằng mã QR</string>
+  <string name="max_photo_select_tips">Có thể chọn tối đa %zd ảnh.</string>
   <string name="member_tips">Các thành viên chung không có quyền để thêm hoặc xóa các thiết bị, Ngữ cảnh \"Chạm-để-Chạy\", các thành viên khác hoặc xóa nhà</string>
   <string name="menu_title_about">Giới thiệu</string>
   <string name="menu_title_echo">Sử dụng Echo</string>
@@ -1247,6 +1293,7 @@
   <string name="message_dnd_tue">Thứ ba</string>
   <string name="message_dnd_wed">Thứ tư</string>
   <string name="message_setting_title">Lịch trình của chế độ không làm phiền</string>
+  <string name="min_photo_select_tips">Chọn ít nhất %zd ảnh.</string>
   <string name="mobile_binding">Vui lòng liên kết với một số điện thoại</string>
   <string name="modify_password_rule">Mật khẩu phải có từ 6 đến 20 ký tự, bao gồm chữ cái và số</string>
   <string name="modify_password_success">Thay đổi mật khẩu thành công,\ Vui lòng đăng nhập lại</string>
@@ -1254,6 +1301,7 @@
   <string name="more_service_order_list">Đơn hàng của tôi</string>
   <string name="more_service_recommand_service">Dịch vụ nổi bật</string>
   <string name="more_service_thirdparty_service">Dịch vụ thoại và truy cập của bên thứ ba</string>
+  <string name="multi_select_video_tips">Khi bạn chọn nhiều video, chúng sẽ được gửi dưới dạng ảnh.</string>
   <string name="my_profile_choose_pic_from_camera">Chụp ảnh</string>
   <string name="my_profile_choose_pic_from_local">Chọn từ Album</string>
   <string name="my_smart_home">Thiết bị của tôi</string>
@@ -1291,6 +1339,7 @@
   <string name="no_activated_gateway_content">Trước khi thêm thiết bị, cấu hình cổng kết nối</string>
   <string name="no_device_found">Không tìm thấy thiết bị</string>
   <string name="no_email_client">Chưa cài đặt email khách hàng</string>
+  <string name="no_photos_or_videos">Không có ảnh hoặc video.</string>
   <string name="no_search_result">Không tìm thấy dữ liệu</string>
   <string name="no_share">Thiết bị chưa được chia sẻ với bất kỳ ai</string>
   <string name="no_timer_data">Không có dữ liệu hẹn giờ</string>
@@ -1300,6 +1349,8 @@
   <string name="not_save">Hủy bỏ</string>
   <string name="not_share_device_to_user">Không thể chia sẻ với người dùng %s</string>
   <string name="not_share_family_to_user">Không thể chia sẻ Nhà \"%1$s\" cho người dùng%2$s</string>
+  <string name="not_support_this_device_in_current_app">Không thể thêm thiết bị này. Tham vấn bên bán về ứng dụng tương thích và thử lại.</string>
+  <string name="not_support_this_device_in_current_app_title">Thiết bị này không được hỗ trợ, vui lòng thêm các sản phẩm được hỗ trợ bởi ứng dụng này</string>
   <string name="not_upgrade">Để sau</string>
   <string name="number_unshare_device">Thiết bị %d không thể chia sẻ</string>
   <string name="once_day">Chỉ một lần</string>
@@ -1313,6 +1364,7 @@
   <string name="open_wifi">Bật Wifi trên điện thoại di động của bạn để thêm thiết bị</string>
   <string name="operation_delete">Xóa</string>
   <string name="operation_revise">Chỉnh sửa</string>
+  <string name="orignal_image">Bản gốc</string>
   <string name="ota_I_know">Tôi đã hiểu</string>
   <string name="ota_auto_update">Tự động nâng cấp</string>
   <string name="ota_back_to_home_content">Đang nâng cấp Firmware nên bạn không thể quay trở lại trang chủ màn hình ứng dụng</string>
@@ -1388,6 +1440,7 @@
   <string name="phone_email">Số điện thoại/Email</string>
   <string name="phone_number">Số điện thoại</string>
   <string name="phone_or_email">Số điện thoại/Email</string>
+  <string name="photos">Ảnh</string>
   <string name="please_choose_country_first">Chọn vùng</string>
   <string name="please_input_password">Mật khẩu</string>
   <string name="please_input_wifi_password">Vui lòng nhập mật khẩu</string>
@@ -1422,11 +1475,13 @@
   <string name="pps_start_talking">Bắt đầu nói</string>
   <string name="pps_video_saved">Đã lưu video</string>
   <string name="pps_video_shift_tip">Đang ghi hình. Bạn có muốn dừng ghi hình không?</string>
+  <string name="preview">Xem trước</string>
   <string name="privacy">Chính sách về quyền riêng tư</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
   <string name="private_and_user_agreement">Thỏa thuận dịch vụ và chính sách bảo mật</string>
   <string name="problemSubmit_content_placeholder">Vui lòng mô ta chi tiết sự cố mà bạn đang gặp và đường dẫn xãy ra sự cố. Mô tả không rõ ràng hoặc không đầy đủ có thể ảnh hưởng đến tiến trình xử lý sự cố</string>
+  <string name="processing">Đang xử lý…</string>
   <string name="productProposal_content_placeholder">Vui lòng mô tả chi tiết đề xuất tối ưu hóa hoặc phương án cải tiến của bạn</string>
   <string name="push_alarm_device">Tên thiết bị</string>
   <string name="push_alarm_event_type">Loại sự kiện</string>
@@ -1691,6 +1746,7 @@
   <string name="speech_you_can_speech">Bạn có thể nói điều này:</string>
   <string name="start_smart_life">Bắt đầu một cuộc sống thông minh</string>
   <string name="state_abnormal">Lỗi trạng thái</string>
+  <string name="sub_devices_next">Tiếp theo</string>
   <string name="submit">Gửi</string>
   <string name="submit_success_msg">Gửi thành công</string>
   <string name="success">Thao tác thành công</string>
@@ -1698,6 +1754,7 @@
   <string name="sure_delete_home">Bạn có chắc chắn muốn xóa nhà này?</string>
   <string name="sure_delete_member">Bạn có chắc chắn muốn xóa thành viên?</string>
   <string name="sure_leave_home">Bạn có chắc chắn muốn rời khỏi nhà này?</string>
+  <string name="synchronizing_photos_from_icloud">Đang đồng bộ ảnh từ iCloud …</string>
   <string name="system_error">Lỗi hệ thống, Thao tác không thành công.</string>
   <string name="taste_device_support">Thiết bị demo không được hỗ trợ</string>
   <string name="temperature_unit">Đơn vị nhiệt độ</string>
@@ -2451,7 +2508,9 @@
   <string name="username_phone_is_null">Vui lòng nhập số điện thoại di động hoặc địa chỉ email đã đăng ký</string>
   <string name="verify_code_error">Mã xác thực không chính xác, vui lòng nhập lại.</string>
   <string name="version_check">Kiểm tra bản cập nhật</string>
+  <string name="videos">Video</string>
   <string name="virtual_dev_id">ID ảo</string>
+  <string name="virtual_device_invalid">Rất tiếc, không thể tải thiết bị thử nghiệm. Thử lại.</string>
   <string name="voice_guidance">Chào mừng bạn đến với điều khiển bằng giọng nói</string>
   <string name="voice_guidance_click">Nhấn để nói</string>
   <string name="voice_guidance_content">Tên thiết bị càng đơn giản càng dễ sử dụng cho việc nhận dạng giọng nói \ n Ví dụ: \"đèn bàn phòng ngủ\", \"điều hòa không khí phòng khách\", v.v.</string>

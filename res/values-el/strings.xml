@@ -36,7 +36,7 @@
   <string name="action_send_email">Αποστολή με Email</string>
   <string name="action_send_wechat">Αποστολή με WeChat</string>
   <string name="action_share_log">Διαμοιρασμός</string>
-  <string name="action_tips_exit_hint">Πατήστε ξανά για να σταματήσουν το κάπνισμα</string>
+  <string name="action_tips_exit_hint">ΓΙΑ ΝΑ ΚΛΕΙΣΕΤΕ ΤΗΝ ΕΦΑΡΜΟΓΗ ΠΙΕΣΤΕ ΠΑΛΙ ΤΟ ΠΛΗΚΤΡΟ ΤΗΣ ΕΠΙΣΤΡΟΦΗΣ</string>
   <string name="action_upload_log">Ανέβασμα καταγραφής</string>
   <string name="action_upload_log_choose">Επιλέξτε τη λειτουργία ανεβάσματος αρχίου καταγραφής</string>
   <string name="actions_not_empty">Παρακαλούμε ορίστε την ενέργεια</string>
@@ -82,6 +82,11 @@
   <string name="app_guide_satis_content">Παρακαλώ αξιολογήστε τις υπηρεσίες μας</string>
   <string name="app_guide_satis_ok">Ικανοποίηση</string>
   <string name="app_guide_satis_title">Έρευνα Ικανοποίησης</string>
+  <string name="app_personal_center_family">Διαχείριση σπιτιού</string>
+  <string name="app_personal_center_help">Συχνές ερωτήσεις &amp; ανατροφοδότηση</string>
+  <string name="app_personal_center_message">Κέντρο Μηνυμάτων</string>
+  <string name="app_personal_center_more_service">Προτεινόμενα</string>
+  <string name="app_personal_center_third_service">Υπηρεσία πρόσβαση τρίτων μερών</string>
   <string name="at_login_sns">Σύνδεση Κοινωνική Λογαριασμού</string>
   <string name="auto_discover_device">Αυτόματη σάρωση</string>
   <string name="before_add_activate_gateway">Παρακαλούμε ορίστε πύλη πριν την προσθήκη συσκευής</string>
@@ -185,6 +190,7 @@
   <string name="config_no_wifi_tips">Εισάγετε το όνομα Wi-Fi ή ενεργοποιήστε την πρόβαση τοποθεσίας για να λάβετε αυτόματα τις γύρω συσκευές Wi-Fi.</string>
   <string name="config_reconnect">Επανασύνδεση</string>
   <string name="config_wifi">Ενεργοποίηση Της Συσκευής</string>
+  <string name="confirm">Επιβεβαιώνω</string>
   <string name="confirm_delete">Επιβεβαίωση διαγραφής</string>
   <string name="confirm_leave">Επιβεβαίωση εξόδου</string>
   <string name="confirm_send_log">Επιβεβαιώστε την αποστολή αρχείων καταγραφής;</string>
@@ -510,9 +516,11 @@
   <string name="ipc_cloudstorage_amount">количество</string>
   <string name="ipc_cloudstorage_annually">годовой</string>
   <string name="ipc_cloudstorage_billed">Выберите пакет</string>
+  <string name="ipc_cloudstorage_buy_alipay">оплата Alipay</string>
   <string name="ipc_cloudstorage_buy_button">немедленная уплата</string>
   <string name="ipc_cloudstorage_buy_confirm">Подтверждение оплаты ¥%s</string>
   <string name="ipc_cloudstorage_buy_method">оплата</string>
+  <string name="ipc_cloudstorage_buy_wechat">платеж Micro-канал</string>
   <string name="ipc_cloudstorage_date_today">Σήμερα</string>
   <string name="ipc_cloudstorage_entry">Облако хранения</string>
   <string name="ipc_cloudstorage_groupbound">Τόσο η αποθήκευση βίντεο στο σύννεφο της συσκευής όσο και τα δεδομένα βίντεο ανήκουν στην οικογένεια \n/Αν αλλάξετε την οικογένεια της συσκευής θα χρειαστεί να προμηθευτείτε τις υπηρεσίες ξανά.</string>
@@ -1331,6 +1339,7 @@
   <string name="speech_you_can_speech">Μπορείτε να πείτε:</string>
   <string name="start_smart_life">Ανοίξτε Ευφυής Ζωή Σας</string>
   <string name="state_abnormal">Μη φυσιολογική κατάσταση</string>
+  <string name="sub_devices_next">Το Επόμενο Βήμα</string>
   <string name="submit">Υποβολή</string>
   <string name="submit_success_msg">Υποβλήθηκε επιτυχώς</string>
   <string name="success">Η Επιτυχής Λειτουργία</string>
@@ -1858,6 +1867,7 @@
   <string name="thing_scanning_remind">Το δισδιάστατο κώδικα / bar code προς την αντίπαλη περιοχή μπορεί να ανιχνεύσει αυτόματα</string>
   <string name="thing_scanning_skip">Θα Πάτε</string>
   <string name="thing_scene">Ενημέρωση: μονάδα σύνδεσης δικτύου</string>
+  <string name="thing_scene_and_automation">Αυτοματισμοί</string>
   <string name="thing_scene_dp_duration">Διάρκεια</string>
   <string name="thing_scene_empty_tip">Έλεγχος πολλαπλών συσκευών με ένα χτύπημα, ή με τη χρήση ηχείου AI μέσω των φωνητικών εντολών</string>
   <string name="thing_scene_member_back_home">Μέλος της οικογένειας πηγαίνει σπίτι</string>

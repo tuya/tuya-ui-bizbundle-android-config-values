@@ -113,6 +113,11 @@
   <string name="app_guide_satis_content">Моля, оценете нашата услуга</string>
   <string name="app_guide_satis_ok">Удовлетворен</string>
   <string name="app_guide_satis_title">Проучване</string>
+  <string name="app_personal_center_family">Управление на дома</string>
+  <string name="app_personal_center_help">Често задавани въпроси и обратна връзка</string>
+  <string name="app_personal_center_message">Център за съобщения</string>
+  <string name="app_personal_center_more_service">Препоръчани</string>
+  <string name="app_personal_center_third_service">Услуга достъп от трета страна</string>
   <string name="at_login_sns">Влезте в профила си социалните медии</string>
   <string name="auto_discover_device">Автоматично сканиране</string>
   <string name="before_add_activate_gateway">Преди да добавите устройства, моля конфигурирайте портала</string>
@@ -287,6 +292,7 @@
   <string name="config_wifi_support_wifi">Подръжка на WIFI с разпространителна мрежа</string>
   <string name="config_wifi_switch">Включете WIFI</string>
   <string name="config_wifi_switch_wifi_title">Изберете WIFI рутер</string>
+  <string name="confirm">Потвърждение</string>
   <string name="confirm_delete">Изтриване</string>
   <string name="confirm_leave">Изход</string>
   <string name="confirm_send_log">Потвърдете изпращането на дневника?</string>
@@ -800,9 +806,11 @@
   <string name="ipc_cloudstorage_amount">Количество за покупка</string>
   <string name="ipc_cloudstorage_annually">Годишен план</string>
   <string name="ipc_cloudstorage_billed">Изберете план</string>
+  <string name="ipc_cloudstorage_buy_alipay">Платете с Alipay</string>
   <string name="ipc_cloudstorage_buy_button">Плати сега</string>
   <string name="ipc_cloudstorage_buy_confirm">Потвърждаване на плащането $%s</string>
   <string name="ipc_cloudstorage_buy_method">Начин на плащане</string>
+  <string name="ipc_cloudstorage_buy_wechat">WeChat Pay</string>
   <string name="ipc_cloudstorage_date_today">Днес</string>
   <string name="ipc_cloudstorage_entry">Съхранение в облака</string>
   <string name="ipc_cloudstorage_groupbound">Услугата за съхранение в облака и видео информацията принадлежат на дома.\n Ако промените местоположението на устройствата в друг дом, ще се наложи да поръчате услугите отново.</string>
@@ -1442,6 +1450,8 @@
   <string name="not_save">Отмяна</string>
   <string name="not_share_device_to_user">Не може да се сподели с %s</string>
   <string name="not_share_family_to_user">Не може да се сподели дом „%1$s“ с потребител%2$s</string>
+  <string name="not_support_this_device_in_current_app">Неуспешно добавяне на това устройство. Консултирайте се с търговеца относно съвместимото приложение и опитайте отново.</string>
+  <string name="not_support_this_device_in_current_app_title">Устройството не се поддържа от това приложение</string>
   <string name="not_upgrade">Надстройте по-късно</string>
   <string name="number_unshare_device">%d устройства не могат да се споделят</string>
   <string name="once_day">Еднократно</string>
@@ -1861,6 +1871,7 @@
   <string name="speech_you_can_speech">Може да кажете:</string>
   <string name="start_smart_life">Стартирайте Smart Life</string>
   <string name="state_abnormal">Неправилно състояние</string>
+  <string name="sub_devices_next">Следващ</string>
   <string name="submit">Изпращане</string>
   <string name="submit_success_msg">Успешно изпратено</string>
   <string name="success">Операцията е успешна</string>

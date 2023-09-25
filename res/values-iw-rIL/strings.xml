@@ -46,6 +46,8 @@
   <string name="app_guide_satis_content">אנא דרג את השירות שלנו</string>
   <string name="app_guide_satis_ok">שביעות רצון</string>
   <string name="app_guide_satis_title">סקר שביעות רצון</string>
+  <string name="app_personal_center_family">ניהול הבית</string>
+  <string name="app_personal_center_message">מוקד הודעות</string>
   <string name="at_login_sns">כניסה לחשבון חברתית</string>
   <string name="before_add_activate_gateway">נא הגדר שער לפני הוספת התקן</string>
   <string name="bluetooth_add">הוסף מכשיר Bluetooth</string>
@@ -101,6 +103,7 @@
   <string name="config_nearby_device_add_success">נוסף בהצלחה </string>
   <string name="config_nearby_device_select">בחר מכשיר </string>
   <string name="config_wifi">הפעלת המכשיר</string>
+  <string name="confirm">אשרו</string>
   <string name="confirm_delete">אשר מחיקה</string>
   <string name="confirm_leave">אשר עזיבה</string>
   <string name="confirm_send_log">אשר לשלוח יומנים?</string>
@@ -280,9 +283,11 @@
   <string name="ipc_cloudstorage_amount">כמות</string>
   <string name="ipc_cloudstorage_annually">שנתי</string>
   <string name="ipc_cloudstorage_billed">בחר חבילה</string>
+  <string name="ipc_cloudstorage_buy_alipay">תשלום PayPal</string>
   <string name="ipc_cloudstorage_buy_button">תשלום מיידי</string>
   <string name="ipc_cloudstorage_buy_confirm">אשר את ¥ תשלום %s</string>
   <string name="ipc_cloudstorage_buy_method">תשלום</string>
+  <string name="ipc_cloudstorage_buy_wechat">תשלום מיקרו-ערוץ</string>
   <string name="ipc_cloudstorage_entry">אחסון ענן</string>
   <string name="ipc_cloudstorage_monthly">חודשי</string>
   <string name="ipc_cloudstorage_orderlist_cost">סכום ההזמנה</string>
@@ -622,6 +627,7 @@
   <string name="smart_gateway">שער תקשורת חכם</string>
   <string name="start_smart_life">פתח החיים התבוניים שלך</string>
   <string name="state_abnormal">מצב בלתי תקין</string>
+  <string name="sub_devices_next">השלב הבא</string>
   <string name="submit">הגש</string>
   <string name="success">מבצע מוצלח</string>
   <string name="sunday">יום ראשון</string>

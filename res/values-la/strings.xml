@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-  <string name="homekit_bind_ble_errorText">Active el Bluetooth y asegúrese de que el dispositivo esté cerca de su teléfono.</string>
-  <string name="homekit_bind_ble_hud_errorText">No se pudo conectar el dispositivo. Confirme que el Bluetooth de su teléfono esté activado y que su dispositivo esté cerca del teléfono.</string>
+  <string name="homekit_bind_ble_errorText">Active el Bluetooth y asegúrese de que el dispositivo esté cerca de su teléfono.</string>
+  <string name="homekit_bind_ble_hud_errorText">No se pudo conectar el dispositivo. Confirme que el Bluetooth de su teléfono esté activado y que su dispositivo esté cerca del teléfono.</string>
   <string name="homekit_bind_wifi_errorText">Conecte el dispositivo y el teléfono al mismo Wi-Fi.</string>
   <string name="homekit_bind_wifi_hud_errorText">No se pudo conectar el dispositivo. Confirme que su dispositivo y el teléfono estén conectados al mismo Wi-Fi.</string>
-  <string name="homekit_binding_ble_tips">El dispositivo se desconectará si abre Familia, y se reconectará después de ser añadido con éxito.</string>
+  <string name="homekit_binding_ble_tips">El dispositivo se desconectará si abre Familia, y se reconectará después de ser añadido con éxito.</string>
   <string name="homekit_binding_btn_text">Conectando...</string>
   <string name="homekit_rebind_btn_text">Conectar de nuevo</string>
   <string name="homekit_research_btn_text">Buscar de nuevo</string>
@@ -21,17 +21,17 @@
   <string name="thing_google_flip_how_to_remove_link_with_auth_manager">Desactive la habilidad %s en la aplicación de Google Home o pulse Usuario actual &gt; botón de Configuración en la esquina superior derecha &gt; Cuenta y Seguridad para desautorizarla.</string>
   <string name="thing_has_unbinded">Ha enviado una solicitud para desvincular el dispositivo. Puede ver y hacer un seguimiento del progreso de la solicitud de desvinculación del dispositivo.</string>
   <string name="thing_social_auth_authorization_content_label">Los permisos incluyen:</string>
-  <string name="thing_social_auth_authorization_ts">Autorizar en:  %s</string>
-  <string name="thing_social_auth_authorize_content_google">Autorice a Google a acceder a su dispositivo</string>
+  <string name="thing_social_auth_authorization_ts">Autorizar en:  %s</string>
+  <string name="thing_social_auth_authorize_content_google">Autorice a Google a acceder a su dispositivo</string>
   <string name="thing_social_auth_authorize_content_item_one">Acceso a la información de su cuenta</string>
   <string name="thing_social_auth_authorize_content_item_two">Acceso al control de su dispositivo</string>
   <string name="thing_social_auth_authorize_manage">Gestión de autorización de servicios de voz de terceros</string>
   <string name="thing_social_auth_de_authorize_confirm">Confirmar</string>
-  <string name="thing_social_auth_de_authorize_content">No puede controlar dispositivos con %s. Para reanudar el control por voz del dispositivo, puede desvincular la plataforma de habilidades de terceros y autorizarla nuevamente.</string>
-  <string name="thing_social_auth_de_authorize_platform">No autorizar %s</string>
+  <string name="thing_social_auth_de_authorize_content">No puede controlar dispositivos con %s. Para reanudar el control por voz del dispositivo, puede desvincular la plataforma de habilidades de terceros y autorizarla nuevamente.</string>
+  <string name="thing_social_auth_de_authorize_platform">No autorizar %s</string>
   <string name="thing_social_auth_de_authorize_platform_icon">Icono de plataforma</string>
   <string name="thing_social_auth_de_authorize_success">Desautorizada con éxito.</string>
-  <string name="thing_social_auth_de_authorize_title">¿Desautorizar %s?</string>
+  <string name="thing_social_auth_de_authorize_title">¿Desautorizar %s?</string>
   <string name="thing_social_auth_repeated_deauthorization_not_allowed">Ya desautorizado.</string>
   <string name="video_size_limit_40MB">El video no puede exceder los 40 MB.</string>
 </resources>

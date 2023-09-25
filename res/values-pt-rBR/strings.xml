@@ -64,6 +64,7 @@
   <string name="action_copy_log">Copiar o registro para o clipboard</string>
   <string name="action_done">Concluído</string>
   <string name="action_more">Mais</string>
+  <string name="action_ok">OK</string>
   <string name="action_send">Enviar</string>
   <string name="action_send_email">Enviar por e-mail</string>
   <string name="action_send_wechat">Enviar via WeChat</string>
@@ -73,16 +74,19 @@
   <string name="action_upload_log_choose">Favor escolher como fazer o upload do registro</string>
   <string name="actions_not_empty">Por favor defina ações</string>
   <string name="activate">Vincular</string>
+  <string name="activate_device_failure">Falha ao emparelhar o dispositivo</string>
   <string name="activate_gateway">Gateway a ser vinculado</string>
   <string name="activator_addDevice_title">Dispositivo de conexão</string>
   <string name="activator_device_work">Certifique-se de que o dispositivo está ligado.</string>
   <string name="activator_guide_tips">Nota de emparelhamento em rede</string>
+  <string name="activator_reset_device_help_url_text">Visualizar guia de redefinição do dispositivo</string>
   <string name="activator_reset_first">Reinicie o dispositivo</string>
   <string name="activator_search_overtime_tips">Tempo de procura excedido. Nenhum dispositivo encontrado.</string>
   <string name="activator_wifi_input_des">Se o seu tipo de sinal Wi-Fi for de 5 GHz, redefina-o para 2.4 GHz antes de continuar.</string>
   <string name="activator_wifi_input_tips">Selecione uma rede Wi-Fi de 2.4 GHz e insira a sua senha.</string>
   <string name="activator_wifi_setting_help">Métodos comuns de configuração de roteador</string>
   <string name="activator_wifi_work">Certifique-se de que o sinal Wi-Fi está estável.</string>
+  <string name="active_device_failure">Falha ao ativar o dispositivo</string>
   <string name="activity_title_more_features">Mais recursos</string>
   <string name="activity_title_setting">Configurações</string>
   <string name="add">Adicionar</string>
@@ -103,6 +107,7 @@
   <string name="add_scene_effective_state">Adicionar condição para a validação de escopo</string>
   <string name="add_subDevice">Adicionar dispositivo</string>
   <string name="alaxa_success_title">Já está vinculado à Alexa da Amazon</string>
+  <string name="album_permission_tips">Acesse Ajustes &gt; Privacidade &gt; Fotos no seu iPhone e ative %s.</string>
   <string name="alexa_binding">Vinculando contas, por favor, aguarde...</string>
   <string name="alexa_flip_auth_info">Vincule sua conta da %s à Amazon Alexa</string>
   <string name="alexa_flip_confirm">Concordar e vincular</string>
@@ -125,7 +130,11 @@
   <string name="alexa_your_device_has_supported">O seu dispositivo já suporta o Amazon Alexa, que você pode acessar com um clique.</string>
   <string name="all_dev">Todos os dispositivos</string>
   <string name="all_dev_shared">Meus dispositivos partilhados recebidos</string>
+  <string name="allow_access_to_all_photos">Permitir o acesso a todas as fotos</string>
   <string name="already_add_dev">Dispositivo adicionado</string>
+  <string name="animal_detect_on_tips">Detecção de aves ativada. Você só receberá notificações push sobre aves.</string>
+  <string name="animal_expel_on_tips">Inibição automática de esquilos ativada. O sistema inibirá os esquilos detectados.</string>
+  <string name="animal_identify_loading_tips">Identificando…</string>
   <string name="ap_mode">Modo de compatibilidade</string>
   <string name="app_experience">Versão experiência</string>
   <string name="app_experience_debug">Este aplicativo é um pacote de testes e é usado somente para análises.</string>
@@ -141,11 +150,20 @@
   <string name="app_guide_satis_content">Por favor avalie nosso serviço</string>
   <string name="app_guide_satis_ok">Satisfatório</string>
   <string name="app_guide_satis_title">Pesquisa de satisfação</string>
+  <string name="app_personal_center_customer_online">Serviço</string>
+  <string name="app_personal_center_family">Gestão da Página</string>
+  <string name="app_personal_center_help">FAQ e Feedback</string>
+  <string name="app_personal_center_homekit">Informação sobre o HomeKit</string>
+  <string name="app_personal_center_message">Centro de mensagens</string>
+  <string name="app_personal_center_more_service">Em destaque</string>
+  <string name="app_personal_center_third_service">Serviços de voz de terceiros</string>
   <string name="at_login_sns">Faça o login com contas de mídia social</string>
   <string name="auto_discover_device">Scan automático</string>
   <string name="autolock_delay_level_undefined">Não</string>
   <string name="before_add_activate_gateway">Antes de adicionar dispositivos, por favor configure o gateway</string>
   <string name="biometric_finger_error_tip">Falha na autenticação. Tente novamente.</string>
+  <string name="bird_id_no_tips">Assine a identificação de aves para obter reconhecimento ilimitado em qualquer hora e lugar e conhecer mais aves.</string>
+  <string name="bird_identify_null_tips">Não foi possível encontrar a ave da imagem. Fique à vontade para deixar seus comentários e ajudar a melhorar o serviço.</string>
   <string name="ble_auth_desc">Alguns dispositivos Wi-Fi são adicionados com mais facilidade se o Bluetooth estiver ativado.</string>
   <string name="ble_auth_desc_1">Conceder permissão do Bluetooth</string>
   <string name="ble_auth_desc_2">Ativar Bluetooth</string>
@@ -191,6 +209,38 @@
   <string name="bluetooth_on_viewdevices">Verifique o dispositivo.</string>
   <string name="bluetooth_reconnection">Espere para reconectar</string>
   <string name="bluetooth_scanningdevice">Digitalizando</string>
+  <string name="call_accept">Aceitar</string>
+  <string name="call_already_answered">Chamada atendida</string>
+  <string name="call_already_rejected">Chamada recusada</string>
+  <string name="call_busy">Linha ocupada</string>
+  <string name="call_call_finish">Chamada encerrada</string>
+  <string name="call_camera_permissions_content">Vá até Configurações &gt; Configurações de privacidade &gt; Câmera e permita que o aplicativo acesse a câmera.</string>
+  <string name="call_camera_permissions_title">O recurso de chamada requer acesso à câmera.</string>
+  <string name="call_cancel">Cancelar</string>
+  <string name="call_cancel_error">Chamada cancelada pelo autor da chamada</string>
+  <string name="call_close_door">Trancar</string>
+  <string name="call_close_door_failure">Falha ao trancar.</string>
+  <string name="call_close_door_success">Trancado com sucesso.</string>
+  <string name="call_close_door_tip">Deseja mesmo trancar a porta?</string>
+  <string name="call_connecting">Conectando ...</string>
+  <string name="call_disconnecting">Desconectando ...</string>
+  <string name="call_door_cancel">Cancelar</string>
+  <string name="call_door_confirm">OK</string>
+  <string name="call_execption">Erro na chamada</string>
+  <string name="call_hangup">Desligar</string>
+  <string name="call_invalid">Chamada expirada</string>
+  <string name="call_iscalling">Atendendo chamada ...</string>
+  <string name="call_micro_permissions_content">Vá até Configurações &gt; Configurações de privacidade &gt; Microfone e permita que o aplicativo acesse o microfone.</string>
+  <string name="call_micro_permissions_title">O recurso de chamada requer acesso ao microfone.</string>
+  <string name="call_not_answer">Chamada não atendida</string>
+  <string name="call_open_door">Destrancar</string>
+  <string name="call_open_door_failure">Falha ao destrancar.</string>
+  <string name="call_open_door_success">Destrancado com sucesso.</string>
+  <string name="call_open_door_tip">Deseja mesmo destrancar a porta?</string>
+  <string name="call_reject">Recusar</string>
+  <string name="call_timeout">Tempo limite de chamada</string>
+  <string name="call_waiting_accept">Chamando ...</string>
+  <string name="camera_permission_tips">Acesse Ajustes &gt; Privacidade &gt; Câmera no seu iPhone e ative %s.</string>
   <string name="camera_permissions">Requer acesso à câmera</string>
   <string name="camera_permissions_access">3  Encontre %s e habilite acesso à câmera</string>
   <string name="camera_permissions_methods">Métodos de ativação</string>
@@ -199,8 +249,11 @@
   <string name="camera_permisssions_camera">Câmera</string>
   <string name="camera_permisssions_privacy">Privacidade</string>
   <string name="can_connect">Dispositivos que podem ser conectados</string>
+  <string name="can_not_choose_both_photo_and_gif">Ao selecionar fotos, não é possível selecionar arquivos GIF.</string>
+  <string name="can_not_choose_both_video_and_photo">Ao selecionar fotos, não é possível selecionar vídeos.</string>
   <string name="can_not_leave">Não pôde abandonar família</string>
   <string name="can_not_locate">Não é possível localizar a cidade</string>
+  <string name="can_not_use_camera">Câmera indisponível</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_add">Cancelar</string>
   <string name="cancel_connect">Remover dispositivo</string>
@@ -213,6 +266,7 @@
   <string name="check_firmware_update">Atualização do dispositivo</string>
   <string name="check_hot">Verifique se o celular está conectado ao ponto de acesso correto do dispositivo.</string>
   <string name="check_network">Verifique as configurações da rede.</string>
+  <string name="check_qrcode_device_match">Verifique se o código QR corresponde ao dispositivo.</string>
   <string name="check_reset">Verifique se o dispositivo foi redefinido e está pronto para o pareamento.</string>
   <string name="check_router">Verifique se um roteador está próximo ao dispositivo. Verifique se não há obstruções entre eles.</string>
   <string name="check_router_near">Verifique se o roteador está próximo ao dispositivo e se não há obstruções entre eles.</string>
@@ -338,6 +392,7 @@
   <string name="config_wifi_support_wifi">Suporte Wi-Fi com rede de distribuição</string>
   <string name="config_wifi_switch">Alternar Wi-Fi</string>
   <string name="config_wifi_switch_wifi_title">Escolher um roteador Wi-Fi</string>
+  <string name="confirm">Confirmar</string>
   <string name="confirm_btn_1">Continuar com a adição</string>
   <string name="confirm_btn_2">Sair mesmo assim</string>
   <string name="confirm_delete">Confirmar excluir</string>
@@ -351,6 +406,7 @@
   <string name="confirm_title">Sair ao adicionar dispositivo?</string>
   <string name="connect">Conectar</string>
   <string name="connect_ble_fail">Falha ao conectar o dispositivo via Bluetooth</string>
+  <string name="connect_device_failure">Falha ao conectar-se ao dispositivo</string>
   <string name="connect_hot">Conectar ao ponto de acesso do dispositivo</string>
   <string name="connect_hot_desc">Pesquisando pontos de acesso de dispositivo próximos e disponíveis... Se você for solicitado a conectar-se ao ponto de acesso</string>
   <string name="connect_hot_desc_1">, toque em Conectar.</string>
@@ -403,6 +459,7 @@
   <string name="device_group_confirm_remove">Excluir dispositivo ou dispensar grupo?</string>
   <string name="device_group_confirm_removeDetail">O Smart relacionado será desativado depois de excluir o dispositivo.</string>
   <string name="device_has_unbinded">Dispositivo já foi removido</string>
+  <string name="device_info_vendor_name">Nome do fabricante</string>
   <string name="device_list_third_matter_acl_notice_limited">O número máximo de conexões Matter para este dispositivo foi atingido. Alguns destinatários não podem usar o dispositivo como esperado.</string>
   <string name="device_list_third_matter_control_alert">Este dispositivo compartilhado não pode ser conectado pelo Matter e só pode ser usado após o compartilhador conectar-se a ele pela LAN.</string>
   <string name="device_list_third_matter_control_alert_limited">O número máximo de destinatários para compartilhar este dispositivo Matter foi atingido. Não foi possível conectar-se ao dispositivo como esperado.</string>
@@ -450,6 +507,7 @@
   <string name="dingdong_help_url">#</string>
   <string name="direct_login">Entrar diretamente</string>
   <string name="discover_choose_pic_source">Por favor, selecione uma fonte de imagem</string>
+  <string name="discover_device_failure">Falha ao detectar o dispositivo</string>
   <string name="done">Terminar</string>
   <string name="doorbell_overtime_play_vmsg_desc">Responda automaticamente às chamadas não atendidas após o tempo limite.</string>
   <string name="doorbell_overtime_play_vmsg_thold">Tempo limite</string>
@@ -464,6 +522,7 @@
   <string name="download_unzip_error">Falha ao carregar a interface</string>
   <string name="du_help_url">#</string>
   <string name="du_skill">#</string>
+  <string name="dual_lens_cooperate_tips">Arraste para girar a câmera PTZ.</string>
   <string name="dualmode_equipment_network_error">O dispositivo está desconectado do Wi-Fi. \nVerifique a conexão de rede e tente novamente.</string>
   <string name="echo_help_url">#</string>
   <string name="echo_use_equipment">Dispositivos %d suportados</string>
@@ -653,6 +712,7 @@
   <string name="has_open">Lig.</string>
   <string name="has_set">Já definido</string>
   <string name="has_update">&lt;font color=#ff0000&gt;New Version %s&lt;/font&gt;</string>
+  <string name="help_and_feedback">FAQ e Feedback</string>
   <string name="help_center">FAQ e Feedback</string>
   <string name="homadv_exit_edit">Sair da edição</string>
   <string name="homadv_network_error_dialog_tip">Falha ao salvar. Tente novamente mais tarde.</string>
@@ -713,7 +773,7 @@
   <string name="home_adv_guide_page_4_desc">Aqui você consegue encontrar e gerenciar os dispositivos e cômodos para sua residência.</string>
   <string name="home_adv_guide_page_5_desc">Caso prefira a página inicial antiga, você poderá trocá-la em \"Eu &gt; Configurações\".</string>
   <string name="home_adv_no_device_in_room">Nenhum dispositivo encontrado no cômodo atual.</string>
-  <string name="home_adv_no_room_filter">Sem quartos</string>
+  <string name="home_adv_no_room_filter">Nenhum cômodo encontrado</string>
   <string name="home_adv_no_shown_device_1">Nenhum dispositivo favorito encontrado.</string>
   <string name="home_adv_no_shown_device_2">Gerenciar dispositivos</string>
   <string name="home_adv_open_device_hint">Mostrar dispositivos invisíveis</string>
@@ -757,6 +817,7 @@
   <string name="homeadv_alldevice_management_editroom">Alterar cômodo</string>
   <string name="homeadv_alldevice_management_notchangeroomtip">Não é possível alterar os cômodos de dispositivos locais ou compartilhados.</string>
   <string name="homeadv_room_list_item_device_num_des">%d dispositivo(s)</string>
+  <string name="homekit_add_device_fail">Falha ao adicionar dispositivo(s) à casa.</string>
   <string name="homekit_auth_back">Voltar</string>
   <string name="homekit_auth_confirm">Confirmar a adicionamento</string>
   <string name="homekit_auth_tips">Ativar acesso a dados residenciais</string>
@@ -767,6 +828,7 @@
   <string name="hs_sos_alarm_tips">Confirma?</string>
   <string name="hs_sos_alarmimg">Alarme de segurança</string>
   <string name="hs_sos_dispatch_tips">Não há resposta de emergência para lhe despachar.</string>
+  <string name="icloud_sync_failed">Não é possível sincronizar fotos do iCloud.</string>
   <string name="ift_skill">#</string>
   <string name="image_size_limit_5MB">O tamanho da imagem não pode exceder 5 MB</string>
   <string name="in_thing_msg">Use esta função/dispositivo na aplicação app.</string>
@@ -787,6 +849,7 @@
   <string name="invitation_confirm">Confirmar Convite</string>
   <string name="invitation_confirm_detail">Junte-se à smart home \"%s\" para desfrutar de uma smart life. Tem certeza de que deseja prosseguir?</string>
   <string name="invitation_refuse">Recusar</string>
+  <string name="ipc_add_birdfeeder_info">Verifique se há bateria suficiente, se o indicador está piscando rápido ou se um aviso sonoro é ouvido.</string>
   <string name="ipc_ai_cloud_empty_des">Nenhum vídeo relacionado\nNenhum alvo detectado ou análise de IA não habilitada</string>
   <string name="ipc_ai_fr_list">Rostos Conhecidos</string>
   <string name="ipc_ai_fr_list_delete_inverse">Selecionar inverter</string>
@@ -824,6 +887,18 @@
   <string name="ipc_alarm_type_sound_detected_txt">Alerta Sonoro</string>
   <string name="ipc_album_delete_hint">Arquivos excluídos não podem ser restaurados.</string>
   <string name="ipc_album_empty">Nenhuma foto ou vídeo</string>
+  <string name="ipc_animal_alarm_mode_tips">Toque para alternar entre os modos de notificação de alertas.</string>
+  <string name="ipc_animal_cap_tips">Toque para capturar a imagem de uma ave e identificar a espécie.</string>
+  <string name="ipc_animal_detail">Detalhes</string>
+  <string name="ipc_animal_expel_tips">Toque para definir se os esquilos devem ser inibidos automaticamente.</string>
+  <string name="ipc_animal_favorite_edit">Editar favoritos</string>
+  <string name="ipc_animal_favorite_folder_del_tips">Esta ação também excluirá as fotos favoritas. Deseja continuar?</string>
+  <string name="ipc_animal_feedback">Feedback</string>
+  <string name="ipc_animal_feedback_tips">Tem alguma dúvida? Pergunte para nós.</string>
+  <string name="ipc_animal_guess">Nosso palpite</string>
+  <string name="ipc_animal_identify_result">Ave identificada</string>
+  <string name="ipc_animal_kind">Nome</string>
+  <string name="ipc_animal_similarity">Semelhança</string>
   <string name="ipc_bases_disconnected">Desconectado</string>
   <string name="ipc_basic_feature_list">Configuração básica de funções</string>
   <string name="ipc_basic_feature_list_tips">Informações como a lâmpada de estado e aleta de tela</string>
@@ -851,6 +926,9 @@
   <string name="ipc_basic_talkmode_txt">Como o áudio pode ser influenciado negativamente pelo fatores ambientais, recomendamos que selecione o modo de áudio unidirecional ou bidirecional de acordo com a condição real</string>
   <string name="ipc_basic_tap_to_talk">Tocar para Falar</string>
   <string name="ipc_basic_wdr">Modo WDR</string>
+  <string name="ipc_bird_detect">Detecção de aves</string>
+  <string name="ipc_bird_identify_error">Erro de identificação.</string>
+  <string name="ipc_bird_service_expiring_tips">O período da sua avaliação de identificação de aves termina em %s. Assine este serviço para continuar usando.</string>
   <string name="ipc_button_enter_album">Ver Álbuns</string>
   <string name="ipc_chime_run_time">%s min</string>
   <string name="ipc_chime_type_digital">Tom de toque sem fio</string>
@@ -893,9 +971,11 @@
   <string name="ipc_cloudstorage_amount">Quantidade de compra</string>
   <string name="ipc_cloudstorage_annually">Plano anual</string>
   <string name="ipc_cloudstorage_billed">Selecione plano</string>
+  <string name="ipc_cloudstorage_buy_alipay">Pague com Alipay</string>
   <string name="ipc_cloudstorage_buy_button">Pague agora</string>
   <string name="ipc_cloudstorage_buy_confirm">Confirmar o pagamento $ %s</string>
   <string name="ipc_cloudstorage_buy_method">Método de pagamento</string>
+  <string name="ipc_cloudstorage_buy_wechat">Pagamento WeChat</string>
   <string name="ipc_cloudstorage_date_today">Hoje</string>
   <string name="ipc_cloudstorage_entry">Armazenamento na nuvem</string>
   <string name="ipc_cloudstorage_groupbound">Tanto o serviço de armazenamento em Nuvem do vídeo do dispositivo quanto os dados do vídeo pertencem à página inicial\n Alterar a página do dispositivo requer uma nova assinatura</string>
@@ -1339,6 +1419,7 @@
   <string name="ipc_sound_sensitivity_select">Selecione a sensibilidade para detecção decibel</string>
   <string name="ipc_sound_sensitivity_settings">Nível de Sensibilidade</string>
   <string name="ipc_sound_sensitivity_settings_tips">Selecione a sensibilidade</string>
+  <string name="ipc_squirrel_expel">Inibição de esquilos</string>
   <string name="ipc_status_awake">Despertando o dispositivo</string>
   <string name="ipc_status_awake_failed">O dispositivo de despertar falhou.</string>
   <string name="ipc_status_cloudstorage_stream_failed">Falhou em carregar dados de armazenamento em nuvem</string>
@@ -1472,7 +1553,7 @@
 - Permissão de câmera: para fornecer serviços baseados na câmera. Por exemplo, ler códigos QR para adicionar dispositivos, gavar vídeos para upload e tirar fotos.
 - Permissão de microfone: para fornecer serviços baseados no controle de voz. Por exemplo, gavar vídeos e ativar assistentes de voz.
 - Permissão de armazenamento: para garantir a operação estável do cliente. Por exemplo, iniciar o app adequadamente, salvar ou ler imagens e conteúdo de mídia.
-- Permissão de notificação: para enviar notificações push sobre produtos ou serviços. Especialmente quando você compra serviços específicos, um alerta deve ser enviado para informá-lo sobre o status em tempo real. 3. Você pode consultar, modificar e excluir suas informações pessoais. Sua conta pode ser cancelada para atender às suas necessidades. Clique no link na \"Política de Privacidade\" para implementar os direitos de privacidade especificados. 4. Estamos comprometidos em proteger suas informações pessoais. Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento.Clique em ver \"Políticade Privacidade\", \"Termos de Serviço\", \"Lista de Serviços SDK de Terceiros\" e \"Declaração de Proteção à Privacidade das Crianças\". Se você tiver alguma dúvida, entre em contato conosco. Obrigado por seu apoio e compreensão!</string>
+- Permissão de notificação: para enviar notificações push sobre produtos ou serviços. Especialmente quando você compra serviços específicos, um alerta deve ser enviado para informá-lo sobre o status em tempo real. 3. Você pode consultar, modificar e excluir suas informações pessoais. Sua conta pode ser cancelada para atender às suas necessidades. Clique no link na \"Política de Privacidade\" para implementar os direitos de privacidade especificados. 4. Estamos comprometidos em proteger suas informações pessoais. Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento.Clique em ver \"Políticade Privacidade\", \"Termos de Serviço\", \"Lista de Serviços SDK de Terceiros\" e \"Declaração de Proteção à Privacidade das Crianças\". Se você tiver alguma dúvida, entre em contato conosco. Obrigado por seu apoio e compreensão!</string>
   <string name="login_privacy_link">Política de Privacidade da</string>
   <string name="login_privacy_title">Contrato do Usuário e Política de Privacidade</string>
   <string name="login_qr_app_info">Digitalizar QR para login</string>
@@ -1500,6 +1581,11 @@
   <string name="logout">Sair</string>
   <string name="low_power">Baixa energia</string>
   <string name="manual_add_device_mode">Adicionar Manualmente</string>
+  <string name="matter_share_code_desc">Copie o código de configuração ou compartilhe o código QR para compartilhar o dispositivo Matter.</string>
+  <string name="matter_share_code_tips">Compartilhar código de configuração com outros apps</string>
+  <string name="matter_share_expired_time_tip">Validade restante:</string>
+  <string name="matter_share_show_qr_code">Compartilhar com código QR</string>
+  <string name="max_photo_select_tips">É possível selecionar até %zd foto(s).</string>
   <string name="member_tips">Membros comuns não podem adicionar ou excluir dispositivos ou Executar, nem adicionar ou remover outros membros ou toda a família.</string>
   <string name="menu_title_about">Sobre</string>
   <string name="menu_title_echo">Usar o Echo</string>
@@ -1546,6 +1632,7 @@
   <string name="message_dnd_tue">Terça-feira</string>
   <string name="message_dnd_wed">Quarta-feira</string>
   <string name="message_setting_title">Agenda de Não-Incomodar</string>
+  <string name="min_photo_select_tips">Selecione pelo menos %zd foto(s).</string>
   <string name="mobile_binding">Vincular celular</string>
   <string name="modify_password_rule">A senha deve conter de 6 a 20 caracteres, incluindo letras e números.</string>
   <string name="modify_password_success">A senha foi alterada com sucesso \n Por favor faça o login novamente.</string>
@@ -1555,6 +1642,7 @@
   <string name="more_service_order_list">Meu pedido</string>
   <string name="more_service_recommand_service">Em destaque</string>
   <string name="more_service_thirdparty_service">Serviços de voz de terceiros</string>
+  <string name="multi_select_video_tips">Ao selecionar vários vídeos, eles serão enviados como imagens.</string>
   <string name="my_profile_choose_pic_from_camera">Tirar foto</string>
   <string name="my_profile_choose_pic_from_local">Selecione Do Álbum Local</string>
   <string name="my_smart_home">Meus dispositivos</string>
@@ -1597,8 +1685,11 @@
   <string name="no_device_found">Dispositivo não encontrado</string>
   <string name="no_email_client">Cliente de e-mail não instalado</string>
   <string name="no_find_wifi">Não foi encontrada nenhuma rede Wi-Fi desejada?</string>
+  <string name="no_permission_add_device_connect_admin">Não autorizado a adicionar um dispositivo. Fale com o proprietário da casa e obtenha a permissão.</string>
+  <string name="no_photos_or_videos">Nenhuma foto ou vídeo.</string>
   <string name="no_search_result">Dados não encontrados</string>
   <string name="no_share">Nenhum dispositivo partilhado</string>
+  <string name="no_support_share_deivce_same_app">O gateway Matter não pode ser emparelhado com este aplicativo repetidamente.</string>
   <string name="no_timer_data">Lista de Agendamento Vazia</string>
   <string name="no_update">Nenhuma atualização</string>
   <string name="no_wechat_client">Cliente WeChat não está instalado.</string>
@@ -1612,6 +1703,7 @@
   <string name="not_save">Cancelar</string>
   <string name="not_share_device_to_user">Não é possível compartilhar com %s</string>
   <string name="not_share_family_to_user">Não é possível compartilhar a família \"%1$s\" com o usuário %2$s</string>
+  <string name="not_support_this_device_in_current_app">Não é possível adicionar este dispositivo. Consulte o comerciante sobre o app compatível e tente novamente.</string>
   <string name="not_upgrade">Atualizar depois</string>
   <string name="number_unshare_device">%d dispositivos não podem ser partilhados</string>
   <string name="once_day">Uma vez</string>
@@ -1628,6 +1720,7 @@
   <string name="open_wifi">Ligue o Wi-Fi no seu telefone para adicionar dispositivo; será ativado automaticamente após a confirmação.</string>
   <string name="operation_delete">Excluir</string>
   <string name="operation_revise">Modificar</string>
+  <string name="orignal_image">Original</string>
   <string name="ota_I_know">Entendi</string>
   <string name="ota_auto_update">Atualização Automática</string>
   <string name="ota_back_to_home_content">Atualização em andamento. O dispositivo não está disponível. Você pode voltar à página inicial e a atualização continuará.</string>
@@ -1729,7 +1822,9 @@
   <string name="phone_notify_serve_faq_2">A App fará chamadas telefónicas para alertá-lo quando a automação que configurou na app for acionada.</string>
   <string name="phone_number">Número do celular</string>
   <string name="phone_or_email">Número de celular ou endereço de e-mail</string>
+  <string name="photos">Fotos</string>
   <string name="pid_has_upgrade_title">Novas atualizações</string>
+  <string name="please_check_device_power_nearby">Verifique se o dispositivo está ligado e próximo.</string>
   <string name="please_choose_country_first">País / região</string>
   <string name="please_connect_hot">Toque em Conectar para permitir a conexão.</string>
   <string name="please_enter_pwd">Digite a senha</string>
@@ -1766,12 +1861,14 @@
   <string name="pps_start_talking">Começar a falar</string>
   <string name="pps_video_saved">Vídeo guardado</string>
   <string name="pps_video_shift_tip">Registrando. Tem certeza que deseja parar?</string>
+  <string name="preview">Visualizar</string>
   <string name="previous">Anterior</string>
   <string name="privacy">Política de Privacidade</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
   <string name="private_and_user_agreement">Acordo de Serviço e Política de Privacidade</string>
   <string name="problemSubmit_content_placeholder">Detalhe o problema que você deseja reportar e anote o caminho do assunto do problema no aplicativo. Informações claras e completas podem nos ajudar a localizar e resolver rapidamente o problema.</string>
+  <string name="processing">Processando...</string>
   <string name="productProposal_content_placeholder">Descreva sua sugestão de otimização ou solução em detalhes.</string>
   <string name="push_alarm_device">Dispositivo</string>
   <string name="push_alarm_event_type">Categoria da atividade</string>
@@ -2111,6 +2208,9 @@
   <string name="start_smart_life">Ligue sua vida inteligente</string>
   <string name="state_abnormal">Estado anormal</string>
   <string name="status_abnormal">Exceção de status do dispositivo; falha na conexão</string>
+  <string name="sub_devices_next">Próximo</string>
+  <string name="sub_devices_select_room">Selecionar sala</string>
+  <string name="sub_devices_select_room_desc">Atribuir dispositivo a uma sala</string>
   <string name="submit">Enviar</string>
   <string name="submit_success_msg">Submetido com sucesso.</string>
   <string name="success">Operação bem-sucedida</string>
@@ -2121,6 +2221,7 @@
   <string name="sure_delete_home">Tem certeza de que deseja excluir sua família?</string>
   <string name="sure_delete_member">Tem certeza de que deseja excluir este membro?</string>
   <string name="sure_leave_home">Tem certeza de que deseja sair desta família?</string>
+  <string name="synchronizing_photos_from_icloud">Sincronizando fotos do iCloud...</string>
   <string name="system_error">Erro do sistema e falha na operação</string>
   <string name="taste_device_support">Esta ação é suportada em dispositivos de demonstração</string>
   <string name="temperature_unit">Unidade de temperatura</string>
@@ -2142,7 +2243,7 @@
   <string name="thing_activator_check_reason">Realize as etapas a seguir e tente novamente:</string>
   <string name="thing_activator_connect_24g_retry">Conecte seu telefone à rede Wi-Fi de 2,4 GHz e tente novamente.</string>
   <string name="thing_activator_continue_wifi_use">Continuar com a rede atual</string>
-  <string name="thing_activator_device_in_other_family">O dispositivo já existe na casa: %s. Não o adicione novamente. Configurações de permissão</string>
+  <string name="thing_activator_device_in_other_family">O dispositivo já existe na casa: %s. Não o adicione novamente.</string>
   <string name="thing_activator_direct_device_error_five">O cartão SIM está vinculado ao dispositivo.</string>
   <string name="thing_activator_direct_device_error_four">O dispositivo está funcionando em ótimas condições de rede celular.</string>
   <string name="thing_activator_direct_device_error_one">O dispositivo está ligado.</string>
@@ -2152,7 +2253,7 @@
   <string name="thing_activator_duplicate_confirm_text">Ver</string>
   <string name="thing_activator_duplicate_scan_title">O dispositivo já existe. Não o adicione novamente.</string>
   <string name="thing_activator_matter_failure_reset_tip">Verifique se o dispositivo foi redefinido e está pronto para o pareamento.</string>
-  <string name="thing_activator_no_available_thread_content">Não foi encontrado nenhum gateway Thread disponível nesta casa. Adicione um gateway Thread e certifique-se de que:</string>
+  <string name="thing_activator_no_available_thread_content">Adicione um gateway Thread na casa atual</string>
   <string name="thing_activator_no_available_thread_content_1">O gateway esteja ligado e on-line.</string>
   <string name="thing_activator_no_available_thread_content_2">O gateway e o celular funcionem na mesma rede.</string>
   <string name="thing_activator_no_available_thread_gateway">Nenhum gateway Thread disponível</string>
@@ -2387,7 +2488,7 @@
   <string name="thing_activator_allow_nearby_devices_permission">Conceda a permissão de \"Dispositivos próximos\"</string>
   <string name="thing_activator_ap_failure1">Verifique se o dispositivo foi reiniciado e se o indicador está a piscar lentamente.</string>
   <string name="thing_activator_ap_failure2">Verifique se o seu celular está conectado ao ponto de acesso do dispositivo.</string>
-  <string name="thing_activator_ap_failure_psk_wifi_connect">Depois de conectar seu telefone ao dispositivo de ponto de acesso, mude para o roteador Wi-Fi conectado anteriormente.</string>
+  <string name="thing_activator_ap_failure_psk_wifi_connect">Depois de conectar seu telefone ao dispositivo de ponto de acesso, mude para o roteador Wi-Fi conectado anteriormente.</string>
   <string name="thing_activator_auto_search_highlight_text">modo de pareamento</string>
   <string name="thing_activator_auto_search_text">Pesquisando dispositivos próximos. Verifique se seu dispositivo entrou no modo de pareamento.</string>
   <string name="thing_activator_bleLimit_open">Habilitado</string>
@@ -2412,7 +2513,7 @@
   <string name="thing_activator_check_wifi_name_password_correct">Verifique se o nome e a senha do Wi-Fi estão certos.</string>
   <string name="thing_activator_check_wifi_signal_strength">Verifique a força do sinal Wi-Fi e deixe o dispositivo próximo ao roteador.</string>
   <string name="thing_activator_check_wifi_unobstructed">Verifique se a rede Wi-Fi está normal.</string>
-  <string name="thing_activator_choose_gateway_title">Selecionar gateway</string>
+  <string name="thing_activator_choose_gateway_title">Selecionar gateway</string>
   <string name="thing_activator_comfirm_wifi">As informações do Wi-Fi são necessárias. Deseja mesmo adicionar?</string>
   <string name="thing_activator_complete">Concluído</string>
   <string name="thing_activator_config_cable_gateway">Configurando o Gateway com Fio</string>
@@ -2422,7 +2523,7 @@
   <string name="thing_activator_confirm_device_near_router">Confirme se o dispositivo está próximo ao roteador.</string>
   <string name="thing_activator_confirm_gateway_near_router">Confirme se %s, os subdispositivos e o telefone estão próximos ao roteador.</string>
   <string name="thing_activator_confirm_wifi_2_4g_hz">Confirme se a banda Wi-Fi é de 2,4 GHz.</string>
-  <string name="thing_activator_confirm_wifi_low_grequency">Verifique se sua banda Wi-Fi é de 2,4 GHz.</string>
+  <string name="thing_activator_confirm_wifi_low_grequency">Verifique se sua banda Wi-Fi é de 2,4 GHz.</string>
   <string name="thing_activator_connect_bluetooth">Emparelhamento de Bluetooth</string>
   <string name="thing_activator_connect_bluetooth_text">Rede através de Bluetooth</string>
   <string name="thing_activator_continue">Continuar</string>
@@ -2472,6 +2573,7 @@
   <string name="thing_activator_input_legal_ip_address">Digite o endereço IP correto.</string>
   <string name="thing_activator_input_legal_subnet_mask">Digite a máscara de sub-rede correta.</string>
   <string name="thing_activator_input_wifi_title">Selecione o Wi-Fi e digite a senha</string>
+  <string name="thing_activator_input_wifi_title_des">Insira suas informações de Wi-Fi.</string>
   <string name="thing_activator_ip_address">Endereço IP</string>
   <string name="thing_activator_keep_device_connect_router">Mantenha o dispositivo conectado ao roteador.</string>
   <string name="thing_activator_keep_gateway_local_online">Mantenha o gateway online e próximo ao dispositivo.</string>
@@ -2486,11 +2588,11 @@
   <string name="thing_activator_linkmode_AP_hotspot_caption_LN2">Acesso à rede local</string>
   <string name="thing_activator_linkmode_AP_hotspot_caption_back_app">Volte e adicione dispositivos.</string>
   <string name="thing_activator_linkmode_AP_hotspot_caption_connect">Conecte seu telefone ao ponto de acesso mostrado abaixo:</string>
-  <string name="thing_activator_linkmode_ap_psk_btn_next">Confirme a conexão Wi-Fi e continue</string>
-  <string name="thing_activator_linkmode_ap_psk_caption_back_app">Volte e continue o processo de emparelhamento do dispositivo.</string>
-  <string name="thing_activator_linkmode_ap_psk_caption_connect">Conecte seu telefone ao Wi-Fi mostrado abaixo:</string>
-  <string name="thing_activator_linkmode_ap_psk_cycle_tip_wifi">Mantenha-se conectado ao Wi-Fi</string>
-  <string name="thing_activator_linkmode_ap_psk_title">Mude a conexão Wi-Fi</string>
+  <string name="thing_activator_linkmode_ap_psk_btn_next">Confirme a conexão Wi-Fi e continue</string>
+  <string name="thing_activator_linkmode_ap_psk_caption_back_app">Volte e continue o processo de emparelhamento do dispositivo.</string>
+  <string name="thing_activator_linkmode_ap_psk_caption_connect">Conecte seu telefone ao Wi-Fi mostrado abaixo:</string>
+  <string name="thing_activator_linkmode_ap_psk_cycle_tip_wifi">Mantenha-se conectado ao Wi-Fi</string>
+  <string name="thing_activator_linkmode_ap_psk_title">Mude a conexão Wi-Fi</string>
   <string name="thing_activator_linkmode_prepare_simple_next_button_title">A luz indicadora está piscando</string>
   <string name="thing_activator_linkmode_prepare_simple_step_button_title">Redefinir dispositivo passo a passo</string>
   <string name="thing_activator_linkmode_router_hotspot_caption_connect">Conecte o celular ao ponto de acesso do dispositivo descrito no manual.</string>
@@ -2584,7 +2686,7 @@
   <string name="thing_activator_permission_bluetooth_is_open">Verifique se o Bluetooth está ativado.</string>
   <string name="thing_activator_phone_is_connect_router_wifi">Se o telefone está conectado ao ponto de acesso do roteador</string>
   <string name="thing_activator_progress_exit_alert_cancel">Continuar com a adição</string>
-  <string name="thing_activator_progress_exit_alert_confirm">Sair mesmo assim</string>
+  <string name="thing_activator_progress_exit_alert_confirm">OK</string>
   <string name="thing_activator_progress_exit_alert_message">Talvez o dispositivo esteja sendo adicionado. Deseja mesmo sair? Se você sair agora, redefina o dispositivo quando for adicioná-lo de novo.</string>
   <string name="thing_activator_progress_exit_alert_title">Deseja sair do processo de adição?</string>
   <string name="thing_activator_qr_btnText">Ler</string>
@@ -3132,7 +3234,8 @@
   <string name="thing_gateway_selection_title">Selecionar gateway</string>
   <string name="thing_gateway_with_sub_device_shared">O gateway será compartilhado junto com o dispositivo secundário</string>
   <string name="thing_geofence_location_always">Use a cerca geográfica para definir a permissão de segmentação do aplicativo como \"Sempre permitir\"</string>
-  <string name="thing_geofence_location_always_accuracy">Para usar a delimitação geográfica, você deve “sempre permitir” que o aplicativo acesse sua localização e habilitar a “localização precisa”.</string>
+  <string name="thing_geofence_location_always_accuracy">Para usar a delimitação geográfica, você deve “sempre permitir” que o aplicativo acesse sua localização e habilitar a “localização precisa”.</string>
+  <string name="thing_geofence_maptitle">Localização</string>
   <string name="thing_geofence_privacy">Essa permissão será usada apenas em \"Quando a localização muda\" da automação de dispositivos inteligentes. Em um sistema iOS, ative os serviços de localização em Ajustes &gt; Privacidade &gt; Serviços de Localização. No iOS 14 e versões posteriores, você precisa ativar a opção Localização Precisa e sempre permitir que o dispositivo acesse sua localização.</string>
   <string name="thing_geofence_title">Saída ou chegada em um local (beta)</string>
   <string name="thing_geoprivacy_always">Sempre</string>
@@ -3358,7 +3461,7 @@
   <string name="thing_login_thirdparty_call">Você assinou o serviço de notificação por telefone e mensagem. Adicione seu novo número de celular nas configurações de notificação por telefone.</string>
   <string name="thing_login_thirdparty_sms">A alteração do número do celular interromperá o serviço de notificação de mensagens. Continuar com a alteração?</string>
   <string name="thing_login_tw">Twitter</string>
-  <string name="thing_login_verify_bind_email_tip">É preciso vincular um endereço de e-mail para continuar o login.</string>
+  <string name="thing_login_verify_bind_email_tip">É preciso vincular um endereço de e-mail para continuar o login.</string>
   <string name="thing_login_waring_email">Você poderá fazer login com o novo e-mail após a alteração</string>
   <string name="thing_login_warning_mobile">Você poderá fazer login com seu novo número de celular após a alteração</string>
   <string name="thing_login_wechat">WeChat</string>
@@ -3530,6 +3633,7 @@
   <string name="thing_net_pool_instructions2">Saiba mais</string>
   <string name="thing_net_pool_no_agree">Discordar</string>
   <string name="thing_net_pool_offine_tip">Falha nas informações de rede do dispositivo. Verifique sua rede.</string>
+  <string name="thing_net_pool_other">Mudar para outra rede</string>
   <string name="thing_net_pool_phone_wifi">Rede atual</string>
   <string name="thing_net_pool_select_wifi">Conecte-se a uma rede wi-fi de 2,4 GHz</string>
   <string name="thing_net_pool_standby_upper_limit_tip">Limite atingido</string>
@@ -3723,13 +3827,13 @@
   <string name="thing_scene_error_detail">Detalhes do erro</string>
   <string name="thing_scene_exception_tip_dev_offline">Dispositivo(s) off-line</string>
   <string name="thing_scene_exception_tip_dev_remove">Dispositivo(s) removidos</string>
-  <string name="thing_scene_execute_light">Executar cena de iluminação</string>
+  <string name="thing_scene_execute_light">Executar cena de iluminação</string>
   <string name="thing_scene_geofence_arrive">\"Chegar a\" uma localização predefinida</string>
   <string name="thing_scene_geofence_arrive_desc">Quando voltar para casa, acender as luzes.</string>
   <string name="thing_scene_geofence_dialog_explain">\"Quando a localização mudar (Beta)\" é nosso recurso experimental. Para usá-lo, você deve sempre permitir o acesso à sua localização. Suas informações de localização não serão usadas para nenhum outro fim. Esse recurso não funciona sem suas informações de localização. Para saber mais, consulte \"Detalhes do recurso\".</string>
   <string name="thing_scene_geofence_dialog_explain_highlight">Detalhes do recurso</string>
   <string name="thing_scene_geofence_explain">Nota: as condições de localização acima dependem da localização do seu telefone. Consulte \"Detalhes do recurso\".</string>
-  <string name="thing_scene_geofence_explain_desc">\"Quando a localização mudar (Beta)\" é nosso recurso experimental. Você pode definir sua localização como condição para acionar uma cena específica. Por exemplo, \"desligar automaticamente após eu sair de casa\". \n\nSolicitaremos a permissão de \"Sempre permitir acesso à localização\", o que ajuda a executar as cenas com base na sua localização e proporcionar uma melhor experiência ao usuário. Essa localização só é válida para sua conta atual. Suas informações de localização não serão usadas para nenhum outro fim. Esse recurso não funciona sem suas informações de localização. Esse recurso depende da \"Permissão de localização\" e das atualizações precisas e rápidas da localização do seu smartphone. Você será o único responsável por toda e qualquer perda se suas cenas predefinidas não funcionarem corretamente em caso de falha em obter sua localização mais recente, em consequência de negar ou desabilitar o acesso à localização, serviços de localização imprecisos ou no tempo impróprio e outros problemas não atribuíveis a nós. \n\nPor motivos de segurança, quando \"Em uma localização predefinida\" ou \"Não em uma localização predefinida\" for usado como condição de acionamento, uma cena poderá não ser executada corretamente se sua localização mais recente não puder ser obtida em 15 dias devido à desativação da permissão ou outros motivos. \n\nCaso queira desativar esse recurso após o uso, basta excluir a cena especificada.</string>
+  <string name="thing_scene_geofence_explain_desc">\"Quando a localização mudar (Beta)\" é nosso recurso experimental. Você pode definir sua localização como condição para acionar uma cena específica. Por exemplo, \"desligar automaticamente após eu sair de casa\". \n\nSolicitaremos a permissão de \"Sempre permitir acesso à localização\", o que ajuda a executar as cenas com base na sua localização e proporcionar uma melhor experiência ao usuário. Essa localização só é válida para sua conta atual. Suas informações de localização não serão usadas para nenhum outro fim. Esse recurso não funciona sem suas informações de localização. Esse recurso depende da \"Permissão de localização\" e das atualizações precisas e rápidas da localização do seu smartphone. Você será o único responsável por toda e qualquer perda se suas cenas predefinidas não funcionarem corretamente em caso de falha em obter sua localização mais recente, em consequência de negar ou desabilitar o acesso à localização, serviços de localização imprecisos ou no tempo impróprio e outros problemas não atribuíveis a nós. \n\nPor motivos de segurança, quando \"Em uma localização predefinida\" ou \"Não em uma localização predefinida\" for usado como condição de acionamento, uma cena poderá não ser executada corretamente se sua localização mais recente não puder ser obtida em 15 dias devido à desativação da permissão ou outros motivos. \n\nCaso queira desativar esse recurso após o uso, basta excluir a cena especificada.</string>
   <string name="thing_scene_geofence_explain_highlight">Detalhes do recurso</string>
   <string name="thing_scene_geofence_iknow">Entendi</string>
   <string name="thing_scene_geofence_in">\"Em\" uma localização predefinida</string>
@@ -3758,7 +3862,7 @@
   <string name="thing_scene_is_cancel_edit">Descartar alterações?</string>
   <string name="thing_scene_is_cancel_no">Não</string>
   <string name="thing_scene_is_cancel_yes">Descartar</string>
-  <string name="thing_scene_light">Cena de iluminação</string>
+  <string name="thing_scene_light">Cena de iluminação</string>
   <string name="thing_scene_log_empty">Sem registos do cenário</string>
   <string name="thing_scene_log_not_found">Não foram encontrados registros.</string>
   <string name="thing_scene_menu_log">Registos do cenário</string>
@@ -3766,7 +3870,7 @@
   <string name="thing_scene_name_length_exceed_limit">O nome excedeu o limite de caracteres.</string>
   <string name="thing_scene_new_one_click_excute">Novo toque para executar</string>
   <string name="thing_scene_no_home_location">Por favor, defina o seu endereço</string>
-  <string name="thing_scene_no_inout_geofence_explain_desc">\"Quando a localização mudar (Beta)\" é nosso recurso experimental. Você pode definir sua localização como condição para acionar uma cena específica. Por exemplo, \"desligar automaticamente após eu sair de casa\". \n\nSolicitaremos a permissão de \"Sempre permitir acesso à localização\", o que ajuda a executar as cenas com base na sua localização e proporcionar uma melhor experiência ao usuário. Essa localização só é válida para sua conta atual. Suas informações de localização não serão usadas para nenhum outro fim. Esse recurso não funciona sem suas informações de localização. Esse recurso depende da \"Permissão de localização\" e das atualizações precisas e rápidas da localização do seu smartphone. Você será o único responsável por toda e qualquer perda se suas cenas predefinidas não funcionarem corretamente em caso de falha em obter sua localização mais recente, em consequência de negar ou desabilitar o acesso à localização, serviços de localização imprecisos ou no tempo impróprio e outros problemas não atribuíveis a nós. \n\nCaso queira desativar esse recurso após o uso, basta excluir a cena especificada.</string>
+  <string name="thing_scene_no_inout_geofence_explain_desc">\"Quando a localização mudar (Beta)\" é nosso recurso experimental. Você pode definir sua localização como condição para acionar uma cena específica. Por exemplo, \"desligar automaticamente após eu sair de casa\". \n\nSolicitaremos a permissão de \"Sempre permitir acesso à localização\", o que ajuda a executar as cenas com base na sua localização e proporcionar uma melhor experiência ao usuário. Essa localização só é válida para sua conta atual. Suas informações de localização não serão usadas para nenhum outro fim. Esse recurso não funciona sem suas informações de localização. Esse recurso depende da \"Permissão de localização\" e das atualizações precisas e rápidas da localização do seu smartphone. Você será o único responsável por toda e qualquer perda se suas cenas predefinidas não funcionarem corretamente em caso de falha em obter sua localização mais recente, em consequência de negar ou desabilitar o acesso à localização, serviços de localização imprecisos ou no tempo impróprio e outros problemas não atribuíveis a nós. \n\nCaso queira desativar esse recurso após o uso, basta excluir a cena especificada.</string>
   <string name="thing_scene_no_related_scenes">Não há Cenas relacionado ao dispositivo</string>
   <string name="thing_scene_not_exist">O cenário não existe</string>
   <string name="thing_scene_not_support_add_the_condition">As condições acima não podem ser definidas ao mesmo tempo</string>
@@ -4073,7 +4177,9 @@
   <string name="verify_code_error">Código de verificação incorreto, por favor, entre novamente</string>
   <string name="version_check">Verifique atualizações</string>
   <string name="video_size_limit_40MB">O tamanho do vídeo não pode exceder 40 MB</string>
+  <string name="videos">Vídeos</string>
   <string name="virtual_dev_id">ID virtual</string>
+  <string name="virtual_device_invalid">Falha ao carregar o dispositivo de teste. Tente novamente.</string>
   <string name="voice_guidance">Bem-vindo ao controle de voz</string>
   <string name="voice_guidance_click">Toque para falar</string>
   <string name="voice_guidance_content">Um nome simples de dispositivo permite um controle de voz mais fácil \n como \"luz do quarto\", \"ar-condicionado da sala de estar\", etc</string>
@@ -4124,6 +4230,7 @@
   <string name="wifi_strength">Sinal do Wi-Fi com intensidade fraca</string>
   <string name="wifi_strength_tip">A intensidade do sinal está fraca. Colocar o dispositivo perto do roteador e tentar novamente?</string>
   <string name="wifi_to_open_permission">Ativar permissões. </string>
+  <string name="wifi_to_open_permission_tip">Permita que o aplicativo acesse a localização do seu celular para obter o nome da rede Wi-Fi atual.</string>
   <string name="wifi_to_reopen_permission_location">Anteriormente desabilitou a permissão para obter informações de localização, por isso o dispositivo não pode ler as informações de rede. Deseja reiniciá-lo?</string>
   <string name="xiaowei_help_url">#</string>
   <string name="you_are_only_manage">É o único administrador do dispositivo na família, por favor, defina outro membro como administrador antes de sair.</string>

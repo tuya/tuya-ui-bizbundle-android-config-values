@@ -52,6 +52,8 @@
   <string name="app_guide_satis_content">Vänligen betygsätt vår service</string>
   <string name="app_guide_satis_ok">Tillfredsställande</string>
   <string name="app_guide_satis_title">Nöjdhetsundersökning</string>
+  <string name="app_personal_center_family">Hemhantering</string>
+  <string name="app_personal_center_message">Meddelandecenter</string>
   <string name="at_login_sns">Logga in med sociala medier konto.</string>
   <string name="before_add_activate_gateway">Innan du lägger till enheter, konfigurera gateway</string>
   <string name="bleconfig_open_gps_tip">Eftersom Bluetooth används allmänt i scener där positionering krävs måste du aktivera GPS-positionering så att du kan använda den som vanligt</string>
@@ -109,6 +111,7 @@
   <string name="config_nearby_device_add_success">Tillagd framgångsrikt </string>
   <string name="config_nearby_device_select">Välj enhet </string>
   <string name="config_wifi">Enheten aktiveras</string>
+  <string name="confirm">Bekräfta</string>
   <string name="confirm_delete">Bekräfta borttagning</string>
   <string name="confirm_leave">Bekräfta Lämna</string>
   <string name="confirm_send_log">Bekräfta du att skicka loggen?</string>
@@ -287,9 +290,11 @@
   <string name="ipc_cloudstorage_amount">Summa</string>
   <string name="ipc_cloudstorage_annually">Årligen</string>
   <string name="ipc_cloudstorage_billed">Välj paket</string>
+  <string name="ipc_cloudstorage_buy_alipay">Betal med Alipay</string>
   <string name="ipc_cloudstorage_buy_button">Betala nu</string>
   <string name="ipc_cloudstorage_buy_confirm">Betala $%s</string>
   <string name="ipc_cloudstorage_buy_method">Betalningsmetod</string>
+  <string name="ipc_cloudstorage_buy_wechat">WeChat betalning</string>
   <string name="ipc_cloudstorage_entry">Molnlagring</string>
   <string name="ipc_cloudstorage_groupbound">Både tjänst och data tillhör hemmet \n ladda enhetens hem kräver en ny prenumeration</string>
   <string name="ipc_cloudstorage_monthly">Månatligen</string>
@@ -658,6 +663,7 @@
   <string name="smart_gateway">Smart gateway</string>
   <string name="start_smart_life">Börja ditt smarta liv</string>
   <string name="state_abnormal">Statligt onormalt</string>
+  <string name="sub_devices_next">Nästa steg</string>
   <string name="submit">Skicka</string>
   <string name="success">Lyckades</string>
   <string name="sunday">Söndag</string>

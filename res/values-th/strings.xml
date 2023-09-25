@@ -72,6 +72,9 @@
   <string name="app_guide_satis_content">โปรดให้คะแนนบริการของเรา</string>
   <string name="app_guide_satis_ok">พึงพอใจ</string>
   <string name="app_guide_satis_title">แบบสอบถามความพึงพอใจ</string>
+  <string name="app_personal_center_family">การจัดการบ้าน</string>
+  <string name="app_personal_center_help">คำถามที่พบบ่อยและข้อเสนอแนะ</string>
+  <string name="app_personal_center_message">ศูนย์ข้อความ</string>
   <string name="at_login_sns">เข้าสู่ระบบด้วยบัญชีโซเชียลมีเดีย</string>
   <string name="before_add_activate_gateway">ก่อนเพิ่มอุปกรณ์ โปรดกำหนดค่าเกตเวย์</string>
   <string name="bleconfig_ble_not_open">ไม่ได้เปิดใช้งานบลูทูธ</string>
@@ -171,6 +174,7 @@
   <string name="config_nearty_alert_try_again">ค้นหาต่อไป</string>
   <string name="config_no_wifi_tips">ป้อนชื่อ Wi-Fi ด้วยตัวเองหรือเปิดใช้งานสิทธิ์การเข้าถึงตำแหน่งเพื่อเชื่อมต่อกับอุปกรณ์ Wi-Fi ใกล้เคียงโดยอัตโนมัติ</string>
   <string name="config_wifi">การผูกอุปกรณ์</string>
+  <string name="confirm">ยืนยัน</string>
   <string name="confirm_delete">ยืนยันการลบ</string>
   <string name="confirm_leave">ยืนยันการออก</string>
   <string name="confirm_send_log">ยืนยันการส่งบันทึกหรือไม่</string>
@@ -435,9 +439,11 @@
   <string name="ipc_cloudstorage_amount">ปริมาณการซื้อ</string>
   <string name="ipc_cloudstorage_annually">แผนประจำปี</string>
   <string name="ipc_cloudstorage_billed">เลือกแผน</string>
+  <string name="ipc_cloudstorage_buy_alipay">ชำระเงินด้วย Alipay</string>
   <string name="ipc_cloudstorage_buy_button">ชำระเงินตอนนี้</string>
   <string name="ipc_cloudstorage_buy_confirm">ยืนยันการชำระเงิน $ %s</string>
   <string name="ipc_cloudstorage_buy_method">วิธีการชำระเงิน</string>
+  <string name="ipc_cloudstorage_buy_wechat">การชำระเงิน WeChat</string>
   <string name="ipc_cloudstorage_date_today">วันนี้</string>
   <string name="ipc_cloudstorage_entry">ที่เก็บบนคลาวด์</string>
   <string name="ipc_cloudstorage_groupbound">ทั้งบริการที่เก็บวิดีโอบนคลาวด์ของอุปกรณ์และข้อมูลวิดีโอเป็นของบ้าน \n การเปลี่ยนแปลงบ้านของอุปกรณ์ต้องสมัครใช้งานใหม่</string>
@@ -1145,6 +1151,7 @@
   <string name="speech_you_can_speech">คุณสามารถพูดว่า:</string>
   <string name="start_smart_life">เปิดรับชีวิตที่ชาญฉลาด</string>
   <string name="state_abnormal">สถานะผิดปกติ</string>
+  <string name="sub_devices_next">ถัดไป</string>
   <string name="submit">ส่ง</string>
   <string name="submit_success_msg">ส่งสำเร็จแล้ว</string>
   <string name="success">ดำเนินการสำเร็จ</string>

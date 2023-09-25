@@ -72,6 +72,9 @@
   <string name="app_guide_satis_content">Beoordeel Onze Service</string>
   <string name="app_guide_satis_ok">Tevredenheid</string>
   <string name="app_guide_satis_title">Tevredenheidsonderzoek</string>
+  <string name="app_personal_center_family">Home-beheer</string>
+  <string name="app_personal_center_help">FAQ &amp; Feedback</string>
+  <string name="app_personal_center_message">Berichten</string>
   <string name="at_login_sns">Inschrijven met Social Media account</string>
   <string name="before_add_activate_gateway">Stel gateway in alvorens toestel toe te voegen</string>
   <string name="bleconfig_ble_not_open">Bluetooth Niet Verbonden</string>
@@ -170,6 +173,7 @@
   <string name="config_nearty_alert_try_again">Blijven zoeken</string>
   <string name="config_no_wifi_tips">Voer handmatig de Wi-Fi-naam in of schakel de toestemming voor het gebruiken van de locatie in om automatisch Wi-Fi-apparaten in de buurt weer te geven</string>
   <string name="config_wifi">Toestel Activeren</string>
+  <string name="confirm">Bevestigen</string>
   <string name="confirm_delete">Verwijderen bevestigen</string>
   <string name="confirm_leave">Verlaten bevestigen</string>
   <string name="confirm_send_log">Bevestig Sturen Logs?</string>
@@ -431,9 +435,11 @@
   <string name="ipc_cloudstorage_amount">Kwantiteit</string>
   <string name="ipc_cloudstorage_annually">Jaar-</string>
   <string name="ipc_cloudstorage_billed">Selecteer Pakket</string>
+  <string name="ipc_cloudstorage_buy_alipay">Alipay Betaling</string>
   <string name="ipc_cloudstorage_buy_button">Directe Betaling</string>
   <string name="ipc_cloudstorage_buy_confirm">Bevestig De Betaling ¥%s</string>
   <string name="ipc_cloudstorage_buy_method">Betaling</string>
+  <string name="ipc_cloudstorage_buy_wechat">Microkanaal Betaling</string>
   <string name="ipc_cloudstorage_date_today">Vandaag</string>
   <string name="ipc_cloudstorage_entry">Cloud Storage</string>
   <string name="ipc_cloudstorage_groupbound">Zowel de video-opslagdienst in de cloud als videogegevens behoren tot het huis\n Verandering van de thuislocatie van het apparaat vereist een nieuw abonnement</string>
@@ -1140,6 +1146,7 @@
   <string name="speech_you_can_speech">U kunt zeggen:</string>
   <string name="start_smart_life">Geen Toestel</string>
   <string name="state_abnormal">Status abnormaal</string>
+  <string name="sub_devices_next">Volgende</string>
   <string name="submit">Indienen</string>
   <string name="submit_success_msg">Succesvol ingediend.</string>
   <string name="success">Succesvol</string>

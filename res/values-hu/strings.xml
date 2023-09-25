@@ -45,6 +45,7 @@
   <string name="action_copy_log">Napló vágólapra másolása</string>
   <string name="action_done">Kész</string>
   <string name="action_more">Tovább</string>
+  <string name="action_ok">OK</string>
   <string name="action_send">Küld</string>
   <string name="action_send_email">Küldés e-mailben</string>
   <string name="action_send_wechat">Küldés WeChat-on</string>
@@ -58,6 +59,7 @@
   <string name="activator_addDevice_title">Eszköz hozzáadása...</string>
   <string name="activator_device_work">Ellenőrizze, hogy a készülék be van-e kapcsolva</string>
   <string name="activator_guide_tips">Hálózatcsatlakoztatási megjegyzés</string>
+  <string name="activator_reset_device_help_url_text">Eszköz-visszaállítási útmutató megtekintése</string>
   <string name="activator_reset_first">Eszköz visszaállítása</string>
   <string name="activator_search_overtime_tips">Keresési időtúllépés. Nem található eszköz.</string>
   <string name="activator_wifi_input_des">Ha a Wi-Fi 5 GHz-es, kérjük, váltson át először 2,4 GHz-re,</string>
@@ -81,6 +83,7 @@
   <string name="add_room">Szoba hozzáadása</string>
   <string name="add_subDevice">Eszköz hozzáadása</string>
   <string name="alaxa_success_title">Amazon Alexa csatlakoztatva</string>
+  <string name="album_permission_tips">Lépjen a Beállítások &gt; Adatvédelem &gt; Az iPhone fotói pontba, és engedélyezze %s.</string>
   <string name="alexa_binding">Társítás, kérem várjon ...</string>
   <string name="alexa_flip_auth_info">Társítás %s fiókját az Amazon Alexa fiókhoz</string>
   <string name="alexa_flip_confirm">Erősítse meg az engedélyt</string>
@@ -103,7 +106,11 @@
   <string name="alexa_your_device_has_supported">Készüléke már támogatja az Amazon Alexát, amelyet egy érintéssel gyorsan engedélyezhet</string>
   <string name="all_dev">Minden eszköz</string>
   <string name="all_dev_shared">Felém megosztva</string>
+  <string name="allow_access_to_all_photos">Az összes fotó elérésének engedélyezése</string>
   <string name="already_add_dev">Eszköz hozzáadva</string>
+  <string name="animal_detect_on_tips">Madárészlelés engedélyezve. A madarakról csak értesítéseket fog kapni.</string>
+  <string name="animal_expel_on_tips">Automatikus mókuselriasztás engedélyezve. Ha a rendszer mókusokat észlel, elriasztja őket.</string>
+  <string name="animal_identify_loading_tips">Azonosítás…</string>
   <string name="ap_mode">Kompatibilitási mód</string>
   <string name="app_experience">Próbaverzió</string>
   <string name="app_experience_debug">Ez az alkalmazás egy tesztverzió, és csak tesztelésre használható.</string>
@@ -119,9 +126,17 @@
   <string name="app_guide_satis_content">Kérjük, értékelje szolgáltatásunkat</string>
   <string name="app_guide_satis_ok">Elégedett</string>
   <string name="app_guide_satis_title">Elégedettségi felmérés</string>
+  <string name="app_personal_center_family">Otthonkezelés</string>
+  <string name="app_personal_center_help">Gyakori kérdések és visszajelzések</string>
+  <string name="app_personal_center_homekit">HomeKit információk</string>
+  <string name="app_personal_center_message">Üzenetek</string>
+  <string name="app_personal_center_more_service">Kiemelt szolgáltatások</string>
+  <string name="app_personal_center_third_service">Harmadik féltől származó hozzáférési szolgáltatások</string>
   <string name="at_login_sns">Közösségi fiókkal bejelentkezés</string>
   <string name="auto_discover_device">Automatikus észlelés</string>
   <string name="before_add_activate_gateway">Az eszköz hozzáadása előtt konfigurálja az átjárót</string>
+  <string name="bird_id_no_tips">Ha előfizet a madárazonosításra, a rendszer bárhol, bármikor, korlátlan számban felismeri a madarakat, így több madarat ismerhet meg.</string>
+  <string name="bird_identify_null_tips">Sajnáljuk, de a kép alapján nem találjuk a madarat. Kérjük, küldjön visszajelzést, hogy javítsa a szolgáltatást.</string>
   <string name="bleconfig_ble_not_open">A Bluetooth nincs bekapcsolva</string>
   <string name="bleconfig_ble_scan">Bluetooth keresés</string>
   <string name="bleconfig_ble_scan_tip">A keresési folyamat 2 percet vehet igénybe, kérjük, ne végezzen más műveleteket közben.</string>
@@ -155,6 +170,7 @@
   <string name="bluetooth_on_viewdevices">Eszköz ellenőrzése</string>
   <string name="bluetooth_reconnection">Várakozás újracsatlakozásra...</string>
   <string name="bluetooth_scanningdevice">Keresés...</string>
+  <string name="camera_permission_tips">Lépjen a Beállítások &gt; Adatvédelem &gt; Az iPhone kamerája pontba, és engedélyezze %s.</string>
   <string name="camera_permissions">Kamerahozzáférési engedély kérése</string>
   <string name="camera_permissions_access">3 Engedélyezze %s hozzáférését a kamerához</string>
   <string name="camera_permissions_methods">Aktiválás módja</string>
@@ -163,8 +179,11 @@
   <string name="camera_permisssions_camera">Kamera</string>
   <string name="camera_permisssions_privacy">Privát</string>
   <string name="can_connect">Csatlakoztatható eszközök</string>
+  <string name="can_not_choose_both_photo_and_gif">Ha fotókat választ, nem választhat GIF-fájlokat.</string>
+  <string name="can_not_choose_both_video_and_photo">Ha fotókat választ, nem választhat videókat.</string>
   <string name="can_not_leave">Nem lehet törölni az otthonból</string>
   <string name="can_not_locate">Nem található a város</string>
+  <string name="can_not_use_camera">A kamera nem érhető el</string>
   <string name="cancel">Megszüntetés</string>
   <string name="cancel_connect">Eszköz eltávolítása</string>
   <string name="cancel_tip">Megértettem</string>
@@ -294,6 +313,7 @@
   <string name="config_wifi_support_wifi">Megosztott Wi-Fi hálózat támogatása</string>
   <string name="config_wifi_switch">Kapcsolja be a Wi-Fi-t</string>
   <string name="config_wifi_switch_wifi_title">Válasszon Wi-Fi routert</string>
+  <string name="confirm">Jóváhagy</string>
   <string name="confirm_delete">Törlés</string>
   <string name="confirm_leave">Távozás</string>
   <string name="confirm_send_log">Megerősíti a napló küldését?</string>
@@ -370,6 +390,7 @@
   <string name="download_unzip_error">Felület betöltése sikertelen</string>
   <string name="du_help_url">#</string>
   <string name="du_skill">#</string>
+  <string name="dual_lens_cooperate_tips">Húzza a PTZ kamera forgatásához.</string>
   <string name="dualmode_equipment_network_error">Az eszköz nincs csatlakoztatva a Wi-Fi-hálózathoz\nA frissítés előtt ellenőrizze az eszközt és a hálózatot</string>
   <string name="echo_help_url">#</string>
   <string name="echo_use_equipment">%d elérhető eszköz</string>
@@ -592,6 +613,7 @@
   <string name="home_security_security_modes">Riasztási üzemmód</string>
   <string name="home_security_tab_arm">Élesítve</string>
   <string name="home_wait_join">Csatlakozás...</string>
+  <string name="homekit_add_device_fail">Nem sikerült hozzáadni az eszközöket az otthonhoz.</string>
   <string name="homekit_auth_back">vissza</string>
   <string name="homekit_auth_confirm">meghatározás</string>
   <string name="homekit_auth_tips">Kérjük, engedélyezze az adathozzáférést</string>
@@ -651,6 +673,7 @@
   <string name="hs_sos_press">Hosszan nyomja 3 másodpercig</string>
   <string name="hs_upgrade_status_failure">Sikertelen</string>
   <string name="hs_upgrade_status_success">siker</string>
+  <string name="icloud_sync_failed">Nem lehet fotókat szinkronizálni az iCloud-ból.</string>
   <string name="ift_skill">#</string>
   <string name="ifttt_help_url">#</string>
   <string name="image_load_failure">A kép betöltése nem sikerült</string>
@@ -680,6 +703,7 @@
   <string name="invitation_confirm">Meghívás megerősítésre</string>
   <string name="invitation_confirm_detail">Meghívót kapott, hogy csatlakozzon \"\"%s\"\" Otthonhoz, hogy kihasználhassa az okos otthonatomatizálás közös kényelmét. Kérem, erősítse meg a csatlakozást.</string>
   <string name="invitation_refuse">Megtagadja</string>
+  <string name="ipc_add_birdfeeder_info">Ellenőrizze, hogy az akkumulátor eléggé fel van-e töltve, és a jelzőfény villog-e, vagy hall-e hangjelzést.</string>
   <string name="ipc_ai_fr">Arcfelismerés</string>
   <string name="ipc_ai_fr_detect_device">Eszköz neve</string>
   <string name="ipc_ai_fr_detect_time">Idő</string>
@@ -748,6 +772,18 @@
   <string name="ipc_album_settings">Albumok</string>
   <string name="ipc_album_videos_list">Videók</string>
   <string name="ipc_alert_siren_dialog">A hangjelzés beindul</string>
+  <string name="ipc_animal_alarm_mode_tips">Koppintson ide az értesítési módok váltásához.</string>
+  <string name="ipc_animal_cap_tips">Koppintson ide a madár képének rögzítéséhez és a fajának azonosításához.</string>
+  <string name="ipc_animal_detail">Részletek</string>
+  <string name="ipc_animal_expel_tips">Koppintson ide a mókusok automatikus elriasztásának ki-/bekapcsolásához.</string>
+  <string name="ipc_animal_favorite_edit">Kedvencek szerkesztése</string>
+  <string name="ipc_animal_favorite_folder_del_tips">Ez a művelet a kedvenc fotókat is törli. Folytatja?</string>
+  <string name="ipc_animal_feedback">Visszajelzés</string>
+  <string name="ipc_animal_feedback_tips">Kérdése van? Kérdezzen minket!</string>
+  <string name="ipc_animal_guess">A mi tippünk</string>
+  <string name="ipc_animal_identify_result">Madár azonosítása</string>
+  <string name="ipc_animal_kind">Név</string>
+  <string name="ipc_animal_similarity">Hasonlóság</string>
   <string name="ipc_bases_add_device">Eszköz hozzáadása</string>
   <string name="ipc_bases_base_station">Bázisállomás</string>
   <string name="ipc_bases_connected">Csatlakozva</string>
@@ -790,6 +826,9 @@
   <string name="ipc_basic_talkmode_txt">Mivel a hang minőségét környezeti tényezők befolyásolhatják, a hívásminőségtől függően válasszon egy- vagy kétirányú hangátvitelt.</string>
   <string name="ipc_basic_tap_to_talk">Beszéd indítása</string>
   <string name="ipc_basic_wdr">Széles dinamikatartomány (WDR)</string>
+  <string name="ipc_bird_detect">Madárészlelés</string>
+  <string name="ipc_bird_identify_error">Azonosítási hiba.</string>
+  <string name="ipc_bird_service_expiring_tips">A madárazonosítás próbaidőszaka ekkor lejár: %s. Ha tovább szeretné használni, kérjük, fizessen elő.</string>
   <string name="ipc_button_enter_album">Album megnyitása</string>
   <string name="ipc_chime_run_time">%s perc</string>
   <string name="ipc_chime_type_digital">Elektronikus csengő</string>
@@ -832,9 +871,11 @@
   <string name="ipc_cloudstorage_amount">Vásárlási mennyiség</string>
   <string name="ipc_cloudstorage_annually">Éves előfizetés</string>
   <string name="ipc_cloudstorage_billed">Válasszon csomagot</string>
+  <string name="ipc_cloudstorage_buy_alipay">Alipay fizetés</string>
   <string name="ipc_cloudstorage_buy_button">Fizetés most</string>
   <string name="ipc_cloudstorage_buy_confirm">Fizetés megerősítése %s</string>
   <string name="ipc_cloudstorage_buy_method">Fizetési mód</string>
+  <string name="ipc_cloudstorage_buy_wechat">WeChat</string>
   <string name="ipc_cloudstorage_date_today">Ma</string>
   <string name="ipc_cloudstorage_entry">Felhőtárolás</string>
   <string name="ipc_cloudstorage_groupbound">Az eszköz videófelhő tárolási szolgáltatása és videó adatai az Otthonhoz tartoznak\nHa az eszközt másik otthonba veszi fel, a szolgáltatást úra meg kell vásárolnia.</string>
@@ -1302,6 +1343,7 @@
   <string name="ipc_sound_sensitivity_select">Válassza ki a decibel érzékelési érzékenységet</string>
   <string name="ipc_sound_sensitivity_settings">Riasztási érzékenység</string>
   <string name="ipc_sound_sensitivity_settings_tips">Adja meg a hangérzékelés érzékenységét</string>
+  <string name="ipc_squirrel_expel">Mókuselriasztás</string>
   <string name="ipc_status_awake">Eszköz ébresztése...</string>
   <string name="ipc_status_awake_failed">Nem sikerült felébreszteni az eszközt</string>
   <string name="ipc_status_cloudstorage_stream_failed">Nem sikerült betölteni a felhőalapú tárolási adatokat</string>
@@ -1448,6 +1490,11 @@
   <string name="logout">Kijelentkezés</string>
   <string name="low_power">Lemerült az akkumulátor</string>
   <string name="manual_add_device_mode">Kézi hozzáadás</string>
+  <string name="matter_share_code_desc">Másolja ki a beállítási kódot vagy ossza meg a QR-kódot a Matter eszköz megosztásához.</string>
+  <string name="matter_share_code_tips">Beállítási kód megosztása más alkalmazásokkal</string>
+  <string name="matter_share_expired_time_tip">Fennmaradó érvényesség:</string>
+  <string name="matter_share_show_qr_code">Megosztás QR-kóddal</string>
+  <string name="max_photo_select_tips">Legfeljebb %zd fotó választható ki.</string>
   <string name="member_tips">A tagok nem adhatnak hozzá és nem törölhetnek eszközöket, Jelenetparancs forgatókönyveket, nem vehetnek fel és távolíthatnak el más tagokat, és nem törölhetik az Otthont.</string>
   <string name="menu_title_about">Névjegy</string>
   <string name="menu_title_echo">Használja az Echo alkalmazást</string>
@@ -1494,6 +1541,7 @@
   <string name="message_dnd_tue">Ke.</string>
   <string name="message_dnd_wed">Sze.</string>
   <string name="message_setting_title">Ne Zavarj ütemezés</string>
+  <string name="min_photo_select_tips">Válasszon legalább %zd fotót.</string>
   <string name="mobile_binding">Telefonszám társítása</string>
   <string name="modify_password_rule">A jelszó 6-20 karaktert támogat, és betűket és számokat kell tartalmaznia</string>
   <string name="modify_password_success">A jelszó megváltozott.\nKérem, jelentkezzen be újra</string>
@@ -1503,6 +1551,7 @@
   <string name="more_service_order_list">Rendelés</string>
   <string name="more_service_recommand_service">Kiemelt szolgáltatások</string>
   <string name="more_service_thirdparty_service">Harmadik féltől származó hozzáférési szolgáltatások</string>
+  <string name="multi_select_video_tips">Ha több videót választ ki, azok képként lesznek elküldve.</string>
   <string name="my_profile_choose_pic_from_camera">Fotót készít</string>
   <string name="my_profile_choose_pic_from_local">Válasszon a telefonalbumból</string>
   <string name="my_smart_home">Eszközeim</string>
@@ -1543,6 +1592,7 @@
   <string name="no_activated_gateway_content">Eszköz hozzáadásához meg kell konfigurálni az átjárót, lépjen a konfigurációhoz</string>
   <string name="no_device_found">Eszköz nem található</string>
   <string name="no_email_client">Nincs telepítve e-mail kliens</string>
+  <string name="no_photos_or_videos">Nincsenek fotók vagy videók.</string>
   <string name="no_search_result">Nem található</string>
   <string name="no_share">Még nem osztotta meg senkivel az eszközt</string>
   <string name="no_timer_data">Nincs időzítési adat</string>
@@ -1552,6 +1602,8 @@
   <string name="not_save">Mégsem</string>
   <string name="not_share_device_to_user">Nem sikerült megosztani %s felhasználóval</string>
   <string name="not_share_family_to_user">Nem sikerült megosztani „%1$s” Otthont %2$s felhasználóval</string>
+  <string name="not_support_this_device_in_current_app">Nem lehet hozzáadni ezt az eszközt. Érdeklődjön a kereskedőnél a kompatibilis alkalmazásokkal kapcsolatban, és próbálja meg újra.</string>
+  <string name="not_support_this_device_in_current_app_title">Ezt az eszközt ez az APP nem támogatja.</string>
   <string name="not_upgrade">Később...</string>
   <string name="number_unshare_device">%d eszköz nem osztható meg</string>
   <string name="once_day">Csak egyszer</string>
@@ -1565,6 +1617,7 @@
   <string name="open_wifi">Az eszköz hozzáadásához be kell kapcsolnia a mobil Wi-Fi hálózati kapcsolatot</string>
   <string name="operation_delete">Töröl</string>
   <string name="operation_revise">Szerkeszt</string>
+  <string name="orignal_image">Eredeti</string>
   <string name="ota_I_know">Értettem.</string>
   <string name="ota_auto_update">Automatikus frissítés</string>
   <string name="ota_back_to_home_content">Biztos, hogy visszatér az alkalmazás kezdőlapjára? Közben nem tud működni a firmware frissítése.</string>
@@ -1660,6 +1713,7 @@
   <string name="phone_email">Telefonszám / e-mail</string>
   <string name="phone_number">Mobiltelefon szám</string>
   <string name="phone_or_email">Mobiltelefonszám vagy e-mail</string>
+  <string name="photos">Fotók</string>
   <string name="please_choose_country_first">Válassza ki a régiót</string>
   <string name="please_input_password">Jelszó</string>
   <string name="please_input_wifi_password">Kérjük, írja be a jelszót</string>
@@ -1693,11 +1747,13 @@
   <string name="pps_start_talking">Beszélhet</string>
   <string name="pps_video_saved">Videó mentve</string>
   <string name="pps_video_shift_tip">Felvétel folyamatban. Leállítja?</string>
+  <string name="preview">Előnézet</string>
   <string name="privacy">Adatvédelmi irányelvek</string>
   <string name="privacy_doc">#</string>
   <string name="privacy_doc_name">#</string>
   <string name="private_and_user_agreement">Szolgáltatási szerződés és adatvédelmi irányelvek</string>
   <string name="problemSubmit_content_placeholder">Kérjük, írja le részletesen az éppen jelentett hibát/problémát, és adja meg a probléma konkrét elérési útját. A nem egyértelmű leírás vagy hiányos információk befolyásolhatják a probléma feldolgozásának előrehaladását.</string>
+  <string name="processing">Feldolgozás...</string>
   <string name="productProposal_content_placeholder">Kérjük, írja le részletesen optimalizálási javaslatát vagy fejlesztési tervét</string>
   <string name="push_alarm_device">Eszköz</string>
   <string name="push_alarm_event_type">Esemény típus</string>
@@ -1979,6 +2035,7 @@
   <string name="speech_you_can_speech">Ezt mondhatja:</string>
   <string name="start_smart_life">Kezdjen okos életet okos eszközökkel</string>
   <string name="state_abnormal">Rendellenes állapot</string>
+  <string name="sub_devices_next">Következő lépés</string>
   <string name="submit">Beküldés</string>
   <string name="submit_success_msg">Sikeresen beküldve</string>
   <string name="success">Sikeres művelet</string>
@@ -1987,6 +2044,7 @@
   <string name="sure_delete_home">Biztosan törli az Otthont?</string>
   <string name="sure_delete_member">Biztosan törli a tagot?</string>
   <string name="sure_leave_home">Biztosan törli magát az Otthonból?</string>
+  <string name="synchronizing_photos_from_icloud">Fotók szinkronizálása az iCloud-ból…</string>
   <string name="system_error">Rendszer abnormális, a működés sikertelen</string>
   <string name="taste_device_support">A bemutató eszköz nem támogatja ezt a műveletet</string>
   <string name="temperature_unit">Hőmérsékleti egység</string>
@@ -3043,7 +3101,9 @@
   <string name="username_phone_is_null">Kérjük adja meg a már regisztrált e-mail címet vagy mobilszámot</string>
   <string name="verify_code_error">Az ellenőrző kód hibás, adja meg újra</string>
   <string name="version_check">Frissítések keresése</string>
+  <string name="videos">Videók</string>
   <string name="virtual_dev_id">Virtuális azonosító</string>
+  <string name="virtual_device_invalid">Elnézést, a tesztezközt nem sikerült betölteni. Próbálja meg újra.</string>
   <string name="voice_guidance">Üdvözöljük a hangvezérlésben</string>
   <string name="voice_guidance_click">Kattintson, hogy beszéljen</string>
   <string name="voice_guidance_content">Az egyszerű eszköznevek könnyebben vezérelhetőek hanggal,\npéldául: \"\"hálószoba lámpa\"\", \"\"nappali légkondicionáló\"\" stb.</string>
