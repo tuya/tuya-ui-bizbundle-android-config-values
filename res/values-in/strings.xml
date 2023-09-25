@@ -91,6 +91,11 @@
   <string name="app_guide_satis_content">Nilai kami</string>
   <string name="app_guide_satis_ok">Puas</string>
   <string name="app_guide_satis_title">Survei kepuasan</string>
+  <string name="app_personal_center_family">Manajemen Keluarga</string>
+  <string name="app_personal_center_help">FAQ &amp; Feedback</string>
+  <string name="app_personal_center_message">Pusat pesan</string>
+  <string name="app_personal_center_more_service">Ditampilkan</string>
+  <string name="app_personal_center_third_service">Layanan akses Third-Party</string>
   <string name="at_login_sns">Masuk bersama</string>
   <string name="auto_discover_device">Auto Scan</string>
   <string name="before_add_activate_gateway">Sebelum menambahkan perangkat, konfigurasikan gateawaynya.</string>
@@ -201,6 +206,7 @@
   <string name="config_sub_device_search_config_tip">Sedang menemukan perangkat terdekat</string>
   <string name="config_sub_device_search_config_title">Melacak perangkat</string>
   <string name="config_wifi">Perangkat sudah terikat.</string>
+  <string name="confirm">Konfirmasi</string>
   <string name="confirm_delete">Hapus</string>
   <string name="confirm_leave">Tinggalkan</string>
   <string name="confirm_send_log">Apakah anda ingin mengirimkan daftar?</string>
@@ -552,9 +558,11 @@
   <string name="ipc_cloudstorage_amount">Jumlah pembelian</string>
   <string name="ipc_cloudstorage_annually">Rencana tahunan</string>
   <string name="ipc_cloudstorage_billed">Pilih paket</string>
+  <string name="ipc_cloudstorage_buy_alipay">Bayar dengan Alipay</string>
   <string name="ipc_cloudstorage_buy_button">Bayar sekarang</string>
   <string name="ipc_cloudstorage_buy_confirm">Konfirmasi pembayaran $ %s</string>
   <string name="ipc_cloudstorage_buy_method">Metode pembayaran</string>
+  <string name="ipc_cloudstorage_buy_wechat">Pembayaran WeChat</string>
   <string name="ipc_cloudstorage_date_today">Hari ini</string>
   <string name="ipc_cloudstorage_entry">Penyimpanan Cloud</string>
   <string name="ipc_cloudstorage_groupbound">Layanan penyimpanan video di Cloud dan data video adalah milik keluarga.\nJika anda merubah keluarga perangkat, maka anda harus membeli layanan ini kembali.</string>
@@ -1415,6 +1423,7 @@
   <string name="speech_you_can_speech">Anda bisa mengatakan:</string>
   <string name="start_smart_life">Memulai smart life</string>
   <string name="state_abnormal">Status eror</string>
+  <string name="sub_devices_next">Berikutnya</string>
   <string name="submit">Submit</string>
   <string name="submit_success_msg">Telah sukses dikirimkan</string>
   <string name="success">Operation sukses</string>

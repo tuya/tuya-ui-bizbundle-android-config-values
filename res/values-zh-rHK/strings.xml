@@ -57,7 +57,6 @@
   <string name="account_vertify_message_for_phone">點擊“獲取驗證碼”，驗證碼將發送到你的手機：%s</string>
   <string name="account_wechat">微信</string>
   <string name="account_weibo">微博</string>
-  <string name="act_matter_wifi_cannot_use">設備無法連接當前WiFi</string>
   <string name="action_back">返回</string>
   <string name="action_cancel">取消</string>
   <string name="action_close">關閉</string>
@@ -73,6 +72,7 @@
   <string name="action_upload_log_choose">請選擇上傳日志的方式</string>
   <string name="actions_not_empty">請設置任務</string>
   <string name="activate">啟動</string>
+  <string name="activate_device_failure">設備配網失敗</string>
   <string name="activate_gateway">待啟動網關</string>
   <string name="activator_addDevice_title">正在連接設備</string>
   <string name="activator_device_work">確保設備處於通電狀態</string>
@@ -83,6 +83,7 @@
   <string name="activator_wifi_input_tips">選擇 2.4GHz Wi-Fi 網絡並輸入密碼</string>
   <string name="activator_wifi_setting_help">常見路由器的設置方法</string>
   <string name="activator_wifi_work">確保Wi-Fi信號良好</string>
+  <string name="active_device_failure">設備激活失敗</string>
   <string name="activity_title_more_features">更多功能</string>
   <string name="activity_title_setting">設置</string>
   <string name="add">添加</string>
@@ -140,6 +141,13 @@
   <string name="app_guide_satis_content">請對我們的服務進行評價</string>
   <string name="app_guide_satis_ok">滿意</string>
   <string name="app_guide_satis_title">滿意度調查</string>
+  <string name="app_personal_center_customer_online">客服</string>
+  <string name="app_personal_center_family">家庭管理</string>
+  <string name="app_personal_center_help">常見問題和反饋</string>
+  <string name="app_personal_center_homekit">HomeKit 信息</string>
+  <string name="app_personal_center_message">消息中心</string>
+  <string name="app_personal_center_more_service">精選服務</string>
+  <string name="app_personal_center_third_service">語音等第三方服務</string>
   <string name="at_login_sns">社交帳號登錄</string>
   <string name="auto_complete_tip">反饋單將於 {time} 後自動完結，請您及時查看確認</string>
   <string name="auto_discover_device">自動發現</string>
@@ -211,6 +219,7 @@
   <string name="check_family">查看家庭</string>
   <string name="check_firmware_update">設備升級</string>
   <string name="check_hot">請檢查手機是否連接到正確的設備熱點</string>
+  <string name="check_qrcode_device_match">檢查二維碼是否和設備匹配</string>
   <string name="check_reset">請檢查設備是否已重置，處於待配網狀態</string>
   <string name="check_router">請檢查附近是否有路由器，並且確保設備離路由器不要太遠。且設備和路由器之間不要有明顯的遮擋物</string>
   <string name="check_router_near">請確保設備離路由器不要太遠，且設備和路由器之間不要有明顯的遮擋物</string>
@@ -337,6 +346,7 @@
   <string name="config_wifi_support_wifi">支持配網的Wi-Fi</string>
   <string name="config_wifi_switch">切換 Wi-Fi</string>
   <string name="config_wifi_switch_wifi_title">選擇Wi-Fi路由器</string>
+  <string name="confirm">確定</string>
   <string name="confirm_btn_1">繼續添加</string>
   <string name="confirm_btn_2">仍然退出</string>
   <string name="confirm_delete">確認刪除</string>
@@ -349,6 +359,7 @@
   <string name="confirm_title">設備正在添加，是否退出？</string>
   <string name="connect">連接</string>
   <string name="connect_ble_fail">連接設備藍牙失敗</string>
+  <string name="connect_device_failure">設備連接失敗</string>
   <string name="connect_hot">連接至設備熱點</string>
   <string name="connect_hot_desc">正在尋找附近可用的設備熱點，彈出窗口可能會提示連接到熱點</string>
   <string name="connect_hot_desc_1">請接受連接</string>
@@ -406,7 +417,6 @@
   <string name="device_list_third_matter_share_notice">Matter設備共享未完成。您可通過局域網連接當前設備後，被共享者設備可正常連接。</string>
   <string name="device_name_edit_failure">設備名稱修改失敗</string>
   <string name="device_name_is_null">請輸入設備名稱</string>
-  <string name="device_name_placeholder">請輸入名稱</string>
   <string name="device_network_log_in_progress">日誌上傳中，請勿重複嘗試。</string>
   <string name="device_network_no_log">暫無日誌</string>
   <string name="device_network_obtaining_log">正在獲取日誌</string>
@@ -443,6 +453,7 @@
   <string name="dingdong_help_url">#</string>
   <string name="direct_login">是否直接登錄?</string>
   <string name="discover_choose_pic_source">請選擇圖片來源</string>
+  <string name="discover_device_failure">設備發現失敗</string>
   <string name="done">完成</string>
   <string name="doorbell_overtime_play_vmsg_desc">超過時長App未接聽，將會自動播放設置的語音</string>
   <string name="doorbell_overtime_play_vmsg_thold">超時時長</string>
@@ -486,7 +497,6 @@
   <string name="ez_notSupport_5G_continue">繼續</string>
   <string name="ez_notSupport_5G_tip">當前連接的是 5GHz Wi-Fi，如果設備不支持請切換至 2.4GHz Wi-Fi，是否繼續？</string>
   <string name="fail">操作失敗</string>
-  <string name="fail_get_customer">網路異常，請稍後重試</string>
   <string name="family_action_confirm">確認</string>
   <string name="family_add_Incompatible">該賬號暫時不支持家庭模式，暫時無法添加到您的家庭。建議您聯系該用戶將App升級到最新版本。</string>
   <string name="family_add_emergency">添加緊急聯繫人</string>
@@ -673,7 +683,6 @@
   <string name="group_title_select_device">選擇設備</string>
   <string name="guide_skip">跳過</string>
   <string name="has_open">已開啟</string>
-  <string name="has_set">已設置</string>
   <string name="has_update">&lt;font color=\"#ff0000\"&gt;新版本 %s&lt;/font&gt;</string>
   <string name="head_icon">頭像</string>
   <string name="headportrait_change_select">從手機相冊選擇</string>
@@ -1261,9 +1270,11 @@
   <string name="ipc_cloudstorage_amount">購買數量</string>
   <string name="ipc_cloudstorage_annually">包年</string>
   <string name="ipc_cloudstorage_billed">選擇套餐</string>
+  <string name="ipc_cloudstorage_buy_alipay">支付寶付款</string>
   <string name="ipc_cloudstorage_buy_button">立即支付</string>
   <string name="ipc_cloudstorage_buy_confirm">確認支付  ¥ %s</string>
   <string name="ipc_cloudstorage_buy_method">支付方式</string>
+  <string name="ipc_cloudstorage_buy_wechat">微信付款</string>
   <string name="ipc_cloudstorage_date_today">今天</string>
   <string name="ipc_cloudstorage_entry">雲存儲</string>
   <string name="ipc_cloudstorage_groupbound">設備的視頻雲存儲服務和視頻數據都屬於家庭\n更換設備所屬的家庭需要重新購買服務</string>
@@ -1973,8 +1984,10 @@
   <string name="no_activated_gateway_content">添加設備需要配置網關，請前往配置</string>
   <string name="no_device_found">未發現設備</string>
   <string name="no_email_client">未安裝郵件客戶端</string>
+  <string name="no_permission_add_device_connect_admin">無設備添加權限，請聯繫App家庭管理員，獲得設備添加授權</string>
   <string name="no_search_result">未搜尋到結果</string>
   <string name="no_share">暫未共用設備給任何人</string>
+  <string name="no_support_share_deivce_same_app">不支持添加該 Matter 網關設備，無法使用同一個App進行配網添加</string>
   <string name="no_timer_data">沒有定時數據</string>
   <string name="no_update">無更新</string>
   <string name="no_wechat_client">未安裝微信客戶端</string>
@@ -2106,6 +2119,7 @@
   <string name="phone_number">手機號碼</string>
   <string name="phone_or_email">手機號碼或郵箱</string>
   <string name="pid_has_upgrade_title">發現新的設備升級</string>
+  <string name="please_check_device_power_nearby">請檢查設備是否已接入電源且在附近</string>
   <string name="please_choose_country_first">選擇國家/地區</string>
   <string name="please_connect_hot">連接熱點，請接受連接</string>
   <string name="please_enter_pwd">請輸入密碼</string>
@@ -2487,6 +2501,9 @@
   <string name="start_smart_life">開啟您的智能生活</string>
   <string name="state_abnormal">狀態異常</string>
   <string name="status_abnormal">設備狀態異常無法識別，連接失敗</string>
+  <string name="sub_devices_next">下一步</string>
+  <string name="sub_devices_select_room">選擇房間</string>
+  <string name="sub_devices_select_room_desc">選擇設備所在的房間</string>
   <string name="submit">提交</string>
   <string name="submit_success_msg">提交成功</string>
   <string name="success">操作成功</string>
@@ -2510,9 +2527,8 @@
   <string name="thing_activator_backHome">返回首頁</string>
   <string name="thing_activator_check_cancel_active">確認取消配網？</string>
   <string name="thing_activator_check_cancel_active_message">取消配網後，設備配網失敗。如您希望重新配網，需要將設備重置進入待配網狀態。</string>
-  <string name="thing_activator_check_nearby_has_thread_gateway">確認附近是否有Thread網關設備</string>
+  <string name="thing_activator_check_nearby_has_thread_gateway">確認附近是否有 Thread 網關設備</string>
   <string name="thing_activator_check_reason">請排查以下原因後重試</string>
-  <string name="thing_activator_connect_24g_retry">請將手機連接至 2.4GHz WiFi 網路後重試</string>
   <string name="thing_activator_continue_wifi_use">仍然使用當前網絡</string>
   <string name="thing_activator_device_in_other_family">設備已存在其它家庭：%s，請勿重複添加</string>
   <string name="thing_activator_direct_device_error_five">確保SIM卡和設備已綁定</string>
@@ -2523,7 +2539,7 @@
   <string name="thing_activator_direct_device_error_two">確保設備已插入SIM卡</string>
   <string name="thing_activator_duplicate_confirm_text">查看</string>
   <string name="thing_activator_duplicate_scan_title">設備已存在，請勿重複添加</string>
-  <string name="thing_activator_no_available_thread_content">當前家庭下無可用的Thread網關，請先添加Thread網關，並確保</string>
+  <string name="thing_activator_no_available_thread_content">請先將Thread網關添加到當前家庭</string>
   <string name="thing_activator_no_available_thread_content_1">網關通電且網絡在線</string>
   <string name="thing_activator_no_available_thread_content_2">確保網關和手機連接在同一網絡下</string>
   <string name="thing_activator_no_available_thread_gateway">無可用的Thread網關</string>
@@ -2596,9 +2612,9 @@
   <string name="thing_phone_notice_has_used_up">電話通知服務已耗盡，請重新開通</string>
   <string name="thing_phone_notice_not_purchased">當前未開通電話提醒，開通服務後設置將生效</string>
   <string name="thing_phone_remind">電話提醒</string>
-  <string name="thing_plug_play_connected_activation_hint">遠程控制需要聯網後可用，請連接wifi激活後，點擊</string>
+  <string name="thing_plug_play_connected_activation_hint">遠程控制需要連網後可用，請連接Wi-Fi完成配置後點擊</string>
   <string name="thing_plug_play_connected_activation_hint_suffix">去激活</string>
-  <string name="thing_plug_play_disconnected_activation_hint">遠程控制需要聯網後可用，請在藍牙保持連接時連接wifi激活</string>
+  <string name="thing_plug_play_disconnected_activation_hint">遠程控制需要設備聯網。請打開手機藍牙靠近設備，藍牙連接成功後，可在App首頁或設備詳情頁完成Wi-Fi配置</string>
   <string name="thing_protocol_disagree_tip">如您不同意協議更新，很遺憾將無法繼續為您提供服務</string>
   <string name="thing_protocol_following_updates">包含如下更新</string>
   <string name="thing_protocol_update">協議更新通知</string>
@@ -2656,7 +2672,6 @@
   <string name="tip_get_device_log">為了接收設備日誌，請保持手機和設備在同一Wi-Fi下</string>
   <string name="title_device_offline">設備已離線</string>
   <string name="tmall_help_url">#</string>
-  <string name="token_unable">設備配網Token過期</string>
   <string name="toolbar_menu_refresh">刷新</string>
   <string name="topTips">提交故障會上傳您的設備相關信息，用於排查問題，請您知曉。</string>
   <string name="try_other_match">請嘗試使用其它 Wi-Fi 配網流程，進行設備配網</string>
@@ -2688,7 +2703,7 @@
   <string name="thing_account_line">LINE</string>
   <string name="thing_activactor_plugplay_bleconnect">切換至藍牙連接</string>
   <string name="thing_activactor_result_add">添加</string>
-  <string name="thing_activator">激活</string>
+  <string name="thing_activator">前往設定</string>
   <string name="thing_activator_access_fine_location_get">獲取設備精準位置</string>
   <string name="thing_activator_access_fine_location_setting">需要訪問設備精準位置用於連接 Wi-Fi 或藍牙設備，您之前設置過不開啟精準位置，是否要重新設置？</string>
   <string name="thing_activator_accessory_assist_device_near">請將%s與可協助激活的設備盡量靠近</string>
@@ -2729,7 +2744,7 @@
   <string name="thing_activator_bleLimit_share">請允許使用藍牙</string>
   <string name="thing_activator_bleLimit_shareText">藍牙</string>
   <string name="thing_activator_bleLimit_system_open">啟用系統藍牙</string>
-  <string name="thing_activator_ble_alert_desc">可快速配網，完成後在設備設置頁激活遠程控制</string>
+  <string name="thing_activator_ble_alert_desc">可快速本地控制，後續可配置Wi-Fi，實現遠程控制</string>
   <string name="thing_activator_ble_alert_title">藍牙配網</string>
   <string name="thing_activator_cancel">取消</string>
   <string name="thing_activator_changeType">切換配網方式</string>
@@ -2996,8 +3011,8 @@
   <string name="thing_activator_wifi_password_error">密碼錯誤</string>
   <string name="thing_activator_wifi_pwd_error_dialog_tip">輸入的 Wi-Fi 密碼錯誤，請重新輸入</string>
   <string name="thing_activator_wifichannel_activation">共%1$s個設備，激活成功%2$s個</string>
-  <string name="thing_activator_wifichannel_description">%s個設備待激活，激活後支持遠程控制、設備分享</string>
-  <string name="thing_activator_wifichannel_title">設備激活</string>
+  <string name="thing_activator_wifichannel_description">%s個設備待配置 Wi-Fi，配置後支援遠程控制、設備分享</string>
+  <string name="thing_activator_wifichannel_title">Wi-Fi 設定</string>
   <string name="thing_activator_zigbee_over_limit_confirm">切換</string>
   <string name="thing_activator_zigbee_over_limit_message">當前子設備數量已達到上限，請切換其他網關重試</string>
   <string name="thing_activator_zigbee_over_limit_title">切換其他網關？</string>
@@ -3318,10 +3333,10 @@
   <string name="thing_device_bind_status_enable">已開啟</string>
   <string name="thing_device_channels_of_communicationl">信道</string>
   <string name="thing_device_connect">連接裝置</string>
-  <string name="thing_device_connect_cloud_activation">連雲激活</string>
+  <string name="thing_device_connect_cloud_activation">設定Wi-Fi</string>
   <string name="thing_device_connect_cloud_activation_failed">激活失敗</string>
   <string name="thing_device_connect_cloud_activation_success">激活成功</string>
-  <string name="thing_device_connect_cloud_activation_tip">激活後支持遠程控制、設備分享等</string>
+  <string name="thing_device_connect_cloud_activation_tip">配置後支援遠程控制、設備分享等</string>
   <string name="thing_device_crash_tips">請稍後再試</string>
   <string name="thing_device_detail_accessory_id">設備id：</string>
   <string name="thing_device_detail_accessory_list_empty">暫無設備</string>
@@ -3562,8 +3577,8 @@
   <string name="thing_health_space_title">健康空間</string>
   <string name="thing_homeKit_info">HomeKit 信息</string>
   <string name="thing_home_Intelligent_recommendation">場景推薦</string>
-  <string name="thing_home_activator_numtip">%s個設備待激活</string>
-  <string name="thing_home_activator_numtip_description">激活後支持遠程控制、設備分享等</string>
+  <string name="thing_home_activator_numtip">%s個設備待配置Wi-Fi</string>
+  <string name="thing_home_activator_numtip_description">配置Wi-Fi後可支援遠程控制、設備分享等功能</string>
   <string name="thing_home_activator_success">激活成功</string>
   <string name="thing_home_addhub_device">添加設備</string>
   <string name="thing_home_addhub_scene">創建場景</string>

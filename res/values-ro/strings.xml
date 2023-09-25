@@ -52,6 +52,8 @@
   <string name="app_guide_satis_content">Va rugam sa ne dati un feedback</string>
   <string name="app_guide_satis_ok">Satisfacator</string>
   <string name="app_guide_satis_title">Chestionar</string>
+  <string name="app_personal_center_family">Management acasa</string>
+  <string name="app_personal_center_message">Centru de mesaje</string>
   <string name="at_login_sns">Inregistrare cu social media</string>
   <string name="before_add_activate_gateway">Setati consola centrala inainte de a adauga dispozitive</string>
   <string name="bleconfig_open_gps_tip">Este necesar accesul la pozitionare GPS pentru a folosi dispozitivele Bluetooth</string>
@@ -109,6 +111,7 @@
   <string name="config_nearby_device_add_success">Adaugat cu succes </string>
   <string name="config_nearby_device_select">Selectare dispozitiv</string>
   <string name="config_wifi">Dispozitivul va fi activat</string>
+  <string name="confirm">Confirmare</string>
   <string name="confirm_delete">Confirmati stergerea</string>
   <string name="confirm_leave">Confirmare plecare</string>
   <string name="confirm_send_log">Confirmati trimiterea jurnalului?</string>
@@ -289,9 +292,11 @@
   <string name="ipc_cloudstorage_amount">Suma</string>
   <string name="ipc_cloudstorage_annually">Anual</string>
   <string name="ipc_cloudstorage_billed">Facturat</string>
+  <string name="ipc_cloudstorage_buy_alipay">Alipay</string>
   <string name="ipc_cloudstorage_buy_button">My Plan activat</string>
   <string name="ipc_cloudstorage_buy_confirm">De plata $ %s</string>
   <string name="ipc_cloudstorage_buy_method">Modalitate de plata</string>
+  <string name="ipc_cloudstorage_buy_wechat">Plata WeChat</string>
   <string name="ipc_cloudstorage_entry">Stocare Cloud</string>
   <string name="ipc_cloudstorage_groupbound">Ambele servicii si date apartin acasa\nPentru schimbare locatie este nevoie de o noua inregistrare</string>
   <string name="ipc_cloudstorage_monthly">Lunar</string>
@@ -659,6 +664,7 @@
   <string name="smart_gateway">Consola centrala</string>
   <string name="start_smart_life">Incepeti viata Smart</string>
   <string name="state_abnormal">Functionare anormala</string>
+  <string name="sub_devices_next">Urmatorul pas</string>
   <string name="submit">Trimite</string>
   <string name="success">Succes</string>
   <string name="sunday">Duminica</string>
