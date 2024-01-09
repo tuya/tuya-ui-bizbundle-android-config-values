@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">Ta storitev trenutno ni na voljo. Prosimo, registrirajte se s svojim elektronskim naslovom. Posodobite svojo aplikacijo v trgovini App Store</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
 </resources>

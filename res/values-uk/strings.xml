@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Не вдалося розшифрувати</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ">У вас залишилося всього {0} хвилин на {1}</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ_TITLE">Повідомлення</string>
+  <string name="APP_PUSH_RS9DIZFG">Нагадування про вимірювання</string>
+  <string name="APP_PUSH_RS9DIZFG_TITLE">RENPHO</string>
+  <string name="BTU">DTU</string>
+  <string name="BTU_1w_1">DTU</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Пристрій</string>
   <string name="CATEGORY_ICON_LAMPS">Освітлення</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYARRIVE">Розблоковано</string>
@@ -7,6 +13,15 @@
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Прихід додому</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Покинути дім</string>
   <string name="HOME_BANNER_CARD_ENERGY_DATA_DESC">Останні відомості про енергоспоживання</string>
+  <string name="INFRARED_BIZ_E_REQUEST_FORBIDDEN">запит заборонено</string>
+  <string name="INFRARED_PARAM_E_ACTION_NOT_EXIST">дії не існує</string>
+  <string name="INFRARED_PARAM_E_PARAM_ILLEGAL">параметр є незаконним</string>
+  <string name="INFRARED_PARAM_E_PARAM_INVALID">параметр недійсний</string>
+  <string name="INFRARED_PARAM_E_PARAM_MISSING">параметр є нульовим</string>
+  <string name="INFRARED_SYS_E_REMOTE_CALL_ERROR">Помилка дистанційного дзвінка</string>
+  <string name="INOX_EMAIL_SENDER">Inox Smart</string>
+  <string name="INOX_SMS_SIGN">Замок Inox</string>
+  <string name="INOX_TRANSFER_PROPERTY_CODE_EMAIL_TITLE">Отримаyj запрошення бути новим керівником нерухомості</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Перевищення ліміту до %s</string>
   <string name="NSAppleMusicUsageDescription">Застосунку потрібен доступ до вашої медіатеки для доступу до музики. Якщо ви не надасте доступ, локальні музичні файли не можна буде додати.</string>
   <string name="NSBluetoothAlwaysUsageDescription">Активуйте Bluetooth для додавання і використання пристрою Bluetooth.</string>
@@ -29,6 +44,8 @@
   <string name="PRODUCT_NOT_EXISTS">Недоступний</string>
   <string name="QR_LOGIN_CROSS_REGION_NOT_SUPPORT">Ви не можете сканувати QR-код, щоб додати пристрій, розгорнутий в іншому центрі обробки даних.</string>
   <string name="ROOM_EXIST_DONT_ADD">Номер вже існує</string>
+  <string name="SECURITY_HOME_MSG">{0}</string>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">Ця послуга наразі недоступна, будь ласка, зареєструйтеся, використовуючи свою адресу електронної пошти. Оновіть свою програму в App Store.</string>
   <string name="USER_AVATAR_UPLOAD_REJECT_FOR_COMPLIANCE">Наразі ви не можете виконати заміну згідно з вимогами відповідності.</string>
   <string name="USER_TEXT_MODERATION_CHECK_NOT_PASS">Ваш псевдонім містить заборонені слова. Змініть його.</string>
   <string name="_device">%s пристроїв</string>
@@ -133,6 +150,9 @@
   <string name="app_personal_center_more_service">Рекомендовані</string>
   <string name="app_personal_center_third_service">Сторонні голосові сервіси</string>
   <string name="at_login_sns">Увійдіть до системи з обліковим записом соціальних медіа</string>
+  <string name="auth_management_skill_name_clova">Clova</string>
+  <string name="auth_management_skill_name_smartthings">SmartThings</string>
+  <string name="auth_management_skill_name_yandex">Yandex Alice</string>
   <string name="auto_discover_device">Автоматичне сканування</string>
   <string name="autolock_delay_level_undefined">Ні</string>
   <string name="before_add_activate_gateway">Налаштуйте конфігурацію шлюзу, перш ніж додавати пристрої</string>
@@ -339,6 +359,7 @@
   <string name="dashboard_welcome_home">Ласкаво просимо додому!</string>
   <string name="data_updating">Завантаження...</string>
   <string name="data_upgrade">Триває завантаження, зачекайте...</string>
+  <string name="dayu_3g10s6s1w4z18z_52">тестування</string>
   <string name="debugging">Усунення дефектів</string>
   <string name="delete_member_msg">Після видалення учасник не зможе керувати пристроями та сценами у вашому домі.</string>
   <string name="delete_member_tips">Впевнені, що більше не хочете спільно використовувати пристрій з %s?</string>
@@ -963,6 +984,7 @@
   <string name="index_apple_iap_pay">Apple Pay</string>
   <string name="index_pay_not_support_iap">Ця версія не підтримує вбудовані покупки. Оновіть до останньої версії.</string>
   <string name="info_unselected">Виберіть повідомлення, які потрібно видалити</string>
+  <string name="infrared_diy">DIY</string>
   <string name="initializer_apply_logout_tip">Обліковий запис видалено. Увійдіть до системи знову</string>
   <string name="initializer_multi_devices_apply_login_tip">У цей обліковий запис уже виконаний вхід на іншому пристрої</string>
   <string name="initializer_multi_devices_relogin_tip">Термін дії поточного облікового запису закінчився, будь ласка, повторно введіть пароль облікового запису для входу</string>
@@ -2038,6 +2060,7 @@
   <string name="panelcaller_custom_notification_permission_dialog_title">Повідомлення про Тест</string>
   <string name="parking_collision_event_sensitivity">Чутливість зіткнення під час паркування</string>
   <string name="parking_mode_setting">Налаштування режиму паркування</string>
+  <string name="pbj_2b_1">Блендер</string>
   <string name="permission_gps_tip">Ви не надали дозвіл на визначення місця розташування, тому пристрій не може зчитувати мережеву інформацію. Надати дозвіл на визначення місця розташування?</string>
   <string name="person_panel_dev">Розробка панелі управління</string>
   <string name="personal_add_share">Додати спільний доступ</string>
@@ -2068,8 +2091,10 @@
   <string name="personal_speech_service_google">GoogleAssistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
+  <string name="personal_speech_service_smartthings">Розумні речі</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Яндекс</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Номер мобільного телефону / адреса електронної пошти</string>
   <string name="phone_notify_serve_faq_2">App по телефону попереджатиме вас про спрацьовування автоматизації, налаштованої в застосунку.</string>
@@ -2445,6 +2470,7 @@
   <string name="toolbar_menu_refresh">Оновити</string>
   <string name="topTips">Якщо ви повідомляєте про помилку, для її виявлення буде передано інформацію про ваші пристрої.</string>
   <string name="traffic_light_recognition">Розпізнавання світлофора</string>
+  <string name="transfer_home_ownership">Змінити власника дому</string>
   <string name="tuesday">Вівторок</string>
   <string name="turn_off_the_screen_automatically">Вимкнути екран автоматично</string>
   <string name="thingconfig_add_history">Журнал історії додавання</string>
@@ -4072,6 +4098,7 @@
   <string name="widget_scene_no_scene">Немає доступних сценаріїв.</string>
   <string name="widget_scene_unlogin">Спочатку увійдіть.</string>
   <string name="widgt_not_regist">Увійдіть, щоб використовувати ярлики</string>
+  <string name="wifi_gprs">wifi+gprs</string>
   <string name="wifi_info_long_content">Ім’я мережі Wi-Fi або пароль складаються з понад 20 символів. Змініть пароль Wi-Fi або підключіться до іншої мережі WLAN.</string>
   <string name="wifi_info_long_title">Довге ім’я мережі Wi-Fi або пароль</string>
   <string name="wifi_permission_tips">Вручну введіть назву Wi-Fi або ввімкніть дозвіл на отримання інформації про місце розташування, щоб автоматично отримати відомості про пристрої Wi-Fi поблизу</string>
@@ -4082,6 +4109,8 @@
   <string name="wifi_to_open_permission">Увімкнути дозволи </string>
   <string name="wifi_to_reopen_permission_location">Ви раніше вимкнули дозвіл на отримання інформації про ваше місце розташування, і пристрій не зможе прочитати відомості про мережі. Бажаєте перезавантажити його?</string>
   <string name="xiaowei_help_url">#</string>
+  <string name="xsense_sub_bjq">комбінована сигналізація RF</string>
+  <string name="xsense_sub_ywbj">RF димовий сигналізатор</string>
   <string name="you_are_only_manage">Ви єдиний адміністратор у сім’ї. Перш ніж вийти з дому, призначте адміністратором інших членів сім’ї.</string>
   <string name="zigbee_dev">ZigBee</string>
 </resources>

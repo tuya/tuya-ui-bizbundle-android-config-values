@@ -57,6 +57,9 @@
   <string name="account_vertify_message_for_phone">點擊“獲取驗證碼”，驗證碼將發送到你的手機：%s</string>
   <string name="account_wechat">微信</string>
   <string name="account_weibo">微博</string>
+  <string name="act_ez_failure_restart_iphone">嘗試重新啟動手機後重試</string>
+  <string name="act_location_permission_message">開始權限後，可以自動取得 Wi-Fi 名稱</string>
+  <string name="act_location_permission_title">開啟「位置」以取得 Wi-Fi 名稱</string>
   <string name="action_back">返回</string>
   <string name="action_cancel">取消</string>
   <string name="action_close">關閉</string>
@@ -72,6 +75,26 @@
   <string name="action_upload_log_choose">請選擇上傳日志的方式</string>
   <string name="actions_not_empty">請設置任務</string>
   <string name="activate">啟動</string>
+  <string name="activate_4ggateway_apninput_page_subtitle">請聯絡運營商以取得 APN 設定信息</string>
+  <string name="activate_4ggateway_apninput_page_title">設定 APN 訊息</string>
+  <string name="activate_4ggateway_apninput_title_apnname">APN</string>
+  <string name="activate_4ggateway_apninput_title_apnname_hint">輸入 APN</string>
+  <string name="activate_4ggateway_apninput_title_company">運營商資訊</string>
+  <string name="activate_4ggateway_apninput_title_company_hint">輸入運營商資訊</string>
+  <string name="activate_4ggateway_apninput_title_pwd">密碼</string>
+  <string name="activate_4ggateway_apninput_title_pwd_hint">輸入密碼</string>
+  <string name="activate_4ggateway_apninput_title_username">使用者名稱</string>
+  <string name="activate_4ggateway_apninput_title_username_hint">輸入使用者名稱</string>
+  <string name="activate_4ggateway_failure_conn_fail">4G 撥號失敗</string>
+  <string name="activate_4ggateway_failure_conn_fail_desc_tip">請嘗試將設備重置後再重新配網</string>
+  <string name="activate_4ggateway_failure_not_exist">偵測不到 4G 模組</string>
+  <string name="activate_4ggateway_failure_not_exist_desc_tip">請檢測設備的 4G 模組是否正常再重新配網</string>
+  <string name="activate_4ggateway_failure_signal_weak">4G 訊號弱</string>
+  <string name="activate_4ggateway_failure_signal_weak_desc_tip">請檢查設備附近的 4G 訊號強度再重新配網</string>
+  <string name="activate_4ggateway_failure_sim_invalid">SIM 卡不可用</string>
+  <string name="activate_4ggateway_failure_sim_invalid_desc_tip">請檢查 SIM 卡是否插上且可用再重新配網</string>
+  <string name="activate_4ggateway_progress_dialing">開始撥號</string>
+  <string name="activate_4ggateway_progress_dialing_connect_success">撥接成功</string>
   <string name="activate_device_failure">設備配網失敗</string>
   <string name="activate_gateway">待啟動網關</string>
   <string name="activator_addDevice_title">正在連接設備</string>
@@ -81,6 +104,7 @@
   <string name="activator_search_overtime_tips">搜索超時，未發現設備</string>
   <string name="activator_wifi_input_des">如果你的 Wi-Fi 是 5GHz 的，請先設置為2.4GHz，</string>
   <string name="activator_wifi_input_tips">選擇 2.4GHz Wi-Fi 網絡並輸入密碼</string>
+  <string name="activator_wifi_not_available_please_change">請選擇以下可用的 Wi-Fi 連接</string>
   <string name="activator_wifi_setting_help">常見路由器的設置方法</string>
   <string name="activator_wifi_work">確保Wi-Fi信號良好</string>
   <string name="active_device_failure">設備激活失敗</string>
@@ -120,7 +144,7 @@
   <string name="alexa_link_success_android">你的 %1$s 賬號 %2$s 已經授權給Alexa的 %3$s 技能</string>
   <string name="alexa_login">登錄Amazon賬號</string>
   <string name="alexa_relink">重新登錄</string>
-  <string name="alexa_success_tip_content">Alexa, turn on light\n\nAlexa, Air conditioning to 20℃\n\nAlexa, turn off diffuser\n\nAlexa, increse air conditioner by 3 degrees</string>
+  <string name="alexa_success_tip_content">Alexa，開燈\n\nAlexa，空調至 20℃\n\nAlexa，關閉擴香儀\n\nAlexa，將空調溫度調高 3 度</string>
   <string name="alexa_success_tip_title">您可以通過 Amazon Echo 系列音箱來語音控制支持 Alexa 的設備了，例如：</string>
   <string name="alexa_your_device_has_supported">你的設備已支持 Amazon Alexa, 可通過 APP 跳轉實現快速授權</string>
   <string name="all_dev">所有設備</string>
@@ -297,7 +321,7 @@
   <string name="config_nearby_device_select">選擇設備</string>
   <string name="config_nearby_device_status_tip">請確保設備處於配網狀態</string>
   <string name="config_nearty_alert_try_again">繼續掃描</string>
-  <string name="config_new_device">New Device</string>
+  <string name="config_new_device">新設備</string>
   <string name="config_no_wifi_tips">手動輸入Wi-Fi名稱，或開啟定位權限，以便自動獲取附近Wi-Fi設備</string>
   <string name="config_only_support_2_4g">當前設備只支持 2.4Ghz 路由器，請更換 Wi-Fi 網絡或將路由器設置為 2.4GHz 後重試</string>
   <string name="config_progress_step1">尋找設備</string>
@@ -645,9 +669,10 @@
   <string name="google_flip_link_google_info">將你的 App 賬號與 Google 賬號綁定後，便可通過 Google Home 系列音箱來控制支持 Google Assistant 的設備，例如“Ok Google, turn on light.”</string>
   <string name="google_flip_permission">· 設備控制權限</string>
   <string name="google_flip_refuse_auth">拒絕授權</string>
+  <string name="google_flip_success_tip_content">Google，打開燈\n\nOK Google，將我的燈調亮\n\n Google，將廚房燈改為藍色\n\n Google，將我的燈設定為 50%</string>
   <string name="google_flip_unbind_info">您可以隨時取消授權</string>
   <string name="google_flip_unbind_info_goto_app">如需解綁，請前往 Google Home APP 中解除 action 的連接</string>
-  <string name="google_flip_voice_demos">Turn on the bathroom lamps\"\n\"Turn off the lights\" \n\"Set the living room brightness to 50%%\" \n\"Is the light on in John\'s office?</string>
+  <string name="google_flip_voice_demos">“打開浴室燈”\n“關燈”\n“將客廳亮度設定為 50%%”\n“約翰辦公室的燈開著嗎？”</string>
   <string name="got_it">知道了</string>
   <string name="goto_family_make">去添加家庭成員</string>
   <string name="group_add_default_name">%s 群組</string>
@@ -688,6 +713,7 @@
   <string name="headportrait_change_select">從手機相冊選擇</string>
   <string name="help_and_feedback">常見問題和反饋</string>
   <string name="help_center">常見問題和反饋</string>
+  <string name="hidden_wifi_ssid_tip">若 Wi-Fi 被隱藏，可</string>
   <string name="home_add">添加</string>
   <string name="home_add_device">添加設備</string>
   <string name="home_add_emergent_connect">添加緊急聯繫人</string>
@@ -707,6 +733,7 @@
   <string name="home_adv_guide_page_4_desc">在這裡可以找到和管理家庭下的“設備”及“房間”</string>
   <string name="home_adv_guide_page_5_desc">若您習慣舊版首頁，也可以在“我的-設置”中進行切換</string>
   <string name="home_adv_no_room_filter">無房間</string>
+  <string name="home_adv_page_error">載入失敗，請稍後重試</string>
   <string name="home_adv_room_hint_num">%d 個常用場景｜%d個常用設備</string>
   <string name="home_adv_switch_feedback_input_empty">內容不能為空</string>
   <string name="home_adv_switch_feedback_input_max_length">文字最多1000字</string>
@@ -1185,6 +1212,7 @@
   <string name="ipc_album_settings">相册</string>
   <string name="ipc_album_videos_list">視頻</string>
   <string name="ipc_alert_siren_dialog">蜂鳴器將被觸發</string>
+  <string name="ipc_anti_dismantling_alarm">防拆報警</string>
   <string name="ipc_bases_add_device">添加設備</string>
   <string name="ipc_bases_base_station">基站</string>
   <string name="ipc_bases_connected">已連接</string>
@@ -1935,6 +1963,7 @@
   <string name="message_dnd_tue">週二</string>
   <string name="message_dnd_wed">週三</string>
   <string name="message_setting_title">按時段免打擾</string>
+  <string name="message_tab_title">訊息</string>
   <string name="mobile_binding">手機綁定</string>
   <string name="modify_password_rule">密碼支持6-20位，必須包含字母和數字</string>
   <string name="modify_password_success">修改密碼成功\n請重新登錄</string>
@@ -2011,6 +2040,8 @@
   <string name="open_permissions">開啟權限</string>
   <string name="open_permissions_desc">添加設備需要開啟以下權限</string>
   <string name="open_wifi">需要開啟手機Wi-Fi網路連接才能添加設備，確認後自動開啟</string>
+  <string name="open_wifi_no_password_content">目前 Wi-Fi 無密碼，有安全隱患，請設定 Wi-Fi 密碼或切換其他 Wi-Fi</string>
+  <string name="open_wifi_no_password_title">不支援使用目前 Wi-Fi</string>
   <string name="operation_delete">刪除</string>
   <string name="operation_revise">修改</string>
   <string name="ota_I_know">我知道了</string>
@@ -2103,7 +2134,7 @@
   <string name="personal_more_services">更多服務</string>
   <string name="personal_other_service">其他服務</string>
   <string name="personal_push_call_service">電話通知</string>
-  <string name="personal_service_new">New</string>
+  <string name="personal_service_new">新</string>
   <string name="personal_speech_service">語音服務</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">叮咚</string>
@@ -2120,6 +2151,7 @@
   <string name="phone_or_email">手機號碼或郵箱</string>
   <string name="pid_has_upgrade_title">發現新的設備升級</string>
   <string name="please_check_device_power_nearby">請檢查設備是否已接入電源且在附近</string>
+  <string name="please_check_nearby_router">請偵測附近是否有路由器，並確保設備離路由器不要太遠或隔牆，可能會影響訊號強度。</string>
   <string name="please_choose_country_first">選擇國家/地區</string>
   <string name="please_connect_hot">連接熱點，請接受連接</string>
   <string name="please_enter_pwd">請輸入密碼</string>
@@ -2549,7 +2581,7 @@
   <string name="thing_activator_router_check">請檢查附近是否有路由器，並且確保設備離路由器不要太遠</string>
   <string name="thing_activator_still_continue">仍然繼續</string>
   <string name="thing_activator_switch_wifi">去切换</string>
-  <string name="thing_activator_switch_wifi_tips">當前連接的是 5GHzWi-Fi ,請切換至以下 2.4GHzWi-Fi 後繼續</string>
+  <string name="thing_activator_switch_wifi_tips">目前 Wi-Fi 可能為 5GHz, 無法配網成功，請切換至其他 2.4GHz Wi-Fi</string>
   <string name="thing_activator_thread_sub_check">若為Thread 子設備，請嘗試重啟Thread網關</string>
   <string name="thing_activator_wifi_check_freq">請檢查路由器Wi-Fi配置，如果你的Wi-Fi是5GHz, 請設置為2.4 GHz</string>
   <string name="thing_agree_and_continue">同意並繼續</string>
@@ -2674,6 +2706,7 @@
   <string name="tmall_help_url">#</string>
   <string name="toolbar_menu_refresh">刷新</string>
   <string name="topTips">提交故障會上傳您的設備相關信息，用於排查問題，請您知曉。</string>
+  <string name="transfer_home_ownership">轉移家庭所有權</string>
   <string name="try_other_match">請嘗試使用其它 Wi-Fi 配網流程，進行設備配網</string>
   <string name="tuesday">週二</string>
   <string name="thing_home_devicelist_localdevice_title">本地设备</string>
@@ -3116,7 +3149,7 @@
   <string name="thing_app_watch_scene_empty">暫無可執行“一鍵執行”</string>
   <string name="thing_app_watch_scene_enabled">可運行“一鍵執行”</string>
   <string name="thing_app_watch_scene_not_add">未添加“一鍵執行”</string>
-  <string name="thing_app_watch_title">Watch</string>
+  <string name="thing_app_watch_title">手錶</string>
   <string name="thing_app_watch_url_instructions">Watch 操作說明</string>
   <string name="thing_arrive_or_leave">到達/離開某地</string>
   <string name="thing_auth_management">授權管理</string>
@@ -4652,6 +4685,7 @@
   <string name="wifi_info_fail">設備識別 Wi-Fi 配網信息失敗</string>
   <string name="wifi_info_long_content">您的WiFi名字或密碼位數過長，可能導致設備無法識別。如二維碼無法被掃描，建議您更改WiFi名或密碼後重試。</string>
   <string name="wifi_info_long_title">WiFi信息過長</string>
+  <string name="wifi_name_contain_blank_content">目前 Wi-Fi 名稱首尾可能包含多餘的空格，是否繼續使用？</string>
   <string name="wifi_permission_tips">手動輸入Wi-Fi名稱，或開啟定位權限，以便自動獲取附近Wi-Fi設備</string>
   <string name="wifi_send_fail">Wi-Fi 配網信息發送失敗</string>
   <string name="wifi_signal_strength">信號強度</string>

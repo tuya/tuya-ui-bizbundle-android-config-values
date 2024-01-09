@@ -12,6 +12,7 @@
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Poza pamięcią masową w chmurze</string>
   <string name="OUT_OF_FILE_CAPACITY">Pojedyncze zdjęcie przekracza limit %s MB</string>
   <string name="ROOM_EXIST_DONT_ADD">Pokój istnieje</string>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">Ta usługa jest obecnie niedostępna. Zarejestruj się, podając swój adres e-mail. Zaktualizuj swoją aplikację w App Store.</string>
   <string name="_device">%s urządzeń</string>
   <string name="_room">%s pokoi</string>
   <string name="about">O</string>
@@ -1017,6 +1018,7 @@
   <string name="personal_speech_service_rokid">Rokid</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="phone_email">Numer telefonu komórkowego/adres e-mail</string>
   <string name="phone_number">Numer telefonu komórkowego</string>
   <string name="phone_or_email">Numer telefonu komórkowego lub e-mail</string>

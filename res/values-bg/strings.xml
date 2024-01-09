@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Грешка при декриптиране</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ">You have only {0} minutes left for {1}</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ_TITLE">Известие</string>
+  <string name="APP_PUSH_RS9DIZFG">Measurement Reminders</string>
+  <string name="APP_PUSH_RS9DIZFG_TITLE">RENPHO</string>
+  <string name="INFRARED_BIZ_E_REQUEST_FORBIDDEN">проверката е забранена</string>
+  <string name="INFRARED_PARAM_E_ACTION_NOT_EXIST">Действието не съществува</string>
+  <string name="INFRARED_PARAM_E_PARAM_ILLEGAL">Невалиден параметър</string>
+  <string name="INFRARED_PARAM_E_PARAM_INVALID">Невалиден параметър</string>
+  <string name="INFRARED_PARAM_E_PARAM_MISSING">Параметарът е нула</string>
+  <string name="INFRARED_SYS_E_REMOTE_CALL_ERROR">Грешка при свързване</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Превишава лимита: %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Това ще разреши на Приложението да намира и свързва Bluetooth аксесоари. Това приложение може също да използва Bluetooth за намиране на устройства.</string>
   <string name="NSBluetoothPeripheralUsageDescription">За да добавите Bluetooth устройство, моля включете си Bluetooth на телефона.</string>
@@ -18,6 +28,7 @@
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Свърши мястото в Облака</string>
   <string name="OUT_OF_FILE_CAPACITY">Единична снимка надвишава %s MB ограничение</string>
   <string name="ROOM_EXIST_DONT_ADD">Името вече се използва, моля добавете друго име.</string>
+  <string name="SECURITY_HOME_MSG">{0}</string>
   <string name="_device">%s устройства</string>
   <string name="_room">%s Помещения</string>
   <string name="about">Относно</string>
@@ -1549,8 +1560,10 @@
   <string name="personal_speech_service_google">Google Assistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
+  <string name="personal_speech_service_smartthings">SmartThings</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Мобилен номер/имейл</string>
   <string name="phone_number">Мобилен номер</string>
@@ -1903,6 +1916,7 @@
   <string name="tmall_skill">#</string>
   <string name="toolbar_menu_refresh">Опресняване</string>
   <string name="topTips">Ако съобщите за грешка, инфомацията за вашето устройство ще бъде свалена за да индентифицираме проблема.</string>
+  <string name="transfer_home_ownership">Трансфер Собственост Дом</string>
   <string name="tuesday">Четв.</string>
   <string name="thingconfig_add_history">Записи на минали добавяния</string>
   <string name="tv_add_clock_time">Добавете график</string>
@@ -2890,6 +2904,7 @@
   <string name="widget_scene_no_scene">Няма контролируеми сцени от \"Ръчни сцени\"</string>
   <string name="widget_scene_unlogin">Моля влезте в профила си</string>
   <string name="widgt_not_regist">Влезте, за да използвате widgets</string>
+  <string name="wifi_gprs">wifi+gprs</string>
   <string name="wifi_info_long_content">Вашето WIFI име или парола е твърде дълга и заради това устройството не може да разпознае QR кода. Ако проблемът продължи, моля сменете Вашето WIFI име и парола и опитайте отново.</string>
   <string name="wifi_info_long_title">Дълго WIFI име или парола</string>
   <string name="wifi_permission_tips">Въведете ръчно името на Wi-Fi или активирайте разрешението за местоположение, за да намерите близките Wi-Fi устройства</string>
@@ -2900,6 +2915,8 @@
   <string name="wifi_to_open_permission">Включете разрешението</string>
   <string name="wifi_to_reopen_permission_location">Достъпа до Местоположение е отказан. Искате ли, да го възстановите?</string>
   <string name="xiaowei_help_url">#</string>
+  <string name="xsense_sub_bjq">RF комбинирана аларма</string>
+  <string name="xsense_sub_ywbj">RF аларма за пушек</string>
   <string name="you_are_only_manage">Моля добавете друг Администратор преди да напуснете.</string>
   <string name="zigbee_dev">ZigBee</string>
 </resources>
