@@ -365,6 +365,12 @@
   <string name="home_my_device">อุปกรณ์ของฉัน</string>
   <string name="home_personal_center">ฉัน</string>
   <string name="home_wait_join">รอให้เข้าร่วม</string>
+  <string name="hs_camera_multi_show">หลายมุมมอง</string>
+  <string name="hs_enter_devcie">เข้าอุปกรณ์</string>
+  <string name="hs_sos_alarm_tips">ยืนยันที่จะปลดอาวุธและยกเลิกการเตือนหรือไม่</string>
+  <string name="hs_sos_alarmimg">เตือน</string>
+  <string name="hs_sos_dispatch_tips">ระบบสัญญาณเตือนภัยถูกกระตุ้น กรุณาจัดการกับมันทันที</string>
+  <string name="hs_sos_no_emergency_response">ระบบสัญญาณเตือนภัยถูกกระตุ้น กรุณาจัดการกับมันทันที</string>
   <string name="image_load_failure">โหลดรูปภาพล้มเหลว</string>
   <string name="immediate_updates">อัปเดตตอนนี้</string>
   <string name="in_thing_msg">ใช้ฟังก์ชัน/อุปกรณ์นี้ในแอป app</string>
@@ -432,9 +438,11 @@
   <string name="ipc_basic_talkmode_two">การสั่งงานด้วยเสียงสองทาง</string>
   <string name="ipc_basic_talkmode_txt">เนื่องจากการสั่งงานด้วยเสียงอาจไม่มีประสิทธิภาพเพราะปัจจัยแวดล้อม เราแนะนำให้คุณเลือกการสั่งงานด้วยเสียงทางเดียวหรือสองทางตามสถานการณ์ในขณะนั้น</string>
   <string name="ipc_basic_wdr">โหมด WDR</string>
+  <string name="ipc_camera_module_setting">การตั้งค่ากล้อง</string>
   <string name="ipc_chime_type_digital">กริ่งไร้สาย</string>
   <string name="ipc_chime_type_mechanical">กริ่งเครื่องจักร</string>
   <string name="ipc_chime_type_without">ไม่มีกริ่ง</string>
+  <string name="ipc_click_to_talk">คลิกเพื่อเริ่มการโทร</string>
   <string name="ipc_cloud_empty_event_des">ไม่มีวิดีโอเหตุการณ์ที่เกี่ยวข้อง</string>
   <string name="ipc_cloudstorage_amount">ปริมาณการซื้อ</string>
   <string name="ipc_cloudstorage_annually">แผนประจำปี</string>
@@ -576,6 +584,7 @@
   <string name="ipc_live_page_cstorage_no_data">คุณได้สมัครใช้งานบริการที่เก็บวิดีโอบนคลาวด์ โปรดตรวจสอบวิดีโอล่าสุดที่นั่น</string>
   <string name="ipc_live_page_memory_point">รายการที่โปรดปรานสำหรับสถานที่</string>
   <string name="ipc_live_page_talkback_tips">การพูดคุย</string>
+  <string name="ipc_long_press_speak">กดค้างเพื่อพูด</string>
   <string name="ipc_memory_point_add_failure">เพิ่มสถานที่ล้มเหลว</string>
   <string name="ipc_memory_point_add_success">เพิ่มสถานที่สำเร็จ</string>
   <string name="ipc_memory_point_name_edit_failure">เปลี่ยนชื่อสถานที่ล้มเหลว</string>
@@ -719,6 +728,7 @@
   <string name="ipc_tips_speaker_open_success">เปิดลำโพงสำเร็จ</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="ipc_video_end">วิดีโอสิ้นสุด</string>
+  <string name="ipc_voice_speaker">เสียงอินเตอร์คอม</string>
   <string name="is_save_room_update">บันทึกการเปลี่ยนแปลงสำหรับห้องหรือไม่</string>
   <string name="is_save_smart_update">ยืนยันการเปลี่ยนแปลงหรือไม่</string>
   <string name="later_on">พูดอีกครั้งในภายหลัง</string>
@@ -943,6 +953,7 @@
   <string name="personal_speech_service_rokid">Rokid</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="phone_email">หมายเลขโทรศัพท์มือถือ/ที่อยู่อีเมล</string>
   <string name="phone_number">หมายเลขโทรศัพท์มือถือ</string>
   <string name="phone_or_email">หมายเลขโทรศัพท์มือถือหรือที่อยู่อีเมล</string>

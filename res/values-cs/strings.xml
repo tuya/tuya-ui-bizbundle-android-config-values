@@ -12,6 +12,7 @@
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Z cloudového úložiště</string>
   <string name="OUT_OF_FILE_CAPACITY">Jedna fotografie překročí limit %s MB</string>
   <string name="ROOM_EXIST_DONT_ADD">Pokoj existuje</string>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">Tato služba momentálně není k dispozici, zaregistrujte se prosím pomocí své e-mailové adresy. Aktualizujte prosím svou aplikaci v App Store.</string>
   <string name="_device">%s - zařízení</string>
   <string name="_room">%s Pokoje</string>
   <string name="about">O</string>
@@ -374,6 +375,12 @@
   <string name="home_my_device">Moje zařízení</string>
   <string name="home_personal_center">Profil</string>
   <string name="home_wait_join">Čekání na připojení</string>
+  <string name="hs_camera_multi_show">Vícenásobné zobrazení</string>
+  <string name="hs_enter_devcie">Zadejte zařízení</string>
+  <string name="hs_sos_alarm_tips">Potvrdit deaktivaci a zrušení alarmu?</string>
+  <string name="hs_sos_alarmimg">Poplach</string>
+  <string name="hs_sos_dispatch_tips">Poplašný systém byl spuštěn, okamžitě to prosím řešte.</string>
+  <string name="hs_sos_no_emergency_response">Poplašný systém byl spuštěn, okamžitě to prosím řešte.</string>
   <string name="image_load_failure">Nepodařilo se načíst obrázek</string>
   <string name="immediate_updates">Aktualizovat nyní</string>
   <string name="in_thing_msg">Použijte tuto funkci/zařízení v aplikaci app.</string>
@@ -436,9 +443,11 @@
   <string name="ipc_basic_talkmode_two">Obousměrný přenos zvuku</string>
   <string name="ipc_basic_talkmode_txt">Vzhledem k tomu, že řeč může být ovlivněna faktory prostředí, doporučujeme zvolit jednosměrnou nebo obousměrnou komunikaci podle aktuální situace</string>
   <string name="ipc_basic_wdr">režim Velkeho dynamického rozsahu</string>
+  <string name="ipc_camera_module_setting">Nastavení fotoaparátu</string>
   <string name="ipc_chime_type_digital">Bezdrátový zvonek</string>
   <string name="ipc_chime_type_mechanical">Mechanický zvonek</string>
   <string name="ipc_chime_type_without">Žádný zvonek</string>
+  <string name="ipc_click_to_talk">Kliknutím zahájíte hovor</string>
   <string name="ipc_cloudstorage_amount">Nákupní množství</string>
   <string name="ipc_cloudstorage_annually">Roční plán</string>
   <string name="ipc_cloudstorage_billed">Vyberte plán</string>
@@ -579,6 +588,7 @@
   <string name="ipc_live_page_cstorage_no_data">Zaregistrovali jste službu ukládání dat v cloudu, zkontrolujte nejnovější video tam.</string>
   <string name="ipc_live_page_memory_point">Oblíbené stránky</string>
   <string name="ipc_live_page_talkback_tips">Konverzace</string>
+  <string name="ipc_long_press_speak">Dlouhým stisknutím můžete mluvit</string>
   <string name="ipc_memory_point_add_failure">Stránku nelze přidat</string>
   <string name="ipc_memory_point_add_success">Stránka byla úspěšně přidána</string>
   <string name="ipc_memory_point_name_edit_failure">Název webu nelze změnit</string>
@@ -721,6 +731,7 @@
   <string name="ipc_tips_speaker_open_success">Reproduktor byl úspěšně zapnutý</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="ipc_video_end">Konec videa</string>
+  <string name="ipc_voice_speaker">Hlasový interkom</string>
   <string name="is_save_room_update">Uložit změny provedené v místnosti?</string>
   <string name="is_save_smart_update">Potvrdit provedené změny?</string>
   <string name="later_on">Řeknete znovu</string>
@@ -947,6 +958,7 @@
   <string name="personal_speech_service_rokid">Rokid</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="phone_email">Mobilní číslo / e-mailová adresa</string>
   <string name="phone_number">Číslo mobilního telefonu</string>
   <string name="phone_or_email">Číslo mobilního telefonu nebo e-mailová adresa</string>

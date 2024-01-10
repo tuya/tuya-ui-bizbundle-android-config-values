@@ -1107,6 +1107,7 @@
   <string name="personal_speech_service_rokid">Rokid</string>
   <string name="personal_speech_service_tentent">Tecent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Αριθμός Τηλεφώνου / E-mail</string>
   <string name="phone_number">Αριθμός Τηλεφώνου</string>
@@ -1369,6 +1370,7 @@
   <string name="tmall_help_url">#</string>
   <string name="toolbar_menu_refresh">Ανανέωση</string>
   <string name="topTips">Αν δηλώσετε κάποιο σφάλμα, πληροφορίες σχετικά με τις συσκευές σας θα μεταφορτωθούν για την ανίχνευση του σφάλματος.</string>
+  <string name="transfer_home_ownership">Μεταφέρετε την ιδιοκτησία του σπιτιού</string>
   <string name="tuesday">Τρίτη</string>
   <string name="thingconfig_add_history">Αρχεία ιστορικών προσθηκών</string>
   <string name="tv_add_clock_time">Προσθήκη Χρονισμού</string>

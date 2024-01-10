@@ -48,8 +48,15 @@
   <string name="activate">Liên kết</string>
   <string name="activate_gateway">Cổng được liên kết</string>
   <string name="activator_addDevice_title">Đang thêm thiết bị...</string>
+  <string name="activator_auto_search_authority_tip">Cho phép các quyền sau để tìm kiếm thiết bị.</string>
+  <string name="activator_bluetooth_fail">Đảm bảo đã bật Bluetooth.</string>
+  <string name="activator_bluetooth_privacy_set">Cài đặt ngay</string>
+  <string name="activator_config_wifi_desc">Hoàn thành thông tin Wi-Fi để thêm thiết bị.</string>
   <string name="activator_device_work">Đảm bảo thiết bị được bật nguồn</string>
   <string name="activator_guide_tips">Lưu ý ghép nối mạng</string>
+  <string name="activator_open_bluetooth_desc">Bluetooth giúp thiết bị của bạn dễ được phát hiện hơn.</string>
+  <string name="activator_open_location_desc">Cho phép truy cập vào vị trí để tìm kiếm các thiết bị ở gần.</string>
+  <string name="activator_open_wifi_desc">Cần có Wi-Fi để tìm kiếm thiết bị.</string>
   <string name="activator_reset_device_help_url_text">Xem Hướng dẫn đặt lại thiết bị</string>
   <string name="activator_reset_first">Đặt lại thiết bị</string>
   <string name="activator_search_overtime_tips">Hết thời gian tìm kiếm, Không tìm thấy thiết bị nào.</string>
@@ -156,6 +163,7 @@
   <string name="bluetooth_reconnection">Đang kết nối lai...</string>
   <string name="bluetooth_scanningdevice">Đang quét…</string>
   <string name="camera_permission_tips">Đi đến mục Cài đặt &gt; Quyền riêng tư &gt; Camera trên iPhone của bạn và bật %s.</string>
+  <string name="camera_permission_use_tip">Kích hoạt quyền truy cập của máy ảnh</string>
   <string name="camera_permissions">Yêu cầu cho phép truy cập vào máy ảnh</string>
   <string name="camera_permissions_access">3 %s Cho phép truy cập vào camera…</string>
   <string name="camera_permissions_methods">Phương pháp kích hoạt</string>
@@ -243,6 +251,7 @@
   <string name="config_nearty_alert_try_again">Tiếp tục</string>
   <string name="config_no_wifi_tips">Nhập tên Wifi của bạn hoặc cho phép ứng dụng truy cập vị trí để tìm các thiết bị Wifi gần đó.</string>
   <string name="config_only_support_2_4g">Thiết bị hiện tại chỉ hỗ trợ Wifi 2.4Ghz, vui lòng thay đổi mạng Wifi hoặc đặt bộ định tuyến thành 2,4Hhz và thử lại</string>
+  <string name="config_play_video_volumn_tip">Tăng âm lượng trên điện thoại của bạn để có âm thanh rõ hơn.</string>
   <string name="config_progress_step1">Tìm kiếm thiết bị</string>
   <string name="config_progress_step2">Đăng ký trên Cloud</string>
   <string name="config_progress_step3">Khởi tạo thiết bị...</string>
@@ -326,6 +335,7 @@
   <string name="device_during_search_tip">Quá trình tìm kiếm có thể mất 2 phút, vui lòng không thực hiện các thao tác khác</string>
   <string name="device_functions_off">Chức năng chung</string>
   <string name="device_functions_on">Ẩn các chức năng thường dùng</string>
+  <string name="device_gudie_all_paly_video">Xem toàn bộ video</string>
   <string name="device_has_unbinded">Đã gỡ bỏ thiết bị</string>
   <string name="device_name_edit_failure">Thay đổi tên thiết bị không thành công</string>
   <string name="device_name_is_null">Vui lòng nhập tên thiết bị</string>
@@ -702,6 +712,7 @@
   <string name="ipc_chime_type_digital">Chuông không dây</string>
   <string name="ipc_chime_type_mechanical">Chuông cơ</string>
   <string name="ipc_chime_type_without">Không</string>
+  <string name="ipc_close_pip_des">Tính năng Hình trong hình (PiP) trên cửa sổ đang mở. Đóng lại trước khi bạn tiếp tục.</string>
   <string name="ipc_cloud_disk_active_ch">Thiết bị sử dụng lưu trữ đám mây</string>
   <string name="ipc_cloud_disk_expired_data">Ngày hết hạn: %s</string>
   <string name="ipc_cloud_disk_left_ch">Số lượng thiết bị còn lại: %s</string>
@@ -975,6 +986,7 @@
   <string name="ipc_record_type_doorbell_txt">Chuông cửa</string>
   <string name="ipc_record_type_motion_detected_txt">Phát hiện chuyển động</string>
   <string name="ipc_record_type_video_txt">Đang ghi</string>
+  <string name="ipc_recording_on_pip">Quá trình ghi đang được xử lý. Tắt trước khi bạn tiếp tục.</string>
   <string name="ipc_resolution_hd">HD</string>
   <string name="ipc_resolution_ld">Độ phân giải thấp</string>
   <string name="ipc_resolution_sd">SD</string>
@@ -1132,6 +1144,7 @@
   <string name="ipc_status_stream">Bắt luồng video</string>
   <string name="ipc_status_stream_failed">Không thể nhận luồng video</string>
   <string name="ipc_talkback_volume_txt">Âm lượng</string>
+  <string name="ipc_talking_on_pip">Đàm thoại hai chiều đang được xử lý. Tắt trước khi bạn tiếp tục.</string>
   <string name="ipc_time_capsule_events">%sSự kiện</string>
   <string name="ipc_time_capsule_objects">%s Đối tượng trong giai đoạn hiện tại</string>
   <string name="ipc_time_capsule_title">Hộp thời gian</string>
@@ -1377,9 +1390,11 @@
   <string name="ota_firmware_update">Nâng cấp firmware</string>
   <string name="ota_firmware_version">Phiên bản hiện tại</string>
   <string name="ota_has_new_version">Tìm thấy bản cập nhật</string>
+  <string name="ota_in_queue">Chờ đến lượt</string>
   <string name="ota_install_remind">Đang cài đặt firmware. Trạng thái có thể không được đồng bộ hóa kịp thời. Vui lòng đợi một 1-2 phút, sau đó chuyển đến trang Cập nhật Firmware để kiểm tra xem Firmware có được cập nhật thành công hay không.</string>
   <string name="ota_installing">Đang cài đặt</string>
   <string name="ota_installing_package">Nâng cấp gói cài đặt</string>
+  <string name="ota_list_in_queue_tips">Khi nhiều thiết bị ở cùng một cổng cập nhật, chúng sẽ được chờ đến lượt kích hoạt. Việc đóng trang hoặc ứng dụng không làm gián đoạn việc chờ đến lượt.</string>
   <string name="ota_need_upgrade_count">Được nâng cấp: %d</string>
   <string name="ota_new_firmware">Phiên bản Firmware mới</string>
   <string name="ota_new_firmware_version">Phiên bản mới</string>
@@ -1399,12 +1414,15 @@
   <string name="ota_upgrade_timeout">Đã hết thời gian cập nhật. Vui lòng giữ thiết bị của bạn càng gần bộ định tuyến càng tốt và thử lại.</string>
   <string name="ota_upgrading">Đang cập nhật</string>
   <string name="ota_upgrading_firmware">Đang cập nhật …</string>
+  <string name="ota_upgrading_time_out_remind">Đang kiểm tra các bản cập nhật. Thời gian ước tính:</string>
+  <string name="ota_upgrading_time_out_tip">Kiểm tra cập nhật đã hết thời gian. Vui lòng làm mới trang và thử lại.</string>
   <string name="ota_upgrading_to">Đang cập nhật lên</string>
   <string name="ota_wifi_signal_weak_tips">Tín hiệu Wifi yếu, Bạn vẫn muốn nâng cấp firmware?</string>
   <string name="out_room_device">Thêm thiết bị</string>
   <string name="panel_os_device_not_found">Hiện tại thiết bị không tồn tại trong Nhà</string>
   <string name="panel_please_choose">Vui lòng chọn</string>
   <string name="panel_uncompress_error">Tải về thất bại, vui lòng nhấn vào bảng điều khiển để thử lại</string>
+  <string name="permission_request_tip">Cho phép truy cập vào camera để sử dụng các tính năng phụ thuộc vào camera như ghép nối mã QR, đăng nhập nhận dạng khuôn mặt và tùy chỉnh biểu tượng thiết bị.</string>
   <string name="person_panel_dev">Phát triển bẳng điều khiển</string>
   <string name="personal_add_share">Thêm chia sẻ</string>
   <string name="personal_add_share_devices">Thêm thiết bị chia sẻ</string>
@@ -1760,6 +1778,8 @@
   <string name="temperature_unit">Đơn vị nhiệt độ</string>
   <string name="terminate_account">Vô hiệu hóa tài khoản</string>
   <string name="terminate_account_introductions">Sau khi tài khoản bị vô hiệu hóa, tất cả dữ liệu người dùng trong tài khoản này sẽ bị xóa vĩnh viễn.</string>
+  <string name="thing_permission_full_screen_desc">Cho phép ứng dụng nhận thông báo toàn màn hình trên màn hình khóa.</string>
+  <string name="thing_permission_full_screen_title">Truy cập vào thông báo toàn màn hình</string>
   <string name="thursday">Thứ năm</string>
   <string name="timer">Lịch trình</string>
   <string name="timer_add_failure">Thêm hẹn giờ thất bại, Vui lòng kiểm tra mạng</string>
@@ -1778,6 +1798,7 @@
   <string name="tmall_skill">#</string>
   <string name="toolbar_menu_refresh">Làm mới</string>
   <string name="topTips">Gửi một lỗi sẽ tải lên thông tin về thiết bị của bạn cho mục đích khắc phục sự cố. Vui lòng đồng ý</string>
+  <string name="transfer_home_ownership">Chuyển quyền sở hữu Nhà</string>
   <string name="tuesday">Thứ ba</string>
   <string name="thingconfig_add_history">Thêm lịch sử</string>
   <string name="tv_add_clock_time">Thêm lịch trình</string>

@@ -939,6 +939,7 @@
   <string name="personal_speech_service_rokid">Rokid</string>
   <string name="personal_speech_service_tentent">Tencent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="phone_email">Mobiel Nummer/E-mail</string>
   <string name="phone_number">Telefoonnummer</string>
   <string name="phone_or_email">Telefoonnummer of e-mail</string>

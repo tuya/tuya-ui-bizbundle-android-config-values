@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Şifre çözme hizmeti alınamadı</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ">{1} için yalnızca {0} dakikanız kaldı.</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ_TITLE">Bildirim</string>
+  <string name="APP_PUSH_RS9DIZFG">Ölçüm Hatırlatıcıları</string>
+  <string name="APP_PUSH_RS9DIZFG_TITLE">RENPHO</string>
+  <string name="BTU">Veri Tabanı İşlem Birimi (DTU)</string>
+  <string name="BTU_1w_1">Veri Tabanı İşlem Birimi (DTU)</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Elektrikli Ev Aletleri</string>
   <string name="CATEGORY_ICON_LAMPS">Aydınlatma</string>
   <string name="Choose_one_of_qrcodes_and_select">QR kodlarından birine dokunun.</string>
@@ -16,6 +22,16 @@
 3. Ürün yazılımı güncellemesi sırasında cihazı normal şekilde kullanmayın.
 4. Güncelleme sırasında uygulamadan çıkmamanızı veya başka bir uygulamaya geçmeyin.</string>
   <string name="HOME_BANNER_CARD_ENERGY_DATA_DESC">Son Enerji Tüketimi</string>
+  <string name="INFRARED_BIZ_E_REQUEST_FORBIDDEN">Yasaklı İstek</string>
+  <string name="INFRARED_PARAM_E_ACTION_NOT_EXIST">İşlem Yok</string>
+  <string name="INFRARED_PARAM_E_PARAM_ILLEGAL">Geçersiz Parametre</string>
+  <string name="INFRARED_PARAM_E_PARAM_INVALID">Geçersiz Parametre</string>
+  <string name="INFRARED_PARAM_E_PARAM_MISSING">Hesabınızda Bakiye Bulunmuyor</string>
+  <string name="INFRARED_SYS_E_REMOTE_CALL_ERROR">Uzaktan Arama Hatası</string>
+  <string name="INOX_ADD_EKEYS_EMAIL_TITLE">Eklerken Girilecek E-posta Adresi</string>
+  <string name="INOX_EMAIL_SENDER">Inox Smart</string>
+  <string name="INOX_SMS_SIGN">Inox Kilidi</string>
+  <string name="INOX_TRANSFER_PROPERTY_CODE_EMAIL_TITLE">Aile Yönetici Olmak için Yeni Bir Davet Aldınız</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Limit Aşıldı: %s</string>
   <string name="NOT_LOCAL_DEVICE_ERROR">Bu cihaz, QR kodu modunda eşleştirmeyi desteklemiyor.</string>
   <string name="NSAppleMusicUsageDescription">Uygulamanın müzik almak için medya kitaplığınıza erişmesi gerekir. Erişime izin vermezseniz, yerel müzik eklenemez.</string>
@@ -37,14 +53,18 @@
   <string name="NUMEN_SET_OWNER_FOR_LOCATION_MSG_TITLE">Ev Sahipliğini Devret</string>
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Bulut depolama alanı dışında</string>
   <string name="OUT_OF_FILE_CAPACITY">Tek fotoğraf %s MB sınırını aşıyor</string>
+  <string name="PHILIPHS_INVITATION_MSG_CONTENT">[${appName}] Değerli Kullanıcı, sonu ${lastMobile} ile biten kullanıcı sizi bir aile cihazına katılmaya davet etti. ${appName} uygulamayı indirin, giriş yaptıktan sonra bu bağlantıyı kopyalayın ve daveti kabul edin.</string>
+  <string name="PHILIPHS_INVITATION_MSG_EMAIL_CONTENT">[${appName}] Değerli Kullanıcı, sonu ${lastMobile} ile biten kullanıcı sizi bir aile paylaşım cihazına katılmaya davet etti. ${appName}APP\'sini indirin, giriş yaptıktan sonra bu bağlantıyı kopyalayın ve daveti kabul edin. Davetiye Kodu: #${invitationCode}#</string>
   <string name="PRODUCT_NOT_EXISTS">Uygun Değil</string>
   <string name="QR_LOGIN_CROSS_REGION_NOT_SUPPORT">Başka bir veri merkezinde bulunan bir cihazı eklemek için QR kodu tarayamazsınız.</string>
   <string name="ROOM_EXIST_DONT_ADD">İsim Zaten Kullanılıyor, Başka Bir İsim Seçin</string>
+  <string name="SECURITY_HOME_MSG">{0}</string>
   <string name="T0134">Lütfen ışığın yanıp söndüğünden emin olun.</string>
   <string name="T0242">Yönlendiriciyi, kılavuza göre eşleştirme durumuna girmesini sağlayacak şekilde ayarlayın ve telefonunuzu yönlendiricinin Wi-Fi ağına bağlayın.</string>
   <string name="T0244">Yönlendiriciyi kılavuza göre ayarlayın.</string>
   <string name="T0245">Eşleştirme durumuna girmek için sıfırlama düğmesine basılı tutun.</string>
   <string name="T0246">Telefonunuzu yönlendiricinin Wi-Fi ağına bağlayın.</string>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">Bu hizmet şu anda kullanılamıyor, Lütfen E-posta adresinizle kayıt olun. Lütfen Uygulama Mağazasından uygulamanızı güncelleyin.</string>
   <string name="USER_AVATAR_UPLOAD_REJECT_FOR_COMPLIANCE">Uyumluluk gereksinimleri şu an için değiştirilemez</string>
   <string name="USER_TEXT_MODERATION_CHECK_NOT_PASS">Takma adınız yasaklanmış kelimeler içeriyor. Lütfen değiştirin.</string>
   <string name="_device">%s cihaz</string>
@@ -80,8 +100,15 @@
   <string name="activate">Eşleştirin</string>
   <string name="activate_gateway">Bağlanacak ağ geçidi</string>
   <string name="activator_addDevice_title">Cihaz Ekleniyor...</string>
+  <string name="activator_auto_search_authority_tip">Cihazları aramak için aşağıdaki izinleri verin.</string>
+  <string name="activator_bluetooth_fail">Bluetooth’un açık olduğundan emin olun.</string>
+  <string name="activator_bluetooth_privacy_set">Şimdi Ayarla</string>
+  <string name="activator_config_wifi_desc">Cihaz eklemek için Wi-Fi bilgilerini tamamlayın.</string>
   <string name="activator_device_work">Cihazın açık olduğundan emin olun.</string>
   <string name="activator_guide_tips">Net Eşleştirme Notu</string>
+  <string name="activator_open_bluetooth_desc">Bluetooth, cihazınızı daha keşfedilebilir hâle getirir.</string>
+  <string name="activator_open_location_desc">Yakındaki cihazları aramak için konuma erişilmesine izin verin.</string>
+  <string name="activator_open_wifi_desc">Cihazları aramak için Wi-Fi gereklidir.</string>
   <string name="activator_reset_device_help_url_text">Cihaz Sıfırlama Rehberini Görüntüleyin</string>
   <string name="activator_reset_first">Cihazı Sıfırla</string>
   <string name="activator_search_overtime_tips">Arama Zaman Aşımına Uğradı. Cihaz Bulunamadı.</string>
@@ -158,6 +185,9 @@
   <string name="app_personal_center_more_service">Öne Çıkan Hizmetler</string>
   <string name="app_personal_center_third_service">Üçüncü Taraf Sesli Hizmetler</string>
   <string name="at_login_sns">Sosyal medya hesabıyla oturum aç</string>
+  <string name="auth_management_skill_name_clova">Karanfil</string>
+  <string name="auth_management_skill_name_smartthings">Akıllı Cihazlar</string>
+  <string name="auth_management_skill_name_yandex">Yandex Alice</string>
   <string name="auto_complete_tip">Geri bildirim formu {time} sonrasında otomatik olarak doldurulacaktır, lütfen zamanında kontrol edin ve onaylayın.</string>
   <string name="auto_discover_device">Otomatik Tarama</string>
   <string name="autolock_delay_level_undefined">Etkin değil</string>
@@ -206,6 +236,7 @@
   <string name="bluetooth_reconnection">Tekrar Bağlanmak İçin Bekleyin</string>
   <string name="bluetooth_scanningdevice">Taranıyor</string>
   <string name="camera_permission_tips">Ayarlar &gt; gizlilik &gt; iPhone’nizin Kamerası ögesine gidin ve %s etkinleştirin.</string>
+  <string name="camera_permission_use_tip">Kamera İzinlerini Etkinleştir</string>
   <string name="camera_permissions">Kamera Erişimi İsteniyor</string>
   <string name="camera_permissions_access">3 %s Cihazını Bulun ve Kamera Erişimini Etkinleştirin</string>
   <string name="camera_permissions_methods">Aktivasyon Yöntemleri</string>
@@ -303,6 +334,7 @@
   <string name="config_new_device">Yeni Cihaz</string>
   <string name="config_no_wifi_tips">Wi-Fi Adını Yazın  veya Yakındaki Wi-Fi Cihazlarının Otomatik Olarak Bulunması İçin Konum İznini Etkinleştirin.</string>
   <string name="config_only_support_2_4g">Bu Cihaz Yalnızca 2.4 Ghz Yönlendiricileri Desteklemektedir. Wi-Fi Ağını Değiştirin  veya Yönlendirici Sinyal Türünü 2,4 Ghz Olarak Ayarlayın ve Tekrar Deneyin.</string>
+  <string name="config_play_video_volumn_tip">Daha fazla netlik için telefonunuzda sesi açın.</string>
   <string name="config_progress_step1">Cihazları Tara.</string>
   <string name="config_progress_step2">Bulut\'a Kaydol.</string>
   <string name="config_progress_step3">Cihazı Başlatın.</string>
@@ -373,6 +405,9 @@
   <string name="dashboard_welcome_home">Eve hoş geldiniz</string>
   <string name="data_updating">Yükleniyor…</string>
   <string name="data_upgrade">Yükleniyor, lütfen bekleyin…</string>
+  <string name="dayu_2b1w_8">Dayu Aydınlatma (BLE+Wi-Fi)</string>
+  <string name="dayu_3g10s6s1w4z18z_52">Test</string>
+  <string name="dayu_7n_3">Dayu Su Sayacı</string>
   <string name="debugging">Hata Gideriliyor</string>
   <string name="delete_member_msg">Kaldırıldıktan Sonra, Üye Artık Ailenin Cihazlarını ve Akıllı Senaryolarını Kontrol Edemez.</string>
   <string name="delete_member_tips">Cihazı Artık %s İle Paylaşmak İstemediğinize Emin Misiniz?</string>
@@ -392,6 +427,7 @@
   <string name="device_functions_on">Sık Kullanılan İşlevleri Gizle</string>
   <string name="device_group_confirm_remove">Cihazı Silmek Mi Yoksa Grubu Dağıtmak Mı İstiyorsunuz?</string>
   <string name="device_group_confirm_removeDetail">Cihaz Silindikten Sonra Devre Dışı Bırakılacaktır.</string>
+  <string name="device_gudie_all_paly_video">Videonun Tamamını İzle</string>
   <string name="device_has_unbinded">Cihaz kaldırıldı</string>
   <string name="device_list_third_matter_acl_notice_limited">Bu Matter cihazını paylaşacak maksimum alıcı sayısına ulaşıldı. Cihaza bağlanamıyorsunuz.</string>
   <string name="device_list_third_matter_control_alert">Bu paylaşılan cihaz Matter üzerinden bağlanamaz; yalnızca paylaşılan cihaz LAN üzerinden bağladıktan sonra kullanılabilir.</string>
@@ -780,6 +816,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="hs_bypass_tips_title">Arızalı cihazları yoksaymak istediğinize emin misiniz?</string>
   <string name="hs_call_emergency">Acil Durum Çağrısı</string>
   <string name="hs_camera_ai_smart">Yapay Zeka</string>
+  <string name="hs_camera_multi_show">Çoklu Görünüm</string>
   <string name="hs_camera_not_support_ai">Henüz desteklenmiyor</string>
   <string name="hs_camera_title">Kamera</string>
   <string name="hs_cancel_alarm">Alarmı İptal Et</string>
@@ -827,6 +864,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="hs_empty_abnormal_device">Hata algılanmadı.</string>
   <string name="hs_empty_bill_des">Onarım ve bakım talepleri geçici olarak kullanılamıyor. Cihazda bir arıza meydana gelirse bir talep oluşturun. Teknik personel onarım için en kısa sürede sizinle iletişime geçecektir.</string>
   <string name="hs_enter_connect_email">E-posta adresinizi girin</string>
+  <string name="hs_enter_devcie">Cihaza girin</string>
   <string name="hs_event_record_image">Resim</string>
   <string name="hs_event_record_video">Video</string>
   <string name="hs_event_recording_link_desc">Video Kaydı İçin Cihazı Seçin</string>
@@ -1008,15 +1046,15 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="hs_show_on_device_page">Cihazlar sayfasında görüntülenir</string>
   <string name="hs_smart_gateway_armed_failed_android">%s güvenlik ağ geçidi %s başarısız oldu.</string>
   <string name="hs_smart_gateway_armed_failed_ios">%d güvenlik ağ geçitleri %s başarısız oldu.</string>
-  <string name="hs_sos_alarm_tips">Emin Misiniz?</string>
-  <string name="hs_sos_alarmimg">Güvenlik Alarmı</string>
-  <string name="hs_sos_dispatch_tips">Gönderilecek Acil Bir Yanıtınız Yok.</string>
+  <string name="hs_sos_alarm_tips">Alarmı devre dışı bırakmayı ve iptal etmeyi onaylıyor musunuz?</string>
+  <string name="hs_sos_alarmimg">alarm</string>
+  <string name="hs_sos_dispatch_tips">Alarm sistemi tetiklendi, lütfen hemen müdahale edin.</string>
   <string name="hs_sos_emergency">Acil</string>
   <string name="hs_sos_fire">Yangın Alarmı</string>
   <string name="hs_sos_mute">Sessiz</string>
   <string name="hs_sos_mute_close">Kapat</string>
   <string name="hs_sos_mute_open">Aç</string>
-  <string name="hs_sos_no_emergency_response">Gönderilecek Acil Bir Yanıtınız Yok.</string>
+  <string name="hs_sos_no_emergency_response">Alarm sistemi tetiklendi, lütfen hemen müdahale edin.</string>
   <string name="hs_sos_panic">Yardım İsteyin</string>
   <string name="hs_sos_press">Üç Saniye Boyunca Basılı Tutun</string>
   <string name="hs_upgrade_status_failure">Başarısız</string>
@@ -1046,6 +1084,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="index_apple_iap_pay">Apple Pay</string>
   <string name="index_pay_not_support_iap">Bu sürüm, uygulama içi satın almayı desteklemiyor. Lütfen güncelleyin</string>
   <string name="info_unselected">Lütfen silinecek mesajları seçin</string>
+  <string name="infrared_diy">diy</string>
   <string name="initializer_apply_logout_tip">Hesap Silindi, Lütfen Yeniden Oturum Açın</string>
   <string name="initializer_multi_devices_apply_login_tip">Bu Hesapla Zaten Başka Bir Cihazda Oturum Açılmış</string>
   <string name="initializer_multi_devices_relogin_tip">Giriş başarısız. Lütfen oturum açmak için hesap şifresini tekrar girin</string>
@@ -1217,11 +1256,14 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_bird_service_expiring_tips">Kuş belirleme deneme süreniz %s tarihinde doluyor. Kullanmaya devam etmek için bu hizmete abone olun.</string>
   <string name="ipc_button_enter_album">Albümleri görüntüle</string>
   <string name="ipc_call_prompt">Sizi Aradı ve Telefonu Kapattı</string>
+  <string name="ipc_camera_module_setting">Kamera ayarları</string>
   <string name="ipc_chime_run_time">%s min</string>
   <string name="ipc_chime_type_digit">Dijital</string>
   <string name="ipc_chime_type_digital">Kablosuz zil</string>
   <string name="ipc_chime_type_mechanical">Mekanik zil</string>
   <string name="ipc_chime_type_without">Zil yok</string>
+  <string name="ipc_click_to_talk">Aramayı başlatmak için tıklayın</string>
+  <string name="ipc_close_pip_des">Resim içinde resim (PiP) penceresi açık. Devam etmeden önce kapatın.</string>
   <string name="ipc_cloud_delete">Sil</string>
   <string name="ipc_cloud_delete_comfirm">Silme işlemini onaylayın</string>
   <string name="ipc_cloud_delete_comfirm_selected">Seçilen tarihteki videoların tümü silinecek ve videolar silindikten sonra kurtarılmayacaktır.</string>
@@ -1500,6 +1542,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_live_page_cstorage_no_data">Video bulut depolama hizmetini kaydettirdiniz, lütfen en yeni videoya buradan ulaşın.</string>
   <string name="ipc_live_page_memory_point">Site Favorileri</string>
   <string name="ipc_live_page_talkback_tips">Konuşma</string>
+  <string name="ipc_long_press_speak">Konuşmak için uzun basın</string>
   <string name="ipc_memory_point_add_failure">Site ekleme başarısız</string>
   <string name="ipc_memory_point_add_success">Site Eklemek İçin İlerle</string>
   <string name="ipc_memory_point_name_add">Site adı</string>
@@ -1642,6 +1685,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_recording_duration_finish_reminder">Erken Sonlandırma Etkinleştirildiğinde, Herhangi Bir Pır Etkinliği Kayıt Süresi Boyunca 10 Saniye İçinde Video Kaydını Tetiklemezse Cihaz Uyku Moduna Geçer.</string>
   <string name="ipc_recording_duration_set">Süre</string>
   <string name="ipc_recording_method">Kayıt yöntemi</string>
+  <string name="ipc_recording_on_pip">Kayıt devam ediyor. Devam etmeden önce kapatın.</string>
   <string name="ipc_remote_unlock_failed">Kilit Açılamadı</string>
   <string name="ipc_remote_unlock_hint">Kilidi Açmak İçin Kaydırın</string>
   <string name="ipc_remote_unlock_open_door">Kilidi Aç</string>
@@ -1862,6 +1906,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_switch_off">Kapalı</string>
   <string name="ipc_switch_on">Açık</string>
   <string name="ipc_talkback_volume_txt">Ses Düzeyi</string>
+  <string name="ipc_talking_on_pip">İki yönlü konuşma devam ediyor. Devam etmeden önce kapatın.</string>
   <string name="ipc_time_1_minute">1 dakika</string>
   <string name="ipc_time_2_minutes">2 dakika</string>
   <string name="ipc_time_3_minutes">3 dakika</string>
@@ -1897,10 +1942,12 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_video_call_waiting">Cevap bekleniyor</string>
   <string name="ipc_video_end">Videonun sonu</string>
   <string name="ipc_video_saved_tips_android">Video Albümlerim İçine Kaydedildi</string>
+  <string name="ipc_voice_speaker">Sesli interkom</string>
   <string name="ipc_wake_up_reminder">Ayarlar, cihaz bir sonraki uyanışında etkinleşir.</string>
   <string name="is_save_room_update">Oda İçin Yapılan Değişiklikler Kaydedilsin Mi?</string>
   <string name="is_save_smart_update">Yapılan değişiklikleri onaylıyor musunuz?</string>
   <string name="jd_skill">#</string>
+  <string name="jisentest_2b10s1w_45">Türkçe</string>
   <string name="keep_alive_check_item_desc_battery_usage">Sistemin Neden Olduğu Beklenmedik Çıkışları ve Diğer Uygulama Yanıtı Sorunlarını Önlemek İçin\n Pil Kullanımını Kontrol Ederek %s Öğesini Ekleyip Eklemediğinize Bakın.</string>
   <string name="keep_alive_check_item_desc_boot_launch">Telefonunuzu Açtığınızda Cihaz Durumunuzu Görüntülemek İçin Uygulamayı Otomatik Olarak Açın. \n Lütfen Ayarlar - Otomatik Başlatma Yönetimi Bölümlerine Giderek Otomatik Başlatmayı Etkinleştirip Etkinleştirmediğinizi Kontrol Edin</string>
   <string name="keep_alive_check_item_title_battery_usage">Pil Kullanım Durumu</string>
@@ -2013,6 +2060,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="logining">Oturum Açılıyor...</string>
   <string name="logout">Oturumu kapat</string>
   <string name="low_power">Düşük güç</string>
+  <string name="lryxt_8c_8">Su Tankı</string>
   <string name="manual_add_device_mode">Manuel Olarak Ekle</string>
   <string name="matter_share_code_desc">Kurulum kodunu kopyalayın ya da Matter cihazını paylaşmak için QR kodunu paylaşın.</string>
   <string name="matter_share_code_tips">Kurulum Kodunu Diğer Uygulamalarla Paylaş</string>
@@ -2067,6 +2115,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="message_setting_title">Rahatsız Etme Takvimi</string>
   <string name="min_photo_select_tips">En az %zd tane fotoğraf seçin.</string>
   <string name="miniapp_content">Keşfet</string>
+  <string name="mkf_2b_1">Mikrofon</string>
   <string name="mobile_binding">Cep Telefonunu Bağla</string>
   <string name="modify_password_rule">Parola 6 – 20 Karakter İçermelidir (Harf ve Rakamlar Dahil)</string>
   <string name="modify_password_success">Parola Değiştirme Başarılı \n Lütfen Tekrar Oturum Açın</string>
@@ -2076,6 +2125,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="more_service_order_list">Siparişim</string>
   <string name="more_service_recommand_service">Öne Çıkan Hizmetler</string>
   <string name="more_service_thirdparty_service">Üçüncü Taraf Sesli Hizmetler</string>
+  <string name="mt_7n_2">Akıllı Klozet Kapağı</string>
   <string name="multi_select_video_tips">Birden çok video seçtiğinizde fotoğraf olarak gönderilir.</string>
   <string name="my_profile_choose_pic_from_camera">Fotoğraf çek</string>
   <string name="my_profile_choose_pic_from_local">Yerel Albüm’den Seç</string>
@@ -2164,9 +2214,11 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ota_firmware_update">Ürün Yazılımı Güncelleme</string>
   <string name="ota_firmware_version">Güncel Sürüm:</string>
   <string name="ota_has_new_version">Güncelleme Bulundu</string>
+  <string name="ota_in_queue">Kuyruğa alma</string>
   <string name="ota_install_remind">Ürün Yazılımı Güncellemesi Devam Ediyor. Durum Hemen Senkronize Edilemeyebilir. Ürün Yazılımı Güncelleme İşlemi 1 – 2 Dakika Sürer. Ürün Yazılımı Güncelleme İşleminin Başarılı Olup Olmadığını Görmek İçin Ürün Yazılımı Güncelleme Sayfasına Geçebilirsiniz.</string>
   <string name="ota_installing">Yükleniyor...</string>
   <string name="ota_installing_package">Güncelleniyor</string>
+  <string name="ota_list_in_queue_tips">Aynı ağ geçidi altındaki birden fazla cihazda güncelleme yapılırken bu cihazlar kuyruğa alınır. Sayfa veya uygulamanın kapatılması kuyrukta aksaklığa yol açmaz.</string>
   <string name="ota_need_upgrade_count">Güncellenecek: %d</string>
   <string name="ota_new_firmware">Yeni Yazılım Sürümü</string>
   <string name="ota_new_firmware_version">Yeni Sürüm:</string>
@@ -2192,6 +2244,8 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ota_upgrading">Güncelleniyor</string>
   <string name="ota_upgrading_firmware">Güncelleniyor…</string>
   <string name="ota_upgrading_remain_time">Güncleleniyor... Kalan Süre: %s</string>
+  <string name="ota_upgrading_time_out_remind">Güncellemeler kontrol ediliyor. Tahmini süre:</string>
+  <string name="ota_upgrading_time_out_tip">Güncelleme kontrolü zaman aşımına uğradı. Lütfen sayfayı yenileyip tekrar deneyin.</string>
   <string name="ota_upgrading_to">Şu Sürüme Yükseltiliyor:</string>
   <string name="ota_wifi_signal_weak_tips">Wi-Fi Sinyali Zayıf. Ürün Yazılımını Güncellemeye Devam Etmek İstiyor Musunuz?</string>
   <string name="out_room_device">Cihaz Ekle</string>
@@ -2218,7 +2272,9 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="panelcaller_custom_notification_permission_dialog_title">Bildirim Testi</string>
   <string name="parking_collision_event_sensitivity">Park çarpışma hassasiyeti</string>
   <string name="parking_mode_setting">Park modu ayarı</string>
+  <string name="pbj_2b_1">Katı Meyve Presi ve Blender</string>
   <string name="permission_gps_tip">Konum izni vermediniz, bu nedenle cihazınız ağ bilgilerini okuyamıyor. Konum izni vermek ister misiniz?</string>
+  <string name="permission_request_tip">QR kodu eşleştirme, yüz tanımayla oturum açma ve cihaz simgelerini özelleştirme gibi kameraya bağlı özellikleri kullanmak için kameraya erişilmesine izin verin.</string>
   <string name="person_panel_dev">Kontrol Paneli Geliştirme</string>
   <string name="personal_add_share">Paylaşım ekle</string>
   <string name="personal_add_share_devices">Paylaşılan Cihazları Ekle</string>
@@ -2248,8 +2304,10 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="personal_speech_service_google">Google Asistan</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
+  <string name="personal_speech_service_smartthings">Akıllı Cihazlar</string>
   <string name="personal_speech_service_tentent">Tecent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Cep telefonu numarası/e-posta adresi</string>
   <string name="phone_notify_serve_faq_2">Uygulamada Yapılandırdığınız Otomasyon Tetiklendiğinde, Sizi Uyarmak İçin Telefon Aramaları Yapacaktır.</string>
@@ -2257,6 +2315,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="phone_or_email">Cep Telefonu Numarası  veya E-Posta Adresi</string>
   <string name="photos">Fotoğraflar</string>
   <string name="pid_has_upgrade_title">Yeni Güncellemeler</string>
+  <string name="pir_4z_22">Hareket Sensörü Anahtarı</string>
   <string name="please_choose_country_first">Ülke/Bölge Seçin</string>
   <string name="please_input_password">Parola</string>
   <string name="please_input_wifi_password">Lütfen Parolayı Girin</string>
@@ -2616,6 +2675,7 @@ Devam Edilsin Mi?</string>
   <string name="temperature_unit">Sıcaklık birimi</string>
   <string name="terminate_account">Aktif edilmemiş hesap</string>
   <string name="terminate_account_introductions">Devre Dışı Bırakıldığında Bu Hesap Kapsamındaki Tüm Kullanıcı verileri Kalıcı Olarak Silinecektir.</string>
+  <string name="test_biz_scene_name">Senaryo Adını Test Ediniz</string>
   <string name="the_car_ahead">Öndeki araba</string>
   <string name="thing_act_matter_add_gateway_name">Cihazınız %s konumuna başarıyla kaydedildi.</string>
   <string name="thing_act_setup_code_input_des">Kurulum kodunu cihazda, pakette veya kılavuzda bulun.</string>
@@ -2651,6 +2711,8 @@ Devam Edilsin Mi?</string>
   <string name="thing_open_service_again">Yenile</string>
   <string name="thing_open_service_desc">Geçerli arama/SMS servisi kullanılamıyor. Ayarların etkili olmasını sağlamak için hizmet etkinleştirilsin mi?</string>
   <string name="thing_open_service_title">Aboneliği Onayla</string>
+  <string name="thing_permission_full_screen_desc">Uygulamanın kilit ekranında tam ekran bildirimler almasına izin verin.</string>
+  <string name="thing_permission_full_screen_title">Tam ekran bildirimlere erişim</string>
   <string name="thing_phone_notice">Arama</string>
   <string name="thing_phone_notice_has_expired">Arama bildiriminin süresi doldu. Lütfen hizmeti yenileyin.</string>
   <string name="thing_phone_notice_has_used_up">Arama bildiriminin paketi bitti. Lütfen hizmeti yenileyin.</string>
@@ -2725,6 +2787,7 @@ Devam Edilsin Mi?</string>
   <string name="toolbar_menu_refresh">Yenile</string>
   <string name="topTips">Bir Hata Bildirdiğinizde, Hatanın Bulunması İçin Cihazlarınız Hakkındaki Bilgiler Yüklenir.</string>
   <string name="traffic_light_recognition">Trafik ışığı tanıma</string>
+  <string name="transfer_home_ownership">Ev Sahipliğini Aktar</string>
   <string name="tuesday">Salı</string>
   <string name="turn_off_the_screen_automatically">Ekranı otomatik olarak kapatma</string>
   <string name="thing_home_devicelist_localdevice_title">Yerel Cihazlar</string>
@@ -4742,6 +4805,7 @@ Daha fazla ayrıntı öğrenmek için \"Özellik Ayrıntıları\"nı görüntül
   <string name="widget_scene_no_scene">Kullanılabilir senaryo yok.</string>
   <string name="widget_scene_unlogin">Lütfen Önce Oturum Açın</string>
   <string name="widgt_not_regist">Oturum Açtıktan Sonra Kısayolları Kullanabilirsiniz</string>
+  <string name="wifi_gprs">Wi-Fi+GPRS</string>
   <string name="wifi_info_long_content">Wi-Fi Adı  veya Parolası 20\'Den Fazla Karakter İçeriyor. Bu Durum QR Kodunun Okunamamasına Yol Açabilir. Wi-Fi Parolanızı Değiştirin  veya Başka Bir Wlan Ağına Bağlanın.</string>
   <string name="wifi_info_long_title">Uzun Wi-Fi Adı  veya Parolası</string>
   <string name="wifi_permission_tips">Wi-Fi Adını Yazın  veya Yakındaki Wi-Fi Cihazlarının Otomatik Olarak Bulunması İçin Konum İznini Etkinleştirin.</string>
@@ -4752,6 +4816,8 @@ Daha fazla ayrıntı öğrenmek için \"Özellik Ayrıntıları\"nı görüntül
   <string name="wifi_to_open_permission">Aç</string>
   <string name="wifi_to_reopen_permission_location">Konum Bilgilerinizin Alınması İznini Daha Önce Devre Dışı Bırakmıştınız, Bu Yüzden Cihazınız Ağ Bilgilerini Okuyamıyor. Yeniden Ayarlamak İster Misiniz?</string>
   <string name="xiaowei_help_url">#</string>
+  <string name="xsense_sub_bjq">Kombinasyon Alarmı (RF)</string>
+  <string name="xsense_sub_ywbj">Duman Sensörü (RF)</string>
   <string name="you_are_only_manage">Lütfen ayrılmadan önce başka bir yönetici atayın.</string>
   <string name="zigbee_dev">ZigBee</string>
 </resources>

@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Sikertelen dekódolási csatlakozás</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ">Már csak {0} perc van hátra {1} -ig</string>
+  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ_TITLE">Értesítés</string>
+  <string name="APP_PUSH_RS9DIZFG">Mérési emlékeztetők</string>
+  <string name="APP_PUSH_RS9DIZFG_TITLE">RENPHO</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Háztartási gépek</string>
   <string name="CATEGORY_ICON_LAMPS">Világítás</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYARRIVE">Kizárva</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYLEAVE">Bezárva</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Hazaérkezés</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Távozás</string>
+  <string name="INFRARED_BIZ_E_REQUEST_FORBIDDEN">a kérés tilos</string>
+  <string name="INFRARED_PARAM_E_ACTION_NOT_EXIST">a cselekvés nem létezik</string>
+  <string name="INFRARED_PARAM_E_PARAM_ILLEGAL">param illegális</string>
+  <string name="INFRARED_PARAM_E_PARAM_INVALID">param érvénytelen</string>
+  <string name="INFRARED_PARAM_E_PARAM_MISSING">param null</string>
+  <string name="INFRARED_SYS_E_REMOTE_CALL_ERROR">távoli hívás hiba</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Túllépi a maximális korlátot: %s</string>
   <string name="NSBluetoothAlwaysUsageDescription">Ez lehetővé teszi az alkalmazás számára, hogy megtalálja és csatlakozzon a Bluetooth-kiegészítőkhöz. Ez az alkalmazás Bluetooth-t is használhat a Bluetooth-eszköz helyének meghatározásához</string>
   <string name="NSBluetoothPeripheralUsageDescription">Az alkalmazásnak a telefon Bluetooth-ját kell használnia a Bluetooth-eszközök hozzáadásához és használatához.</string>
@@ -24,6 +34,8 @@
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Elégtelen felhőtárhely</string>
   <string name="OUT_OF_FILE_CAPACITY">Egyetlen fénykép nagyobb, mint %sMB</string>
   <string name="ROOM_EXIST_DONT_ADD">A helyiség már létezik</string>
+  <string name="SECURITY_HOME_MSG">{0}</string>
+  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">This service is currently not available, Please register with your e-mail address. Please update your App in the App Store.</string>
   <string name="_device">%s eszköz</string>
   <string name="_room">%s helyiség</string>
   <string name="about">Névjegy</string>
@@ -57,8 +69,15 @@
   <string name="activate">Hozzárendelés</string>
   <string name="activate_gateway">Hozárendelendő átjáró</string>
   <string name="activator_addDevice_title">Eszköz hozzáadása...</string>
+  <string name="activator_auto_search_authority_tip">Engedélyezze a következő engedélyeket az eszközök kereséséhez.</string>
+  <string name="activator_bluetooth_fail">Győződjön meg arról, hogy a Bluetooth be van kapcsolva.</string>
+  <string name="activator_bluetooth_privacy_set">Állítsa be most</string>
+  <string name="activator_config_wifi_desc">Töltse ki a Wi-Fi adatokat egy eszköz hozzáadásához.</string>
   <string name="activator_device_work">Ellenőrizze, hogy a készülék be van-e kapcsolva</string>
   <string name="activator_guide_tips">Hálózatcsatlakoztatási megjegyzés</string>
+  <string name="activator_open_bluetooth_desc">A Bluetooth felismerhetőbbé teszi az eszközt.</string>
+  <string name="activator_open_location_desc">Engedélyezze a helyadatokhoz való hozzáférést a közeli eszközök kereséséhez.</string>
+  <string name="activator_open_wifi_desc">Az eszközök kereséséhez Wi-Fi szükséges.</string>
   <string name="activator_reset_device_help_url_text">Eszköz-visszaállítási útmutató megtekintése</string>
   <string name="activator_reset_first">Eszköz visszaállítása</string>
   <string name="activator_search_overtime_tips">Keresési időtúllépés. Nem található eszköz.</string>
@@ -171,6 +190,7 @@
   <string name="bluetooth_reconnection">Várakozás újracsatlakozásra...</string>
   <string name="bluetooth_scanningdevice">Keresés...</string>
   <string name="camera_permission_tips">Lépjen a Beállítások &gt; Adatvédelem &gt; Az iPhone kamerája pontba, és engedélyezze %s.</string>
+  <string name="camera_permission_use_tip">Kameraengedélyek aktiválása</string>
   <string name="camera_permissions">Kamerahozzáférési engedély kérése</string>
   <string name="camera_permissions_access">3 Engedélyezze %s hozzáférését a kamerához</string>
   <string name="camera_permissions_methods">Aktiválás módja</string>
@@ -267,6 +287,7 @@
   <string name="config_new_device">Új eszköz</string>
   <string name="config_no_wifi_tips">Az alkalmazás nem tudja lekérdezni a Wi-Fi nevét, kérjük, írja be.</string>
   <string name="config_only_support_2_4g">A jelenlegi eszköz csak a 2,4 GHz-es routert támogatja, kérjük, módosítsa a Wi-Fi hálózatot, vagy állítsa a routert 2,4 GHz-re, és próbálja újra</string>
+  <string name="config_play_video_volumn_tip">A jobb érthetőség érdekében hangosítsa fel a telefon hangerejét.</string>
   <string name="config_progress_step1">Eszköz keresése</string>
   <string name="config_progress_step2">Felhő regisztráció</string>
   <string name="config_progress_step3">Eszköz inicializálása</string>
@@ -354,6 +375,7 @@
   <string name="device_functions_on">Általános funkciók rejtése</string>
   <string name="device_group_confirm_remove">Biztosan eltávolítja az eszközt vagy feloszlatja a csoportot?</string>
   <string name="device_group_confirm_removeDetail">Az eszköz eltávolítása után a kapcsolódó automatizálások és jelenetparancsok érvénytelenek.</string>
+  <string name="device_gudie_all_paly_video">Tekintse meg a teljes videót</string>
   <string name="device_has_unbinded">Az eszköz eltávolítva</string>
   <string name="device_name_edit_failure">Az eszköznév módosítása nem sikerült</string>
   <string name="device_name_is_null">Kérjük, adja meg az eszköz nevét</string>
@@ -834,6 +856,7 @@
   <string name="ipc_chime_type_digital">Elektronikus csengő</string>
   <string name="ipc_chime_type_mechanical">Mechanikus csengő</string>
   <string name="ipc_chime_type_without">Nincs csengő</string>
+  <string name="ipc_close_pip_des">A kép a képben (PiP) ablak megnyílt. Folytatás előtt zárja be.</string>
   <string name="ipc_cloud_delete">Töröl</string>
   <string name="ipc_cloud_delete_comfirm">A törlés megerősítésére</string>
   <string name="ipc_cloud_delete_comfirm_selected">A kiválasztott dátum összes videója törlődik, törlés után a videók nem állíthatók vissza.</string>
@@ -1153,6 +1176,7 @@
   <string name="ipc_record_type_doorbell_txt">Csengő jelzés</string>
   <string name="ipc_record_type_motion_detected_txt">Mozgásérzékelés</string>
   <string name="ipc_record_type_video_txt">Rögzítés</string>
+  <string name="ipc_recording_on_pip">A felvétel folyamatban van. Folytatás előtt kapcsolja ki.</string>
   <string name="ipc_remote_unlock_failed">Nem sikerült feloldani</string>
   <string name="ipc_remote_unlock_hint">Csúsztassa oldalra a feloldáshoz</string>
   <string name="ipc_remote_unlock_open_door">Felold</string>
@@ -1354,6 +1378,7 @@
   <string name="ipc_strong_prompt_content">Megerősíti a létrehozott megfigyelési terület törlését?</string>
   <string name="ipc_strong_prompt_title">Terület törlése</string>
   <string name="ipc_talkback_volume_txt">Hangerő</string>
+  <string name="ipc_talking_on_pip">Kétirányú beszélgetés folyamatban. Folytatás előtt kapcsolja ki.</string>
   <string name="ipc_time_capsule_events">%s esemény</string>
   <string name="ipc_time_capsule_objects">%s objektum az aktuális időszakban</string>
   <string name="ipc_time_capsule_title">Időkapszula</string>
@@ -1630,9 +1655,11 @@
   <string name="ota_firmware_update">Firmware frissítés</string>
   <string name="ota_firmware_version">Firmware verzió:</string>
   <string name="ota_has_new_version">Frissíthető</string>
+  <string name="ota_in_queue">Sorban állás</string>
   <string name="ota_install_remind">Az eszköz telepítése folyamatban van, és az állapot nincs szinkronizálva. A firmware frissítése körülbelül 1-2 percet vehet igénybe. Kérjük, legyen türelmes. Később visszatérhet a firmware frissítési felületére, és ellenőrizheti, hogy az eszköz firmware verziója sikeresen frissült-e.</string>
   <string name="ota_installing">Telepítés...</string>
   <string name="ota_installing_package">Frissítés...</string>
+  <string name="ota_list_in_queue_tips">Ha ugyanazon átjáró alatt több eszközön is végeznek frissítéseket, akkor azokat a program sorba állítja. Az oldal vagy alkalmazás bezárása nem szakítja meg a várakozási sort.</string>
   <string name="ota_need_upgrade_count">Frissítésre vár: %d</string>
   <string name="ota_new_firmware">Új firmware</string>
   <string name="ota_new_firmware_version">Új firmware verzió:</string>
@@ -1657,6 +1684,8 @@
   <string name="ota_upgrade_timeout">A frissítés időtúllépéssel megszakadt. Ennek oka lehet a gyenge jel. Kérjük, próbálja meg a lehető legközelebb mozgatni az eszközt az útválasztóhoz a frissítés előtt.</string>
   <string name="ota_upgrading">Frissítés</string>
   <string name="ota_upgrading_firmware">Frissítés…</string>
+  <string name="ota_upgrading_time_out_remind">Frissítések keresése. Becsült időtartam:</string>
+  <string name="ota_upgrading_time_out_tip">Az frissítésellenőrzés időtúllépésre került. Kérjük, frissítse az oldalt, majd próbálja újra.</string>
   <string name="ota_upgrading_to">Frissítés erre:</string>
   <string name="ota_wifi_signal_weak_tips">A Wi-Fi jel gyenge, biztosan most frissít?</string>
   <string name="out_room_device">Adjon eszközt a helyiséghez</string>
@@ -1678,6 +1707,7 @@
   <string name="panelcaller_custom_check">Teszt</string>
   <string name="panelcaller_custom_notification_permission_dialog_message">Ez az eszköz biztonsági termék, és beállíthatók riasztási információk. Annak érdekében, hogy ne vesszenek el a riasztási információk, kattintson az \"\"Ellenőrzés\"\" gombra annak ellenőrzéséhez, hogy a megfelelő rendszerengedélyek rendelkezésre állnak-e.</string>
   <string name="panelcaller_custom_notification_permission_dialog_title">Üzenetküldés-teszt</string>
+  <string name="permission_request_tip">Engedélyezze a kamerához való hozzáférést az olyan kamerafüggő funkciók használatához, mint a QR-kód párosítás, az arcfelismeréses bejelentkezés és az eszköz ikonjainak testreszabása.</string>
   <string name="person_panel_dev">Vezérlőpult fejlesztése</string>
   <string name="personal_add_share">Megosztás hozzáadása</string>
   <string name="personal_add_share_devices">Megosztott eszköz hozzáadása</string>
@@ -1707,8 +1737,10 @@
   <string name="personal_speech_service_google">GoogleAssistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
+  <string name="personal_speech_service_smartthings">SmartThings</string>
   <string name="personal_speech_service_tentent">Tecent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
+  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Telefonszám / e-mail</string>
   <string name="phone_number">Mobiltelefon szám</string>
@@ -2050,6 +2082,8 @@
   <string name="temperature_unit">Hőmérsékleti egység</string>
   <string name="terminate_account">Fiók törlése</string>
   <string name="terminate_account_introductions">Törlés után a fiók alatti összes felhasználói adat is véglegesen törlődik</string>
+  <string name="thing_permission_full_screen_desc">Engedélyezze, hogy az alkalmazás teljes képernyős értesítéseket fogadjon a zárolási képernyőn.</string>
+  <string name="thing_permission_full_screen_title">Hozzáférés a teljes képernyős értesítésekhez</string>
   <string name="thursday">Csüt.</string>
   <string name="timer">időzítés</string>
   <string name="timer_add_failure">Nem sikerült hozzáadni időzítőt. Kérjük, ellenőrizze, hogy a hálózat rendben van-e</string>
@@ -2068,6 +2102,7 @@
   <string name="tmall_skill">#</string>
   <string name="toolbar_menu_refresh">Frissítés</string>
   <string name="topTips">Hiba beküldése feltölti az eszközzel kapcsolatos információkat hibaelhárítás céljából.</string>
+  <string name="transfer_home_ownership">Átadja az Otthon tulajdonjogát</string>
   <string name="tuesday">Ke.</string>
   <string name="thingconfig_add_history">Hozzáadási napló</string>
   <string name="tv_add_clock_time">Új időzítés</string>
@@ -3138,6 +3173,7 @@
   <string name="widget_scene_no_scene">Nincs vezérelhető jelenetparancs</string>
   <string name="widget_scene_unlogin">Jelentkezzen be</string>
   <string name="widgt_not_regist">Jelentkezzen be a gyorsindítók eléréséhez</string>
+  <string name="wifi_gprs">wifi + gprs</string>
   <string name="wifi_info_long_content">A WiFi neve vagy jelszava túl hosszú, akkor QR kóddal nem lehet átvinni az eszközre. Javasoljuk, hogy változtassa meg a WiFi nevét vagy jelszavát, és próbálkozzon újra.</string>
   <string name="wifi_info_long_title">A WiFi név/jelszó túl hosszú</string>
   <string name="wifi_permission_tips">Írja be kézzel a Wi-Fi nevet, vagy engedélyezze a helyjogosultságokat a közeli Wi-Fi-eszközök automatikus megszerzéséhez</string>
@@ -3148,6 +3184,8 @@
   <string name="wifi_to_open_permission">Engedélyek</string>
   <string name="wifi_to_reopen_permission_location">Korábban beállította a helyadatok megtagadását, ezért az eszköz nem tudja kiolvasni a hálózati információkat. Visszaállítja?</string>
   <string name="xiaowei_help_url">#</string>
+  <string name="xsense_sub_bjq">RF</string>
+  <string name="xsense_sub_ywbj">RF</string>
   <string name="you_are_only_manage">Otthonból távozás előtt jelöljön ki legalább egy adminisztrátort.</string>
   <string name="zigbee_dev">Zigbee</string>
 </resources>

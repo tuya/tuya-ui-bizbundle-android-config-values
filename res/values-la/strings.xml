@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="auth_management_skill_name_smartthings">SmartThings</string>
+  <string name="auth_management_skill_name_yandex">Yandex Alice</string>
   <string name="homekit_bind_ble_errorText">Active el Bluetooth y asegúrese de que el dispositivo esté cerca de su teléfono.</string>
   <string name="homekit_bind_ble_hud_errorText">No se pudo conectar el dispositivo. Confirme que el Bluetooth de su teléfono esté activado y que su dispositivo esté cerca del teléfono.</string>
   <string name="homekit_bind_wifi_errorText">Conecte el dispositivo y el teléfono al mismo Wi-Fi.</string>
