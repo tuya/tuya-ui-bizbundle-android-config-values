@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
   <string name="AES_KEY_LOAD_ERROR">Failed to get decryption service</string>
-  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ">You have only {0} minutes left for {1}</string>
-  <string name="APP_PUSH_F8WMKVXFNEDFV3TZ_TITLE">Notification</string>
-  <string name="APP_PUSH_RS9DIZFG">Measurement Reminders</string>
-  <string name="APP_PUSH_RS9DIZFG_TITLE">RENPHO</string>
-  <string name="BTU">DTU</string>
-  <string name="BTU_1w_1">DTU</string>
   <string name="CATEGORY_ICON_ELECTRICAL_APPLIANCES">Appliance</string>
   <string name="CATEGORY_ICON_LAMPS">Lighting</string>
-  <string name="CUSTOM_ROLE_NOT_EXIST">The custom role does not exist.</string>
-  <string name="CUSTOM_ROLE_OVER_LIMIT">The maximum number of custom roles is reached.</string>
-  <string name="CUSTOM_ROLE_STILL_IN_USE">The custom role is still being used.</string>
   <string name="Choose_one_of_qrcodes_and_select">Tap one of the QR codes.</string>
   <string name="Confirm">Confirm</string>
   <string name="DEVICEID_IS_EXITS_IN_GROUP">This device already exists in &lt;Home name&gt;. Check whether the scanned QR code or the entered device code is correct.</string>
@@ -19,8 +10,6 @@
   <string name="DEVICE_GROUP_RELATION_MAX_LIMIT_150">The number of devices in the group has reached the limit.</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYARRIVE">Unlocked</string>
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYLEAVE">Locked</string>
-  <string name="DEVICE_RULE_DOOR_LOCK_DESC_SIRI_LOCK">Hey，Siri， Lock the Door</string>
-  <string name="DEVICE_RULE_DOOR_LOCK_DESC_SIRI_UNLOCK">Hey，Siri， Unlock the Door</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Arrive Home</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Leave Home</string>
   <string name="FIRMWARE_OTA_UPGRADING_1_V2">1. Keep the Bluetooth device powered on.
@@ -29,20 +18,6 @@
 4. We recommend that you do not exit the app or switch to another app during the update.</string>
   <string name="HOME_BANNER_CARD_ENERGY_DATA_DESC">Recent Energy Consumption</string>
   <string name="Help">View Help</string>
-  <string name="ILLEGAL_CUSTOM_ROLE_NAME">The name of the custom role is invalid.</string>
-  <string name="ILLEGAL_ROLE_RESOURCE">Invalid device(s) or scene rule(s) are associated.</string>
-  <string name="ILLEGAL_ROLE_RESOURCE_OVER_LIMIT">The number of resources that can be assigned to the custom role has exceeded the upper limit.</string>
-  <string name="INFRARED_BIZ_E_REQUEST_FORBIDDEN">request forbidden</string>
-  <string name="INFRARED_PARAM_E_ACTION_NOT_EXIST">the action does not exist</string>
-  <string name="INFRARED_PARAM_E_PARAM_ILLEGAL">param is illegal</string>
-  <string name="INFRARED_PARAM_E_PARAM_INVALID">param is invalid</string>
-  <string name="INFRARED_PARAM_E_PARAM_MISSING">param is null</string>
-  <string name="INFRARED_SYS_E_REMOTE_CALL_ERROR">remote call error</string>
-  <string name="INOX_ADD_EKEYS_EMAIL_TITLE">Someone created an e-key for you and invited you to access property</string>
-  <string name="INOX_EMAIL_SENDER">Inox Smart</string>
-  <string name="INOX_KEYS_TYPE_FOB">RFID FOB</string>
-  <string name="INOX_SMS_SIGN">Inox Lock</string>
-  <string name="INOX_TRANSFER_PROPERTY_CODE_EMAIL_TITLE">Received an invitation to be new manager of a property</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">Exceeded limit: %s</string>
   <string name="NOT_LOCAL_DEVICE_ERROR">This device does not support pairing in QR code mode.</string>
   <string name="NSAppleMusicUsageDescription">The app needs to access your media library to get music. If you do not allow access, local music cannot be added.</string>
@@ -64,21 +39,9 @@
   <string name="NUMEN_SET_OWNER_FOR_LOCATION_MSG_TITLE">Transfer of home ownership</string>
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Out of cloud storage</string>
   <string name="OUT_OF_FILE_CAPACITY">Your image is more than %sMB</string>
-  <string name="PHILIPHS_INVITATION_MSG_CONTENT">[${appName}] Dear user, the user with the last number ${lastMobile} invites you to join the family sharing device. Download ${appName}APP, copy this link after logging in, and accept the invitation.
-
-Download address: https://www.philips.com.cn/c-e/appdownload-homepage/philips-home-plus?origin=1_cn_zh_APP_download_QR_code_WeChat_moments
-
-Invitation code: #${invitationCode}#</string>
-  <string name="PHILIPHS_INVITATION_MSG_EMAIL_CONTENT">[${appName}] Dear user, the user with the last number ${lastMobile} invites you to join the family sharing device. Download ${appName}APP, copy this link after logging in, and accept the invitation. Invitation code: #${invitationCode}#</string>
   <string name="PRODUCT_NOT_EXISTS">NA</string>
   <string name="QR_LOGIN_CROSS_REGION_NOT_SUPPORT">You cannot scan the QR code to add a device deployed in another data center.</string>
-  <string name="REGISTER_USER_LIMIT">The application that uses the SDK trial version has exceeded the limit of registered users. Please visit the Tuya IoT Development Platform: https://www.tuya.com/vas/commodity/SDK_APP_CREATE to purchase the official version to unlock the limitation.</string>
-  <string name="REPEATED_CUSTOM_ROLE_NAME">The name of the custom role already exists.</string>
   <string name="ROOM_EXIST_DONT_ADD">The name is already being used, please try another name.</string>
-  <string name="SECURITY_COMMON_MSG">{0}</string>
-  <string name="SECURITY_HOME_MSG">{0}</string>
-  <string name="SET_CUSTOM_MEMBER_FOR_LOCATION_MSG">{0} has assigned you the custom role \"{1}\". You can use specified devices and features.</string>
-  <string name="SET_CUSTOM_MEMBER_FOR_LOCATION_MSG_TITLE">Custom Member Defined</string>
   <string name="T0134">Light is Blinking or Breathing</string>
   <string name="T0242">Set up the router to make it enter the pairing state according to the manual, and connect your phone to the router\'s Wi-Fi network.</string>
   <string name="T0244">Set up the router according to the manual.</string>
@@ -96,15 +59,11 @@ Invitation code: #${invitationCode}#</string>
   <string name="thing_MINI_PLATFORM_SCOPE_USERINFO_DES_TITLE">Request User Information</string>
   <string name="thing_MINI_PLATFORM_USERINFO_AVATAR_NICKNAME">Avatar, Nickname</string>
   <string name="thing_MINI_PLATFORM_USERINFO_PHONE">Phone Number</string>
-  <string name="USER_APPLE_LOGIN_HIT_BLACKLIST">This service is currently not available, Please register with your e-mail address. Please update your App in the App Store.</string>
   <string name="USER_AVATAR_UPLOAD_REJECT_FOR_COMPLIANCE">Currently, you cannot replace it according to compliance requirements.</string>
-  <string name="USER_DIFFIENT_COUNTRY_URL">Unable to share device for now. Please contact Customer Service to fix this issue.</string>
-  <string name="USER_IS_NOT_CUSTOM_ROLE">The current user is not assigned a custom role.</string>
   <string name="USER_TEXT_MODERATION_CHECK_NOT_PASS">Your nickname contains prohibited words. Please modify.</string>
   <string name="_device">%s Device(s)</string>
   <string name="_room">%s Room(s)</string>
   <string name="about">About</string>
-  <string name="ac_desc_cat1_ddzxc">Cat.1</string>
   <string name="account">Account</string>
   <string name="account_facebook">Facebook</string>
   <string name="account_not_empty">Please enter the account</string>
@@ -166,7 +125,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="activator_bluetooth_fail">Make sure Bluetooth is turned on.</string>
   <string name="activator_bluetooth_privacy_set">Set Now</string>
   <string name="activator_config_wifi_desc">Complete Wi-Fi information to add a device.</string>
-  <string name="activator_device_electronic_manual">Electronic Manual</string>
   <string name="activator_device_work">Ensure that the device is powered on.</string>
   <string name="activator_guide_tips">Net Pairing Note</string>
   <string name="activator_manual_input">Enter manually</string>
@@ -221,7 +179,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="alexa_login">Sign In With Amazon</string>
   <string name="alexa_relink">Re-Login</string>
   <string name="alexa_skill">#</string>
-  <string name="alexa_success_tip_content">Alexa, turn on light\n\nAlexa, set air conditioning to 20°C\n\nAlexa, turn off diffuser\n\nAlexa, increase air conditioner by 3 degrees</string>
+  <string name="alexa_success_tip_content">Alexa, turn on light\n\nAlexa, set air conditioning to 20°C\n\nAlexa, turn off diffuser\n\nAlexa, increse air conditioner by 3 degrees</string>
   <string name="alexa_success_tip_title">You can control Alexa-enabled devices with Amazon Alexa speakers, such as</string>
   <string name="alexa_your_device_has_supported">Your device already supports Amazon Alexa, which you can access in one click.</string>
   <string name="align_qr_code_tip">Align the QR code / barcode for identification</string>
@@ -257,9 +215,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="app_personal_center_more_service">Featured</string>
   <string name="app_personal_center_third_service">Third-Party Voice Services</string>
   <string name="at_login_sns">Social Login</string>
-  <string name="auth_management_skill_name_clova">Clova</string>
-  <string name="auth_management_skill_name_smartthings">SmartThings</string>
-  <string name="auth_management_skill_name_yandex">Yandex Alice</string>
   <string name="auto_complete_tip">The feedback ticket will be automatically closed {time} later. Please check it and then confirm the ticket.</string>
   <string name="auto_discover_device">Auto Scan</string>
   <string name="autolock_delay_level_undefined">No</string>
@@ -356,7 +311,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="camera_permisssions_camera">Camera</string>
   <string name="camera_permisssions_privacy">Privacy</string>
   <string name="can_connect">Device(s) Found</string>
-  <string name="can_modify_room_setting">You can change room settings anytime.</string>
   <string name="can_not_choose_both_photo_and_gif">When you select photos, GIF files cannot be selected.</string>
   <string name="can_not_choose_both_video_and_photo">When you select photos, videos cannot be selected.</string>
   <string name="can_not_leave">Failed to leave home</string>
@@ -385,10 +339,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="choose_country_code">Select Region</string>
   <string name="choose_email_client">Select Email Client</string>
   <string name="choose_link">Select associated devices</string>
-  <string name="choose_other_hotspot">Choose another hotspot</string>
   <string name="choose_wifi">Add Device</string>
-  <string name="choose_wifi_connect_in_app">After selection, please choose the \'Join\' option in the system popup</string>
-  <string name="choose_wifi_match_prefix_connect">Please select the Wi-Fi connection corresponding to the following prefix</string>
   <string name="classTips">Fault Type</string>
   <string name="click_5g_wifi_toast_content">5 GHz Wi-Fi networks are not supported. Select a 2.4 GHz one.</string>
   <string name="click_bind_email">Bind Email</string>
@@ -544,7 +495,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="copy_right">©2022 Smart Life. All Rights Reserved</string>
   <string name="create_family">Create Home</string>
   <string name="crop">Crop</string>
-  <string name="current_device_upgrading_alert_content">This action is not allowed during device update.</string>
   <string name="current_sub_devices_over_the_limit">You have reached the maximum number of sub-devices. Please remove a sub-device to add new one.</string>
   <string name="current_version">Current Version</string>
   <string name="current_version_tip">Current Version: %s (No Updates Available)</string>
@@ -559,9 +509,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="dashboard_welcome_home">Welcome Home</string>
   <string name="data_updating">Loading...</string>
   <string name="data_upgrade">Loading, please wait...</string>
-  <string name="dayu_2b1w_8">Dayu_Wi-Fi_BLE Lighting</string>
-  <string name="dayu_3g10s6s1w4z18z_52">test</string>
-  <string name="dayu_7n_3">Dayu_NB water meter</string>
   <string name="de_pwd">.</string>
   <string name="debugging">Debugging</string>
   <string name="delete_member_msg">After being removed, this member no longer has access to this home\'s devices and smart scenarios.</string>
@@ -587,14 +534,6 @@ Invitation code: #${invitationCode}#</string>
   <string name="device_group_control_mode">Group</string>
   <string name="device_gudie_all_paly_video">Watch Full Video</string>
   <string name="device_has_unbinded">The device has been removed</string>
-  <string name="device_info_show">View</string>
-  <string name="device_info_show_ip_address_content">Your IP address is \"%s\". It can reveal pieces of personally identifiable information. Keep it safe.</string>
-  <string name="device_info_show_ip_address_title">View IP Address</string>
-  <string name="device_info_signal_strength_desc_cat1">4G signal strength: \n Excellent: ≥ -85 dBm \n Good: -85 dBm to -100 dBm \n Poor: &lt; -110 dBm \n</string>
-  <string name="device_info_signal_strength_desc_nb">NB-IoT signal strength: \n Excellent: ≥ -109 dBm \n Good: -109 dBm to -119 dBm \n Fair: -119 dBm to -129 dBm \n Poor: &lt; -129 dBm \n</string>
-  <string name="device_info_signal_strength_desc_tip">Reference signal received power (RSRP) values for different network types</string>
-  <string name="device_info_signal_strength_desc_title">Reference</string>
-  <string name="device_info_signal_strength_desc_wifi">Wi-Fi signal strength:\n Excellent: ≥ -25 dBm \n Good: -25 dBm to -35 dBm \n Fair: -35 dBm to -45 dBm \n Poor: &lt; -45 dBm</string>
   <string name="device_info_vendor_name">Manufacturer Name</string>
   <string name="device_list_third_matter_acl_notice_limited">The maximum number of Matter connections to this device has been reached. Certain recipients cannot use the device as expected.</string>
   <string name="device_list_third_matter_control_alert">This shared device cannot be connected over Matter and can be used only after the sharer connect to it over the LAN.</string>
@@ -1159,7 +1098,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="hs_bypass_device_title">Anomaly means a device doesn\'t operate properly. For example, fail to respond, go offline, or have an exception.</string>
   <string name="hs_bypass_tips_title">Ignore the abnormal devices?</string>
   <string name="hs_call_emergency">Emergency call</string>
-  <string name="hs_camera">Cameras</string>
   <string name="hs_camera_ai_smart">AI intelligence</string>
   <string name="hs_camera_multi_show">Multi-View</string>
   <string name="hs_camera_not_support_ai">Not Support</string>
@@ -1334,7 +1272,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="hs_please_input">(Required) Please enter</string>
   <string name="hs_please_input_optional">(Required) Please enter</string>
   <string name="hs_postcode_not_valid_tip">Please enter a 5-digit zip code</string>
-  <string name="hs_private_protect">Privacy Protection</string>
   <string name="hs_protect_alarm_in">Alarm will sound in</string>
   <string name="hs_protect_mode_dialog_content">The selected devices also enter the arming mode. When an alert is triggered, buzzers of all gateways over the same LAN generate sound to alert you.</string>
   <string name="hs_protect_mode_dialog_title">Description</string>
@@ -1430,7 +1367,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="index_apple_iap_pay">Apple Pay</string>
   <string name="index_pay_not_support_iap">This version does not support in-app purchase. Please update to the latest version.</string>
   <string name="info_unselected">Select the messages to delete</string>
-  <string name="infrared_diy">diy</string>
   <string name="initializer_apply_logout_tip">Account has been deleted, please log in again</string>
   <string name="initializer_multi_devices_apply_login_tip">This account is already logged in on another device</string>
   <string name="initializer_multi_devices_relogin_tip">Invalid login. Please login again</string>
@@ -1544,12 +1480,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_animal_kind">Name</string>
   <string name="ipc_animal_similarity">Similarity</string>
   <string name="ipc_anti_dismantling_alarm">Anti dismantling alarm</string>
-  <string name="ipc_auto_lock_screen_never">Never</string>
-  <string name="ipc_auto_lock_screen_time_unit_hour">hr</string>
-  <string name="ipc_auto_lock_screen_time_unit_minute">min</string>
-  <string name="ipc_auto_lock_screen_time_unit_second">sec</string>
-  <string name="ipc_auto_lock_screen_tips">When the screen is off, you can tap any button on the device to wake it up.</string>
-  <string name="ipc_auto_lock_screen_title">Auto Screen Off</string>
   <string name="ipc_available_space">Available storage</string>
   <string name="ipc_bases_add_device">Add Device</string>
   <string name="ipc_bases_base_station">Base Station</string>
@@ -1615,12 +1545,7 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_bird_identify_error">Identification error.</string>
   <string name="ipc_bird_service_expiring_tips">Your trial of bird identification will expire on %s. Subscribe to this service to continue using it.</string>
   <string name="ipc_button_enter_album">View Albums</string>
-  <string name="ipc_call_answered">Call is answered.</string>
-  <string name="ipc_call_auto_hang_off">calling. Call declined.</string>
-  <string name="ipc_call_err_others">Call error. Try again later.</string>
-  <string name="ipc_call_network_err">Network error. Call ended.</string>
   <string name="ipc_call_prompt">Called you and hung up</string>
-  <string name="ipc_calling_tips">Call coming.</string>
   <string name="ipc_camera_module_setting">Camera Settings</string>
   <string name="ipc_check_connection_status">Check connection status</string>
   <string name="ipc_check_connection_status_operate">Press the doorbell button,and the chime will ringing to complete the pairing</string>
@@ -1853,7 +1778,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_errmsg_device_timeout">Device connection timed out</string>
   <string name="ipc_errmsg_device_unavailable">Failed to connect to the device</string>
   <string name="ipc_errmsg_getmotiontimer_failed">Failed to obtain motion detection alarm schedule</string>
-  <string name="ipc_errmsg_local_camera_noauthority">Camera access is required.</string>
   <string name="ipc_errmsg_mic_failed">Timeout, dialog failed</string>
   <string name="ipc_errmsg_mic_noauthority">Requesting access to microphone</string>
   <string name="ipc_errmsg_onvif_illegal_pwd">Failed to reset the password. The new password must be 8-32 characters and contain uppercase and lowercase letters and numbers.</string>
@@ -1987,7 +1911,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_multi_view_unsupport_hint">This device is not compatible with this feature.</string>
   <string name="ipc_multi_view_video_saved">Video already saved to system album.</string>
   <string name="ipc_multiple_privacy_zone">Privacy zone</string>
-  <string name="ipc_network_err_hang_up">Network error. Call ended.</string>
   <string name="ipc_no_local_video_now">No video.</string>
   <string name="ipc_notifi_center_all">All</string>
   <string name="ipc_notifi_center_select_all">Select All</string>
@@ -2291,7 +2214,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_settings_switch_wf_wired">Cable</string>
   <string name="ipc_settings_talkback_volume">Speech Volume</string>
   <string name="ipc_settings_trigger_siren">Trigger Siren</string>
-  <string name="ipc_settings_vehicle_detection">Vehicle Detection</string>
   <string name="ipc_settings_video_layout">Video Layout</string>
   <string name="ipc_settings_video_layout_pano">Panorama Only</string>
   <string name="ipc_settings_video_layout_panozoom">Panorama and Zoom</string>
@@ -2355,19 +2277,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_toco_unsupport_dig_detail">Check Details</string>
   <string name="ipc_toco_unsupport_dig_title">Unsupported Device</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
-  <string name="ipc_two_way_call_camera_title">Camera</string>
-  <string name="ipc_two_way_call_cancel_title">Cancel</string>
-  <string name="ipc_two_way_call_device_on_talking">Line busy. Try again later.</string>
-  <string name="ipc_two_way_call_device_video_close">Close</string>
-  <string name="ipc_two_way_call_device_video_play">Play</string>
-  <string name="ipc_two_way_call_hangup_title">End</string>
-  <string name="ipc_two_way_call_loudspeaker_title">Speaker</string>
-  <string name="ipc_two_way_call_microphone_title">Mic</string>
-  <string name="ipc_two_way_call_refuse_title">Decline</string>
-  <string name="ipc_two_way_call_someone_calling_tips">Call coming…</string>
-  <string name="ipc_two_way_call_start_fail_tips">Two-way talk failed.</string>
-  <string name="ipc_two_way_call_video_mode_title">Video Call</string>
-  <string name="ipc_two_way_call_voice_mode_title">Voice Call</string>
   <string name="ipc_update_datebase">Update database</string>
   <string name="ipc_update_datebase_reminder">It is detected that your database needs to be updated, click update to get the best experience</string>
   <string name="ipc_updating">Updating</string>
@@ -2391,7 +2300,6 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="is_save_room_update">Do you want to save the changes made for the room?</string>
   <string name="is_save_smart_update">Do you want to save the changes?</string>
   <string name="jd_skill">#</string>
-  <string name="jisentest_2b10s1w_45">test</string>
   <string name="join">Join</string>
   <string name="keep_alive_check_item_desc_battery_usage">Please check Battery Usage to see if you have added %s to the protection list , \nto avoid unexpected quits or other app responding issues caused by the system.</string>
   <string name="keep_alive_check_item_desc_boot_launch">Automatically open the app to check your device status when you turn on your phone. \n Please check if you have activated Autostart via Setting - Autostart Management</string>
@@ -2515,7 +2423,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="logining">Logging in...</string>
   <string name="logout">Log Out</string>
   <string name="low_power">Low power</string>
-  <string name="lryxt_8c_8">water tank</string>
   <string name="manual_add_device_mode">Add Manually</string>
   <string name="matter_active_activing">Linking device …</string>
   <string name="matter_active_commissioning">Connecting device to network …</string>
@@ -2576,7 +2483,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="message_tab_title">Message</string>
   <string name="min_photo_select_tips">Select at least %zd photo(s).</string>
   <string name="miniapp_content">Discover</string>
-  <string name="mkf_2b_1">microphone</string>
   <string name="mobile_binding">Bind Mobile Number</string>
   <string name="modify_password_rule">Passwords must have 6 to 20 characters, including letters and digits</string>
   <string name="modify_password_success">Password changed successfully,\nplease log in again</string>
@@ -2586,7 +2492,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="more_service_order_list">My Order</string>
   <string name="more_service_recommand_service">Featured</string>
   <string name="more_service_thirdparty_service">Third-Party Voice Services</string>
-  <string name="mt_7n_2">Smart toilet</string>
   <string name="multi_select_video_tips">When you multi-select videos, they will be sent as images.</string>
   <string name="my_profile_choose_pic_from_camera">Take Photo</string>
   <string name="my_profile_choose_pic_from_local">Select from Album</string>
@@ -2678,7 +2583,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="orignal_image">Original</string>
   <string name="ota_I_know">Got It</string>
   <string name="ota_auto_update">Auto Upgrade</string>
-  <string name="ota_back_to_home">Back to Home</string>
   <string name="ota_back_to_home_content">Update is in progress. The device is unavailable. You can go back to the homepage, and the update continues.</string>
   <string name="ota_back_to_home_title">Prompt</string>
   <string name="ota_ble_device_before_upgrade_warning">The Bluetooth device will be temporarily unavailable during the firmware update. Are you sure to start the update now?</string>
@@ -2690,7 +2594,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="ota_downloading_without_dot">Downloading...</string>
   <string name="ota_firmware_update">Firmware Update</string>
   <string name="ota_firmware_version">Current Version:</string>
-  <string name="ota_go_to_upgrade_detail">View Update</string>
   <string name="ota_has_new_version">Update Found</string>
   <string name="ota_in_queue">Queuing</string>
   <string name="ota_install_remind">Firmware installation in progress. The status may not be synchronized in time. Please wait one to two minutes, and then go to the Firmware Update page to check whether the firmware is successfully updated.</string>
@@ -2721,12 +2624,10 @@ Please read through the following terms and conditions before you use our produc
   <string name="ota_upgrade_timeout">Update timed out.Please keep your device as close to the router as possible and try again.</string>
   <string name="ota_upgrading">Updating</string>
   <string name="ota_upgrading_firmware">Updating…</string>
-  <string name="ota_upgrading_preparing_time_out_tip">Update check timeout. Refresh and try again.</string>
   <string name="ota_upgrading_remain_time">Updating… Remaining Time: %s</string>
   <string name="ota_upgrading_time_out_remind">Checking for updates. Estimated time:</string>
   <string name="ota_upgrading_time_out_tip">Update check timed out. Please re-enter the page and try again.</string>
   <string name="ota_upgrading_to">Updating to</string>
-  <string name="ota_upgrading_upgrading_time_out_tip">Device update timeout. Refresh and try again.</string>
   <string name="ota_wifi_signal_weak_tips">The Wi-Fi signal is weak. Do you still want to upgrade the firmware?</string>
   <string name="out_room_device">Add devices</string>
   <string name="pairType_ap">Wi-Fi Pairing</string>
@@ -2754,7 +2655,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="panelcaller_custom_notification_permission_dialog_title">Notification Test</string>
   <string name="parking_collision_event_sensitivity">Parking collision event sensitivity</string>
   <string name="parking_mode_setting">Parking mode setting</string>
-  <string name="pbj_2b_1">Wall breaking machine</string>
   <string name="permission_gps_tip">You have denied permission to location information, so the device cannot read the network information. Do you want to set the location permission?</string>
   <string name="permission_request_tip">Allow access to the camera to use camera-dependent features such as QR code pairing, face recognition login, and customizing device icons.</string>
   <string name="person_panel_dev">Control Panel Development</string>
@@ -2779,7 +2679,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="personal_other_service">Other Services</string>
   <string name="personal_push_call_service">Phone Notification</string>
   <string name="personal_service_new">New</string>
-  <string name="personal_setting_split_switch">Split Screen</string>
   <string name="personal_speech_service">Voice Service</string>
   <string name="personal_speech_service_alexa">Alexa</string>
   <string name="personal_speech_service_dingdong">DingDong</string>
@@ -2787,10 +2686,8 @@ Please read through the following terms and conditions before you use our produc
   <string name="personal_speech_service_google">Google Assistant</string>
   <string name="personal_speech_service_ifttt">IFTTT</string>
   <string name="personal_speech_service_rokid">Rokid</string>
-  <string name="personal_speech_service_smartthings">SmartThings</string>
   <string name="personal_speech_service_tentent">Tecent Xiaowei</string>
   <string name="personal_speech_service_tmall">Tmall Genie</string>
-  <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
   <string name="phone_email">Mobile Number/Email</string>
   <string name="phone_notify_serve_faq_2">App will make phone calls to alert you when the automation you have configured in the app is triggered.</string>
@@ -2798,7 +2695,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="phone_or_email">Mobile Phone/Email</string>
   <string name="photos">Photos</string>
   <string name="pid_has_upgrade_title">New Updates</string>
-  <string name="pir_4z_22">PIR sensor switch</string>
   <string name="please_check_device_power_nearby">Check if the device is powered on and nearby.</string>
   <string name="please_check_nearby_router">Check if a router is nearby. Make sure the device is close to the router without wall obstruction.</string>
   <string name="please_choose_country_first">Select country/region</string>
@@ -2873,7 +2769,6 @@ Please read through the following terms and conditions before you use our produc
   <string name="refind_password">Retrieve Login Password</string>
   <string name="refresh_again_msg">Refresh</string>
   <string name="refresh_list">Refresh List</string>
-  <string name="refresh_ota_status">Refresh Status</string>
   <string name="reget_validation_second">(%ds)</string>
   <string name="reload">Reload</string>
   <string name="remove_member">Remove Member</string>
@@ -3438,7 +3333,6 @@ Continue?</string>
   <string name="toolbar_menu_refresh">Refresh</string>
   <string name="topTips">If you report a fault, information about your devices will be uploaded for locating the fault.</string>
   <string name="traffic_light_recognition">Traffic light recognition</string>
-  <string name="transfer_home_ownership">Transfer Home Ownership</string>
   <string name="try_other_match">Try out other Wi-Fi pairing modes.</string>
   <string name="tuesday">Tues.</string>
   <string name="turn_off_the_screen_automatically">Turn off the screen automatically</string>
@@ -3553,7 +3447,6 @@ Continue?</string>
   <string name="thing_activator_dev_img">Icon</string>
   <string name="thing_activator_dev_name">Name</string>
   <string name="thing_activator_dev_off_line_warn">Device Offline Notification</string>
-  <string name="thing_activator_dev_off_line_warn_tx">To avoid reminding too often, the device will be replayed for more than ${30} minutes offline</string>
   <string name="thing_activator_dev_position">Location</string>
   <string name="thing_activator_device_has_bind">The device has already been bound or it is not activated.</string>
   <string name="thing_activator_device_weak_singal">Weak Signal</string>
@@ -3703,7 +3596,7 @@ Continue?</string>
   <string name="thing_activator_pairing_edit_device_name_placeholder">Device name</string>
   <string name="thing_activator_pairing_edit_room_title">Assign Device to a Room</string>
   <string name="thing_activator_pairing_more_device">view instructions</string>
-  <string name="thing_activator_pairing_not_found_device">No devices? Check </string>
+  <string name="thing_activator_pairing_not_found_device">No devices? Check</string>
   <string name="thing_activator_pairing_search_device_title">%s device(s) being added</string>
   <string name="thing_activator_pairing_unbind_alert_message1">Please remove the device from the original account, or submit a request to unbind the device.</string>
   <string name="thing_activator_pairing_unbind_alert_message2">Some devices have not been added yet. If you submit an unbinding request, the device adding process will be stopped. After all the devices are added successfully, you can submit an unbinding request or remove the specified device from the original account.</string>
@@ -3730,7 +3623,7 @@ Continue?</string>
   <string name="thing_activator_qrcode_failure_nearby">Check if the device is nearby</string>
   <string name="thing_activator_reset_device">Reset the device first.</string>
   <string name="thing_activator_reset_device_help">Resetting Devices</string>
-  <string name="thing_activator_reset_guide_text1">Ensure the device is on and ready to </string>
+  <string name="thing_activator_reset_guide_text1">Ensure the device is on and ready to</string>
   <string name="thing_activator_reset_guide_text1_link">be connected.</string>
   <string name="thing_activator_reset_guide_text2">Some devices are already connected to users. Please unpair the device before reconnecting it.</string>
   <string name="thing_activator_reset_guide_text3">Please refer to the manual</string>
@@ -5428,7 +5321,6 @@ View \"Feature Details\" to learn more details.</string>
   <string name="video_size_limit_40MB">Video size cannot exceed 40 MB</string>
   <string name="videos">Videos</string>
   <string name="virtual_dev_id">Virtual ID</string>
-  <string name="virtual_device_experience_center">Try</string>
   <string name="virtual_device_invalid">Sorry, failed to load the test device. Try again.</string>
   <string name="voice_guidance">Welcome to voice control</string>
   <string name="voice_guidance_click">Tap to Talk</string>
@@ -5468,7 +5360,6 @@ View \"Feature Details\" to learn more details.</string>
   <string name="wifi_auth_desc_1">Turn on Local Network Access</string>
   <string name="wifi_auth_desc_2">Turn on Wi-Fi and Connect</string>
   <string name="wifi_auth_title">Turn on and Set up Wi-Fi</string>
-  <string name="wifi_gprs">wifi+gprs</string>
   <string name="wifi_info_fail">Failed to Recognize Wi-Fi Pairing Information</string>
   <string name="wifi_info_long_content">Your Wi-Fi name or password is too long for the device to recognize. If the device fails to scan the QR code, change the name or password and try again.</string>
   <string name="wifi_info_long_title">Long Wi-Fi name or password</string>
@@ -5485,8 +5376,6 @@ View \"Feature Details\" to learn more details.</string>
   <string name="wifi_to_open_permission_tip">Allow the app to access the location of your phone so as to get the name of the current Wi-Fi network.</string>
   <string name="wifi_to_reopen_permission_location">Location access is disabled, so the device cannot read the network information. Do you want to reset it?</string>
   <string name="xiaowei_help_url">#</string>
-  <string name="xsense_sub_bjq">RF Combination Alarm</string>
-  <string name="xsense_sub_ywbj">RF Smoke Alarm</string>
   <string name="you_are_only_manage">Please assign another administrator before leaving.</string>
   <string name="zigbee_dev">ZigBee</string>
 </resources>
