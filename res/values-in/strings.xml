@@ -694,6 +694,7 @@
   <string name="ipc_gambal_toast_calibrating">Kamera sedang dikalibrasi, silakan coba lagi nanti</string>
   <string name="ipc_gambal_toast_limit">Tidak bisa rotasi lagi</string>
   <string name="ipc_humanoid_filter_settings">Human Body Filtering</string>
+  <string name="ipc_inspection_msg_title">Laporan Patroli Video</string>
   <string name="ipc_ipc_qrpair_txt">Tekan Next. Layar ponsel memperlihatkan kode QR. Pakai kamera untuk scan kode QR dari jarak 15-20cm.</string>
   <string name="ipc_live_pag_memory_point_no_data">Tidak ada data situs</string>
   <string name="ipc_live_page_cstorage">Penyimpanan cloud</string>
@@ -794,6 +795,7 @@
   <string name="ipc_pir_switch">PIR</string>
   <string name="ipc_play_mobileplay_tips">Anda menggunakan data selular anda untuk menonton video. Perhatikan penggunaan data anda.</string>
   <string name="ipc_playback_no_records_today">Tidak ada video playback untuk hari ini</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Silakan buka izin penyimpanan album; jika sudah dibuka, tolong lihat layar kamera terlebih dahulu sebelum setelan.</string>
   <string name="ipc_qrpair_button_help">Tidak ada instruksi</string>
   <string name="ipc_qrpair_button_next">Saya mendengar tanda</string>
   <string name="ipc_qrpair_help">Bantuan</string>
@@ -891,6 +893,7 @@
   <string name="ipc_sound_sensitivity_select">Pilih Decibel Detection Sensitivity Level</string>
   <string name="ipc_sound_sensitivity_settings">Tingkat sensitivitas alarm</string>
   <string name="ipc_sound_sensitivity_settings_tips">Pilih tingkat sensitivitas deteksi desibel</string>
+  <string name="ipc_speed">kecepatan</string>
   <string name="ipc_status_awake">Menyalakan perangkat</string>
   <string name="ipc_status_awake_failed">Gagal untuk menghidupkan kembali perangkat</string>
   <string name="ipc_status_cloudstorage_stream_failed">Gagal memuat data penyimpanan cloud</string>
@@ -925,6 +928,7 @@
   <string name="later_on">Nanti</string>
   <string name="leave_for_owner">Setelah keluarga di hapus, semua anggota akan dihapus, data akan dihapus, semua perangkat yang ada akan dilepas dan direset.</string>
   <string name="left_button_device_offline">Mengatur ulang.</string>
+  <string name="light_scene_other_condition">Tambahkan kondisi pemicu</string>
   <string name="link_alexa">Terhubung pada Amazon Alexa</string>
   <string name="link_alexa_info">Atur perangkat anda dengan suara dengan memakai speaker pintar seri Amazon Echo. Klik tombol untuk mengikat perangkat anda dengan akun Amazon anda.</string>
   <string name="link_cancel">Pisahkan</string>
@@ -1436,6 +1440,7 @@
   <string name="temperature_unit">Satuan suhu</string>
   <string name="terminate_account">Nonaktifkan Akun</string>
   <string name="terminate_account_introductions">Setelah akun di non-aktifkan, semua data pengguna di akun ini akan dihapus selamanya.</string>
+  <string name="thing_map_confirm">Konfirmasi</string>
   <string name="thursday">Kamis.</string>
   <string name="timer">Jadwal</string>
   <string name="timer_add_failure">Gagal untuk menambahkan timer, mohon cek jaringan anda.</string>
@@ -2148,6 +2153,8 @@
   <string name="voice_nopermissions_title">Fitur suara membutuhkan akses kepada microphone</string>
   <string name="voice_time_error">Maaf, Saya tidak mengerti apa yang anda baru katakan.</string>
   <string name="wait_reply">Terimakasih untuk tanggapan anda. Kami akan tanggapi segera.</string>
+  <string name="webview_ok">Konfirmasi</string>
+  <string name="webview_prompt">Pemberitahuan</string>
   <string name="webview_reload">Memuat kembali</string>
   <string name="weekday">Hari kerja</string>
   <string name="weekend">Akhir pekan</string>

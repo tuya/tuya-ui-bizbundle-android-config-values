@@ -1061,6 +1061,7 @@
   <string name="ipc_pir_switch">PIR включване / изключване</string>
   <string name="ipc_play_mobileplay_tips">Вие използвате мобилен трафик, за да гледате видеото. Моля внимавайте с вашия трафик.</string>
   <string name="ipc_playback_no_records_today">Няма видео за възпроизвеждане за този ден</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Моля, отворете разрешението за съхраняване на албуми; ако вече е отворено, моля да прегледате първо екрана на камерата преди да направите тази настройка.</string>
   <string name="ipc_qrpair_button_help">Липсва звуков сигнал</string>
   <string name="ipc_qrpair_button_next">Чух звуковия сигнал</string>
   <string name="ipc_qrpair_help">Помощ</string>
@@ -1132,6 +1133,7 @@
   <string name="ipc_settings_ap_sync_body">След стартиране на AP mode, ако имате нужда да рестартирате устройсвото, моля използвайте Приложението, за да свържете устройството, след рестартиране, за да се синхронизират настройките, иначе функцията запис няма да работи правилно.</string>
   <string name="ipc_settings_ap_sync_hint">Съвет</string>
   <string name="ipc_settings_auto">Връзка</string>
+  <string name="ipc_settings_backup_network">Алтернативна мрежа</string>
   <string name="ipc_settings_camera_mode">Режим на работа</string>
   <string name="ipc_settings_camera_mode_continue">Непрекъснато</string>
   <string name="ipc_settings_camera_mode_continue_hint">Камерата ще продължи да работи, докато не свърши батерията</string>
@@ -1221,6 +1223,7 @@
   <string name="ipc_sound_sensitivity_select">Изберете Ниво на чувствителност</string>
   <string name="ipc_sound_sensitivity_settings">Ниво на чувствителност</string>
   <string name="ipc_sound_sensitivity_settings_tips">Изберете ниво на чувствителност</string>
+  <string name="ipc_speed">скорост (skorost)</string>
   <string name="ipc_status_awake">Събуждане на Устройство...</string>
   <string name="ipc_status_awake_failed">Неуспешно събуждане устройство</string>
   <string name="ipc_status_cloudstorage_stream_failed">Зареждането на данни в облачно хранилище не бе успешно</string>
@@ -1270,6 +1273,9 @@
   <string name="leave_for_owner">След като домът е изтрит, всички членове ще бъдат изтрити, информацията ще се изтрие и всички устройства ще се разкачат.</string>
   <string name="leave_not_operate">След напускане на семейството, няма да можете да управлявате устройствата на семейството.</string>
   <string name="left_button_device_offline">Зануляване</string>
+  <string name="light_scene_background">Изображение</string>
+  <string name="light_scene_other_action_save">Потвърждение</string>
+  <string name="light_scene_other_condition">Добавете условие за задействане</string>
   <string name="link_alexa">Свържи се към Amazon Alexa</string>
   <string name="link_alexa_info">Контролирайте вашето устройство, с вашия глас с Amazon Echo говорител. Натиснете бутона, за да вържете вашето устройство с вашият профил в Amazon.</string>
   <string name="link_cancel">Разграничи</string>
@@ -1898,6 +1904,7 @@
   <string name="temperature_unit">Единица за температура</string>
   <string name="terminate_account">Деактивиране на Профила</string>
   <string name="terminate_account_introductions">След деактивиране на акаунта, цялата информация под този акаунт ще бъде изтрита.</string>
+  <string name="thing_map_confirm">Потвърждение</string>
   <string name="thursday">Вторник</string>
   <string name="timer">График</string>
   <string name="timer_add_failure">Неуспешно добавяне на график. Моля, проверете мрежата си.</string>
@@ -2883,6 +2890,8 @@
   <string name="voice_nopermissions_title">Функцията глас изисква използването на микрофона</string>
   <string name="voice_time_error">Съжалявам, но не разбрах какво казахте.</string>
   <string name="wait_reply">Благодарим Ви за обратната връзка. Скоро ще се свържем с Вас</string>
+  <string name="webview_ok">Потвърждение</string>
+  <string name="webview_prompt">Съвети</string>
   <string name="webview_reload">Презареди</string>
   <string name="wednesday">Срядя</string>
   <string name="weekday">Работни дни</string>

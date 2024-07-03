@@ -188,7 +188,7 @@
   <string name="config_progress_step2">Zarejestruj się w chmurze</string>
   <string name="config_progress_step3">Zainicjować urządzenie</string>
   <string name="config_reconnect">Na nowo połączyć</string>
-  <string name="config_reset_go_next">Dale</string>
+  <string name="config_reset_go_next">Dalej</string>
   <string name="config_wifi">Powiązanie urządzenia</string>
   <string name="config_wifi_5g_warn">Twój telefon komórkowy jest podłączony do Wi-Fi 5 GHz, zmień na Wi-Fi 2,4 GHz Kontynuować?</string>
   <string name="config_wifi_continue">Kontynuować</string>
@@ -570,6 +570,9 @@
   <string name="ipc_doorbell_bell_4">Czwarty dzwonek</string>
   <string name="ipc_doorbell_decline">Odrzuć</string>
   <string name="ipc_doorbell_file_authority">W celu łatwiejszego korzystania z aplikacji odtworzy ona dzwonek telefonu, gdy dzwoni dzwonek do drzwi. To wymaga dostępu do uprawnień do odczytu plików.</string>
+  <string name="ipc_doorbell_permission_ignore">Zaniedbanie</string>
+  <string name="ipc_doorbell_permission_set">Organizować coś</string>
+  <string name="ipc_doorbell_permission_tip">Zadzwoń z pozwoleniem</string>
   <string name="ipc_doorbell_pic_load_fail_txt">Nie udało się załadować obrazu</string>
   <string name="ipc_doorbell_pic_load_txt">Ładowanie obrazu</string>
   <string name="ipc_doorbell_tip">Oczekiwanie na odpowiedź na dzwonek</string>
@@ -696,6 +699,7 @@
   <string name="ipc_pir_switch">Czułość PIR</string>
   <string name="ipc_play_mobileplay_tips">Do sprawdzania nagrania wideo używasz komórkowej transmisji danych. Zwróć uwagę na ilość przesyłanych danych.</string>
   <string name="ipc_playback_no_records_today">Brak dzisiejszych filmów video</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Proszę otworzyć uprawnienie do przechowywania albumów; jeśli jest już otwarte, proszę najpierw obejrzyj obraz kamerki przed zrobieniem tej konfiguracji.</string>
   <string name="ipc_qrpair_button_help">Nic nie usłyszałem</string>
   <string name="ipc_qrpair_button_next">Słyszałem dźwięk</string>
   <string name="ipc_qrpair_help">Pomoc</string>
@@ -764,6 +768,7 @@
   <string name="ipc_sound_sensitivity_select">Wybierz  czułość wygrywania</string>
   <string name="ipc_sound_sensitivity_settings">Poziom czułości</string>
   <string name="ipc_sound_sensitivity_settings_tips">Wybierz czułość</string>
+  <string name="ipc_speed">prędkość</string>
   <string name="ipc_status_awake">Wybudzanie urządzenia</string>
   <string name="ipc_status_awake_failed">Nie udało się wybudzić urządzenia</string>
   <string name="ipc_status_cloudstorage_stream_failed">Nie udało się załadować danych z chmury</string>
@@ -783,6 +788,8 @@
   <string name="is_save_smart_update">Potwierdzić wprowadzone zmiany?</string>
   <string name="later_on">Porozmawiaj później</string>
   <string name="left_button_device_offline">Instrukcje resetowania</string>
+  <string name="light_scene_input_name">Wpisz nazwę</string>
+  <string name="light_scene_other_condition">Dodaj warunek uruchomienia</string>
   <string name="link_cancel">Rozdziel</string>
   <string name="link_device_empty">Nie można połączyć żadnego przełącznika</string>
   <string name="link_empty_tip">Poprzez wiążącą konfigurację podwójnej kontroli można powiązać dwa przełączniki  w różnych pozycjach, aby sterować włączaniem i wyłączaniem tego samego światła</string>
@@ -1242,6 +1249,7 @@
   <string name="temperature_unit">Jednostka temperatury</string>
   <string name="terminate_account">Dezaktywuj konto</string>
   <string name="terminate_account_introductions">Po wyłączeniu wszystkie dane użytkownika tego konta zostaną trwale usunięte.</string>
+  <string name="thing_map_confirm">Potwierdź</string>
   <string name="thing_ota_auto_upgrade_unavailable_tip">Obecna wersja oprogramowanie nie może być automatycznie zaktualizowana</string>
   <string name="thing_plug_play_connected_activation_hint">Aby zdalnie sterować urządzeniem, połącz je z siecią Wi-Fi.</string>
   <string name="thing_plug_play_disconnected_activation_hint">Połącz urządzenie z siecią Wi-Fi na potrzeby zdalnego sterowania: Włącz funkcję Bluetooth w telefonie i zbliż się do urządzenia, aby połączyć się z nim w ramach połączenia Bluetooth. Następnie dokończ określanie ustawień sieci Wi-Fi na stronie domowej lub stronie ze szczegółami urządzenia.</string>
@@ -1930,6 +1938,8 @@
   <string name="voice_nopermissions_title">Funkcja głosowa wymaga użycia mikrofonu</string>
   <string name="voice_time_error">Przepraszam, nie rozumiem tego co mówisz.</string>
   <string name="wait_reply">Dziękujemy za Twoją opinię. Wrócimy do niej niebawem.</string>
+  <string name="webview_ok">Potwierdź</string>
+  <string name="webview_prompt">Powiadomienie</string>
   <string name="webview_reload">Przeładować</string>
   <string name="weekday">Dni robocze</string>
   <string name="weekend">Weekend</string>

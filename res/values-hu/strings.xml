@@ -605,6 +605,8 @@
   <string name="has_update">&lt;font color=#ff0000&gt;Új %s verzió&lt;/font&gt;</string>
   <string name="head_icon">Profilkép</string>
   <string name="headportrait_change_select">Válasszon a telefon albumából</string>
+  <string name="health_watch_sit_warn_body">Ideje felállni és mozogni!</string>
+  <string name="health_watch_sit_warn_sub_title">Ülésemlékeztető</string>
   <string name="help_and_feedback">Gyakori kérdések és visszajelzések</string>
   <string name="help_center">Gyakori kérdések és visszajelzések</string>
   <string name="home_add">Hozzáadás</string>
@@ -1164,6 +1166,7 @@
   <string name="ipc_play_mobileplay_tips">A mobilhálózatot használja a képernyő megtekintésére, kérjük, vegye figyelembe a hálózati forgalmat.</string>
   <string name="ipc_playback_no_records_today">Nincs lejátszási videó aznap</string>
   <string name="ipc_preview_low_battery_hint">Az akkumulátor lemerült, kérjük, töltse fel időben</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Kérjük, nyissa meg az albumtárolási engedélyt; ha már nyitva van, kérjük nézze meg először a kameraképet mielőtt beállítaná.</string>
   <string name="ipc_qrpair_button_help">Nem hallottam semmit</string>
   <string name="ipc_qrpair_button_next">Hallottam a hangjelzést</string>
   <string name="ipc_qrpair_help">Súgó</string>
@@ -1254,6 +1257,7 @@
   <string name="ipc_settings_ap_sync_body">Az AP mód elindítása után, ha újra kell indítania a készüléket, kérjük, használja az APP-t az eszköz csatlakoztatásához, hogy újraindítás után szinkronizálja a konfigurációt, különben a felvételi funkció nem működik normálisan.</string>
   <string name="ipc_settings_ap_sync_hint">Tanács</string>
   <string name="ipc_settings_auto">Kapcsolat</string>
+  <string name="ipc_settings_backup_network">Tartalék hálózat</string>
   <string name="ipc_settings_camera_mode">Üzemmód</string>
   <string name="ipc_settings_camera_mode_continue">Folyamatos üzemmód</string>
   <string name="ipc_settings_camera_mode_continue_hint">A kamera addig működik, amíg az akkumulátor le nem merül.</string>
@@ -1367,6 +1371,7 @@
   <string name="ipc_sound_sensitivity_select">Válassza ki a decibel érzékelési érzékenységet</string>
   <string name="ipc_sound_sensitivity_settings">Riasztási érzékenység</string>
   <string name="ipc_sound_sensitivity_settings_tips">Adja meg a hangérzékelés érzékenységét</string>
+  <string name="ipc_speed">sebesség</string>
   <string name="ipc_squirrel_expel">Mókuselriasztás</string>
   <string name="ipc_status_awake">Eszköz ébresztése...</string>
   <string name="ipc_status_awake_failed">Nem sikerült felébreszteni az eszközt</string>
@@ -1420,6 +1425,9 @@
   <string name="leave_for_owner">Az Otthon törlése után az összes tag törlődik, az adatok kiürülnek, a hozzáadott eszközöket pedig nem kötik le és állítják vissza</string>
   <string name="leave_not_operate">Otthonból törlés után már nem tudja kezelni otthoni eszközeit és intelligenciáit</string>
   <string name="left_button_device_offline">Visszaállítás</string>
+  <string name="light_scene_background">Kép</string>
+  <string name="light_scene_other_action_save">Megerősítés</string>
+  <string name="light_scene_other_condition">Aktiválási feltétel hozzáadása</string>
   <string name="link_alexa">Csatlakozzon az Amazon Alexához</string>
   <string name="link_alexa_info">Hangjával vezérelheti készülékét az Amazon Echo sorozatú intelligens hangszórókkal. Kattintson az alábbi gombra az Amazon-fiók összekapcsolásához.</string>
   <string name="link_cancel">Leválasztás</string>
@@ -1774,7 +1782,7 @@
   <string name="pps_photo_saved">Képernyőkép mentve</string>
   <string name="pps_preview">Előnézet</string>
   <string name="pps_record_notfound">Jelenleg nincs rögzített tartalom\nVárjon néhány percet és próbálja újra</string>
-  <string name="pps_recording">Rögzítés...</string>
+  <string name="pps_recording">Futás</string>
   <string name="pps_standard">SD</string>
   <string name="pps_start_talking">Beszélhet</string>
   <string name="pps_video_saved">Videó mentve</string>
@@ -1850,6 +1858,7 @@
   <string name="scene_action_device_maybe_removed">Az eszköz nincs társítva</string>
   <string name="scene_action_not_support_this_condition">A beállított feladat nem támogatja az ilyen típusú feltételeket</string>
   <string name="scene_added">Jelenetparancs hozzáadva</string>
+  <string name="scene_ai">AI asszisztens parancs (Béta)</string>
   <string name="scene_all_day">Egész nap</string>
   <string name="scene_all_day_sub">24 óra</string>
   <string name="scene_allow_location_permission">Helyadatok engedélyezése</string>
@@ -1898,9 +1907,11 @@
   <string name="scene_excute_start">Indtítás</string>
   <string name="scene_excute_stop">Letiltás</string>
   <string name="scene_execute_device">Eszköz működtetése</string>
+  <string name="scene_execute_failed">Sikertelen</string>
   <string name="scene_execute_manual">Jelenetparancs futtatása</string>
   <string name="scene_execute_smart">Automatizáció</string>
   <string name="scene_execute_task">Akkor</string>
+  <string name="scene_execute_timeout">Időtúllépés</string>
   <string name="scene_face_detect">Arcfelismerés</string>
   <string name="scene_family_member_go_home">Családtag hazaérkezése</string>
   <string name="scene_find_new_actionexecutor">Az alkalmazás jelenlegi verziója túl egyes műveleteket nem jeleníthet meg vagy nem hajthat végre. Kérjük, frissítsen a legújabb verzióra.</string>
@@ -2082,6 +2093,7 @@
   <string name="temperature_unit">Hőmérsékleti egység</string>
   <string name="terminate_account">Fiók törlése</string>
   <string name="terminate_account_introductions">Törlés után a fiók alatti összes felhasználói adat is véglegesen törlődik</string>
+  <string name="thing_map_confirm">Jóváhagy</string>
   <string name="thing_permission_full_screen_desc">Engedélyezze, hogy az alkalmazás teljes képernyős értesítéseket fogadjon a zárolási képernyőn.</string>
   <string name="thing_permission_full_screen_title">Hozzáférés a teljes képernyős értesítésekhez</string>
   <string name="thursday">Csüt.</string>
@@ -3152,12 +3164,15 @@
   <string name="voice_nopermissions_title">Hangvezérléshez a mikrofonhoz hozzáférés szükséges</string>
   <string name="voice_time_error">Sajnálom, nem értem, amit mond.</string>
   <string name="wait_reply">Köszönjük visszajelzését, a lehető leghamarabb kapcsolatba lépünk Önnel</string>
+  <string name="webview_ok">Jóváhagy</string>
+  <string name="webview_prompt">Infó</string>
   <string name="webview_reload">Újratöltés</string>
   <string name="wednesday">Sze.</string>
   <string name="weekday">Munkanap</string>
   <string name="weekend">Hétvége</string>
   <string name="which_room_has_device">Helyiségek:</string>
   <string name="widget_CFBundleDisplayName">Eszköz gyors vezérlése</string>
+  <string name="widget_control_cannot_use">Betöltés</string>
   <string name="widget_device_no_home">A gyorsindítók használata előtt adjon hozzá eszközöket egy Otthonhoz.</string>
   <string name="widget_device_offline">Offline</string>
   <string name="widget_loading">Betöltés...</string>

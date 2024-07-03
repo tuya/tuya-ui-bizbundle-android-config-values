@@ -643,6 +643,7 @@
   <string name="ipc_pir_switch">Pohybový spínač PIR</string>
   <string name="ipc_play_mobileplay_tips">Na kontrolu videa používate mobilné dáta. Venujte pozornosť spotrebe dát.</string>
   <string name="ipc_playback_no_records_today">Žiadne dnešné videozáznamy</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Prosím, otvorte povolenie pre ukladanie albumov; ak je už otvorené, prosím, pozrite si najskôr obrazovku kamery pred nastavením.</string>
   <string name="ipc_qrpair_button_help">Nič sa nestalo</string>
   <string name="ipc_qrpair_button_next">Počul som pípnutie</string>
   <string name="ipc_qrpair_help">Nápoveda</string>
@@ -706,6 +707,7 @@
   <string name="ipc_sound_sensitivity_select">Vyberte citlivosť</string>
   <string name="ipc_sound_sensitivity_settings">Citlivosť</string>
   <string name="ipc_sound_sensitivity_settings_tips">Vyberte citlivosť</string>
+  <string name="ipc_speed">rýchlosť</string>
   <string name="ipc_status_awake">Prebudenie kamery</string>
   <string name="ipc_status_awake_failed">Chyba prebudenia kamery</string>
   <string name="ipc_status_cloudstorage_stream_failed">Nepodarilo sa načítať údaje z úložiska v cloude</string>
@@ -725,6 +727,7 @@
   <string name="is_save_smart_update">Potvrdiť zmeny</string>
   <string name="later_on">Neskôr</string>
   <string name="left_button_device_offline">Inštrukcia</string>
+  <string name="light_scene_other_condition">Pridať podmienku</string>
   <string name="link_cancel">Odpojiť</string>
   <string name="link_device_empty">Nie je možné pridružiť žiadne zariadenie</string>
   <string name="link_empty_tip">Vďaka dvojitej konfigurácii spojenia riadenia môžete pridružiť dva spínače v rôznych polohách a ovládať tak zapnutie a vypnutie toho istého svetla.</string>
@@ -1165,6 +1168,7 @@
   <string name="temperature_unit">Jednotky teploty</string>
   <string name="terminate_account">Zrušiť účet</string>
   <string name="terminate_account_introductions">Všetky užívateľské dáta budú zmazané</string>
+  <string name="thing_map_confirm">Potvrdiť</string>
   <string name="thursday">Št</string>
   <string name="timer">Plán</string>
   <string name="timer_add_failure">Pridanie plánu zlyhalo, skontrolujte sieť</string>
@@ -1780,6 +1784,8 @@
   <string name="voice_nopermissions_title">Funkcia hlasu vyžaduje mikrofón</string>
   <string name="voice_time_error">Prepáčte, nerozumel som</string>
   <string name="wait_reply">Ďakujeme za spätnú väzbu, skoro sa ohlásime</string>
+  <string name="webview_ok">Potvrdiť</string>
+  <string name="webview_prompt">Tip</string>
   <string name="webview_reload">obnoviť</string>
   <string name="weekday">Pracovné dni</string>
   <string name="weekend">Víkend</string>

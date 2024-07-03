@@ -413,6 +413,7 @@
   <string name="ipc_panel_netstatus_signal">Semnal</string>
   <string name="ipc_pir_switch">Comutator PIR</string>
   <string name="ipc_playback_no_records_today">Nici o inregistrare astazi</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Vă rugăm să deschideți permisiunea de stocare a albumului; dacă este deja deschis, vă rugăm să vizionați mai întâi ecranul camerei înainte de a-l configura.</string>
   <string name="ipc_qrpair_button_help">Nici un rezultat</string>
   <string name="ipc_qrpair_button_next">Am auzit sunetul</string>
   <string name="ipc_qrpair_help">Ajutor</string>
@@ -458,6 +459,7 @@
   <string name="ipc_sound_sensitivity_high">Inalta</string>
   <string name="ipc_sound_sensitivity_low">Joasa</string>
   <string name="ipc_sound_sensitivity_select">Selectati nivelul de sensibilitate</string>
+  <string name="ipc_speed">viteză</string>
   <string name="ipc_status_awake">Pornire camera</string>
   <string name="ipc_status_awake_failed">Pornire camera esuata</string>
   <string name="ipc_status_nosdcard">Cardul SD nu este disponibil</string>
@@ -471,6 +473,7 @@
   <string name="is_save_smart_update">Confirmare modificari</string>
   <string name="later_on">Mai tarziu</string>
   <string name="left_button_device_offline">Instructiuni</string>
+  <string name="light_scene_other_condition">Daugare conditie declansatoare</string>
   <string name="load_error">Incarcare esuata</string>
   <string name="load_failed_check_network">Timpul de încărcare, verificați rețeaua</string>
   <string name="loading">Incarcare</string>
@@ -675,6 +678,7 @@
   <string name="temperature_unit">Unitate de masura temperatura</string>
   <string name="terminate_account">Stergere cont</string>
   <string name="terminate_account_introductions">Dupa eliminare toate datele contului vor fi sterse</string>
+  <string name="thing_map_confirm">Confirmare</string>
   <string name="thursday">Joi</string>
   <string name="timer">Programare</string>
   <string name="timer_add_failure">Adaugati comanda programata esuata, verificati setarile de retea</string>
@@ -1184,6 +1188,8 @@
   <string name="voice_nopermissions_title">Controlul vocal necesirta acces la microfon</string>
   <string name="voice_time_error">Scuze, nu am inteles</string>
   <string name="wait_reply">Multumim pentru mesaj. Vom reveni cu raspuns curand.</string>
+  <string name="webview_ok">Confirmare</string>
+  <string name="webview_prompt">Sfat</string>
   <string name="webview_reload">Reîncarcă</string>
   <string name="weekday">Zile lucratoare</string>
   <string name="weekend">Weekend</string>

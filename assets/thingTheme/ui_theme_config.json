@@ -29,6 +29,7 @@
 			"button_corner_type":"angle",
 			"card_corner_type":"angle"
 		},
+		"custom_colors":{},
 		"font":{
 			"app_bold_font":"",
 			"app_font":""
@@ -64,6 +65,7 @@
 		"button_corner_type":"angle",
 		"card_corner_type":"angle"
 	},
+	"custom_colors":{},
 	"font":{
 		"app_bold_font":"",
 		"app_font":""
