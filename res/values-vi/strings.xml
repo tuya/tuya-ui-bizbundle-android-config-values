@@ -547,6 +547,8 @@
   <string name="has_update">&lt;font color = \"# ff0000\"&gt; Phiên bản mới %s &lt;/ font&gt;</string>
   <string name="head_icon">Ảnh hồ sơ</string>
   <string name="headportrait_change_select">Chọn từ Album</string>
+  <string name="health_watch_sit_warn_body">Đã đến lúc đứng lên và đi lại xung quanh!</string>
+  <string name="health_watch_sit_warn_sub_title">Lời nhắc Ít Vận động</string>
   <string name="help_and_feedback">Câu hỏi thường gặp và phản hồi</string>
   <string name="help_center">Câu hỏi thường gặp và phản hồi</string>
   <string name="home_add">Thêm</string>
@@ -974,6 +976,7 @@
   <string name="ipc_pir_switch">Cảm biến phát hiện chuyển động PIR</string>
   <string name="ipc_play_mobileplay_tips">Bạn đang sử dụng dữ liệu di động của bạn để xem video. Hãy chú ý đến việc sử dụng dữ liệu di động của bạn.</string>
   <string name="ipc_playback_no_records_today">Không có video phát lại vào ngày hôm nay</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Vui lòng mở quyền lưu trữ album; nếu đã mở, vui lòng xem trước màn hình máy ảnh trước khi thiết lập.</string>
   <string name="ipc_qrpair_button_help">Không nghe thấy gì</string>
   <string name="ipc_qrpair_button_next">Nghe thấy tiếng Bíp</string>
   <string name="ipc_qrpair_help">Trợ giúp</string>
@@ -1135,6 +1138,7 @@
   <string name="ipc_sound_sensitivity_select">Chọn độ nhạy decibel (dB)</string>
   <string name="ipc_sound_sensitivity_settings">Độ nhạy cảnh báo</string>
   <string name="ipc_sound_sensitivity_settings_tips">Chọn độ nhạy decibel (dB)</string>
+  <string name="ipc_speed">tốc độ</string>
   <string name="ipc_squirrel_expel">Chống sóc</string>
   <string name="ipc_status_awake">Đang đánh thức các thiết bị</string>
   <string name="ipc_status_awake_failed">Không thể đánh thức thiết bị</string>
@@ -1176,6 +1180,8 @@
   <string name="leave_for_owner">Sau khi xoá nhà, tất cả thành viên, dữ liệu trong nhà này sẽ bị xoá theo và các thiết bị sẽ ở trạng thái chờ kết nối lại</string>
   <string name="leave_not_operate">Sau khi rời khỏi thành viên trong nhà, Bạn không thể điều khiển thiết bị và các ngữ cảnh thông minh</string>
   <string name="left_button_device_offline">Hướng dẫn đặt lại</string>
+  <string name="light_scene_background">Hình ảnh</string>
+  <string name="light_scene_other_condition">Thêm điều kiện kích hoạt</string>
   <string name="link_alexa">Kết nối với Amazon Alexa</string>
   <string name="link_alexa_info">Điều khiển thiết bị của bạn bằng giọng nói thông qua các loại loa thông minh Amazon Echo. Nhấp vào nút bên dưới để liên kết tài khoản Amazon của bạn.</string>
   <string name="link_cancel">Hủy liên kết</string>
@@ -1488,7 +1494,7 @@
   <string name="pps_preview">Xem trước</string>
   <string name="pps_record_notfound">Không tìm thấy bản ghi,
 \ n Vui lòng đợi vài phút và thử lại</string>
-  <string name="pps_recording">Đang ghi</string>
+  <string name="pps_recording">Đang chạy</string>
   <string name="pps_standard">SD</string>
   <string name="pps_start_talking">Bắt đầu nói</string>
   <string name="pps_video_saved">Đã lưu video</string>
@@ -1563,6 +1569,7 @@
   <string name="scene_action_device_maybe_removed">Thiết bị đã được hủy liên kết</string>
   <string name="scene_action_not_support_this_condition">Tác vụ đã đặt không hỗ trợ loại điều kiện này</string>
   <string name="scene_added">Ngữ cảnh \"Chạm-để-Chạy\" đã được thêm</string>
+  <string name="scene_ai">Lệnh Trợ lý AI (Beta)</string>
   <string name="scene_all_day">Cả ngày</string>
   <string name="scene_all_day_sub">24 giờ</string>
   <string name="scene_allow_location_permission">Cho phép quyền truy cập vị trí</string>
@@ -1611,8 +1618,10 @@
   <string name="scene_excute_start">Kích hoạt  lúc thực thi</string>
   <string name="scene_excute_stop">Vô hiệu hóa lúc thực thi</string>
   <string name="scene_execute_device">Vận hành Thiết bị</string>
+  <string name="scene_execute_failed">Thất bại</string>
   <string name="scene_execute_manual">Thực thi \"Chạm-để-Chạy\"</string>
   <string name="scene_execute_smart">Chọn Kịch bản thông minh</string>
+  <string name="scene_execute_timeout">Hết thời gian chờ</string>
   <string name="scene_face_detect">Nhận dạng khuôn mặt</string>
   <string name="scene_family_member_go_home">Thành viên gia đình đang ở nhà</string>
   <string name="scene_find_new_actionexecutor">Phiên bản ứng dụng hiện tại không thể hiển thị hoặc thực thi một số hành động. Vui lòng cập nhật nó lên phiên bản mới nhất.</string>
@@ -1778,6 +1787,7 @@
   <string name="temperature_unit">Đơn vị nhiệt độ</string>
   <string name="terminate_account">Vô hiệu hóa tài khoản</string>
   <string name="terminate_account_introductions">Sau khi tài khoản bị vô hiệu hóa, tất cả dữ liệu người dùng trong tài khoản này sẽ bị xóa vĩnh viễn.</string>
+  <string name="thing_map_confirm">Xác nhận</string>
   <string name="thing_permission_full_screen_desc">Cho phép ứng dụng nhận thông báo toàn màn hình trên màn hình khóa.</string>
   <string name="thing_permission_full_screen_title">Truy cập vào thông báo toàn màn hình</string>
   <string name="thursday">Thứ năm</string>
@@ -2545,11 +2555,14 @@
   <string name="voice_nopermissions_title">Tính năng đàm thoại yêu cầu quyền truy cập vào microphone</string>
   <string name="voice_time_error">Xin lỗi, tôi không hiểu những gì bạn vừa nói</string>
   <string name="wait_reply">Chúng tôi đã nhận được phản hồi của bạn. Chúng tôi sẽ trả lời bạn sớm nhất có thể.</string>
+  <string name="webview_ok">Xác nhận</string>
+  <string name="webview_prompt">Gợi ý</string>
   <string name="webview_reload">Tải lại</string>
   <string name="weekday">Ngày làm việc</string>
   <string name="weekend">Cuối tuần</string>
   <string name="which_room_has_device">Phòng:</string>
   <string name="widget_CFBundleDisplayName">Phím tắt điều khiển thiết bị</string>
+  <string name="widget_control_cannot_use">Đang tải</string>
   <string name="widget_device_no_home">Vui lòng tạo một Nhà và thêm các thiết bị trong đó trước khi sử dụng điều khiển bằng phím tắt.</string>
   <string name="widget_device_offline">Ngoại tuyến</string>
   <string name="widget_loading">Đang tải …</string>

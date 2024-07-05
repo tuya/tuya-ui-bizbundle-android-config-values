@@ -694,6 +694,8 @@ Uygulamasına Gidebilirsiniz.</string>
   <string name="has_update">&lt;font color=#ff0000&gt;Yeni Sürüm %s&lt;/font&gt;</string>
   <string name="head_icon">Profil Fotoğrafı</string>
   <string name="headportrait_change_select">Yerel Albüm’den Seç</string>
+  <string name="health_watch_sit_warn_body">Ayağa kalkıp hareket etme zamanı!</string>
+  <string name="health_watch_sit_warn_sub_title">Hareketsizlik Hatırlatması</string>
   <string name="help_and_feedback">SSS ve Geri Bildirim</string>
   <string name="help_center">SSS &amp; Geribildirim</string>
   <string name="home_add">Ekle</string>
@@ -1255,6 +1257,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_bird_identify_error">Belirleme hatası.</string>
   <string name="ipc_bird_service_expiring_tips">Kuş belirleme deneme süreniz %s tarihinde doluyor. Kullanmaya devam etmek için bu hizmete abone olun.</string>
   <string name="ipc_button_enter_album">Albümleri görüntüle</string>
+  <string name="ipc_call_network_error">Üzgünüm, ağ hatası. Lütfen daha sonra tekrar deneyin.</string>
   <string name="ipc_call_prompt">Sizi Aradı ve Telefonu Kapattı</string>
   <string name="ipc_camera_module_setting">Kamera ayarları</string>
   <string name="ipc_chime_run_time">%s min</string>
@@ -1658,6 +1661,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_playback_no_records_today">Bugün İçin Oynatılacak Video Yok</string>
   <string name="ipc_preview_low_battery_hint">Cihazınızın Pil Seviyesi Düşük. Lütfen Şarja Takın.</string>
   <string name="ipc_privacy_zone_set">Gizlilik Bölgesi Ayarı</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Lütfen albüm depolama iznini açın; eğer zaten açıksa, lütfen ayarlamadan önce kamera ekranını izleyin.</string>
   <string name="ipc_privacy_zone_set_point">Seçilen Kutuyu Ayrılan Gizlilik Alanına Sürükleyin/Ayarlayın</string>
   <string name="ipc_qrpair_button_help">İstek Bulunamadı</string>
   <string name="ipc_qrpair_button_next">Komut Duydum</string>
@@ -1772,6 +1776,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_settings_ap_sync_body">AP Modundayken Cihazı Yeniden Başlatmanız Gerekirse, Lütfen Cihazını Yeniden Başlattıktan Sonra YAPılandırmayı Senkronize Etmek İçin Uygulamayı Kullanın. Aksi Takdirde Kayıt İşlevi Düzgün Çalışmayacaktır.</string>
   <string name="ipc_settings_ap_sync_hint">İpucu</string>
   <string name="ipc_settings_auto">Bağlantı</string>
+  <string name="ipc_settings_backup_network">Alternatif Ağ</string>
   <string name="ipc_settings_camera_mode">Çalışma Modu</string>
   <string name="ipc_settings_camera_mode_continue">Sürekli</string>
   <string name="ipc_settings_camera_mode_continue_hint">Pil Bitene Kadar Kamera Çalışmaya Devam Edecektir.</string>
@@ -1891,6 +1896,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_sound_sensitivity_select">Desibel Algılama İçin Duyarlılığı Seçin</string>
   <string name="ipc_sound_sensitivity_settings">Duyarlılık Seviyesi</string>
   <string name="ipc_sound_sensitivity_settings_tips">Desibel Algılama İçin Duyarlılığı Seçin</string>
+  <string name="ipc_speed">hız</string>
   <string name="ipc_squirrel_expel">Sincap Kovucu</string>
   <string name="ipc_state_busy">Cihaz Meşgul</string>
   <string name="ipc_status_Indicator">Durum Göstergesi</string>
@@ -1962,6 +1968,15 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="leave_for_owner">Ev Silindikten Sonra Tüm Üyeler Silinecek, veriler Temizlenecek ve Tüm Cihazların Eşleştirilmesi Kaldırılacaktır.</string>
   <string name="leave_not_operate">Aileden Ayrıldığınızda Artık Cihazları  veya Ailenin Uygulamasını Çalıştıramazsınız.</string>
   <string name="left_button_device_offline">Sıfırlama talimatları</string>
+  <string name="light_scene_background">Resim</string>
+  <string name="light_scene_dim_bright">Parlaklık</string>
+  <string name="light_scene_dim_hue">Renk</string>
+  <string name="light_scene_dim_temp">Renk sıcaklığı</string>
+  <string name="light_scene_item_edit">Aydınlatma sahnesini düzenle</string>
+  <string name="light_scene_other_action_save">Onayla</string>
+  <string name="light_scene_other_condition">Tetikleme Koşulu Ekle</string>
+  <string name="light_scene_select_background">Seç</string>
+  <string name="light_scene_select_color">Seç</string>
   <string name="link_alexa">Amazon Alexa\'ya Bağlan</string>
   <string name="link_alexa_info">Amazon Echo Serisi Akıllı Hoparlörü Kullanarak Cihazınızı Ses İle Kontrol Edin. Cihazınızı Amazon Hesabınıza Bağlamak İçin Düğmeye Tıklayın.</string>
   <string name="link_cancel">İlişkilendirmeyi kaldır</string>
@@ -2344,7 +2359,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="pps_photo_saved">Ekran Görüntüsü Kaydedildi</string>
   <string name="pps_preview">Ön İzleme</string>
   <string name="pps_record_notfound">SD kartta herhangi bir kayıt bulunamadı \n Lütfen birkaç dakika bekleyin ve tekrar deneyin</string>
-  <string name="pps_recording">Kaydediliyor...</string>
+  <string name="pps_recording">Çalışıyor</string>
   <string name="pps_standard">SD</string>
   <string name="pps_start_talking">Konuşmaya Başla</string>
   <string name="pps_video_saved">Video Kaydedildi</string>
@@ -2424,6 +2439,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="scene_action_device_maybe_removed">Cihaz bağlantısı kaldırıldı</string>
   <string name="scene_action_not_support_this_condition">Koşullar Bu Görev Altında Çalışamaz.</string>
   <string name="scene_added">Senaryo eklendi</string>
+  <string name="scene_ai">Yapay Zeka Asistan Komutu (Beta)</string>
   <string name="scene_all_day">Tam Gün</string>
   <string name="scene_all_day_sub">24 saat</string>
   <string name="scene_allow_location_permission">Konum İznini Etkinleştirin</string>
@@ -2477,9 +2493,11 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="scene_excute_start">Başlangıç</string>
   <string name="scene_excute_stop">Senaryo Yürütülürken Otomasyonu Durdur</string>
   <string name="scene_execute_device">Cihazı çalıştır</string>
+  <string name="scene_execute_failed">Başarısız</string>
   <string name="scene_execute_manual">Tıkla-Çalıştır\'ı etkinleştir</string>
   <string name="scene_execute_smart">Akıllı sahne seçin</string>
   <string name="scene_execute_task">Bunu gerçekleştir:</string>
+  <string name="scene_execute_timeout">Zaman aşımı</string>
   <string name="scene_face_detect">Yüz tanıma</string>
   <string name="scene_family_member_go_home">Aile Üyesi</string>
   <string name="scene_find_new_actionexecutor">Görüntülemek ve bazı işlemleri gerçekleştirmek için güncel uygulama sürümü çok eski. Lütfen en yeni sürüme güncelleyin.</string>
@@ -2702,6 +2720,7 @@ Devam Edilsin Mi?</string>
   <string name="thing_hide_account_mobile">Tam Numarayı Gizle</string>
   <string name="thing_hour">Saat</string>
   <string name="thing_local_device_disconnect">Bağlantı Kesildi</string>
+  <string name="thing_map_confirm">Onayla</string>
   <string name="thing_minute">Dakika</string>
   <string name="thing_mobile_push">Anlık Bildirim</string>
   <string name="thing_not_repeat_notice">Tekrar Yok</string>
@@ -2816,7 +2835,7 @@ Devam Edilsin Mi?</string>
   <string name="thing_account_bindphone_country_no_support">Cep telefonu numarasıyla bağlantı kurma özelliği bu bölgede kullanılamamaktadır.</string>
   <string name="thing_account_gotobind">Şimdi Bağla</string>
   <string name="thing_account_line">Hat</string>
-  <string name="thing_act_ble_t_no_result_content">Talimatları izleyin ve cihazın eşleştirilecek bir durumda kalmasını sağlayın.</string>
+  <string name="thing_act_ble_t_no_result_content">Lütfen cihazın ağa bağlanmaya hazır olduğundan emin olmak için Nasıl Yapılır kısmına bakın.</string>
   <string name="thing_act_ble_t_no_result_content_help">Nasıl Yapılır</string>
   <string name="thing_act_ble_t_no_result_title">Cihaz bulunamadı. Bir cihazı manuel olarak eklemeyi deneyin.</string>
   <string name="thing_act_ble_t_no_result_try_again">Yeniden Deneyin</string>
@@ -3822,6 +3841,7 @@ Cihazınızın uzaktan kumandasını kullanmak için cihaz ayarları sayfasında
   <string name="thing_light_scene_create">Yeni bir aydınlatma sahnesi oluşturun.</string>
   <string name="thing_light_scene_default_name">Yeni Aydınlatma Sahnesi</string>
   <string name="thing_light_scene_delete_tips">Lambalar çıkarıldı, sahne silinecek.</string>
+  <string name="thing_light_scene_diy_scene">Aydınlatma Sahnesi</string>
   <string name="thing_light_scene_edit">Aydınlatma sahnesini düzenle</string>
   <string name="thing_light_scene_edit_quit_tip">Çıkmak istiyor musunuz?</string>
   <string name="thing_light_scene_edit_quit_tip_detail">Çıktıktan sonra girdiğiniz bilgiler kaydedilmeyecektir.</string>
@@ -4784,12 +4804,15 @@ Daha fazla ayrıntı öğrenmek için \"Özellik Ayrıntıları\"nı görüntül
   <string name="voice_nopermissions_title">Ses özelliği mikrofon kullanımı gerektirmektedir</string>
   <string name="voice_time_error">Özür Dilerim, Ne Dediğinizi Anlayamıyorum.</string>
   <string name="wait_reply">Geri Bildiriminiz İçin Teşekkürler. Kısa Sürede Sizinle İletişime Geçeceğiz.</string>
+  <string name="webview_ok">Onayla</string>
+  <string name="webview_prompt">İpuçları</string>
   <string name="webview_reload">Tekrar yükle</string>
   <string name="wednesday">Çarşamba</string>
   <string name="weekday">İş günü</string>
   <string name="weekend">Hafta sonu</string>
   <string name="which_room_has_device">Odalar:</string>
   <string name="widget_CFBundleDisplayName">Cihaz kısayolu kontrolü</string>
+  <string name="widget_control_cannot_use">Yükleniyor</string>
   <string name="widget_device_no_home">Ev Cihazlarını Oluşturduktan Sonra Kısayol Kontrollerini Kullanabilirsiniz.</string>
   <string name="widget_device_offline">çevrimdışı</string>
   <string name="widget_loading">Yükleniyor…</string>

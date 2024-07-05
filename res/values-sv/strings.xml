@@ -411,6 +411,7 @@
   <string name="ipc_panel_netstatus_signal">Signal</string>
   <string name="ipc_pir_switch">PIR-Brytare</string>
   <string name="ipc_playback_no_records_today">Inga videofiler idag</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Vänligen öppna tillåtelse för albumlagring; om den redan är öppen, vänligen titta först på kamerabilden innan du ställer in den.</string>
   <string name="ipc_qrpair_button_help">Inget hände</string>
   <string name="ipc_qrpair_button_next">Hörde pipen</string>
   <string name="ipc_qrpair_help">Hjälp</string>
@@ -458,6 +459,7 @@
   <string name="ipc_sound_sensitivity_high">Hög ljudkänslighet</string>
   <string name="ipc_sound_sensitivity_low">Låg känslighet</string>
   <string name="ipc_sound_sensitivity_select">Välj känslighet</string>
+  <string name="ipc_speed">hastighet</string>
   <string name="ipc_status_awake">Väcker kamera.</string>
   <string name="ipc_status_awake_failed">Väckning av enhet misslyckades</string>
   <string name="ipc_status_nosdcard">Inget SD-kort tillgängligt</string>
@@ -471,6 +473,7 @@
   <string name="is_save_smart_update">Bekräfta ändringar</string>
   <string name="later_on">Senare</string>
   <string name="left_button_device_offline">Instruktioner för återställning</string>
+  <string name="light_scene_other_condition">Lägg till ett utlösande villkor</string>
   <string name="load_error">Laddning misslyckades.</string>
   <string name="load_failed_check_network">Ladda ut timeout, kolla nätverket</string>
   <string name="loading">Läser in...</string>
@@ -674,6 +677,7 @@
   <string name="temperature_unit">Temperaturenhet</string>
   <string name="terminate_account">Avsluta kontot</string>
   <string name="terminate_account_introductions">Efter uppsägning raderas alla användardata för kontot</string>
+  <string name="thing_map_confirm">Bekräfta</string>
   <string name="thursday">Torsdag</string>
   <string name="timer">Timer</string>
   <string name="timer_add_failure">Lägga till timer misslyckades, kolla ditt nätverk.</string>
@@ -1179,6 +1183,8 @@
   <string name="voice_nopermissions_title">Mikrofon krävs för röst.</string>
   <string name="voice_time_error">Tyvärr, jag förstår inte.</string>
   <string name="wait_reply">Tack för din feedback. Vi återkopplar till dig inom kort.</string>
+  <string name="webview_ok">Bekräfta</string>
+  <string name="webview_prompt">Tips</string>
   <string name="webview_reload">Ladda om</string>
   <string name="weekday">Arbetsdagar</string>
   <string name="weekend">Helg</string>

@@ -743,6 +743,7 @@
   <string name="ipc_pir_switch">Διακόπτης PIR</string>
   <string name="ipc_play_mobileplay_tips">Χρησιμοποιείτε δεδομένα κινητής για προβολή του βίντεο. Δώστε προσοχή στα διαθέσιμα δεδομένα κινητής σας.</string>
   <string name="ipc_playback_no_records_today">Нет воспроизведение видео дня</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Παρακαλώ ανοίξτε την άδεια αποθήκευσης άλμπουμ · εάν είναι ήδη ανοικτή, παρακαλώ δείτε πρώτα την οθόνη της κάμερας πριν τη ρύθμιση.</string>
   <string name="ipc_qrpair_button_help">Άκουσα Τίποτα</string>
   <string name="ipc_qrpair_button_next">Ακούστε Τον Ήχο</string>
   <string name="ipc_qrpair_help">Βοήθεια</string>
@@ -820,6 +821,7 @@
   <string name="ipc_sound_sensitivity_select">Выбор чувствительности обнаружения дБ</string>
   <string name="ipc_sound_sensitivity_settings">Επίπεδο ευαισθησίας συναγερμού</string>
   <string name="ipc_sound_sensitivity_settings_tips">Επιλέξτε επίπεδο ευαισθησίας ανίχνευσης ντεσιμπέλ</string>
+  <string name="ipc_speed"> ταχύτητα (tahýtita)</string>
   <string name="ipc_status_awake">Αφύπνιση κάμερας.</string>
   <string name="ipc_status_awake_failed">Η αφύπνιση της συσκευής απέτυχε.</string>
   <string name="ipc_status_cloudstorage_stream_failed">Αποτυχία φόρτωσης δεδομένων αποθηκευμένων στο σύννεφο</string>
@@ -852,6 +854,7 @@
   <string name="leave_for_owner">Αφού διαγραφεί η οικογένεια, όλα τα μέλη θα διαγραφούν, τα δεδομένα θα αδειάσουν, οι συσκευές που θα προστεθούν θα διαχωριστούν και θα επαναληφθούν.</string>
   <string name="leave_not_operate">Αφού εγκαταλείψετε την οικογένεια, δεν μπορείτε πλέον να χειρίζεστε συσκευές και Smart της οικογένειας.</string>
   <string name="left_button_device_offline">Επαναφορά Οδηγίες</string>
+  <string name="light_scene_other_condition">Προσθήκη κατάστασης εκκίνησης</string>
   <string name="link_alexa">Σύνδεση με Alexa</string>
   <string name="link_alexa_info">Ελέγξτε τη συσκευή σας φωνητικά μέσω έξυπνων ηχείων της σειράς Amazon Echo. Πιέστε το πλήκτρο για να δέσετε τη συσκευή με τον λογαριασμό σας Amazon</string>
   <string name="link_cancel">Αποσυσχετισμός</string>
@@ -1353,6 +1356,7 @@
   <string name="temperature_unit">Μονάδες Θερμοκρασίας</string>
   <string name="terminate_account">Απενεργοποίηση λογαριασμού</string>
   <string name="terminate_account_introductions">Μετά την απενεργοποίηση του λογαριασμού, όλα τα δεδομένα χρήστη κάτω από αυτό το λογαριασμού θα διαγραφούν μόνιμα</string>
+  <string name="thing_map_confirm">Επιβεβαιώνω</string>
   <string name="thursday">Πέμπτη</string>
   <string name="timer">Συγχρονισμός</string>
   <string name="timer_add_failure">Επιπλέον χρονοδιακόπτη απέτυχε, παρακαλώ ελέγξτε το δίκτυο είναι φυσιολογικό</string>
@@ -2044,6 +2048,8 @@
   <string name="voice_nopermissions_title">Φωνή απαιτεί τη χρήση ενός μικροφώνου</string>
   <string name="voice_time_error">Λυπάμαι, δεν μπορώ να καταλάβω αυτό που είπατε</string>
   <string name="wait_reply">Σχόλια έχει λάβει, θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό</string>
+  <string name="webview_ok">Επιβεβαιώνω</string>
+  <string name="webview_prompt">Προτροπή</string>
   <string name="webview_reload">Φορτώνω πάλι</string>
   <string name="weekday">Εργάσιμη Ημέρα</string>
   <string name="weekend">Σαββατοκύριακο</string>

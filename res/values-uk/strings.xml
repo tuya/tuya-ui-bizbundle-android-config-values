@@ -1122,6 +1122,7 @@
   <string name="ipc_basic_wdr">Режим WDR</string>
   <string name="ipc_bell_push">Дзвінок</string>
   <string name="ipc_button_enter_album">Перегляд альбомів</string>
+  <string name="ipc_call_network_error">Вибачте, помилка мережі. Спробуйте ще раз пізніше.</string>
   <string name="ipc_call_prompt">Подзвонив вам і поклав слухавку</string>
   <string name="ipc_chime_run_time">%s хвилин</string>
   <string name="ipc_chime_type_digit">Цифровий</string>
@@ -1479,6 +1480,7 @@
   <string name="ipc_playback_no_records_today">Відтворення відео за цей день відсутнє</string>
   <string name="ipc_preview_low_battery_hint">У пристрою низький заряд, зарядіть, будь ласка.</string>
   <string name="ipc_privacy_zone_set">Налаштування приватності</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Будь ласка, відкрийте дозвіл на зберігання альбомів; якщо вже відкрито, будь ласка, перегляньте спершу зображення камери перед його налаштуванням.</string>
   <string name="ipc_privacy_zone_set_point">Перетягніть/відрегулюйте вибране поле до визначеної області конфіденційності</string>
   <string name="ipc_qrpair_button_help">Нічого не чули</string>
   <string name="ipc_qrpair_button_next">Чули звуковий сигнал</string>
@@ -1707,6 +1709,7 @@
   <string name="ipc_sound_sensitivity_select">Виберіть чутливість для виявлення децибелів</string>
   <string name="ipc_sound_sensitivity_settings">Рівень чутливості</string>
   <string name="ipc_sound_sensitivity_settings_tips">Виберіть чутливість</string>
+  <string name="ipc_speed">швидкість (shvydkist)</string>
   <string name="ipc_status_Indicator">Статус індикатора</string>
   <string name="ipc_status_awake">Виведення пристрою з режиму сну</string>
   <string name="ipc_status_awake_failed">Не вдалося вивести пристрій із режиму сну</string>
@@ -1773,6 +1776,10 @@
   <string name="leave_for_owner">Після того, як дім буде видалений, усі учасники будуть видалені, дані будуть стерті, загальний доступ до пристроїв буде закритий.</string>
   <string name="leave_not_operate">Покинувши дім, ви більше не зможете керувати пристроями і сценаріями.</string>
   <string name="left_button_device_offline">Інструкції щодо перезавантаження</string>
+  <string name="light_scene_background">Зображення</string>
+  <string name="light_scene_item_edit">Додати сценарій підсвічування</string>
+  <string name="light_scene_other_action_save">Підтвердити</string>
+  <string name="light_scene_other_condition">Додати умову активації</string>
   <string name="link_alexa">Підключення до Amazon Alexa</string>
   <string name="link_alexa_info">Керуйте своїм пристроєм за допомогою голосу через інтелектуальні динаміки серії Amazon Echo. Натисніть кнопку, щоб прив\'язати свій пристрій до облікового запису Amazon.</string>
   <string name="link_cancel">Скасувати прив’язку</string>
@@ -2448,6 +2455,7 @@
   <string name="terminate_account">Деактивувати обліковий запис</string>
   <string name="terminate_account_introductions">Після вимкнення всі дані користувача за цим обліковим записом буде видалено назавжди</string>
   <string name="the_car_ahead">Попереду машина</string>
+  <string name="thing_map_confirm">Підтвердити</string>
   <string name="third_sdk_sercie_content">Список SDK послуг</string>
   <string name="third_sdk_service_content">Список сторонніх служб SDK</string>
   <string name="thursday">Четвер</string>
@@ -4077,6 +4085,8 @@
   <string name="voice_nopermissions_title">Для застосування голосових функцій потрібно використовувати мікрофон</string>
   <string name="voice_time_error">На жаль, я не розумію, що ви говорите</string>
   <string name="wait_reply">Дякуємо за ваш відгук! Ми незабаром зв’яжемося з вами</string>
+  <string name="webview_ok">Підтвердити</string>
+  <string name="webview_prompt">Сповіщення</string>
   <string name="webview_reload">Перезавантажити</string>
   <string name="wednesday">Ср</string>
   <string name="weekday">Робочий день</string>

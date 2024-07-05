@@ -511,6 +511,10 @@
   <string name="ipc_doorbell_bell_4">De vierde bel</string>
   <string name="ipc_doorbell_decline">Afwijzen</string>
   <string name="ipc_doorbell_file_authority">Om het systeemgeluid van uw telefoon af te spelen wanneer de bel gaat, moeten we toegang krijgen tot de leesautoriteit voor bestanden.</string>
+  <string name="ipc_doorbell_permission_content">Schakel relevante machtigingen in, zoals \"Systeemmelding\", \"Herinnering vergrendelscherm\", \"Pop-upinterface op de achtergrond\", \"Toestemming voor melding op volledig scherm\", enz. Anders kunt u gastoproepen missen. Als deze al is ingeschakeld, kunt u deze inschakelen. negeer deze herinnering alstublieft.</string>
+  <string name="ipc_doorbell_permission_ignore">Verwaarlozen</string>
+  <string name="ipc_doorbell_permission_set">Opgericht</string>
+  <string name="ipc_doorbell_permission_tip">Bel toestemming</string>
   <string name="ipc_doorbell_pic_load_fail_txt">Niet gelukt om de afbeelding op te laden</string>
   <string name="ipc_doorbell_pic_load_txt">De afbeelding is aan het opladen</string>
   <string name="ipc_doorbell_tip">Wachtend op deurbeloproep.</string>
@@ -560,7 +564,9 @@
   <string name="ipc_firmware_update_time_txt">Tijd van uitgave firmware:</string>
   <string name="ipc_firmware_upgrade_now">Nu upgraden</string>
   <string name="ipc_firmware_upgrade_txt">Bezig met uitvoeren upgrade</string>
+  <string name="ipc_full_screen_not_support">Het huidige scherm ondersteunt geen horizontaal scherm</string>
   <string name="ipc_humanoid_filter_settings">Lichaamsdetectie</string>
+  <string name="ipc_inspection_msg_title">Video Patrol-rapport</string>
   <string name="ipc_ipc_qrpair_txt">Wanneer u op CONTINUE tikt, geeft de mobiele telefoon een QR-code weer. Houd de camera op 15 tot 20 cm voor de mobiele telefoon zodat de camera de QR-code kan scannen.</string>
   <string name="ipc_live_pag_memory_point_no_data">Uw sitefavorieten zijn leeg.</string>
   <string name="ipc_live_page_cstorage">Cloudopslag</string>
@@ -636,6 +642,7 @@
   <string name="ipc_pir_switch">PIR-schakelaar</string>
   <string name="ipc_play_mobileplay_tips">U gebruikt uw mobiele data om de video te bekijken. Let op uw datagebruik.</string>
   <string name="ipc_playback_no_records_today">Geen dag afspelen van video</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Open alstublieft de toestemming om albumopslag; als het al open is, kijk dan eerst naar het camerascherm voordat u het instelt.</string>
   <string name="ipc_qrpair_button_help">Ik Heb Niets Gehoord</string>
   <string name="ipc_qrpair_button_next">Hoor Een Toon</string>
   <string name="ipc_qrpair_help">Help</string>
@@ -699,6 +706,7 @@
   <string name="ipc_sound_sensitivity_select">Selecteren van de detectiegevoeligheid dB</string>
   <string name="ipc_sound_sensitivity_settings">Gevoeligheidsniveau</string>
   <string name="ipc_sound_sensitivity_settings_tips">Selecteren van de detectiegevoeligheid dB</string>
+  <string name="ipc_speed">snelheid</string>
   <string name="ipc_status_awake">Camera ontwaken.</string>
   <string name="ipc_status_awake_failed">Wektoestel niet gelukt.</string>
   <string name="ipc_status_cloudstorage_stream_failed">Laden van cloudopslaggegevens is mislukt</string>
@@ -718,6 +726,7 @@
   <string name="is_save_smart_update">De wijzigingen bewaren?</string>
   <string name="later_on">Later</string>
   <string name="left_button_device_offline">Instructies</string>
+  <string name="light_scene_other_condition">Voeg een startvoorwaarde toe</string>
   <string name="link_cancel">Koppeling ongedaan maken</string>
   <string name="link_device_empty">Er kan geen apparaat worden gekoppeld</string>
   <string name="link_empty_tip">Via configuratie met dubbele besturingsbinding kunt u twee schakelaars in verschillende posities koppelen om het in- en uitschakelen van hetzelfde licht te regelen.</string>
@@ -796,7 +805,7 @@
   <string name="menu_title_link">Gekoppelde apparaten</string>
   <string name="menu_title_share">Toestel Delen</string>
   <string name="message_center">Berichten</string>
-  <string name="message_center_alarm">Alarm</string>
+  <string name="message_center_alarm">Meldingen</string>
   <string name="message_center_apr">April</string>
   <string name="message_center_aug">Augustus</string>
   <string name="message_center_dec">December</string>
@@ -1159,6 +1168,7 @@
   <string name="temperature_unit">Temperatuureenheden</string>
   <string name="terminate_account">Account uitschakelen</string>
   <string name="terminate_account_introductions">Na uitschakeling worden alle gebruikersgegevens van deze account blijvend verwijderd.</string>
+  <string name="thing_map_confirm">Bevestigen</string>
   <string name="thursday">Donderdag</string>
   <string name="timer">Schema</string>
   <string name="timer_add_failure">Planning toevoegen mislukt, controleer je netwerk</string>
@@ -1777,6 +1787,8 @@
   <string name="voice_nopermissions_title">Stembediening wil uw microfoon gebruiken</string>
   <string name="voice_time_error">Sorry, ik begrijp niet wat u zegt</string>
   <string name="wait_reply">Bedankt voor uw feedback.  Wij reageren kortelings.</string>
+  <string name="webview_ok">Bevestigen</string>
+  <string name="webview_prompt">Notificatie</string>
   <string name="webview_reload">vernieuwen</string>
   <string name="weekday">Werkdagen</string>
   <string name="weekend">Weekend</string>

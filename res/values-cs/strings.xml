@@ -653,6 +653,7 @@
   <string name="ipc_pir_switch">Spínač PIR on / off</string>
   <string name="ipc_play_mobileplay_tips">Pro kontrolu videa použijete mobilní data. Dávejte pozor na využití dat.</string>
   <string name="ipc_playback_no_records_today">Žádné video pro tento den</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">Prosím, otevřete oprávnění k ukládání alb; pokud je již otevřeno, podívejte se prosím nejdříve na obrazovku kamery před nastavením.</string>
   <string name="ipc_qrpair_button_help">Nic není slyšet</string>
   <string name="ipc_qrpair_button_next">Ozve se pípnutí</string>
   <string name="ipc_qrpair_help">Nápověda</string>
@@ -716,6 +717,7 @@
   <string name="ipc_sound_sensitivity_select">Vyberte citlivost detekce urovně hluku</string>
   <string name="ipc_sound_sensitivity_settings">Úroveň citlivosti</string>
   <string name="ipc_sound_sensitivity_settings_tips">Vyberte citlivost</string>
+  <string name="ipc_speed">rychlost</string>
   <string name="ipc_status_awake">Probuzení zařízení</string>
   <string name="ipc_status_awake_failed">Nepodařilo se probudit zařízení</string>
   <string name="ipc_status_cloudstorage_stream_failed">Nelze načíst data úložiště cloud</string>
@@ -736,6 +738,7 @@
   <string name="is_save_smart_update">Potvrdit provedené změny?</string>
   <string name="later_on">Řeknete znovu</string>
   <string name="left_button_device_offline">Resetování pokynů</string>
+  <string name="light_scene_other_condition">Přidat podmínku ke spuštění</string>
   <string name="link_cancel">Oddělit</string>
   <string name="link_device_empty">Žádné zařízení nelze propojit</string>
   <string name="link_empty_tip">Konfigurace vazby s dvojím řízením umožňuje propojit dva přepínače v různých polohách pro ovládání zapínání a vypínání stejného světla.</string>
@@ -1178,6 +1181,7 @@
   <string name="temperature_unit">Jednotka teploty</string>
   <string name="terminate_account">Deaktivovat účet</string>
   <string name="terminate_account_introductions">Po deaktivaci budou všechna uživatelská data tohoto účtu také trvale smazána</string>
+  <string name="thing_map_confirm">OK</string>
   <string name="thursday">Čtvrtek</string>
   <string name="timer">Plán</string>
   <string name="timer_add_failure">Přidání plánu selhalo, zkontrolujte prosím svou síť.</string>
@@ -1796,6 +1800,8 @@
   <string name="voice_nopermissions_title">Funkce hlasu vyžaduje použití mikrofonu</string>
   <string name="voice_time_error">Promiňte, nerozumím tomu, co jste řekl</string>
   <string name="wait_reply">Děkujeme za Vaši zpětnou vazbu. Budeme vás brzy kontaktovat.</string>
+  <string name="webview_ok">OK</string>
+  <string name="webview_prompt">Oznámení</string>
   <string name="webview_reload">Znovu načíst</string>
   <string name="wednesday">Středa</string>
   <string name="weekday">Pracovní den</string>

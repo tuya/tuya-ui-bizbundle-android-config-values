@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
+  <string name="IPC_chime_sound">เสียง</string>
   <string name="MULTI_CONTROL_GROUP_EXCEED_MAX_COUNT">เกินขีด จำกัด สูงสุดถึง %s</string>
   <string name="NSBluetoothPeripheralUsageDescription">คุณต้องเปิดบลูทูธบนโทรศัพท์เพื่อที่จะเพิ่มหรือใช้งานอุปกรณ์บลูทูธ</string>
   <string name="NSCameraUsageDescription">ฟังก์ชัน เช่น การเพิ่มกล้องหรือสแกนคิวอาร์โค้ด จำเป็นต้องใช้กล้อง</string>
@@ -523,6 +524,10 @@
   <string name="ipc_doorbell_bell_4">ริงโทน 4</string>
   <string name="ipc_doorbell_decline">ปฏิเสธ</string>
   <string name="ipc_doorbell_file_authority">เพื่อประสบการณ์ที่ดีที่สุดของผู้ใช้ แอปจะเล่นเสียงริงโทนของโทรศัพท์เมื่อกริ่งประตูดัง เราจึงต้องการเข้าถึงไฟล์ในโทรศัพท์</string>
+  <string name="ipc_doorbell_permission_content">โปรดเปิดการอนุญาตที่เกี่ยวข้อง เช่น \"การแจ้งเตือนระบบ\" \"การแจ้งเตือนการล็อกหน้าจอ\" \"อินเทอร์เฟซป๊อปอัปพื้นหลัง\" \"การอนุญาตการแจ้งเตือนแบบเต็มหน้าจอ\" ฯลฯ มิฉะนั้น คุณอาจพลาดสายจากแขกได้ หากเปิดไว้แล้ว โปรดเพิกเฉยต่อการแจ้งเตือนนี้</string>
+  <string name="ipc_doorbell_permission_ignore">ละเลย</string>
+  <string name="ipc_doorbell_permission_set">ติดตั้ง</string>
+  <string name="ipc_doorbell_permission_tip">ขออนุญาติโทร</string>
   <string name="ipc_doorbell_pic_load_fail_txt">โหลดรูปภาพล้มเหลว</string>
   <string name="ipc_doorbell_pic_load_txt">กำลังโหลดรูปภาพ</string>
   <string name="ipc_doorbell_tip">รอตอบรับกริ่งประตู</string>
@@ -572,7 +577,9 @@
   <string name="ipc_firmware_update_time_txt">เวลาปล่อยเฟิร์มแวร์:</string>
   <string name="ipc_firmware_upgrade_now">อัปเกรดตอนนี้</string>
   <string name="ipc_firmware_upgrade_txt">การอัปเกรด</string>
+  <string name="ipc_full_screen_not_support">หน้าจอปัจจุบันไม่รองรับหน้าจอแนวนอน</string>
   <string name="ipc_humanoid_filter_settings">การตรวจจับร่างกาย</string>
+  <string name="ipc_inspection_msg_title">รายงานสายตรวจวิดีโอ</string>
   <string name="ipc_ipc_qrpair_txt">เมื่อคุณแตะ ทำต่อ โทรศัพท์มือถือจะแสดงคิวอาร์โค้ด ถือกล้องห่าง 15 ถึง 20 ซม. ไว้ด้านหน้าโทรศัพท์มือถือเพื่อให้กล้องสแกนคิวอาร์โค้ด</string>
   <string name="ipc_live_pag_memory_point_no_data">รายการที่โปรดปรานสำหรับสถานที่ของคุณว่างเปล่า</string>
   <string name="ipc_live_page_cstorage">ที่เก็บบนคลาวด์</string>
@@ -650,6 +657,7 @@
   <string name="ipc_pir_switch">สวิตช์เปิด/ปิด PIR</string>
   <string name="ipc_play_mobileplay_tips">คุณกำลังใช้ข้อมูลเครือข่ายโทรศัพท์เพื่อตรวจสอบวิดีโอ โปรดระมัดระวังการใช้ข้อมูลของคุณ</string>
   <string name="ipc_playback_no_records_today">ไม่มีวิดีโอย้อนหลังในวันนั้น</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">โปรดเปิดการอนุญาตการเก็บข้อมูลอัลบั้ม; หากเปิดแล้ว โปรดดูหน้าจอกล้องก่อนที่จะทำการตั้งค่า.</string>
   <string name="ipc_qrpair_button_help">ไม่ได้ยินอะไรเลย</string>
   <string name="ipc_qrpair_button_next">ได้ยินเสียงเตือนดังปี๊บ</string>
   <string name="ipc_qrpair_help">ช่วยเหลือ</string>
@@ -713,6 +721,7 @@
   <string name="ipc_sound_sensitivity_select">เลือกความไวในการตอบสนองต่อการตรวจจับระดับเดซิเบล</string>
   <string name="ipc_sound_sensitivity_settings">ระดับความไวในการตอบสนอง</string>
   <string name="ipc_sound_sensitivity_settings_tips">เลือกความไวในการตอบสนอง</string>
+  <string name="ipc_speed">ความเร็ว (khwaam reo)</string>
   <string name="ipc_status_awake">การปลุกอุปกรณ์</string>
   <string name="ipc_status_awake_failed">ปลุกอุปกรณ์ล้มเหลว</string>
   <string name="ipc_status_cloudstorage_stream_failed">โหลดข้อมูลของที่เก็บบนคลาวด์ล้มเหลว</string>
@@ -733,6 +742,7 @@
   <string name="is_save_smart_update">ยืนยันการเปลี่ยนแปลงหรือไม่</string>
   <string name="later_on">พูดอีกครั้งในภายหลัง</string>
   <string name="left_button_device_offline">วิธีเริ่มใหม่</string>
+  <string name="light_scene_other_condition">เพิ่มเงื่อนไขการทริกเกอร์</string>
   <string name="link_cancel">ยกเลิกการเชื่อมโยง</string>
   <string name="link_device_empty">ไม่มีอุปกรณ์ที่เชื่อมโยงได้</string>
   <string name="link_empty_tip">คุณสามารถเชื่อมโยงสองสวิตช์ในตำแหน่งที่แตกต่างกันเพื่อควบคุมการเปิดและการปิดไฟดวงเดียวกันได้ผ่านการกำหนดค่าการผูกการควบคุมแบบคู่</string>
@@ -1174,6 +1184,7 @@
   <string name="temperature_unit">หน่วยอุณหภูมิ</string>
   <string name="terminate_account">ปิดใช้งานบัญชี</string>
   <string name="terminate_account_introductions">เมื่อปิดใช้งานแล้ว ข้อมูลผู้ใช้ทั้งหมดภายใต้บัญชีนี้จะถูกลบถาวร</string>
+  <string name="thing_map_confirm">ยืนยัน</string>
   <string name="thursday">วันพฤหัสบดี</string>
   <string name="timer">กำหนดการ</string>
   <string name="timer_add_failure">การเพิ่มกำหนดการล้มเหลว โปรดตรวจสอบเครือข่ายของคุณ</string>
@@ -1574,6 +1585,7 @@
   <string name="thing_mobile_change_tip">ใช้หมายเลขโทรศัพท์มือถือของคุณเพื่อเข้าสู่ระบบโดยตรง</string>
   <string name="thing_modify_device_name_length_limit">ชื่ออุปกรณ์ต้องมีตัวอักษรไม่เกิน 50 อักขระ</string>
   <string name="thing_modify_group_name_length_limit">ชื่อกลุ่มต้องมีตัวอักษรไม่เกิน 25 อักขระ</string>
+  <string name="thing_more_action">การดำเนินการเพิ่มเติม</string>
   <string name="thing_mqtt_connecting">อุปกรณ์กำลังเชื่อมต่อ...</string>
   <string name="thing_network_add_explanation">แทนการเชื่อมต่อไปยังฮอตสปอตของอุปกรณ์</string>
   <string name="thing_network_error">ข้อผิดพลาดเครือข่าย โปรดลองอีกครั้ง</string>
@@ -1781,6 +1793,8 @@
   <string name="voice_nopermissions_title">คุณสมบัติเสียงจำเป็นต้องใช้ไมโครโฟน</string>
   <string name="voice_time_error">ขออภัย ฉันไม่เข้าใจในสิ่งที่คุณพูด</string>
   <string name="wait_reply">ขอขอบคุณสำหรับข้อติชม เราจะตอบกลับในไม่ช้า</string>
+  <string name="webview_ok">ยืนยัน</string>
+  <string name="webview_prompt">การแจ้งเตือน</string>
   <string name="webview_reload">โหลด</string>
   <string name="weekday">วันทำงาน</string>
   <string name="weekend">สุดสัปดาห์</string>

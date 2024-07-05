@@ -387,6 +387,7 @@
   <string name="ipc_panel_netstatus_signal">Signal</string>
   <string name="ipc_pir_switch">מתג PIR</string>
   <string name="ipc_playback_no_records_today">אין וידאו השמעת יום</string>
+  <string name="ipc_privacy_zone_set_no_pic_tip">פתח את רשות אחסון האלבומים; אם היא כבר פתוחה, ראשית נא לצפות במסך המצלמה לפני ביצוע הגדרה.</string>
   <string name="ipc_qrpair_button_help">שמעתי כלום</string>
   <string name="ipc_qrpair_button_next">יישמע צליל</string>
   <string name="ipc_qrpair_help">עזרה</string>
@@ -429,6 +430,7 @@
   <string name="ipc_sound_sensitivity_high">רגישות גבוהה</string>
   <string name="ipc_sound_sensitivity_low">רגישות נמוכה</string>
   <string name="ipc_sound_sensitivity_select">בחירת רגישות זיהוי DB</string>
+  <string name="ipc_speed">מהירות (mehirut)</string>
   <string name="ipc_status_awake">מעיר מצלמה</string>
   <string name="ipc_status_awake_failed">התקן ההשכמה כשל.</string>
   <string name="ipc_status_nosdcard">אין כרטיס SD זמין</string>
@@ -441,6 +443,12 @@
   <string name="is_save_smart_update">האם לשמור את השינויים?</string>
   <string name="later_on">לא עכשיו</string>
   <string name="left_button_device_offline">הוראות איפוס</string>
+  <string name="light_scene_dim_bright">בְּהִירוּת</string>
+  <string name="light_scene_dim_hue">צבע אור</string>
+  <string name="light_scene_dim_temp">טמפרטורת הצבע</string>
+  <string name="light_scene_item_edit">ערוך סצנת אור</string>
+  <string name="light_scene_other_condition">הוסף תנאי ייזום</string>
+  <string name="light_scene_select_no_action">שום פעולה</string>
   <string name="load_error">נכשלה הטעינה</string>
   <string name="load_failed_check_network">טען זמן קצוב, בדוק את הרשת</string>
   <string name="loading">Loading</string>
@@ -636,6 +644,7 @@
   <string name="system_error">הפרעות במערכת, המבצע נכשל</string>
   <string name="taste_device_support">מכשיר מצגת אינו תומך בפעולה זו</string>
   <string name="temperature_unit">יחידות טמפרטורה</string>
+  <string name="thing_map_confirm">אשרו</string>
   <string name="thursday">יום חמישי</string>
   <string name="timer">עיתוי</string>
   <string name="timer_add_failure">בנוסף טיימר נכשל, אנא בדוק את הרשת היא נורמלית</string>
@@ -895,6 +904,7 @@
   <string name="thing_light_scene_create">צור סצינת תאורה</string>
   <string name="thing_light_scene_default_name">תאורה חדשה סצנה</string>
   <string name="thing_light_scene_delete_tips">האלמיר הוסר והסצנה תימחק.</string>
+  <string name="thing_light_scene_diy_scene">סצנת אור</string>
   <string name="thing_light_scene_edit">ערוך סצנת אור</string>
   <string name="thing_light_scene_edit_quit_tip">לאשר היציאה?</string>
   <string name="thing_light_scene_edit_quit_tip_detail">התוכן מתמלא לאחר היציאה לא יישמרו.</string>
@@ -1035,7 +1045,10 @@
   <string name="thing_scene_add_lamp_lack_gateway">מנורות אינן מחוברות שערים</string>
   <string name="thing_scene_add_lamp_offline_tip">תאורה לא מחובר</string>
   <string name="thing_scene_dp_duration">משך</string>
+  <string name="thing_scene_regular">רגיל</string>
   <string name="thing_scene_set_time">זמן מוגדר</string>
+  <string name="thing_scene_turn_down">הקטנת</string>
+  <string name="thing_scene_turn_up">הגדלת</string>
   <string name="thing_send_veri_code">יש %s מספר טלפון לשליחת קוד אימות</string>
   <string name="thing_set_cover">קבה כיסוי</string>
   <string name="thing_set_mobile">הטלפון שלך לא עשויה לאפשר פנקס הכתובות, עבור אל הגדרות מערכת - לפתוח את רשימת היישומים</string>
@@ -1173,6 +1186,8 @@
   <string name="voice_nopermissions_title">קול מחייב שימוש במיקרופון</string>
   <string name="voice_time_error">אני מצטער, אני לא יכול להבין את מה שאמרת</string>
   <string name="wait_reply">המשוב התקבל, ואנו נחזור אליכם בהקדם האפשרי</string>
+  <string name="webview_ok">אשרו</string>
+  <string name="webview_prompt">שורה</string>
   <string name="webview_reload">טען מחדש</string>
   <string name="weekday">יום עבודה</string>
   <string name="weekend">סופ&amp;quot;ש</string>
