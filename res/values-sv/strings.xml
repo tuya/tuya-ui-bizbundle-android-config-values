@@ -159,7 +159,7 @@
   <string name="direct_login">Logga in direkt?</string>
   <string name="discover_choose_pic_source">Var god välj en bildkälla</string>
   <string name="done">Klart</string>
-  <string name="download_error_with_md5_unrectify"> Verifiering misslyckades, kan inte hämtas.</string>
+  <string name="download_error_with_md5_unrectify">Verifiering misslyckades, kan inte hämtas.</string>
   <string name="download_unzip_error">Gränssnittets laddning misslyckades</string>
   <string name="echo_use_equipment">Stödda enheter: %d</string>
   <string name="echo_use_next">Använd nu</string>
@@ -365,6 +365,7 @@
   <string name="ipc_errmsg_stream_connect">Konstruerar krypteringskanal.</string>
   <string name="ipc_errmsg_stream_connectfail">Konstruktion av krypteringskanal misslyckades</string>
   <string name="ipc_errmsg_wrong_password">Fel lösenord</string>
+  <string name="ipc_error_60000">Inga tillgängliga data på enheten, vänligen ladda om så snart som möjligt</string>
   <string name="ipc_firmware_check_update_txt">Kontrollera firmwareuppdatering</string>
   <string name="ipc_firmware_current_version_txt">Aktuell version:</string>
   <string name="ipc_firmware_has_upgrade_txt">Ny enhetsfirmware</string>
@@ -898,7 +899,7 @@
   <string name="thing_ez_status_failed_details">Fler detaljer</string>
   <string name="thing_ez_status_failed_know">Jag förstår</string>
   <string name="thing_ez_status_share">Dela med familj</string>
-  <string name="thing_ez_status_success"> Tillagd framgångsrikt</string>
+  <string name="thing_ez_status_success">Tillagd framgångsrikt</string>
   <string name="thing_ez_wifi_title">Ange Wi-Fi-lösenord</string>
   <string name="thing_family_manager">Hemhantering</string>
   <string name="thing_gallery_all_img">Alla bilder</string>
@@ -932,6 +933,7 @@
   <string name="thing_input_old_keyword">Ange gamla lösenordet</string>
   <string name="thing_input_validate_code">Skriv in verifikationskod</string>
   <string name="thing_keep_power_working">Snälla slå inte av strömmen</string>
+  <string name="thing_light_scene_unselect_all">Avbryt</string>
   <string name="thing_load_error">Laddning misslyckades.</string>
   <string name="thing_loading">Läser in…</string>
   <string name="thing_login_fb">Facebook</string>

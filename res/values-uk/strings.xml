@@ -1320,7 +1320,6 @@
   <string name="ipc_errmsg_getmotiontimer_failed">Не вдалося отримати розклад руху</string>
   <string name="ipc_errmsg_mic_failed">Час вийшов, говорити не вдалося</string>
   <string name="ipc_errmsg_mic_noauthority">Потрібен доступ до мікрофона</string>
-  <string name="ipc_errmsg_onvif_illegal_pwd">Не вдалося скинути пароль. Будь ласка, спробуйте ще раз.</string>
   <string name="ipc_errmsg_onvif_wrong_pwd">Поточний пароль хибний. Будь ласка, спробуйте ще раз.</string>
   <string name="ipc_errmsg_op_failed">Операція не виконана</string>
   <string name="ipc_errmsg_overdate">Дата не може бути пізніше фактичної дати</string>
@@ -1336,6 +1335,7 @@
   <string name="ipc_errmsg_stream_connect">Встановлення зашифрованого каналу...</string>
   <string name="ipc_errmsg_stream_connectfail">Не вдалося встановити зашифрований канал</string>
   <string name="ipc_errmsg_wrong_password">Неправильний пароль</string>
+  <string name="ipc_error_60000">Немає доступних даних на пристрої, будь ласка, поповніть рахунок якнайшвидше</string>
   <string name="ipc_errormsg_data_load_failed">Не вдалося завантажитися</string>
   <string name="ipc_face_detection">Розпізнавання обличчя</string>
   <string name="ipc_firmware_check_update_txt">Перевірити наявність версії вбудованого ПЗ</string>
@@ -3295,6 +3295,7 @@
   <string name="thing_light_scene_manage_delete_tips">Ви впевнені що бажаєте видалити?</string>
   <string name="thing_light_scene_secondary_light_source">Атмосферне підсвічування</string>
   <string name="thing_light_scene_set_name_icon">Оберіть іконку та ім\'я</string>
+  <string name="thing_light_scene_unselect_all">Скасувати</string>
   <string name="thing_lightskin_edit_info">Редагувати</string>
   <string name="thing_line_notify_device_remove">Видалити цей пристрій?</string>
   <string name="thing_line_notify_device_remove_desc">Після видалення застережливі повідомлення цього пристрою не відправлятимуться в LINE.</string>

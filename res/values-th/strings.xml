@@ -392,6 +392,7 @@
   <string name="invitation_confirm">ยืนยันคำเชิญ</string>
   <string name="invitation_confirm_detail">คุณได้รับคำเชิญให้เข้าร่วมบ้านอัจฉริยะ \"%s\" เพื่อเพลิดเพลินไปกับชีวิตที่ชาญฉลาด คุณแน่ใจหรือไม่ว่าต้องการเข้าร่วม</string>
   <string name="invitation_refuse">ปฏิเสธ</string>
+  <string name="ipc_activate">เปิด</string>
   <string name="ipc_ai_cloud_empty_des">ไม่พบวิดีโอที่เกี่ยวข้อง\nไม่พบเป้าหมายหรือไม่ได้เปิดใช้การวิเคราะห์ AI</string>
   <string name="ipc_ai_fr_list_delete_inverse">สลับส่วนที่เลือก</string>
   <string name="ipc_ai_fr_list_person_merge_done">เสร็จสิ้น</string>
@@ -415,11 +416,17 @@
   <string name="ipc_ai_video_analyse">การวิเคราะห์อย่างชาญฉลาด</string>
   <string name="ipc_ai_video_des">การเปิดใช้งานคุณสมบัติจะทำการวิเคราะห์ AI ในการบันทึกเหตุการณ์การตรวจจับการเคลื่อนไหว</string>
   <string name="ipc_alarm_detected_feature_list">การตั้งค่าการเตือนการตรวจจับ</string>
+  <string name="ipc_alarm_device">เปิดใช้งานการปลุกแล้ว</string>
+  <string name="ipc_alarm_device_des">การปลุกจะปิดโดยอัตโนมัติหลังจากผ่านไป 30 วินาที หรือสามารถปิดด้วยตนเองได้</string>
+  <string name="ipc_alarm_light_off">ไฟสัญญาณเตือนดับลง</string>
+  <string name="ipc_alarm_light_on">ไฟสัญญาณเตือนเปิดอยู่</string>
   <string name="ipc_alarm_region_settings_tips">ลาก/ปรับขนาดกรอบสีแดงเพื่อตั้งค่าภูมิภาคกิจกรรม</string>
   <string name="ipc_alarm_timer_settings">กำหนดการ</string>
   <string name="ipc_alarm_timer_settings_txt">การตั้งค่าการเตือน</string>
   <string name="ipc_alarm_type_motion_detected_txt">ความเคลื่อนไหว</string>
   <string name="ipc_alarm_type_sound_detected_txt">การเตือนเสียง</string>
+  <string name="ipc_alarm_voice_off">ปิดสำเร็จแล้ว</string>
+  <string name="ipc_alarm_voice_on">เสียงปลุกเปิดอยู่</string>
   <string name="ipc_basic_batterylock">แตะที่นี่เพื่อปลดล็อกแบตเตอรี่</string>
   <string name="ipc_basic_calibration">การปรับเทียบกล้อง</string>
   <string name="ipc_basic_calibration_text">การปรับเทียบกล้องต้องใช้เวลาประมาณ 25 วินาที แน่ใจหรือไม่ว่าต้องการทำต่อ</string>
@@ -445,6 +452,8 @@
   <string name="ipc_chime_type_without">ไม่มีกริ่ง</string>
   <string name="ipc_click_to_talk">คลิกเพื่อเริ่มการโทร</string>
   <string name="ipc_cloud_empty_event_des">ไม่มีวิดีโอเหตุการณ์ที่เกี่ยวข้อง</string>
+  <string name="ipc_cloud_playback_service">ดูวิดีโอเพิ่มเติม</string>
+  <string name="ipc_cloud_service">ดูบริการจัดเก็บข้อมูลบนคลาวด์</string>
   <string name="ipc_cloudstorage_amount">ปริมาณการซื้อ</string>
   <string name="ipc_cloudstorage_annually">แผนประจำปี</string>
   <string name="ipc_cloudstorage_billed">เลือกแผน</string>
@@ -531,7 +540,7 @@
   <string name="ipc_doorbell_pic_load_fail_txt">โหลดรูปภาพล้มเหลว</string>
   <string name="ipc_doorbell_pic_load_txt">กำลังโหลดรูปภาพ</string>
   <string name="ipc_doorbell_tip">รอตอบรับกริ่งประตู</string>
-  <string name="ipc_dp_save_fail">การใช้งานล้มเหลวเนื่องจากหมดเวลา</string>
+  <string name="ipc_dp_save_fail">ล้มเหลว</string>
   <string name="ipc_electric_lowpower_level">โปรดตั้งค่าเริ่มการเตือนแบตเตอรี่ต่ำ</string>
   <string name="ipc_electric_lowpower_tip">ตั้งค่าขีดจำกัดการเตือนแบตเตอรี่ต่ำ</string>
   <string name="ipc_electric_percentage">แบตเตอรี่</string>
@@ -554,6 +563,7 @@
   <string name="ipc_errmsg_getmotiontimer_failed">การรับกำหนดการความเคลื่อนไหวล้มเหลว</string>
   <string name="ipc_errmsg_mic_failed">หมดเวลา การพูดล้มเหลว</string>
   <string name="ipc_errmsg_mic_noauthority">ต้องการเข้าถึงไมโครโฟน</string>
+  <string name="ipc_errmsg_onvif_illegal_pwd">การเปลี่ยนรหัสผ่านล้มเหลว โปรดตรวจสอบให้แน่ใจว่ารหัสผ่านใหม่มีความยาว 8 ถึง 32 ตัวอักษร และประกอบด้วยตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก และตัวเลข</string>
   <string name="ipc_errmsg_overdate">วันที่ไม่สามารถมาหลังจากวันที่ปัจจุบันได้</string>
   <string name="ipc_errmsg_photos_noauthority">ต้องการเข้าถึงอัลบั้มภาพ</string>
   <string name="ipc_errmsg_playback_list_failed">กู้คืนรายการเล่นย้อนหลังล้มเหลว</string>
@@ -566,6 +576,7 @@
   <string name="ipc_errmsg_stream_connect">กำลังสร้างช่องทางซึ่งเข้ารหัสแล้ว</string>
   <string name="ipc_errmsg_stream_connectfail">การสร้างช่องทางซึ่งเข้ารหัสแล้วล้มเหลว</string>
   <string name="ipc_errmsg_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+  <string name="ipc_error_60000">ไม่มีข้อมูลที่ใช้ได้บนอุปกรณ์ โปรดเติมเงินเร็วขึ้น</string>
   <string name="ipc_firmware_check_update_txt">ตรวจสอบการอัปเกรดของเฟิร์มแวร์</string>
   <string name="ipc_firmware_current_version_txt">เวอร์ชันเฟิร์มแวร์ปัจจุบัน</string>
   <string name="ipc_firmware_has_upgrade_txt">หาเฟิร์มแวร์เวอร์ชันใหม่</string>
@@ -581,6 +592,8 @@
   <string name="ipc_humanoid_filter_settings">การตรวจจับร่างกาย</string>
   <string name="ipc_inspection_msg_title">รายงานสายตรวจวิดีโอ</string>
   <string name="ipc_ipc_qrpair_txt">เมื่อคุณแตะ ทำต่อ โทรศัพท์มือถือจะแสดงคิวอาร์โค้ด ถือกล้องห่าง 15 ถึง 20 ซม. ไว้ด้านหน้าโทรศัพท์มือถือเพื่อให้กล้องสแกนคิวอาร์โค้ด</string>
+  <string name="ipc_light_off">ไฟดับอยู่</string>
+  <string name="ipc_light_on">ไฟเปิดอยู่</string>
   <string name="ipc_live_pag_memory_point_no_data">รายการที่โปรดปรานสำหรับสถานที่ของคุณว่างเปล่า</string>
   <string name="ipc_live_page_cstorage">ที่เก็บบนคลาวด์</string>
   <string name="ipc_live_page_cstorage_data">ที่เก็บบนคลาวด์</string>
@@ -654,6 +667,7 @@
   <string name="ipc_panel_open_camera">เปิดกล้อง</string>
   <string name="ipc_panel_setting_chime">การตั้งค่ากริ่ง</string>
   <string name="ipc_panel_setting_chime_tips">โปรดตั้งค่ากริ่งที่ถูกต้องก่อนใช้งาน</string>
+  <string name="ipc_pc_client_introduce">ดูบทนำ</string>
   <string name="ipc_pir_switch">สวิตช์เปิด/ปิด PIR</string>
   <string name="ipc_play_mobileplay_tips">คุณกำลังใช้ข้อมูลเครือข่ายโทรศัพท์เพื่อตรวจสอบวิดีโอ โปรดระมัดระวังการใช้ข้อมูลของคุณ</string>
   <string name="ipc_playback_no_records_today">ไม่มีวิดีโอย้อนหลังในวันนั้น</string>
@@ -679,6 +693,15 @@
   <string name="ipc_sdcard_format">ฟอร์แมตการ์ดหน่วยความจำ</string>
   <string name="ipc_sdcard_motion_record">การบันทึกการตรวจจับความเคลื่อนไหว</string>
   <string name="ipc_sdcard_motion_record_text">เมื่อเปิดฟังก์ชันนี้ จะเก็บการบันทึกไว้ในการ์ดหน่วยความจำเมื่อกล้องตรวจพบความเคลื่อนไหวเท่านั้น การกระทำนี้อาจลดการใช้งานของการ์ดหน่วยความจำอย่างมาก</string>
+  <string name="ipc_sdcard_record_mode_aov_customize">โหมดกำหนดช่วงเวลาการบันทึกเอง</string>
+  <string name="ipc_sdcard_record_mode_aov_customize_subtitle">บันทึกภาพ 1 เฟรมทุก ๆ เวลาที่กำหนด</string>
+  <string name="ipc_sdcard_record_mode_aov_frame">ช่วงเวลาการบันทึก</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_all_time">โหมดบันทึกภาพอย่างรวดเร็วและมีประสิทธิภาพ</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_all_time_tips">บันทึก 1 เฟรมทุกๆ 5 วินาที</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_frame">วินาที</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_power_saving">โหมดบันทึกภาพแบบประหยัดพลังงาน</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_power_saving_tips">บันทึก 1 เฟรมทุกๆ 2 วินาที</string>
+  <string name="ipc_sdcard_record_mode_aov_subtitle">การบันทึกต่อเนื่องตลอดทั้งวันด้วยอัตราเฟรมต่ำพิเศษ (AOV) การบันทึกเต็มเวลาด้วยพื้นที่เก็บข้อมูลที่เล็กกว่า</string>
   <string name="ipc_sdcard_record_mode_ctns">การบันทึกต่อเนื่องไม่มีหยุด</string>
   <string name="ipc_sdcard_record_mode_ctns_tips">การบันทึกแบบเปิดตลอดเวลา</string>
   <string name="ipc_sdcard_record_mode_event">การบันทึกเหตุการณ์</string>
@@ -737,11 +760,16 @@
   <string name="ipc_tips_speaker_open_success">เปิดลำโพงสำเร็จ</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="ipc_video_end">วิดีโอสิ้นสุด</string>
+  <string name="ipc_video_uploading">การอัพโหลดวิดีโอ</string>
   <string name="ipc_voice_speaker">เสียงอินเตอร์คอม</string>
   <string name="is_save_room_update">บันทึกการเปลี่ยนแปลงสำหรับห้องหรือไม่</string>
   <string name="is_save_smart_update">ยืนยันการเปลี่ยนแปลงหรือไม่</string>
   <string name="later_on">พูดอีกครั้งในภายหลัง</string>
   <string name="left_button_device_offline">วิธีเริ่มใหม่</string>
+  <string name="light_preview_other_action_tips">รองรับการดูตัวอย่างเฉพาะเฉพาะแสง</string>
+  <string name="light_scene_no_action_desc">หลังจากตั้งค่าอุปกรณ์เป็นไม่มีการกระทำ ตอนที่เกิดสถานการณ์ จะไม่มีคำสั่งถูกส่งให้กับอุปกรณ์ใด ๆ</string>
+  <string name="light_scene_no_action_title">ตั้งเป็นไม่ทำอะไร</string>
+  <string name="light_scene_other_action">งานอื่น ๆ</string>
   <string name="light_scene_other_condition">เพิ่มเงื่อนไขการทริกเกอร์</string>
   <string name="link_cancel">ยกเลิกการเชื่อมโยง</string>
   <string name="link_device_empty">ไม่มีอุปกรณ์ที่เชื่อมโยงได้</string>
@@ -1013,6 +1041,7 @@
   <string name="rate_us">ให้คะแนนเรา</string>
   <string name="recommend">แนะนำ</string>
   <string name="record_failure">ไม่สามารถเข้าถึงการบันทึกเสียงของโทรศัพท์ได้ โปรดไปที่ \"การตั้งค่า-แอปพลิเคชัน-%s-การเข้าถึง\" เพื่อเปิดใช้งานสิทธิการเข้าถึงการบันทึกเสียง</string>
+  <string name="record_mode_aov_switch">การบันทึกเต็มเวลาอัจฉริยะ</string>
   <string name="refind_password">ดึงข้อมูลรหัสผ่านสำหรับเข้าสู่ระบบ</string>
   <string name="refresh_again_msg">รีเฟรช</string>
   <string name="reget_validation_second">(%d วินาที)</string>
@@ -1040,6 +1069,7 @@
   <string name="satisfy_following_conditions">เมื่อตรงตามเงื่อนไขต่อไปนี้</string>
   <string name="saturday">วันเสาร์</string>
   <string name="save">บันทึก</string>
+  <string name="save_as">บันทึกเป็น</string>
   <string name="save_success">บันทึกเรียบร้อย</string>
   <string name="scene_acquaintance">คนรู้จัก</string>
   <string name="scene_action_delay_lastone">การหน่วงเวลาจะเป็นการดำเนินการสุดท้ายไม่ได้</string>
@@ -1184,6 +1214,9 @@
   <string name="temperature_unit">หน่วยอุณหภูมิ</string>
   <string name="terminate_account">ปิดใช้งานบัญชี</string>
   <string name="terminate_account_introductions">เมื่อปิดใช้งานแล้ว ข้อมูลผู้ใช้ทั้งหมดภายใต้บัญชีนี้จะถูกลบถาวร</string>
+  <string name="thing_light_scene_rhythm_type">ตัวอย่างที่มีจังหวะ</string>
+  <string name="thing_light_scene_select_type_tip">เลือกประเภท</string>
+  <string name="thing_light_turn_off_lights_desc">เพื่อไม่ส่งผลกระทบต่อการเปิด-ปิดไฟสว่างทั้งหมด อุปกรณ์ที่ไม่รองรับฟังก์ชันฉายแสงจะถูกตั้งค่าเป็นปิดไฟ</string>
   <string name="thing_map_confirm">ยืนยัน</string>
   <string name="thursday">วันพฤหัสบดี</string>
   <string name="timer">กำหนดการ</string>
@@ -1509,6 +1542,9 @@
   <string name="thing_input_old_keyword">ป้อนรหัสผ่านเก่า</string>
   <string name="thing_input_validate_code">ป้อนรหัสการตรวจสอบ</string>
   <string name="thing_keep_power_working">ห้ามตัดไฟ</string>
+  <string name="thing_light_scene_add">เพิ่มฉากไฟใหม่</string>
+  <string name="thing_light_scene_guide_title">ฉากแสงไฟ</string>
+  <string name="thing_light_scene_unselect_all">ยกเลิก</string>
   <string name="thing_lightskin_edit_info">แก้ไข</string>
   <string name="thing_load_error">ไม่สามารถโหลดได้</string>
   <string name="thing_loading">กำลังโหลด...</string>

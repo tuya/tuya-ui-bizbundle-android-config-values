@@ -680,6 +680,7 @@
   <string name="ipc_errmsg_stream_connect">Establishing an encrypted channel...</string>
   <string name="ipc_errmsg_stream_connectfail">Gagal untuk memulai encrypted channel</string>
   <string name="ipc_errmsg_wrong_password">Kata sandi salah</string>
+  <string name="ipc_error_60000">Tidak ada data yang tersedia di perangkat, harap isi ulang segera</string>
   <string name="ipc_firmware_check_update_txt">Periksa untuk pembaruan</string>
   <string name="ipc_firmware_current_version_txt">Versi firmware saat ini:</string>
   <string name="ipc_firmware_has_upgrade_txt">Versi firmware baru terdeteksi</string>
@@ -1830,6 +1831,7 @@
   <string name="thing_input_validate_code">Masukkan kode verifikasi</string>
   <string name="thing_join_testflight">Masuk grup tes</string>
   <string name="thing_keep_power_working">Jangan putuskan sambungan</string>
+  <string name="thing_light_scene_unselect_all">Batalkan</string>
   <string name="thing_lightskin_edit_info">Edit</string>
   <string name="thing_load_error">Gagal untuk memuat</string>
   <string name="thing_loading">Loading...</string>

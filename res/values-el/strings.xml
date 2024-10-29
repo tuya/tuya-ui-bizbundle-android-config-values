@@ -595,6 +595,7 @@
   <string name="ipc_doorbell_bell_3">Το τρίτο κουδούνι</string>
   <string name="ipc_doorbell_bell_4">Το τέταρτο κουδούνι</string>
   <string name="ipc_doorbell_decline">Άρνηση</string>
+  <string name="ipc_doorbell_do_not_disturb_hint">Когда режим «Не беспокоить» включен, устройство не будет вызывать уведомления о дверном звонке.</string>
   <string name="ipc_doorbell_file_authority">Για αναπαραγωγή του συστήματος συντονισμού του τηλεφώνου σας όταν χτυπά το κουδούνι, χρειαζόμαστε πρόσβαση στην αρχή ανάγνωσης αρχείων.</string>
   <string name="ipc_doorbell_pic_load_fail_txt">Η φόρτωση της εικόνας απέτυχε</string>
   <string name="ipc_doorbell_pic_load_txt">Φόρτωση εικόνας</string>
@@ -637,6 +638,7 @@
   <string name="ipc_errmsg_stream_connect">Χτίζουμε ένα κρυπτογραφημένο κανάλι</string>
   <string name="ipc_errmsg_stream_connectfail">Η κατασκευή των κρυπτογραφημένων καναλιών αποτυγχάνουν</string>
   <string name="ipc_errmsg_wrong_password">Λάθος Κωδικός Πρόσβασης</string>
+  <string name="ipc_error_60000">Δεν υπάρχουν διαθέσιμα δεδομένα στη συσκευή, παρακαλώ επαναφορτίστε το σύντομα</string>
   <string name="ipc_firmware_check_update_txt">Ελέγξτε για αναβάθμιση λογισμικού</string>
   <string name="ipc_firmware_current_version_txt">Τρέχουσα έκδοση λογισμικού:</string>
   <string name="ipc_firmware_has_upgrade_txt">Ανιχνεύτηκε νέα έκδοση λογισμικού</string>
@@ -1742,6 +1744,7 @@
   <string name="thing_input_validate_code">Ένας Κωδικός Επαλήθευσης</string>
   <string name="thing_join_testflight">Συμμετοχή στην εσωτερική δοκιμή</string>
   <string name="thing_keep_power_working">Μην κόψετε τον εξοπλισμό παροχής ρεύματος</string>
+  <string name="thing_light_scene_unselect_all">Ακυρωση</string>
   <string name="thing_lightskin_edit_info">Επεξεργασία</string>
   <string name="thing_load_error">Αποτυχία Φόρτωσης</string>
   <string name="thing_loading">Φόρτωση ...</string>

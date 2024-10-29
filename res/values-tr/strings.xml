@@ -1475,7 +1475,6 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_errmsg_getmotiontimer_failed">Hareket algılama başarısız</string>
   <string name="ipc_errmsg_mic_failed">Zaman aşımı, konuşma başarısız</string>
   <string name="ipc_errmsg_mic_noauthority">Mikrofona erişim gerektiriyor</string>
-  <string name="ipc_errmsg_onvif_illegal_pwd">Parola sıfırlanamadı. Lütfen tekrar deneyin.</string>
   <string name="ipc_errmsg_onvif_wrong_pwd">Geçerli parola yanlış. Lütfen yeniden deneyin.</string>
   <string name="ipc_errmsg_op_failed">İşlem Hatası</string>
   <string name="ipc_errmsg_overdate">Tarih, fiili tarihten sonra olamaz</string>
@@ -1492,6 +1491,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="ipc_errmsg_stream_connect">Şifreli kanal oluşturuluyor…</string>
   <string name="ipc_errmsg_stream_connectfail">Şifreli kanal oluşturma başarısız</string>
   <string name="ipc_errmsg_wrong_password">Yanlış parola</string>
+  <string name="ipc_error_60000">Cihazda uygun veri yok, lütfen en kısa sürede şarj edin</string>
   <string name="ipc_errormsg_data_load_failed">Yükleme başarısız oldu</string>
   <string name="ipc_face_detection">Yüz Tanıma</string>
   <string name="ipc_firmware_check_update_txt">Ürün yazılımı güncellemelerini denetle</string>
@@ -2335,13 +2335,13 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="please_input_password">Parola</string>
   <string name="please_input_wifi_password">Lütfen Parolayı Girin</string>
   <string name="point_out">İpuçları</string>
-  <string name="pps_day_fri">Cuma</string>
-  <string name="pps_day_mon">Pazartesi</string>
-  <string name="pps_day_sat">Cumartesi</string>
-  <string name="pps_day_sun">Pazar</string>
-  <string name="pps_day_thu">Perşembe</string>
-  <string name="pps_day_tue">Salı</string>
-  <string name="pps_day_wed">Çarşamba</string>
+  <string name="pps_day_fri">Cum</string>
+  <string name="pps_day_mon">Pzt</string>
+  <string name="pps_day_sat">Cmt</string>
+  <string name="pps_day_sun">Pzr</string>
+  <string name="pps_day_thu">Per</string>
+  <string name="pps_day_tue">Sal</string>
+  <string name="pps_day_wed">Çar</string>
   <string name="pps_flashback">Oynat</string>
   <string name="pps_flashback_used">SD kart başka bir cihaz tarafından kullanılıyor.</string>
   <string name="pps_format_succeed">Biçimlendirme başarılı</string>
@@ -3263,7 +3263,7 @@ Cihazınızın uzaktan kumandasını kullanmak için cihaz ayarları sayfasında
   <string name="thing_apple_id_revoked">Apple Kimliğinizle giriş yapmayı durdurdunuz</string>
   <string name="thing_arrive_or_leave">Şu Tarihte Ulaş/Ayrıl</string>
   <string name="thing_auth_management">Yetkilendirme Yönetimi</string>
-  <string name="thing_authority_management_dataAuthorization_tips">Ürün Kullanımına İlişkin Veri Toplamamıza İzin verin. Eğer İzinleri Devre Dışı Bırakırsanız, Temel Fonksiyonlar Kullanılabilecek.</string>
+  <string name="thing_authority_management_dataAuthorization_tips">Ürün kullanımıyla ilgili verileri toplamamıza izin verin, izin devre dışı bırakılırsa temel işlevler hala kullanılabilir, veri tercihlerine dayalı deneyim optimizasyon stratejileri devre dışı kalacaktır.</string>
   <string name="thing_authority_management_dataAuthorization_title">Veri Erişimi</string>
   <string name="thing_authority_management_entry">Uygulamaya Git</string>
   <string name="thing_authority_management_marketingPush_tips">Reklamlar ve Bildirimler Yoluyla İçerik Önermemize İzin verin. Eğer Bunu Devre Dışı Bırakırsanız İlginizi Çekebilecek İçerikleri Göndermeyeceğiz.</string>

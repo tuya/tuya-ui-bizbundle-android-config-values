@@ -946,6 +946,7 @@
   <string name="ipc_errmsg_stream_connect">Установяване на криптиран канал ...</string>
   <string name="ipc_errmsg_stream_connectfail">Неуспешно установяване на шифрован канал</string>
   <string name="ipc_errmsg_wrong_password">Грешна парола</string>
+  <string name="ipc_error_60000">Няма налични данни на устройството, моля презаредете възможно най-скоро</string>
   <string name="ipc_firmware_check_update_txt">Проверете за обновяване на фърмуера</string>
   <string name="ipc_firmware_current_version_txt">Текуща версия на фърмуера:</string>
   <string name="ipc_firmware_has_upgrade_txt">Намерена е нова версия на фърмуера</string>
@@ -2417,6 +2418,7 @@
   <string name="thing_keep_alive_notification_content">Кликнете за да видите оборудването</string>
   <string name="thing_keep_alive_notification_title">Устройството работи</string>
   <string name="thing_keep_power_working">Не прекъсвайте захранването</string>
+  <string name="thing_light_scene_unselect_all">Отказ</string>
   <string name="thing_lightskin_edit_info">Корекция</string>
   <string name="thing_load_error">Неуспешно зареждане</string>
   <string name="thing_loading">Зареждане...</string>

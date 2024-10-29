@@ -401,6 +401,7 @@
   <string name="invitation_confirm">Potvrdit pozvánku</string>
   <string name="invitation_confirm_detail">Jste pozváni do této rodiny %s. Přijímáte toto pozvání?</string>
   <string name="invitation_refuse">Odmítnout</string>
+  <string name="ipc_activate">Zapnout</string>
   <string name="ipc_ai_fr_list_delete_inverse">Vybrat možnost Invertovat</string>
   <string name="ipc_ai_fr_list_person_merge_done">Hotovo</string>
   <string name="ipc_ai_fr_list_person_more_delete">Odstranit obličej</string>
@@ -419,11 +420,17 @@
   <string name="ipc_ai_fr_tab1">Označený obličej</string>
   <string name="ipc_ai_fr_tab2">Neoznačený obličej</string>
   <string name="ipc_alarm_detected_feature_list">Nastavení výstrahy detekce</string>
+  <string name="ipc_alarm_device">Alarm aktivován</string>
+  <string name="ipc_alarm_device_des">Alarm se automaticky vypne po 30 sekundách, nebo jej lze vypnout ručně</string>
+  <string name="ipc_alarm_light_off">Zhasnutá kontrolka budíku</string>
+  <string name="ipc_alarm_light_on">Kontrolka alarmu svítí</string>
   <string name="ipc_alarm_region_settings_tips">Chcete-li nastavit oblast aktivity, přetáhněte nebo změňte velikost červeného rámečku</string>
   <string name="ipc_alarm_timer_settings">Plán</string>
   <string name="ipc_alarm_timer_settings_txt">Nastavení upozornění</string>
   <string name="ipc_alarm_type_motion_detected_txt">Pohyb</string>
   <string name="ipc_alarm_type_sound_detected_txt">Zvuková výstraha</string>
+  <string name="ipc_alarm_voice_off">Úspěšně uzavřeno</string>
+  <string name="ipc_alarm_voice_on">Zvuk budíku je zapnutý</string>
   <string name="ipc_basic_batterylock">Klepnutím na toto tlačítko odemknete baterii</string>
   <string name="ipc_basic_calibration">Kalibrace kamery</string>
   <string name="ipc_basic_calibration_text">Kalibrace kamery vyžaduje přibližně 25 sekund, jste si jisti, že chcete pokračovat?</string>
@@ -448,6 +455,8 @@
   <string name="ipc_chime_type_mechanical">Mechanický zvonek</string>
   <string name="ipc_chime_type_without">Žádný zvonek</string>
   <string name="ipc_click_to_talk">Kliknutím zahájíte hovor</string>
+  <string name="ipc_cloud_playback_service">Zobrazit další videa</string>
+  <string name="ipc_cloud_service">Zobrazit službu cloudového úložiště</string>
   <string name="ipc_cloudstorage_amount">Nákupní množství</string>
   <string name="ipc_cloudstorage_annually">Roční plán</string>
   <string name="ipc_cloudstorage_billed">Vyberte plán</string>
@@ -530,7 +539,7 @@
   <string name="ipc_doorbell_pic_load_fail_txt">Nepodařilo se obraz načíst</string>
   <string name="ipc_doorbell_pic_load_txt">Obraz se načítá</string>
   <string name="ipc_doorbell_tip">Čeká na zavolání zvonku</string>
-  <string name="ipc_dp_save_fail">Operace se nezdařila z důvodu časového limitu</string>
+  <string name="ipc_dp_save_fail">Selhat</string>
   <string name="ipc_electric_lowpower_level">Nastavení alarmu pro nízkou kapacitu baterie</string>
   <string name="ipc_electric_lowpower_tip">Nastavte limit upozornění na nízkou kapacitu baterie</string>
   <string name="ipc_electric_percentage">Baterie</string>
@@ -565,6 +574,7 @@
   <string name="ipc_errmsg_stream_connect">Vytváření šifrovaného kanálu ...</string>
   <string name="ipc_errmsg_stream_connectfail">Vytvoření šifrovaného kanálu selhalo</string>
   <string name="ipc_errmsg_wrong_password">Špatné heslo</string>
+  <string name="ipc_error_60000">Na zařízení nejsou k dispozici žádná data, prosím dobijte co nejdříve</string>
   <string name="ipc_firmware_check_update_txt">Zkontrolujte aktualizace firmwaru</string>
   <string name="ipc_firmware_current_version_txt">Aktuální verze firmwaru:</string>
   <string name="ipc_firmware_has_upgrade_txt">Najděte novou verzi firmwaru</string>
@@ -578,6 +588,8 @@
   <string name="ipc_firmware_upgrade_txt">Aktualizace</string>
   <string name="ipc_humanoid_filter_settings">Detekce těla</string>
   <string name="ipc_ipc_qrpair_txt">Po klepnutí na tlačítko POKRAČOVAT zobrazuje mobilní telefon kód QR. Držte fotoaparát 15 až 20 cm od mobilního telefonu, aby fotoaparát skenoval kód QR.</string>
+  <string name="ipc_light_off">Světlo je vypnuté</string>
+  <string name="ipc_light_on">Světlo svítí</string>
   <string name="ipc_live_pag_memory_point_no_data">Vaše oblíbená umístění jsou prázdné.</string>
   <string name="ipc_live_page_cstorage">Cloudové úložiště</string>
   <string name="ipc_live_page_cstorage_data">Cloudové úložiště</string>
@@ -675,6 +687,15 @@
   <string name="ipc_sdcard_format">Naformátujte paměťovou kartu</string>
   <string name="ipc_sdcard_motion_record">Záznam detekce pohybu</string>
   <string name="ipc_sdcard_motion_record_text">Po zapnutí této funkce budou záznamy zaznamenány pouze na paměťovou kartu, když fotoaparát detekuje pohyb. To může výrazně snížit využití paměťové karty.</string>
+  <string name="ipc_sdcard_record_mode_aov_customize">Aangepaste frame-intervalmodus</string>
+  <string name="ipc_sdcard_record_mode_aov_customize_subtitle">Neem elke opgegeven tijd 1 frame op</string>
+  <string name="ipc_sdcard_record_mode_aov_frame">Opname-interval</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_all_time">Efficiënte snelle opnamemodus</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_all_time_tips">Nahrajte 1 snímek každých 5 sekund</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_frame">sekund</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_power_saving">Energiebesparende lange opnamemodus</string>
+  <string name="ipc_sdcard_record_mode_aov_mode_power_saving_tips">Nahrajte 1 snímek každé 2 sekundy</string>
+  <string name="ipc_sdcard_record_mode_aov_subtitle">Celodenní nepřetržité nahrávání s extrémně nízkou snímkovou frekvencí (AOV), nepřetržité nahrávání s menším úložným prostorem</string>
   <string name="ipc_sdcard_record_mode_ctns">Neustálé nahrávání</string>
   <string name="ipc_sdcard_record_mode_ctns_tips">Vždy zapnuté nahrávání</string>
   <string name="ipc_sdcard_record_mode_event">Nahrávání událostí</string>
@@ -733,6 +754,7 @@
   <string name="ipc_tips_speaker_open_success">Reproduktor byl úspěšně zapnutý</string>
   <string name="ipc_tutk_not_support">Unsupported Device</string>
   <string name="ipc_video_end">Konec videa</string>
+  <string name="ipc_video_uploading">Nahrávání videa</string>
   <string name="ipc_voice_speaker">Hlasový interkom</string>
   <string name="is_save_room_update">Uložit změny provedené v místnosti?</string>
   <string name="is_save_smart_update">Potvrdit provedené změny?</string>
@@ -1011,6 +1033,7 @@
   <string name="rate_us">Ohodnoťte nás</string>
   <string name="recommend">Doporučeno</string>
   <string name="record_failure">Nepodařilo se získat přístup k zvukový záznamu telefonu. Prosím přejděte na \"Setting-Application-%s-Access\", abyste povolili přístup k zvukovému záznamu</string>
+  <string name="record_mode_aov_switch">Inteligentní nahrávání na plný úvazek</string>
   <string name="refind_password">Načíst přihlašovací heslo</string>
   <string name="refresh_again_msg">Obnovit</string>
   <string name="reget_validation_second">( %d sekund)</string>
@@ -1336,7 +1359,7 @@
   <string name="thing_config_id_not_found">Zařízení nemůže být odpárováno protože jeho id je prázdné.</string>
   <string name="thing_config_reconnect_tips">Potvrďte hot spot</string>
   <string name="thing_config_wifi_dev">Zařízení Wi-Fi</string>
-  <string name="thing_confirm">OK</string>
+  <string name="thing_confirm">Potvrdit</string>
   <string name="thing_connect">Připojit</string>
   <string name="thing_connected">Připojeno</string>
   <string name="thing_consumer_hotline">Zákaznická Horká Linka</string>
@@ -1512,6 +1535,7 @@
   <string name="thing_input_validate_code">Zadejte ověřovací kód</string>
   <string name="thing_jump">Skok</string>
   <string name="thing_keep_power_working">Nevypínejte napájení</string>
+  <string name="thing_light_scene_unselect_all">Zrušit</string>
   <string name="thing_lightskin_edit_info">Editovat</string>
   <string name="thing_load_error">Načítání se nezdařilo</string>
   <string name="thing_loading">Načítá se ...</string>
