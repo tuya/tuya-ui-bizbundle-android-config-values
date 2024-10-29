@@ -367,6 +367,7 @@
   <string name="ipc_errmsg_stream_connect">Criptare canal</string>
   <string name="ipc_errmsg_stream_connectfail">Criptare expirata</string>
   <string name="ipc_errmsg_wrong_password">Parola incorecta</string>
+  <string name="ipc_error_60000">Nu există date disponibile pe dispozitiv, vă rugăm să reîncărcați cât mai curând posibil</string>
   <string name="ipc_firmware_check_update_txt">Informatii actualizari firmware</string>
   <string name="ipc_firmware_current_version_txt">Versiune actuala:</string>
   <string name="ipc_firmware_has_upgrade_txt">Actualizare firmware</string>
@@ -934,6 +935,7 @@
   <string name="thing_input_old_keyword">Introduceti vechea parola</string>
   <string name="thing_input_validate_code">Inserati codul de validare</string>
   <string name="thing_keep_power_working">Nu opriti alimentarea!</string>
+  <string name="thing_light_scene_unselect_all">Anulare</string>
   <string name="thing_load_error">Incarcare esuata</string>
   <string name="thing_loading">In curs de incarcare</string>
   <string name="thing_login_fb">Facebook</string>

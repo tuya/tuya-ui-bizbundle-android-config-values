@@ -353,6 +353,7 @@
   <string name="ipc_errmsg_stream_connect">אנחנו בונים ערוץ מוצפן</string>
   <string name="ipc_errmsg_stream_connectfail">בניית ערוצי מוצפן להיכשל</string>
   <string name="ipc_errmsg_wrong_password">סיסמא שגויה</string>
+  <string name="ipc_error_60000">אין נתונים זמינים על המכשיר, אנא טען בהקדם</string>
   <string name="ipc_motion_mode_allday">יום פתוח</string>
   <string name="ipc_motion_mode_schedule">פתוח זמן</string>
   <string name="ipc_motion_mode_schedule_off">שעת סגירה</string>
@@ -1120,6 +1121,7 @@
   <string name="thing_sync_control_item">סנכרון הפעלה בצד המכשיר</string>
   <string name="thing_sync_exit_tip">האם לשמור שינויים</string>
   <string name="thing_thanks">תודה על תמיכתך</string>
+  <string name="thing_timer_success_notification">הודעת ביצוע</string>
   <string name="thing_touch">אפשר</string>
   <string name="thing_touch_smart">בחר אוטומציה</string>
   <string name="thing_touch_start">מאופשר לאחר הייזום</string>

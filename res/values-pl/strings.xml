@@ -491,6 +491,7 @@
   <string name="ipc_chime_type_digital">Dzwonek bezprzewodowy</string>
   <string name="ipc_chime_type_mechanical">Dzwonek mechaniczny</string>
   <string name="ipc_chime_type_without">Brak dzwonka</string>
+  <string name="ipc_cloud_storage_purchase">Magazyn w chmurze</string>
   <string name="ipc_cloudstorage_amount">Ilość</string>
   <string name="ipc_cloudstorage_annually">Plan roczny</string>
   <string name="ipc_cloudstorage_billed">Wybierz plan</string>
@@ -612,6 +613,7 @@
   <string name="ipc_errmsg_stream_connect">Oczekiwanie na połączenie…</string>
   <string name="ipc_errmsg_stream_connectfail">Nie udało się ustanowić szyfrowanego kanału</string>
   <string name="ipc_errmsg_wrong_password">Nieprawidłowe hasło</string>
+  <string name="ipc_error_60000">Brak dostępnych danych w urządzeniu, proszę doładuj jak najszybciej</string>
   <string name="ipc_firmware_check_update_txt">Sprawdź, czy są aktualizacje oprogramowania układowego</string>
   <string name="ipc_firmware_current_version_txt">Aktualna wersja oprogramowania układowego:</string>
   <string name="ipc_firmware_has_upgrade_txt">Znajdź nowe oprogramowanie układowe urządzenia</string>
@@ -623,6 +625,7 @@
   <string name="ipc_firmware_update_time_txt">Czas publikacji oprogramowania układowego</string>
   <string name="ipc_firmware_upgrade_now">Aktualizuj teraz</string>
   <string name="ipc_firmware_upgrade_txt">Aktualizowanie</string>
+  <string name="ipc_frame_show">Przełącznik</string>
   <string name="ipc_humanoid_filter_settings">Wykrywanie ludzi</string>
   <string name="ipc_ipc_qrpair_txt">Po naciśnięciu KONTYNUUJ telefon komórkowy wyświetli kod QR. Trzymaj kamerę w odległości 15–20 cm od telefonu komórkowego, aby zeskanować nią kod QR.</string>
   <string name="ipc_live_pag_memory_point_no_data">Brak ulubionych miejsc.</string>
@@ -696,6 +699,8 @@
   <string name="ipc_panel_open_camera">Włącz kamerę</string>
   <string name="ipc_panel_setting_chime">Ustawienia dzwonka</string>
   <string name="ipc_panel_setting_chime_tips">Najpierw ustaw prawidłowy dzwonek</string>
+  <string name="ipc_pc_client_introduce">Wprowadzenie</string>
+  <string name="ipc_pc_client_translate">Klient komputerowy IPC</string>
   <string name="ipc_pir_switch">Czułość PIR</string>
   <string name="ipc_play_mobileplay_tips">Do sprawdzania nagrania wideo używasz komórkowej transmisji danych. Zwróć uwagę na ilość przesyłanych danych.</string>
   <string name="ipc_playback_no_records_today">Brak dzisiejszych filmów video</string>
@@ -740,11 +745,18 @@
   <string name="ipc_setting_chime">Ustawienia dzwonka</string>
   <string name="ipc_setting_ring_add">Dodaj</string>
   <string name="ipc_setting_ring_remove">Rozwiąż</string>
+  <string name="ipc_settings_anti_flicker">Anty-migotanie</string>
   <string name="ipc_settings_anti_flicker_50hz">50Hz</string>
   <string name="ipc_settings_anti_flicker_60hz">60Hz</string>
+  <string name="ipc_settings_ap_mode">Tryb AP</string>
+  <string name="ipc_settings_auto">Inne</string>
+  <string name="ipc_settings_device_sound">Dźwięk</string>
+  <string name="ipc_settings_device_volume">Głośność urządzenia</string>
   <string name="ipc_settings_nightvision_auto">Automatyczny</string>
   <string name="ipc_settings_nightvision_color">Światło LED (obraz kolorowy)</string>
+  <string name="ipc_settings_nightvision_ir">Tryb czarno-biały</string>
   <string name="ipc_settings_nightvision_mode">Tryb nocny</string>
+  <string name="ipc_settings_object_outline">Kadrowanie ludzi</string>
   <string name="ipc_settings_page_basic_function_txt">Podstawowe ustawienia</string>
   <string name="ipc_settings_page_motion_detected_txt">Alarm wykrycia</string>
   <string name="ipc_settings_page_other_function_txt">Inne</string>
@@ -759,6 +771,7 @@
   <string name="ipc_settings_status_off">Wył.</string>
   <string name="ipc_settings_status_on">Wł.</string>
   <string name="ipc_settings_talkback_volume">Ustawienia głośności rozmowy</string>
+  <string name="ipc_settings_trigger_siren">Syrena alarmowa</string>
   <string name="ipc_settings_volume">Kontrola głośności</string>
   <string name="ipc_sound_detect_settings">Ustawienia czujników dźwięku</string>
   <string name="ipc_sound_detect_switch">Włącznik alarmu wykrywania dźwięku</string>
@@ -998,6 +1011,12 @@
   <string name="ota_upgrading_to">Aktualizuję do</string>
   <string name="out_room_device">Urządzenia nie znajdują się w tym pokoju</string>
   <string name="panel_uncompress_error">Błąd ładowania, stuknij panel, aby spróbować ponownie</string>
+  <string name="panelcaller_custom_check">Sprawdź</string>
+  <string name="panelcaller_custom_notification_permission_dialog_message">Nadaj uprawnienia w
+ustawieniach telefonu, aby
+otrzymywać powiadomienia o
+alarmie/wykryciu ruchu.</string>
+  <string name="panelcaller_custom_notification_permission_dialog_title">Sprawdź uprawnienia</string>
   <string name="person_panel_dev">Dostosowanie panelu sterowania</string>
   <string name="personal_add_share">Dodaj udostępnianie</string>
   <string name="personal_add_share_devices">Dodaj urządzenia do udostępniania</string>
@@ -1098,11 +1117,13 @@
   <string name="room_manage">Zarządzanie pokojami</string>
   <string name="room_name">Nazwa pokoju</string>
   <string name="room_name_not_empty">Wprowadź nazwę pokoju</string>
+  <string name="room_select_title">Wybierz pokój</string>
   <string name="room_setting">Ustawienia pokoju</string>
   <string name="root_tips">Administrator posiada wszystkie uprawnienia. Możesz dodawać i usuwać urządzenia, inteligentne scenariusze, dodawać i usuwać innych członków oraz usuwać całą rodzinę.</string>
   <string name="satisfy_following_conditions">Po spełnieniu jednego z następujących warunków</string>
   <string name="saturday">Sob.</string>
   <string name="save">Zapisz</string>
+  <string name="save_as">Zapisz jako</string>
   <string name="save_success">Pomyślnie zapisano</string>
   <string name="scene_acquaintance">Znajomy</string>
   <string name="scene_action_delay_lastone">Opóźnienie nie może być ostatnim wykonanym działaniem</string>
@@ -1113,6 +1134,7 @@
   <string name="scene_all_day">Cały dzień</string>
   <string name="scene_all_day_sub">24 godziny</string>
   <string name="scene_android_not_support">Scenariusz automatyczny uwzględnia usługę geograficznego ogrodzenia, która nie jest obsługiwana przez to urządzenie.</string>
+  <string name="scene_bind_note_tips">Powiąż numer telefonu, aby otrzymywać powiadomienia SMS. Twój numer nie zostanie użyty do żadnych innych celów (Aby usługa działała należy wykupić odpowiedni pakiet)</string>
   <string name="scene_bind_phone_tips">Twój numer telefonu wymagany jest tylko na potrzeby usługi telefonicznego powiadamiania i nie będzie wykorzystywany do innych celów. Jeśli nie podasz numeru telefonu, funkcja telefonicznego powiadamiania będzie niedostępna.</string>
   <string name="scene_brightness">Jasność</string>
   <string name="scene_buy">Kup</string>
@@ -1158,6 +1180,8 @@
   <string name="scene_night">Noc</string>
   <string name="scene_night_sub">Od zachodu do wschodu słońca</string>
   <string name="scene_no_repeat_selected">Wybierz przynajmniej jeden dzień.</string>
+  <string name="scene_note_notice">Powiadomienia SMS</string>
+  <string name="scene_note_notice_service">Powiadomienia SMS</string>
   <string name="scene_only_support_special_device">Jest to lokalne miejsce</string>
   <string name="scene_phone_notice">Przypomnienie o nieodebranym połączeniu</string>
   <string name="scene_phone_notice_service">Usługa przypomnienia telefonu</string>
@@ -1187,6 +1211,7 @@
   <string name="scene_unestablished">Scenariusz nie został jeszcze określony</string>
   <string name="scene_unnamed">Bez nazwy</string>
   <string name="scene_updated">Scenariusz został zmodyfikowany</string>
+  <string name="scene_usage_tip">Uwaga</string>
   <string name="scene_valid_time">Obowiązywanie odcinka czasu</string>
   <string name="scene_validated">Weryfikacja zakończona</string>
   <string name="scene_watch_home_device">Zawsze utrzymuj połączenie ze wszystkimi urządzeniami w domu</string>
@@ -1197,6 +1222,7 @@
   <string name="second_confirm_terminate_account">Czy na pewno chcesz dezaktywować to konto?</string>
   <string name="security_products">Produkt bezpieczeństwa</string>
   <string name="select_more">Wybierz</string>
+  <string name="select_room">Wybierz pokój</string>
   <string name="service_agreement">Umowa o świadczeniu usług</string>
   <string name="service_running_tips_content">Używana jest usługa w tle</string>
   <string name="service_running_tips_title">Działa w tle</string>
@@ -1237,6 +1263,7 @@
   <string name="start_smart_life">Ciesz się inteligentnym życiem!</string>
   <string name="state_abnormal">Nieprawidłowy stan</string>
   <string name="sub_devices_next">Dalej</string>
+  <string name="sub_devices_select_room">Wybierz pokój</string>
   <string name="sub_devices_select_room_desc">Umieść urządzenie w pokoju:</string>
   <string name="submit">Prześlij</string>
   <string name="submit_success_msg">Przesłano.</string>
@@ -1250,9 +1277,11 @@
   <string name="terminate_account">Dezaktywuj konto</string>
   <string name="terminate_account_introductions">Po wyłączeniu wszystkie dane użytkownika tego konta zostaną trwale usunięte.</string>
   <string name="thing_map_confirm">Potwierdź</string>
+  <string name="thing_no_room">Brak utworzonych pokoi</string>
   <string name="thing_ota_auto_upgrade_unavailable_tip">Obecna wersja oprogramowanie nie może być automatycznie zaktualizowana</string>
   <string name="thing_plug_play_connected_activation_hint">Aby zdalnie sterować urządzeniem, połącz je z siecią Wi-Fi.</string>
   <string name="thing_plug_play_disconnected_activation_hint">Połącz urządzenie z siecią Wi-Fi na potrzeby zdalnego sterowania: Włącz funkcję Bluetooth w telefonie i zbliż się do urządzenia, aby połączyć się z nim w ramach połączenia Bluetooth. Następnie dokończ określanie ustawień sieci Wi-Fi na stronie domowej lub stronie ze szczegółami urządzenia.</string>
+  <string name="thing_share_account">Udostępnij dla konta</string>
   <string name="thursday">Czw.</string>
   <string name="timer">Harmonogram</string>
   <string name="timer_add_failure">Dodawanie harmonogramu nie powiodło się, proszę sprawdzić swoją sieć.</string>
@@ -1300,12 +1329,14 @@
   <string name="thing_activator_keep_power_on">Włącz urządzenie</string>
   <string name="thing_activator_linkmode_AP_hotspot_caption_back_app">Wróć i dodaj urządzenie</string>
   <string name="thing_activator_linkmode_AP_hotspot_caption_connect">Podłącz telefon do hotspotu pokazanego poniżej</string>
+  <string name="thing_activator_linkmode_prepare_simple_step_button_title">Instrukcja resetowania krok po kroku</string>
   <string name="thing_activator_locationAlert_location">Lokalizacja</string>
   <string name="thing_activator_off_line_warn">Powiadomienie offline</string>
   <string name="thing_activator_openLimit_ble">Włącz Bluetooth</string>
   <string name="thing_activator_openLimit_tips">Włącz uprawnienia dla urządzeń skanujących</string>
   <string name="thing_activator_openLimit_wifi">Włącz Wi-Fi</string>
   <string name="thing_activator_open_bluetooth_text">Włącz Bluetooth</string>
+  <string name="thing_activator_open_wifi_text">Włącz Wi-Fi</string>
   <string name="thing_activator_pair_bind_other">Urządzenie dodano do innego konta</string>
   <string name="thing_activator_pairing_confirm_alert_message">Niektóre urządzenia nie zostały jeszcze dodane. Zresetuj je przed ponownym dodaniem.</string>
   <string name="thing_activator_pairing_confirm_alert_title">Dodano wszystkie urządzenia?</string>
@@ -1622,6 +1653,7 @@
   <string name="thing_home_activator_numtip">Liczba urządzeń do połączenia z siecią Wi-Fi: %s.</string>
   <string name="thing_home_activator_numtip_description">Włącz zdalne sterowanie i udostępnianie urządzeń po połączeniu z siecią Wi-Fi.</string>
   <string name="thing_home_addhub_device">Dodaj sprzęt</string>
+  <string name="thing_home_addhub_scene">Dodaj scenę</string>
   <string name="thing_home_default_home_name">Mój dom ..</string>
   <string name="thing_home_empty_tip">Brak urządzenia</string>
   <string name="thing_home_nav_family">Mój dom</string>
@@ -1636,11 +1668,13 @@
   <string name="thing_home_tip_refresh_start">Puść, aby odświeżyć</string>
   <string name="thing_home_tip_refreshing">Odświeżanie...</string>
   <string name="thing_iOS_app_share">Udostępnij adres pobierania dla iOS</string>
+  <string name="thing_igonre_tip">Nie pokazuj ponownie</string>
   <string name="thing_illegal_dp_data">Nielegalne dane DP</string>
   <string name="thing_input_name">Wpisz nazwę urządzenia Smart</string>
   <string name="thing_input_old_keyword">Wpisz stare hasło</string>
   <string name="thing_input_validate_code">Wpisz kod weryfikacyjny</string>
   <string name="thing_keep_power_working">Nie odłączaj urządzenia od zasilania</string>
+  <string name="thing_light_scene_unselect_all">Anuluj</string>
   <string name="thing_lightskin_edit_info">Edytuj</string>
   <string name="thing_load_error">Ładowanie nie powiodło się</string>
   <string name="thing_loading">Ładowanie…</string>
@@ -1737,11 +1771,17 @@
   <string name="thing_panel_device_tz">Strefa czasowa</string>
   <string name="thing_panel_group_confirm_remove">Czy na pewno chcesz usunąć tą grupę?</string>
   <string name="thing_panel_share_group">Udostępnianie grupy</string>
+  <string name="thing_permission_manager_allow_access">Potwierdzam</string>
   <string name="thing_permission_manager_def_sub_title">Bezpieczeństwo prywatności Twoich danych osobowych jest gwarantowane po przyznaniu następujących uprawnień.</string>
+  <string name="thing_permission_manager_def_title">%s aplikacja potrzebuje uprawnień .</string>
+  <string name="thing_permission_manager_external">Pamięć</string>
+  <string name="thing_permission_manager_external_title">Pamięć</string>
   <string name="thing_permission_manager_location">Lokalizacja</string>
   <string name="thing_permission_manager_location_title">Lokalizacja</string>
   <string name="thing_permission_manager_microphone_desc">Możliwość obsługi intercou i poleceń głosowych obsługiwanych przez urządzenia.</string>
   <string name="thing_permission_manager_microphone_title">Mikrofon</string>
+  <string name="thing_permission_manager_notification">Uwaga</string>
+  <string name="thing_permission_manager_notification_title">Uwaga</string>
   <string name="thing_permission_tip_location">- Uzyskaj uprawnienia do informacji o lokalizacji telefonu</string>
   <string name="thing_permission_tip_phone_state">uzyskaj pozwolenie do odczytania statusu telefonu</string>
   <string name="thing_permission_tip_read_set">Aby używać %1$s, zezwól na odczytywanie lub zapisywanie ustawień systemowych.</string>
@@ -1776,9 +1816,11 @@
   <string name="thing_scanning_skip">Zostaniesz przeniesiony do</string>
   <string name="thing_scene">Scenariusz</string>
   <string name="thing_scene_and_automation">Tap-to-run i automatyzacja</string>
+  <string name="thing_scene_create">Dodaj scenę</string>
   <string name="thing_scene_dp_duration">Trwanie</string>
   <string name="thing_scene_empty_tip">Steruj wieloma urządzeniami, jednym kliknięciem lub poleceniami głosowymi za pomocą głośnika SI.</string>
   <string name="thing_scene_member_back_home">Członek rodziny wracający do domu</string>
+  <string name="thing_scene_no_related_scenes">Brak utworzonych scen</string>
   <string name="thing_scene_set_time">Ustaw czas</string>
   <string name="thing_search_retry">Skanuj ponownie</string>
   <string name="thing_search_timeout_no_device">Przekroczono czas skanowania. Nie znaleziono urządzenia.</string>
@@ -1797,6 +1839,7 @@
   <string name="thing_share_add_select">To ustawienie wymaga udostępnionych urządzeń</string>
   <string name="thing_share_add_shared">Włącz tę funkcję  nowe urządzenie zostanie udostępnione członkowi</string>
   <string name="thing_share_add_succeed">Udostępniasz już urządzenie %s</string>
+  <string name="thing_share_app_account">Konto %s</string>
   <string name="thing_share_beshared">Urządzenie jest z</string>
   <string name="thing_share_default_info">Wpisz numer telefonu/adres e-mail</string>
   <string name="thing_share_delete">Usuń udostępnianie</string>
@@ -1806,6 +1849,8 @@
   <string name="thing_share_empty_device">Nie otrzymano żadnego udostępnionego urządzenia</string>
   <string name="thing_share_empty_device_content">Rodzina i przyjaciele mogą w prosty sposób udostępniać ci urządzenia, abyście mogli razem sterować inteligentnymi urządzeniami</string>
   <string name="thing_share_fail">Udostępnianie nie powiodło się</string>
+  <string name="thing_share_others">Udostępnij dla innych</string>
+  <string name="thing_share_per_unit">osób</string>
   <string name="thing_share_succeed">Udostępnianie powiodło się</string>
   <string name="thing_shortcut_adddevice">Dodaj Urządzenie</string>
   <string name="thing_shortcut_message">Centrum wiadomości</string>
@@ -1860,6 +1905,7 @@
   <string name="thing_thanks">Dziękujemy za Twoje wsparcie</string>
   <string name="thing_thirdparty_no_device">Nieobsługiwane urządzeń</string>
   <string name="thing_thirdparty_no_device_tip">Dodaj kompatybilne urządzenie lub skontaktuj się z dostawcą urządzenia</string>
+  <string name="thing_timer_success_notification">Uwaga</string>
   <string name="thing_to_add_blue_device">Dodać urządzenie Bluetooth?</string>
   <string name="thing_touch">Włącz</string>
   <string name="thing_touch_smart">Uruchom automatyzację</string>

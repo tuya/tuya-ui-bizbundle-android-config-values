@@ -861,6 +861,7 @@
   <string name="ipc_errmsg_stream_connect">Xây dựng kênh mã hóa ...</string>
   <string name="ipc_errmsg_stream_connectfail">Không thể thiết lập kênh được mã hóa</string>
   <string name="ipc_errmsg_wrong_password">Sai mật khẩu</string>
+  <string name="ipc_error_60000">Không có dữ liệu khả dụng trên thiết bị, vui lòng nạp tiền càng sớm càng tốt</string>
   <string name="ipc_firmware_check_update_txt">Kiểm tra nâng cấp firmware</string>
   <string name="ipc_firmware_current_version_txt">Phiên bản firmware hiện tại:</string>
   <string name="ipc_firmware_has_upgrade_txt">Có bản Firmware mới</string>
@@ -2205,6 +2206,7 @@
   <string name="thing_join_testflight">Tham gia nhóm thử nghiệm</string>
   <string name="thing_jump">Nhảy</string>
   <string name="thing_keep_power_working">Vui lòng không ngắt nguồn điện</string>
+  <string name="thing_light_scene_unselect_all">Hủy bỏ</string>
   <string name="thing_lightskin_edit_info">Chỉnh sửa</string>
   <string name="thing_load_error">Tải thất bại</string>
   <string name="thing_loading">Đang tải</string>

@@ -556,6 +556,7 @@
   <string name="ipc_errmsg_stream_connect">Šifrovaný kanál...</string>
   <string name="ipc_errmsg_stream_connectfail">Šifrovanie vypršalo</string>
   <string name="ipc_errmsg_wrong_password">Nesprávne heslo</string>
+  <string name="ipc_error_60000">Na zariadení nie sú žiadne dostupné údaje, prosím, dobijte ho čo najskôr</string>
   <string name="ipc_firmware_check_update_txt">Kontrola verzie firmwaru</string>
   <string name="ipc_firmware_current_version_txt">Поточна версія вбудованого ПЗ:</string>
   <string name="ipc_firmware_has_upgrade_txt">Nový Firmware</string>
@@ -1496,6 +1497,7 @@
   <string name="thing_input_old_keyword">Zadajte pôvodné heslo</string>
   <string name="thing_input_validate_code">Verifikačný kód</string>
   <string name="thing_keep_power_working">Prosím neodpájajte napájanie</string>
+  <string name="thing_light_scene_unselect_all">Zrušiť</string>
   <string name="thing_lightskin_edit_info">Upraviť</string>
   <string name="thing_load_error">Chyba nahrania</string>
   <string name="thing_loading">Nahrávanie...</string>

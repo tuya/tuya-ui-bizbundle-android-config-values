@@ -553,6 +553,7 @@
   <string name="ipc_errmsg_stream_connect">We bouwen aan een gecodeerd kanaal</string>
   <string name="ipc_errmsg_stream_connectfail">De bouw van gecodeerde kanalen ontbreek</string>
   <string name="ipc_errmsg_wrong_password">Verkeerd Wachtwoord</string>
+  <string name="ipc_error_60000">Geen beschikbare gegevens op het apparaat, laad alstublieft zo snel mogelijk op</string>
   <string name="ipc_firmware_check_update_txt">Zoeken Naar Firmware Update</string>
   <string name="ipc_firmware_current_version_txt">Actuele firmware-versie:</string>
   <string name="ipc_firmware_has_upgrade_txt">Nieuwe firmware-versie zoeken</string>
@@ -1498,6 +1499,7 @@
   <string name="thing_input_old_keyword">Voer uw oud wachtwoord in</string>
   <string name="thing_input_validate_code">Een Verificatiecode</string>
   <string name="thing_keep_power_working">Gelieve de stroom niet uit te zetten</string>
+  <string name="thing_light_scene_unselect_all">Annuleren</string>
   <string name="thing_lightskin_edit_info">Bewerken</string>
   <string name="thing_load_error">Laden Mislukt</string>
   <string name="thing_loading">Aan het laden...</string>
