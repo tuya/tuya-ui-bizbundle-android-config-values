@@ -322,6 +322,11 @@
   <string name="frequently_add">เพิ่มความถี่แล้ว</string>
   <string name="friday">วันศุกร์</string>
   <string name="friend">อุปกรณ์ที่แชร์</string>
+  <string name="full_screen_permission_always_neglect">อย่าเตือนอีกเลย</string>
+  <string name="full_screen_permission_content">โปรดเปิดใช้งานการอนุญาตต่อไปนี้เพื่อรับการแจ้งเตือนการโทรระยะไกล: การแจ้งเตือนของระบบ การแสดงหน้าจอ/การแจ้งเตือน อินเทอร์เฟซป๊อปอัปในพื้นหลัง และการอนุญาตการแจ้งเตือนแบบเต็มหน้าจอ หากไม่ได้รับอนุญาต คุณอาจไม่ได้รับสายจากผู้เยี่ยมชม</string>
+  <string name="full_screen_permission_goto_setting">ไปที่การตั้งค่า</string>
+  <string name="full_screen_permission_neglect">ละเลย</string>
+  <string name="full_screen_permission_title">การอนุญาตการโทรระยะไกล</string>
   <string name="gesture_password_forget">ลืมรหัสผ่านท่าทาง</string>
   <string name="gesture_password_input_limit">ใส่รหัสผ่านผิดพลาดมากเกินไป โปรดลองใหม่ในอีก %d นาที</string>
   <string name="gesture_password_input_new">ระบุรหัสผ่านท่าทางใหม่</string>
@@ -767,6 +772,7 @@
   <string name="later_on">พูดอีกครั้งในภายหลัง</string>
   <string name="left_button_device_offline">วิธีเริ่มใหม่</string>
   <string name="light_preview_other_action_tips">รองรับการดูตัวอย่างเฉพาะเฉพาะแสง</string>
+  <string name="light_quit">ยกเลิก</string>
   <string name="light_scene_no_action_desc">หลังจากตั้งค่าอุปกรณ์เป็นไม่มีการกระทำ ตอนที่เกิดสถานการณ์ จะไม่มีคำสั่งถูกส่งให้กับอุปกรณ์ใด ๆ</string>
   <string name="light_scene_no_action_title">ตั้งเป็นไม่ทำอะไร</string>
   <string name="light_scene_other_action">งานอื่น ๆ</string>

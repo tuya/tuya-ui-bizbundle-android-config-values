@@ -23,6 +23,7 @@
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_SIRI_UNLOCK">Hey，Siri， Unlock the Door</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">Arrive Home</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">Leave Home</string>
+  <string name="FIRMWARE_OTA_INACTIVE_WAIT">The device is currently sleeping and cannot be upgraded immediately. The upgrade will begin after the next wake-up.</string>
   <string name="FIRMWARE_OTA_UPGRADING_1_V2">1. Keep the Bluetooth device powered on.
 2. Keep a distance of less than 5 meters between the mobile phone or Bluetooth gateway and the target device.
 3. The device cannot be used as normal during the firmware update.
@@ -65,15 +66,9 @@
   <string name="NUMEN_SET_OWNER_FOR_LOCATION_MSG_TITLE">Transfer of home ownership</string>
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Out of cloud storage</string>
   <string name="OUT_OF_FILE_CAPACITY">Your image is more than %sMB</string>
-  <string name="PHILIPHS_INVITATION_MSG_CONTENT">[${appName}] Dear user, the user with the last number ${lastMobile} invites you to join the family sharing device. Download ${appName}APP, copy this link after logging in, and accept the invitation.
-
-Download address: https://www.philips.com.cn/c-e/appdownload-homepage/philips-home-plus?origin=1_cn_zh_APP_download_QR_code_WeChat_moments
-
-Invitation code: #${invitationCode}#</string>
   <string name="PHILIPHS_INVITATION_MSG_EMAIL_CONTENT">[${appName}] Dear user, the user with the last number ${lastMobile} invites you to join the family sharing device. Download ${appName}APP, copy this link after logging in, and accept the invitation. Invitation code: #${invitationCode}#</string>
   <string name="PRODUCT_NOT_EXISTS">NA</string>
   <string name="QR_LOGIN_CROSS_REGION_NOT_SUPPORT">You cannot scan the QR code to add a device deployed in another data center.</string>
-  <string name="REGISTER_USER_LIMIT">The application that uses the SDK trial version has exceeded the limit of registered users. Please visit the Tuya IoT Development Platform: https://www.tuya.com/vas/commodity/SDK_APP_CREATE to purchase the official version to unlock the limitation.</string>
   <string name="REPEATED_CUSTOM_ROLE_NAME">The name of the custom role already exists.</string>
   <string name="ROOM_EXIST_DONT_ADD">The name is already being used, please try another name.</string>
   <string name="SECURITY_COMMON_MSG">{0}</string>
@@ -118,6 +113,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="account_vertify_message_for_phone">Click Get Code to send the verification code to the mobile number: %s</string>
   <string name="account_wechat">WeChat</string>
   <string name="account_weibo">Weibo</string>
+  <string name="act_ble_t_no_result_content_new">Follow %s and make the device ready for pairing.</string>
   <string name="act_ez_failure_restart_iphone">Restart your phone and try again.</string>
   <string name="act_location_permission_message">Allow access to location to automatically get Wi-Fi name.</string>
   <string name="act_location_permission_title">Turn on Location to Get Wi-Fi Name</string>
@@ -164,6 +160,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="activator_5g_wifi_title">5 GHz Wi-Fi Network (devices cannot be added)</string>
   <string name="activator_addDevice_title">Connecting Device</string>
   <string name="activator_auto_search_authority_tip">Allow the following permissions to search for devices.</string>
+  <string name="activator_auto_search_text_new">Searching for nearby devices. Make sure your device has entered %s</string>
   <string name="activator_ble_wired_active_failure">Wired activation failed, please check the wired connection and network status</string>
   <string name="activator_ble_wired_device_adding">Activating via wired connection</string>
   <string name="activator_bluetooth_fail">Make sure Bluetooth is turned on.</string>
@@ -173,6 +170,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="activator_device_work">Ensure that the device is powered on.</string>
   <string name="activator_go_to_external_link">You will be redirected to an external link. Continue?</string>
   <string name="activator_guide_tips">Net Pairing Note</string>
+  <string name="activator_linkmode_AP_hotspot_caption_LN1_new">Turn on %s to ensure a successful connection.</string>
   <string name="activator_manual_input">Enter manually</string>
   <string name="activator_not_find_wifi_manual_input">Manual input W-Fi</string>
   <string name="activator_not_find_wifi_prefix">No available Wi-Fi found, please retry or</string>
@@ -189,12 +187,14 @@ Invitation code: #${invitationCode}#</string>
   <string name="activator_wifi_setting_help">Common Router Setting Methods</string>
   <string name="activator_wifi_work">Ensure that the Wi-Fi signal is good.</string>
   <string name="active_device_failure">Failed to Activate Device</string>
+  <string name="active_time">Activated At</string>
   <string name="activity_title_more_features">More Features</string>
   <string name="activity_title_setting">Settings</string>
   <string name="add">Add</string>
   <string name="add_alarm_timer">Add Schedule</string>
   <string name="add_child_dev">Add Sub-device</string>
   <string name="add_dev">Device to Be Added</string>
+  <string name="add_device">Add Device</string>
   <string name="add_execute_action">Add Task</string>
   <string name="add_family">Create a home</string>
   <string name="add_feedback">Add Feedback</string>
@@ -210,7 +210,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="add_room">Add Room</string>
   <string name="add_scene_effective_state">Add Condition to Validity Scope</string>
   <string name="add_subDevice">Add Device</string>
-  <string name="aiAssistant_deep_floor">Pull down to show AI agent</string>
+  <string name="aiAssistant_deep_floor">Continue to pull down to display AI space</string>
   <string name="ai_deep_floor">Pull down to Activate AI Assistant</string>
   <string name="alaxa_success_title">Already linked with Amazon Alexa</string>
   <string name="album_permission_tips">Go to Settings &gt; Privacy &gt; Photos of your iPhone and enable %s.</string>
@@ -257,6 +257,9 @@ Invitation code: #${invitationCode}#</string>
   <string name="app_guide_satis_content">Rate Us</string>
   <string name="app_guide_satis_ok">Satisfied</string>
   <string name="app_guide_satis_title">Satisfaction Survey</string>
+  <string name="app_home_guide_entry_msg">Learn about the new DIY homepage</string>
+  <string name="app_home_guide_entry_no_tip_anymore">Don\'t show again</string>
+  <string name="app_old_home_guide_entry_msg">Come and try out the new DIY home page!</string>
   <string name="app_personal_center_customer_online">Service</string>
   <string name="app_personal_center_family">Home Management</string>
   <string name="app_personal_center_help">Help Center</string>
@@ -266,6 +269,17 @@ Invitation code: #${invitationCode}#</string>
   <string name="app_personal_center_message">Message Center</string>
   <string name="app_personal_center_more_service">Featured</string>
   <string name="app_personal_center_third_service">Third-Party Voice Services</string>
+  <string name="app_upgrade_confirm_btn">Try It Now</string>
+  <string name="app_upgrade_v600_ai_detail">Integrating CarPlay/Android Auto, you can easily control your smart home from the vehicle and thus extend your smart life.</string>
+  <string name="app_upgrade_v600_ai_detail_a">Integrating Android Auto you can easily control your smart home from the vehicle and thus extend your smart life.</string>
+  <string name="app_upgrade_v600_ai_detail_i">Integrating CarPlay, you can easily control your smart home from the vehicle and thus extend your smart life.</string>
+  <string name="app_upgrade_v600_ai_title">Vehicle and Home Linkage</string>
+  <string name="app_upgrade_v600_guide_detail">Enjoy a smart life at your fingertips.</string>
+  <string name="app_upgrade_v600_guide_title">Welcome to App 6.0</string>
+  <string name="app_upgrade_v600_home_detail">Thanks to the new interaction design, each home member can personalize an exclusive home to suit habits. You are in control of your home.</string>
+  <string name="app_upgrade_v600_home_title">Brand-new Experience of Smart Control</string>
+  <string name="app_upgrade_v600_pro_detail">Optimize and enhance homes with numerous devices to meet your higher expectations.</string>
+  <string name="app_upgrade_v600_pro_title">Smart Life Pro Mode</string>
   <string name="app_watch_show_in_watch_title">The following devices are displayed in the watch. Press and hold the device icon on the App homepage to rearrange the devices.</string>
   <string name="at_login_sns">Social Login</string>
   <string name="auth_management_skill_name_clova">Clova</string>
@@ -286,6 +300,8 @@ Invitation code: #${invitationCode}#</string>
   <string name="ble_system_unbind_alert_message">To avoid the device still receiving system notifications after removal, you can click \"Go\" or check whether the device is removed in the phone system \"Settings → Bluetooth\".</string>
   <string name="ble_system_unbind_alert_new_message">To ensure you won\'t receive notifications of the removed device, tap Go or go to Settings &gt; Bluetooth to check if %s is removed from your phone.</string>
   <string name="ble_system_unbind_alert_title">Notice</string>
+  <string name="ble_tem_auto_add_device">Devices will be added automatically.</string>
+  <string name="ble_tem_auto_add_device_cancel">Cancel (%s)</string>
   <string name="bleconfig_ble_not_open">Bluetooth is disabled</string>
   <string name="bleconfig_ble_scan">Bluetooth Search</string>
   <string name="bleconfig_ble_scan_tip">The search process should take about two minutes. Please do not try to use the app during this time.</string>
@@ -388,6 +404,31 @@ Invitation code: #${invitationCode}#</string>
   <string name="cannot_input_empty_string">The input cannot be empty</string>
   <string name="cannot_load_image">Failed to load image</string>
   <string name="cant_share_reason">A single Bluetooth mesh device, Zigbee device, or infrared (IR) device cannot be shared. Such a device can be shared only with relevant devices.</string>
+  <string name="car_alert_limit_tip">You can add no more than %s scene(s).</string>
+  <string name="car_alert_tip_description">In an ordinary home, you can only add %d scene(s) to %s. After subscribing to Pro benefits, the maximum number of scenes can reach the maximum capacity of your vehicle\'s system.</string>
+  <string name="car_buy">Buy Now</string>
+  <string name="car_buy_home_service">Subscribe to Smart Life Pro</string>
+  <string name="car_data_config_tips">Go to the %1$s app &gt; Me &gt; %2$s vehicle to configure.</string>
+  <string name="car_data_list_item_limit_tips">Up to %d scenes can be displayed in the list.</string>
+  <string name="car_data_list_next_page">Next</string>
+  <string name="car_data_list_restrict_still_try">Try Anyway</string>
+  <string name="car_data_list_restrict_tips">Task limit reached.\nContinuing will force the application to stop.</string>
+  <string name="car_data_load_again">Reload</string>
+  <string name="car_data_load_error_tips">Loading failed. Please try again later.</string>
+  <string name="car_login_tips">Log in to the %s app first.</string>
+  <string name="car_manage_scene">Manage Tap-to-Run</string>
+  <string name="car_manage_scene_empty">No tap-to-run is available.</string>
+  <string name="car_not_show_scene">Hide the following scenes on the %s</string>
+  <string name="car_scene_actions_num">%d task(s)</string>
+  <string name="car_scene_enabled">Execute Tap-to-Run</string>
+  <string name="car_scene_executing">Executing</string>
+  <string name="car_scene_invalid_and_remove">Not available. Please delete it.</string>
+  <string name="car_scene_title">Scenes</string>
+  <string name="car_show_scene">Show the following scenes on the %s</string>
+  <string name="car_upgrade_android_version">Update your phone to Android 9.0 or later.</string>
+  <string name="car_upgrde_ios_version">Update your phone to iOS 16.0 or later.</string>
+  <string name="car_url_instructions">Explore more about %s</string>
+  <string name="card_save_tips">Do you want to save?</string>
   <string name="channel_setting">Channel Settings</string>
   <string name="channel_setting_device_cloud_offline_tip">Device is offline. Channel cannot be modified.</string>
   <string name="channel_setting_fail">Setting failed.</string>
@@ -416,6 +457,7 @@ Invitation code: #${invitationCode}#</string>
   <string name="choose_wifi_match_prefix_connect">Please select the Wi-Fi connection corresponding to the following prefix</string>
   <string name="classTips">Fault Type</string>
   <string name="click_5g_wifi_toast_content">5 GHz Wi-Fi networks are not supported. Select a 2.4 GHz one.</string>
+  <string name="click_add_device">Tap a device icon to add the device</string>
   <string name="click_bind_email">Bind Email</string>
   <string name="click_bind_phone">Bind Mobile Number</string>
   <string name="click_join">Tap Join to connect to the hotspot.</string>
@@ -660,6 +702,9 @@ Invitation code: #${invitationCode}#</string>
   <string name="device_on_off">Switch</string>
   <string name="device_online_zero">Number of Online Devices: 0</string>
   <string name="device_position">Device Location</string>
+  <string name="device_replace">Device Replacement</string>
+  <string name="device_replace_desc">Sync all group and scene information from the current device to the new device. Once the sync is completed, you can choose to delete the original device. Please note that if it is a sub-device under the gateway, the new device shall be under the same gateway as the faulty device.</string>
+  <string name="device_replacing">Device replacement in progress</string>
   <string name="device_select_for_add">Select Device to Add</string>
   <string name="device_share">Share</string>
   <string name="device_share_des">If a permanent resident in your home has an account, we recommend that you set the account as a family member and share all your family devices and \"Tap-To-Run\" Scene with the family member.</string>
@@ -708,11 +753,19 @@ Invitation code: #${invitationCode}#</string>
   <string name="diyhome_device_dashboard_item_invaild">Unavailable</string>
   <string name="diyhome_device_dashboard_list_home_title">Data Dashboard</string>
   <string name="diyhome_device_dashboard_number_limit">The number of data items has reached the upper limit. You can add up to 9 data items.</string>
+  <string name="diyhome_enlarge_card">Zoom In Card</string>
   <string name="diyhome_experience_alert_btn">Get It Now</string>
   <string name="diyhome_experience_alert_hint">Note: Trial permissions do not allow you to expand the maximum number of home devices or scenes. Each account can only participate in the trial once.</string>
-  <string name="diyhome_experience_alert_msg">You can get 15 days of access to the Smart Home Pro mode.</string>
-  <string name="diyhome_experience_alert_title">Get a Free Trial of the Smart Home Pro Mode</string>
-  <string name="diyhome_experience_success">The free trial is now available. You can get started by turning on the Smart Home Pro mode.</string>
+  <string name="diyhome_experience_alert_msg">You can get 30 days of access to the Smart Life Pro mode.</string>
+  <string name="diyhome_experience_alert_title">Get a Free Trial of the Smart Life Pro Mode</string>
+  <string name="diyhome_experience_success">The free trial is now available.</string>
+  <string name="diyhome_large_card_ble_device_disconnect">Bluetooth is disconnected.</string>
+  <string name="diyhome_large_card_dev_offline_remind">Device is offline.</string>
+  <string name="diyhome_large_card_dev_upgrading">Device is updating…</string>
+  <string name="diyhome_large_card_local_device_disconnect">Device is disconnected.</string>
+  <string name="diyhome_resize_card_error">Data anomaly.</string>
+  <string name="diyhome_resize_card_retry">Click to retry.</string>
+  <string name="diyhome_shrink_card">Zoom Out Card</string>
   <string name="done">Finish</string>
   <string name="doorbell_call_answer_app">Voice response</string>
   <string name="doorbell_call_answer_by_default_voice">Voice answered</string>
@@ -931,6 +984,11 @@ Invitation code: #${invitationCode}#</string>
   <string name="frequently_add">Frequently Added</string>
   <string name="friday">Fri.</string>
   <string name="friend">Share Device</string>
+  <string name="full_screen_permission_always_neglect">Don\'t remind me again</string>
+  <string name="full_screen_permission_content">Please enable the following permissions to receive remote call notifications: system notifications, screen display/reminders, background pop-up interface, and full-screen notification permissions. If you do not authorize, you may miss the visitor\'s call.</string>
+  <string name="full_screen_permission_goto_setting">Go to settings</string>
+  <string name="full_screen_permission_neglect">Ignore</string>
+  <string name="full_screen_permission_title">Remote call permissions</string>
   <string name="galaxy_link">Dynamic Gateway</string>
   <string name="galaxy_link_management_list_caption">Devices Working as Dynamic Gateways:</string>
   <string name="galaxy_link_management_list_help_link_title">What is a dynamic gateway? How does it work?</string>
@@ -966,6 +1024,15 @@ app to unlink the  %s  skill.</string>
   <string name="google_flip_unbind_info">You can cancel the permission anytime.</string>
   <string name="google_flip_unbind_info_goto_app">Please go to Google Home App to disconnect action.</string>
   <string name="google_flip_voice_demos">Turn on the bathroom lamps\"\n\"Turn off the lights\" \n\"Set the living room brightness to 50%%\" \n\"Is the light on in John\'s office?</string>
+  <string name="google_home_dev_list_conncet">Connect</string>
+  <string name="google_home_dev_list_connect_tip">After connecting to Google Home, you can sync the devices from the Google Home app to Tuya Smart for control.</string>
+  <string name="google_home_dev_list_empty_tip">No device found</string>
+  <string name="google_home_dev_list_revoke">Unlink</string>
+  <string name="google_home_dev_list_title">Connect to Google Home</string>
+  <string name="google_home_dev_list_update_permission">Sync Devices</string>
+  <string name="google_home_revoke_permission_desc">To revoke permissions, open the Google Home app, and go to Google MyAccounts page &gt; Data &amp; privacy &gt; Third-party apps &amp; services.</string>
+  <string name="google_home_revoke_permission_ok">OK</string>
+  <string name="google_home_revoke_permission_title">Unlink from Google Home</string>
   <string name="got_it">Got It</string>
   <string name="goto_family_make">Add Home Member</string>
   <string name="group_add_default_name">%s Group</string>
@@ -1083,6 +1150,7 @@ app to unlink the  %s  skill.</string>
   <string name="home_adv_guide_page_4_desc">Manage and control rooms, devices, and scenes at your fingertips.</string>
   <string name="home_adv_guide_page_5_desc">If you prefer the old homepage, you can switch to it at \"Me &gt; Settings\".</string>
   <string name="home_adv_guide_page_6_desc">Enhanced technologies allow thousands of smart devices to run smoothly.</string>
+  <string name="home_adv_more_hub_editcard">Manage Homepage</string>
   <string name="home_adv_no_device_in_room">No devices found in current room.</string>
   <string name="home_adv_no_room_filter">No rooms found</string>
   <string name="home_adv_no_shown_device_1">No favorite devices found.</string>
@@ -1098,7 +1166,7 @@ app to unlink the  %s  skill.</string>
   <string name="home_adv_remove_from_room">Remove from Room</string>
   <string name="home_adv_remove_widget">Remove Widget</string>
   <string name="home_adv_room_device_num">%1$d Favorite Device(s)</string>
-  <string name="home_adv_room_hint_num">Favorite Scenes: %d ｜ Favorite Devices: %d</string>
+  <string name="home_adv_room_hint_num">%d Scene(s) | %d Device(s)</string>
   <string name="home_adv_room_list_entry">Room List</string>
   <string name="home_adv_room_no_device">No Devices</string>
   <string name="home_adv_room_tab">Room</string>
@@ -1123,6 +1191,8 @@ app to unlink the  %s  skill.</string>
   <string name="home_diy_home_add_home">Auto Add New Devices to Homepage</string>
   <string name="home_diy_home_add_home_desc">Enabling this feature will automatically add new devices to the custom homepage. Otherwise, you will need to move them manually.</string>
   <string name="home_diy_home_gudie_all_device_desc">Get to all your devices here.</string>
+  <string name="home_diy_home_gudie_end_page_tip1">For some devices, tap and hold to zoom in the card and show more features.</string>
+  <string name="home_diy_home_gudie_end_page_tip2">Quickly find devices or manage the homepage here. Each home member can personalize a unique homepage.</string>
   <string name="home_diy_home_gudie_to_add_commoncard_desc">Select your favorite rooms and smart miniapps and tap Next.</string>
   <string name="home_diy_home_gudie_to_add_commoncard_title">Step 3: Add smart home services</string>
   <string name="home_diy_home_gudie_to_add_content">Tap here\n to add quick access to your favorite devices and features.</string>
@@ -1130,19 +1200,29 @@ app to unlink the  %s  skill.</string>
   <string name="home_diy_home_gudie_to_add_devicecard_title">Step 1: Add most-used devices</string>
   <string name="home_diy_home_gudie_to_add_scenecard_desc">Select your favorite scenes and tap Next.</string>
   <string name="home_diy_home_gudie_to_add_scenecard_title">Step 2: Add tap-to-run scenes</string>
+  <string name="home_diy_home_gudie_to_aotu_init_comp_title">Welcome to the new personalized homepage</string>
   <string name="home_diy_home_gudie_to_close">Close</string>
   <string name="home_diy_home_gudie_to_complete_desc">You can organize your homepage to suit you best.</string>
   <string name="home_diy_home_gudie_to_complete_title">You are all set!</string>
   <string name="home_diy_home_gudie_to_edit_content">Let\'s set up your homepage.</string>
   <string name="home_diy_home_gudie_to_edit_title">Welcome to Smart Home Pro Mode</string>
+  <string name="home_diy_home_gudie_to_init_comp_title">You are all set!</string>
   <string name="home_diy_home_light_control">Quick Control of Lights</string>
   <string name="home_diy_home_light_control_desc">The All On/Off buttons and lighting scenes will appear for rooms with lighting devices.</string>
-  <string name="home_diy_home_mode">Smart Home Pro</string>
+  <string name="home_diy_home_mode">Enable Smart Control Mode (New)</string>
+  <string name="home_diy_home_mode_desc">In the new mode, each home member can personalize a homepage to add and easily access favorite devices and features. You can discover even more exciting features.</string>
   <string name="home_diy_home_mode_details">Learn More</string>
   <string name="home_diy_home_mode_not_open">You have not subscribed to Smart Home Pro Mode.</string>
-  <string name="home_diy_home_mode_restart_app">Restart the app to switch to Smart Home Pro Mode.</string>
-  <string name="home_diy_home_smart_mode">Smart Home Pro Mode</string>
+  <string name="home_diy_home_mode_restart_app">Restart the app to switch to Smart Control Mode (New).</string>
+  <string name="home_diy_home_pay_pro_mode">Subscribe Now</string>
+  <string name="home_diy_home_pro_mode_grouptitle">Smart Life Pro</string>
+  <string name="home_diy_home_recharge_pro_mode">Renew Now</string>
+  <string name="home_diy_home_room_tab">Enable Room Tab</string>
+  <string name="home_diy_home_room_tab_desc">After this feature is enabled, the app will show the Room tab at the bottom, allowing users to control and manage devices by room.</string>
+  <string name="home_diy_home_room_tab_restart_app_tip">You must restart the app for this change to take effect. Continue?</string>
+  <string name="home_diy_home_smart_mode">Settings of Smart Control (New)</string>
   <string name="home_my_device">My Devices</string>
+  <string name="home_page_google_home_device_list_titile">Shared Devices from Google Home</string>
   <string name="home_personal_center">Me</string>
   <string name="home_security_call">Dial</string>
   <string name="home_security_call_for_help">Ask for help</string>
@@ -2132,6 +2212,7 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_network_err_hang_up">Network error. Call ended.</string>
   <string name="ipc_no_local_video_now">No video.</string>
   <string name="ipc_no_support_fullscreen">The mobile phone screen does not support horizontal screen</string>
+  <string name="ipc_not_support_record_playback">Unfortunately, the device does not support video playback yet.</string>
   <string name="ipc_notifi_center_all">All</string>
   <string name="ipc_notifi_center_select_all">Select All</string>
   <string name="ipc_notification">Notification</string>
@@ -2182,6 +2263,7 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_permission_request_hint">For a better experience, allow the permissions below.</string>
   <string name="ipc_permission_skip">Skip</string>
   <string name="ipc_permission_storage">Tap to allow storage access and use the screenshot function</string>
+  <string name="ipc_phone_service_description">Customer Service Remarks</string>
   <string name="ipc_photo_album_title">Album</string>
   <string name="ipc_photo_left_ear">Left Ear</string>
   <string name="ipc_photo_right_ear">Right Ear</string>
@@ -2284,6 +2366,8 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="ipc_sdcard_page_sdcard_none_cloud_had">No storage device detected</string>
   <string name="ipc_sdcard_page_sdcard_none_cloud_had_tip">1. If a storage card has been inserted, please try to reinsert it
 2. To improve the security level of your device, we recommend using video cloud storage services</string>
+  <string name="ipc_sdcard_page_sdcard_none_cloud_unsupported">Your camera did not detect a storage device.</string>
+  <string name="ipc_sdcard_page_sdcard_none_cloud_unsupported_tip">Please insert a storage device. If the storage device is already inserted but not recognized, please unplug and reinsert it, then try again.</string>
   <string name="ipc_sdcard_page_sdcard_none_goto_cloud">Open Now</string>
   <string name="ipc_sdcard_record_mode_aov_customize">Custom frame interval mode</string>
   <string name="ipc_sdcard_record_mode_aov_customize_subtitle">Record 1 frame every specified time</string>
@@ -2577,6 +2661,7 @@ The alarm has not been sent to the police alarming platform</string>
   <string name="leave_not_operate">After leaving the family, you can no longer operate devices and Smart of the family.</string>
   <string name="left_button_device_offline">Resetting</string>
   <string name="light_preview_other_action_tips">You can only preview the lighting effects.</string>
+  <string name="light_quit">Back</string>
   <string name="light_scene_background">Image</string>
   <string name="light_scene_dim_bright">Brightness</string>
   <string name="light_scene_dim_hue">Hue</string>
@@ -2712,6 +2797,10 @@ Please read through the following terms and conditions before you use our produc
   <string name="matter_active_commissioning">Connecting device to network …</string>
   <string name="matter_active_nocisigning">Generating Matter credentials …</string>
   <string name="matter_connect_ing_title">Connecting to device …</string>
+  <string name="matter_device_ble_active_fail">Failed to activate Bluetooth.</string>
+  <string name="matter_device_repeat_active">The device is already activated. Do not activate it again.</string>
+  <string name="matter_device_wifi_not_support">No Desired Wi-Fi Network Found</string>
+  <string name="matter_device_wifi_sub_title">Available Wi-Fi Networks</string>
   <string name="matter_search_ing_title">Searching for devices …</string>
   <string name="matter_share_code_desc">Copy the setup code or share the QR code to share the Matter device.</string>
   <string name="matter_share_code_tips">Share Setup Code with Other Apps</string>
@@ -2766,6 +2855,12 @@ Please read through the following terms and conditions before you use our produc
   <string name="message_setting_title">Do-Not-Disturb Schedule</string>
   <string name="message_tab_title">Message</string>
   <string name="min_photo_select_tips">Select at least %zd photo(s).</string>
+  <string name="mini_app_ai_close_instructions">Don\'t show again within 3 days</string>
+  <string name="mini_app_ai_close_notice">Close AI Space</string>
+  <string name="mini_app_ai_close_tip">If you want to reopen the AI space after it has been closed for a long time, you can go to \"My\" -&gt; top right corner settings icon, and click \"Clear Cache\".</string>
+  <string name="mini_app_pull_choose_ai">Select your desired AI space</string>
+  <string name="mini_app_pull_in_ai">Swipe down to unlock the AI space</string>
+  <string name="mini_app_pull_in_ai_countdown">6</string>
   <string name="miniapp_content">Discover</string>
   <string name="mkf_2b_1">microphone</string>
   <string name="mobile_binding">Bind Mobile Number</string>
@@ -2871,10 +2966,21 @@ Please read through the following terms and conditions before you use our produc
   <string name="operation_revise">Edit</string>
   <string name="orignal_image">Original</string>
   <string name="ota_I_know">Got It</string>
+  <string name="ota_all_upgrade">Update All</string>
   <string name="ota_auto_update">Auto Upgrade</string>
   <string name="ota_back_to_home">Back to Home</string>
   <string name="ota_back_to_home_content">Update is in progress. The device is unavailable. You can go back to the homepage, and the update continues.</string>
   <string name="ota_back_to_home_title">Prompt</string>
+  <string name="ota_batch_upgrade_alert_all_update">Update All Devices</string>
+  <string name="ota_batch_upgrade_alert_confirm">Confirm Update</string>
+  <string name="ota_batch_upgrade_alert_content">%d of your devices will be updated. The %d devices might not work properly during the update. Are you sure to start the update?</string>
+  <string name="ota_batch_upgrade_alert_no_room">No Room</string>
+  <string name="ota_batch_upgrade_alert_single_update">Update Current Device Only</string>
+  <string name="ota_batch_upgrade_alert_tips">It was found that (%d) devices under the same gateway can be simultaneously updated via OTA. Do you want to update them together?</string>
+  <string name="ota_batch_upgrade_alert_title">Bulk Update</string>
+  <string name="ota_batch_upgrade_alert_unsupport_content">In this update, \"%s\" and other devices (%d devices in total) cannot be updated simultaneously. Please manually update them from the list.</string>
+  <string name="ota_batch_upgrade_failure_reason">Please update the device individually.</string>
+  <string name="ota_batch_upgrade_no_device_to_upgrade">No device needs to be updated.</string>
   <string name="ota_ble_device_before_upgrade_warning">The Bluetooth device will be temporarily unavailable during the firmware update. Are you sure to start the update now?</string>
   <string name="ota_ble_device_disconnect_warning">Keep a distance of less than 5 meters between the mobile phone or Bluetooth gateway and the target device, and start the update only after the device is running in normal state.</string>
   <string name="ota_ble_update_warning_text">Please do n’t leave this page or switch App when the Bluetooth device is upgraded, otherwise the upgrade will be terminated.</string>
@@ -2895,8 +3001,13 @@ Please read through the following terms and conditions before you use our produc
   <string name="ota_new_firmware">New Firmware Version</string>
   <string name="ota_new_firmware_version">New Version:</string>
   <string name="ota_new_version">New Version</string>
+  <string name="ota_party_upgrade">Update Selected</string>
   <string name="ota_publish_date">Release Time:</string>
   <string name="ota_remind">Update Notification</string>
+  <string name="ota_select_upgrade">Update Selected Devices</string>
+  <string name="ota_single_upgrade_alert_content">The current device will be shut down and you will be redirected to the bulk update page.</string>
+  <string name="ota_single_upgrade_tips">It was found that %d devices under the same gateway can be updated.</string>
+  <string name="ota_single_upgrade_tips_action">Update now</string>
   <string name="ota_still_update">Continue to upgrade</string>
   <string name="ota_success">Updated</string>
   <string name="ota_update_begin">Start update</string>
@@ -2907,7 +3018,7 @@ Please read through the following terms and conditions before you use our produc
   <string name="ota_update_nb_wait_remind">Waking up the device. It may take some time. You can do other operations while waiting.</string>
   <string name="ota_update_remind">1. Keep the power of the device connected during the update process. \ n2. The device will not be available during the update process, please be patient.</string>
   <string name="ota_update_waiting_for_upgrading">Waiting for updating to</string>
-  <string name="ota_update_waiting_wake_up">Wait for the device to wake up...</string>
+  <string name="ota_update_waiting_wake_up">Waiting for manual wake up of device</string>
   <string name="ota_update_warning">Notes</string>
   <string name="ota_update_warning_text_can_control">The upgrade may take a long time. Make sure that the device is fully charged.</string>
   <string name="ota_update_warning_txt">This update may take a long time. Make sure that the device is fully charged. The device will be unavailable during the update.</string>
@@ -2990,6 +3101,7 @@ Please read through the following terms and conditions before you use our produc
   <string name="personal_speech_service_tmall">Tmall Genie</string>
   <string name="personal_speech_service_yandex">Yandex</string>
   <string name="personal_third_party_service_homekit">HomeKit</string>
+  <string name="phone_call_title">Customer Service</string>
   <string name="phone_email">Mobile Number/Email</string>
   <string name="phone_notify_serve_faq_2">App will make phone calls to alert you when the automation you have configured in the app is triggered.</string>
   <string name="phone_number">Mobile Number</string>
@@ -3044,6 +3156,9 @@ Please read through the following terms and conditions before you use our produc
   <string name="problemSubmit_content_placeholder">Detail the problem you want to report and note the path of the problem subject in the app. Clear and complete information can help us quickly locate and solve the problem.</string>
   <string name="processing">Processing …</string>
   <string name="productProposal_content_placeholder">Replace \"Detail\" with \"Describe\"</string>
+  <string name="profile_car_title_android">Android Auto</string>
+  <string name="profile_car_title_ios">CarPlay</string>
+  <string name="profile_gha_device_title">Google Home Devices</string>
   <string name="push_alarm_device">Device</string>
   <string name="push_alarm_event_type">Type</string>
   <string name="push_alarm_family">Home</string>
@@ -3058,6 +3173,12 @@ Please read through the following terms and conditions before you use our produc
   <string name="push_channel_warnbell">Alert Notification</string>
   <string name="push_permission_notify">To ensure the receipt of notifications, allow notifications through phone settings.</string>
   <string name="pwd_error">Wrong password.</string>
+  <string name="qr_login_detail">View Details</string>
+  <string name="qr_login_device_over_limit">The number of devices to be synced exceeds the current account limit. You need to upgrade your account level to continue.</string>
+  <string name="qr_login_device_over_limit_oem">The number of devices to be bound exceeds the current account limit. For more information, contact the app customer service.</string>
+  <string name="qr_login_learn_more">Learn More</string>
+  <string name="qr_login_leave">Exit</string>
+  <string name="qr_login_unnecessary">Maybe Later</string>
   <string name="questionTips">You may encounter the following problems:</string>
   <string name="rate_us">Rate Us</string>
   <string name="re_add">Add Again</string>
@@ -3094,10 +3215,17 @@ Please read through the following terms and conditions before you use our produc
   <string name="rename">Rename</string>
   <string name="rename_device">Device Name</string>
   <string name="repeat">Repeat</string>
+  <string name="replace_device_offline">The new device shall be online. Please check the network and try again.</string>
+  <string name="replace_fail">Failed to replace the device.</string>
+  <string name="replace_remove_device">Remove</string>
+  <string name="replace_reserve_device">Keep</string>
+  <string name="replace_success">The device is replaced successfully.</string>
+  <string name="replace_success_tip">You can choose to keep or remove the faulty device.</string>
+  <string name="replaceable_empty">No device is available for replacement</string>
   <string name="reset_device">Reset</string>
   <string name="reset_rematch">Reset the device and pair it again.</string>
   <string name="restart_router">Restart the router and pair the device again.</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Try Again</string>
   <string name="retry_after_60">Retry (60)</string>
   <string name="retry_later">Retry (%d)</string>
   <string name="review_group_title">Device Group</string>
@@ -3132,6 +3260,7 @@ Please read through the following terms and conditions before you use our produc
   <string name="saturday">Sat.</string>
   <string name="save">Save</string>
   <string name="save_as">Save As</string>
+  <string name="save_failure">Failed to save.</string>
   <string name="save_success">Saved</string>
   <string name="scan_device">Searching for devices, please wait …</string>
   <string name="scan_none_device">No devices found. Please search again.</string>
@@ -3221,6 +3350,8 @@ Please read through the following terms and conditions before you use our produc
   <string name="scene_family_member_go_home">Family Member Going Home</string>
   <string name="scene_find_new_actionexecutor">The current app version cannot display or execute some actions. Please update it to the latest version.</string>
   <string name="scene_find_new_entitytype">The current app version cannot display, trigger, or save certain conditions. Please update to the latest version.</string>
+  <string name="scene_geofence_dialog_explain_new">\"When location changes (Beta)\" is our experimental feature. To use this feature, you must always allow access to your location. Your location information will not be used for any other purposes. This feature does not work without your location information. \n View \"%s\" to learn more details.</string>
+  <string name="scene_geofence_explain_new">Note: The above location conditions depend on your phone location. See %s.</string>
   <string name="scene_group_none">Empty group</string>
   <string name="scene_humidity_tip">Dry (0%-40%), Comfortable (40%-70%), Moist (70%-100%)</string>
   <string name="scene_icon">Icon</string>
@@ -3352,6 +3483,7 @@ Please read through the following terms and conditions before you use our produc
   <string name="select_room">Select Room</string>
   <string name="select_video_from_album">Select video from mobile album</string>
   <string name="select_wifi">Select Wi-Fi</string>
+  <string name="selectable_device">Available Devices</string>
   <string name="selected_geofence_scene_not_support_batch_delete">The %d automation scene(s) with geofences cannot be deleted on this mobile app.</string>
   <string name="selected_scene_not_support_batch_delete">The following %d tap-to-run scenes cannot be deleted in bulk. Delete them one by one.</string>
   <string name="server_error">Request failed with error code: %d</string>
@@ -3378,6 +3510,7 @@ Please read through the following terms and conditions before you use our produc
 Continue?</string>
   <string name="share_methods">If the recipient is a home member or a reliable user, tap Me &gt; Home Management &gt; Add Member and add the recipient to your home. Then, devices in the home can be shared with the recipient in bulk.</string>
   <string name="shared_title">My Sharing</string>
+  <string name="should_delete_device">Do you want to delete the faulty device?</string>
   <string name="show_first_page">Show on Home Page</string>
   <string name="show_scene_bind_room">Room</string>
   <string name="single_week_five">Fri.</string>
@@ -3406,6 +3539,9 @@ Continue?</string>
   <string name="social_unbind_all_home_assistant_title">Revoke All Home Assistant Permissions?</string>
   <string name="social_unbind_home_assistant_content">After this action, device control with Home Assistant will be disabled. You can authorize Home Assistant again when needed.</string>
   <string name="social_unbind_home_assistant_title">Revoke Home Assistant Permission?</string>
+  <string name="space_abilitie_process">Executing...</string>
+  <string name="space_empty_edit_button">No Components Available</string>
+  <string name="space_list_empty_tip">No Space Available</string>
   <string name="speech_add_desktop_success">Shortcut created successfully</string>
   <string name="speech_add_to_desktop">Add to Home Screen</string>
   <string name="speech_ai_experience">Try New AI Assistant</string>
@@ -3425,6 +3561,7 @@ Continue?</string>
   <string name="speech_you_can_do">You can ask me to:</string>
   <string name="speech_you_can_speech">You can say:</string>
   <string name="speed_limit_sign">Speed limit sign</string>
+  <string name="start_replace">Start Replacement</string>
   <string name="start_smart_life">Start a smart life</string>
   <string name="state_abnormal">Status error</string>
   <string name="status_abnormal">Device Status Exception, Failed to Connect</string>
@@ -3450,6 +3587,7 @@ Continue?</string>
   <string name="the_car_ahead">The car ahead</string>
   <string name="thinf_homeadv_roomremove_devices_not_delete_tip">Devices in this room will not be removed. They can be found in All Devices and do not belong to any room.</string>
   <string name="thinf_homeadv_roomtag_remove_room_not_delete_tip">The rooms will not be removed, but will be moved to Ungrouped Rooms.</string>
+  <string name="thing_act_ble_t_no_result_content_new">Follow %s and make the device ready for pairing.</string>
   <string name="thing_act_matter_add_gateway_name">Your device added successfully to %s</string>
   <string name="thing_act_matter_certified_fail_tip">Adding the uncertified device canceled. To add the device, try the steps again.</string>
   <string name="thing_act_matter_failure_icloud_set_tip">Check if \"Settings &gt; Apple ID &gt; iCloud &gt; Passwords and Keychain\" is turned on.</string>
@@ -3460,6 +3598,7 @@ Continue?</string>
   <string name="thing_act_setup_code_length_error_msg">Please enter 11-bit or 21-bit setting code</string>
   <string name="thing_act_system_notsupport_msg">The mobile operating system does not support the current pairing mode for the Matter device. Please upgrade to iOS 16.1 or later and try again.</string>
   <string name="thing_act_system_notsupport_title">Failed to Add Device</string>
+  <string name="thing_activator_auto_search_text_new">Searching for nearby devices. Make sure your device has entered %s</string>
   <string name="thing_activator_backHome">Back to Home</string>
   <string name="thing_activator_check_cancel_active">Confirm?</string>
   <string name="thing_activator_check_cancel_active_message">This action will cause device pairing to fail. To pair the device again, reset the device and make it ready for pairing.</string>
@@ -3476,6 +3615,7 @@ Continue?</string>
   <string name="thing_activator_direct_device_error_two">The SIM card is inserted into the device.</string>
   <string name="thing_activator_duplicate_confirm_text">View</string>
   <string name="thing_activator_duplicate_scan_title">The device already exists. Do not add it again.</string>
+  <string name="thing_activator_linkmode_AP_hotspot_caption_LN1_new">Turn on %s to ensure a successful connection.</string>
   <string name="thing_activator_matter_failure_reset_tip">Check if the device is reset and ready for pairing.</string>
   <string name="thing_activator_no_available_thread_content">Add a Thread gateway in the current home</string>
   <string name="thing_activator_no_available_thread_content_1">The gateway is powered and online.</string>
@@ -3494,6 +3634,7 @@ Continue?</string>
   <string name="thing_activator_thread_sub_check">For a Thread sub-device, restart the Thread gateway.</string>
   <string name="thing_activator_wifi_check_freq">Check Wi-Fi settings of the router. If your Wi-Fi band is 5 GHz, select 2.4 GHz.</string>
   <string name="thing_activator_wifi_list_title_choose">Select Wi-Fi Network to Connect</string>
+  <string name="thing_add_diyhome_card">Add Quick Toggle Card</string>
   <string name="thing_add_room_name_placeholder">Enter room name</string>
   <string name="thing_add_room_with_roomtag_choose_tip">Select Room Group</string>
   <string name="thing_adv_home_all_devicelist_title">All Devices</string>
@@ -3515,6 +3656,9 @@ Continue?</string>
   <string name="thing_current_family">Current Home</string>
   <string name="thing_current_family_no_devices">No devices found for current home</string>
   <string name="thing_cust_miniappa">123</string>
+  <string name="thing_debug_language_enable_subtitle">View multilingual codes in the debugging tool.</string>
+  <string name="thing_debug_language_enable_title">Enable Multilingual Debugging Tool (New)</string>
+  <string name="thing_debug_language_open_tool">Go to Debugging Tool</string>
   <string name="thing_deselect">Deselect All</string>
   <string name="thing_detect_network_status">Detecting network status …</string>
   <string name="thing_device_connect_ability">Connected Through</string>
@@ -3525,6 +3669,7 @@ Continue?</string>
   <string name="thing_device_share_auth_manager">Permission Settings</string>
   <string name="thing_device_share_confirm">Confirm</string>
   <string name="thing_device_share_matter_bridge_service">Share via Matter Gateway</string>
+  <string name="thing_device_share_offline">Device offline</string>
   <string name="thing_device_share_user_name">User Nickname</string>
   <string name="thing_device_shared_members">Members</string>
   <string name="thing_device_warin_phone_for_device">Applicable Devices</string>
@@ -3559,6 +3704,7 @@ Continue?</string>
   <string name="thing_light_scene_item_manage">Manage Light Scenes</string>
   <string name="thing_light_scene_rhythm_type">Biorhythm Scene</string>
   <string name="thing_light_scene_select_type_tip">Select Type</string>
+  <string name="thing_light_scene_sort_quit_title">If you click Cancel, the display order will not be saved.</string>
   <string name="thing_light_turn_off_lights_desc">Devices that do not support the biorhythm scene will be turned off to ensure the best lighting effect.</string>
   <string name="thing_local_device_disconnect">Disconnected</string>
   <string name="thing_map_confirm">Confirm</string>
@@ -3607,6 +3753,8 @@ Continue?</string>
   <string name="thing_scan_device_desc">Auto display discovered devices on the homepage.</string>
   <string name="thing_scene_create_tip_security_alarm">Example: Smoke Alarm Triggered</string>
   <string name="thing_scene_create_tip_security_mode">Example: Arm Stay via Gateway</string>
+  <string name="thing_scene_geofence_dialog_explain_new">\"When location changes (Beta)\" is our experimental feature. To use this feature, you must always allow access to your location. Your location information will not be used for any other purposes. This feature does not work without your location information. \n View \"%s\" to learn more details.</string>
+  <string name="thing_scene_geofence_explain_new">Note: The above location conditions depend on your phone location. See %s.</string>
   <string name="thing_scene_manager_select_max">Up to %d items can be selected.</string>
   <string name="thing_scene_not_support_add_the_action">This type of action cannot be added repeatedly.</string>
   <string name="thing_select">Select All</string>
@@ -3616,6 +3764,10 @@ Continue?</string>
   <string name="thing_set_device_notice_way">Set the device alarm push method</string>
   <string name="thing_setting_device_alarm">Get Notified By</string>
   <string name="thing_share_account">Share with Account</string>
+  <string name="thing_share_device_other">Others</string>
+  <string name="thing_share_device_share_to_googlehome">Share to Google Home</string>
+  <string name="thing_share_device_share_to_googlehome_desc">After sharing, this device can be controlled in the Google Home app.</string>
+  <string name="thing_share_device_to_googlehome_failed">Share failed</string>
   <string name="thing_share_more_title">More</string>
   <string name="thing_share_tiktok_title">TikTok</string>
   <string name="thing_share_to">Share to</string>
@@ -3935,7 +4087,7 @@ Continue?</string>
   <string name="thing_activator_pair_exit_alert_title">You have device(s) to be added.</string>
   <string name="thing_activator_pair_not_complete_account">Account information is not completed</string>
   <string name="thing_activator_pair_timeout_check_network">Check whether the network is fine. If you enter Wi-Fi information, confirm that it is a 2.4 GHz Wi-Fi network with the correct account and password.</string>
-  <string name="thing_activator_pair_weak_signal">Weak signal</string>
+  <string name="thing_activator_pair_weak_signal">The device has been waiting for too long. Please reset the device and immediately follow the steps to pair again.</string>
   <string name="thing_activator_pair_zigbee_limit_message">You can switch to another gateway and add the device again, or remove some devices from this gateway and try again.</string>
   <string name="thing_activator_pairing_comfirm_adding">Adding device now. Are you sure to stop?</string>
   <string name="thing_activator_pairing_comfirm_not_add">Some devices are not added. Are you sure to leave?</string>

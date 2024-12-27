@@ -444,6 +444,7 @@
   <string name="is_save_smart_update">האם לשמור את השינויים?</string>
   <string name="later_on">לא עכשיו</string>
   <string name="left_button_device_offline">הוראות איפוס</string>
+  <string name="light_quit">ביטול</string>
   <string name="light_scene_dim_bright">בְּהִירוּת</string>
   <string name="light_scene_dim_hue">צבע אור</string>
   <string name="light_scene_dim_temp">טמפרטורת הצבע</string>

@@ -1776,6 +1776,7 @@
   <string name="leave_for_owner">Після того, як дім буде видалений, усі учасники будуть видалені, дані будуть стерті, загальний доступ до пристроїв буде закритий.</string>
   <string name="leave_not_operate">Покинувши дім, ви більше не зможете керувати пристроями і сценаріями.</string>
   <string name="left_button_device_offline">Інструкції щодо перезавантаження</string>
+  <string name="light_quit">Назад</string>
   <string name="light_scene_background">Зображення</string>
   <string name="light_scene_item_edit">Додати сценарій підсвічування</string>
   <string name="light_scene_other_action_save">Підтвердити</string>
@@ -2455,6 +2456,7 @@
   <string name="terminate_account">Деактивувати обліковий запис</string>
   <string name="terminate_account_introductions">Після вимкнення всі дані користувача за цим обліковим записом буде видалено назавжди</string>
   <string name="the_car_ahead">Попереду машина</string>
+  <string name="thing_light_scene_sort_quit_title">У разі натискання кнопки Скасувати порядок відображення не збережеться.</string>
   <string name="thing_map_confirm">Підтвердити</string>
   <string name="third_sdk_sercie_content">Список SDK послуг</string>
   <string name="third_sdk_service_content">Список сторонніх служб SDK</string>

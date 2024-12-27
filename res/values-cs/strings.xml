@@ -328,6 +328,11 @@
   <string name="frequently_add">Často přidávané</string>
   <string name="friday">Pátek</string>
   <string name="friend">Sdílené zařízení</string>
+  <string name="full_screen_permission_always_neglect">Už to nepřipomínej</string>
+  <string name="full_screen_permission_content">Chcete-li přijímat upozornění na vzdálené hovory, povolte prosím následující oprávnění: systémová upozornění, zobrazení/připomenutí na obrazovce, vyskakovací rozhraní na pozadí a oprávnění k upozornění na celou obrazovku. Bez autorizace můžete zmeškat hovory od návštěvníků.</string>
+  <string name="full_screen_permission_goto_setting">Přejděte do nastavení</string>
+  <string name="full_screen_permission_neglect">zanedbání</string>
+  <string name="full_screen_permission_title">Povolení vzdáleného volání</string>
   <string name="gesture_password_forget">Zapomněli jste gesto</string>
   <string name="gesture_password_input_limit">Příliš mnoho nesprávných pokusů o heslo, zkuste to znovu v%d minutách</string>
   <string name="gesture_password_input_new">Zadejte nové gesto</string>
@@ -760,6 +765,7 @@
   <string name="is_save_smart_update">Potvrdit provedené změny?</string>
   <string name="later_on">Řeknete znovu</string>
   <string name="left_button_device_offline">Resetování pokynů</string>
+  <string name="light_quit">Zrušit</string>
   <string name="light_scene_other_condition">Přidat podmínku ke spuštění</string>
   <string name="link_cancel">Oddělit</string>
   <string name="link_device_empty">Žádné zařízení nelze propojit</string>
@@ -1359,7 +1365,7 @@
   <string name="thing_config_id_not_found">Zařízení nemůže být odpárováno protože jeho id je prázdné.</string>
   <string name="thing_config_reconnect_tips">Potvrďte hot spot</string>
   <string name="thing_config_wifi_dev">Zařízení Wi-Fi</string>
-  <string name="thing_confirm">Potvrdit</string>
+  <string name="thing_confirm">OK</string>
   <string name="thing_connect">Připojit</string>
   <string name="thing_connected">Připojeno</string>
   <string name="thing_consumer_hotline">Zákaznická Horká Linka</string>

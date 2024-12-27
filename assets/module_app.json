@@ -5,17 +5,18 @@
       "com.thingclips.smart.panel.RNStatePipeline",
       "com.thingclips.smart.family.FamilyPipeLine",
       "com.thingclips.smart.advertisement.AdvertisementManagerPipeline",
-      "com.gzl.smart.gzlminiapp.smart.init.GZLMiniAppPreloadWebViewPipeLine",
       "com.gzl.smart.gzlminiapp.smart.init.GZLMiniAppHomeIdlePipeLine",
+      "com.gzl.smart.gzlminiapp.smart.init.GZLMiniAppPreloadWebViewPipeLine",
       "com.thingclips.smart.messagepush.MessagePushStartPipeLine",
       "com.thingclips.smart.rnplugin.trctpublicblebeaconmanager.ThingBeaconFencePipeLine",
       "com.thingclips.smart.bluemesh.MeshAppStartPipeLine",
-      "com.thingclips.smart.health.HealthDataCenterPipeLine"
+      "com.thingclips.smart.health.HealthDataCenterPipeLine",
+      "com.thingclips.smart.plugin.tunibasicmanager.utils.CanIUseDataPipeLine"
     ],
     "PIPE_LINE_BUSINESS_PIPELINE_APPLICATION_START": [
+      "com.thingclips.android.universal.stat.TUNIversalStatPipeLine",
       "com.thingclips.smart.rnplugin.trctimageencryptuploadmanager.db.ThingP2PHistoryPipeLine",
       "com.thingclips.smart.activitypush.api.ActivityAdPushManagerPipeline",
-      "com.thingclips.android.universal.stat.TUNIversalStatPipeLine",
       "com.thingclips.smart.uibizcomponents.UiBizComponentLaunchPipeline",
       "com.thingclips.smart.stat.StatPipeLine",
       "com.thingclips.smart.pushcenter.PushCenterPipeLine",
@@ -46,7 +47,8 @@
     "PIPE_LINE_BUSINESS_com.thingclips.smart.initializer.custompipeline.UserAgreeScenarioType": [
       "com.thingclips.smart.jsbridge.PreInitWebPipeLine",
       "com.gzl.smart.gzlminiapp.smart.init.GZLMiniAppPipeLine",
-      "com.thingclips.smart.dynamic.string.NetworkRequestPipeline"
+      "com.thingclips.smart.dynamic.string.NetworkRequestPipeline",
+      "com.thingclips.smart.tangramdefaultstartup.StartUpConfig"
     ],
     "PIPE_LINE_APPLICATION_SYNC": [
       "com.thingclips.smart.theme.core.ThemeSyncPipeLine",
@@ -59,12 +61,13 @@
       "com.thingclips.smart.paneloutside.RNVersionPipeline"
     ],
     "PIPE_LINE_APPLICATION_ASYNC": [
+      "com.thingclips.android.universal.stat.TUNIversalStatPipeLine",
       "com.thingclips.smart.rnplugin.trctimageencryptuploadmanager.db.ThingP2PHistoryPipeLine",
-      "com.thingclips.smart.activitypush.api.ActivityAdPushManagerPipeline",
-      "com.thingclips.android.universal.stat.TUNIversalStatPipeLine"
+      "com.thingclips.smart.activitypush.api.ActivityAdPushManagerPipeline"
     ]
   },
   "pipeLineDeps": {
+
   },
   "moduleMap": {
     "com.thingclips.smart.activator.search.result.SearchResultApp": [
@@ -397,6 +400,7 @@
     "com.thingclips.thingsmart.rn_share_api.RNChinaShareService": "com.thingclips.smart.china.share.ChinaShareServiceImpl",
     "com.thingclips.smart.device.evaluation.plug.api.AbsDeviceEvaluationService": "com.thingclips.evaluation.DeviceEvaluationService",
     "com.thingclips.smart.scene.list.plug.api.home.DefaultPlugSceneHomeRouterService": "com.thingclips.smart.scene.home.aircraft.DefaultPlugSceneHomeRouterServiceImpl",
+    "com.gzl.smart.gzlminiapp.open.api.AbsThingLangPluginService": "com.gzl.smart.gzlminiapp.core.service.GZLLangDebugServiceImpl",
     "com.thingclips.smart.commonbiz.api.login.AbsLoginEventService": "com.thingclips.smart.commonbiz.login.LoginEventServiceImpl",
     "com.thingclips.stencil.location.LocationRequireService": "com.thingclips.smart.location.LocationRequireServiceImpl",
     "com.thingclips.smart.migration.api.AbsMigrationGWService": "com.thingclips.smart.migration.MigrationGWService",
@@ -457,8 +461,8 @@
     "com.thingclips.smart.commonbiz.api.family.AbsFamilyService": "com.thingclips.smart.commonbiz.family.FamilyManagerService",
     "com.thingclips.smart.scene.business.service.SceneRNRouterService": "com.thingclips.smart.scene.business.SceneRNRouterServiceImpl",
     "com.gzl.smart.gzlminiapp.core.api.miniapp.AbsMiniAppPluginService": "com.gzl.smart.gzlminiapp.core.service.MiniAppPluginServiceImpl",
-    "com.gzl.smart.gzlminiapp.core.api.utils.AbsMiniAppUtilService": "com.gzl.smart.gzlminiapp.core.service.MiniAppUtilServiceImpl",
     "com.gzl.smart.gzlminiapp.open.api.AbsMiniAppVersionService": "com.gzl.smart.gzlminiapp.core.service.MiniAppVersionServiceImpl",
+    "com.gzl.smart.gzlminiapp.core.api.utils.AbsMiniAppUtilService": "com.gzl.smart.gzlminiapp.core.service.MiniAppUtilServiceImpl",
     "com.thingclips.smart.clearcache.api.ClearCacheService": "com.thingclips.smart.personal.clearcache.ClearCacheServiceImpl",
     "com.thingclips.smart.scene.business.service.SceneLogService": "com.thingclips.smart.scene.record.service.SceneLogServiceImpl",
     "com.thingclips.smart.personal.center.plug.api.IPersonalRedDotService": "com.thingclips.smart.personal.center.plug.PersonalCenterRedDotService",
@@ -516,8 +520,8 @@
     "com.thingclips.smart.scene.business.dpc.AbsSceneDashboardModelService": "com.thingclips.smart.scene.home.service.SceneDashboardModelService",
     "com.thingclips.stencil.location.GoogleLocationService": "com.thingclips.googlelocation.GoogleLocationServiceImpl",
     "com.thingclips.smart.scene.edit.plug.api.condition.DefaultPlugSceneConditionRouterService": "com.thingclips.smart.scene.condition.aircaft.DefaultPlugSceneConditionRouterServiceImpl",
-    "com.gzl.smart.gzlminiapp.open.api.platformconfig.AbsPlatformConfigService": "com.gzl.smart.gzlminiapp.core.platformconfig.PlatformConfigServiceImpl",
     "com.gzl.smart.gzlminiapp.open.api.AbsMiniAppFragmentService": "com.gzl.smart.gzlminiapp.core.service.MiniAppFragmentServiceImpl",
+    "com.gzl.smart.gzlminiapp.open.api.platformconfig.AbsPlatformConfigService": "com.gzl.smart.gzlminiapp.core.platformconfig.PlatformConfigServiceImpl",
     "com.thingclips.smart.scene.edit.plug.api.action.DefaultPlugSceneActionRouterService": "com.thingclips.smart.scene.action.aircaft.DefaultPlugSceneActionRouterServiceImpl",
     "com.thingclips.smart.advertisement.api.AbsTabAdService": "com.thingclips.smart.advertisement.TabAdServiceImpl",
     "com.thingclips.smart.privacy.auth.api.AbsPrivacyAuthorizationService": "com.thingclips.smart.privacy.auth.model.PrivacyAuthorizationService",

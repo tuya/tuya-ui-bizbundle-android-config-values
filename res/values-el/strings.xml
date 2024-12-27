@@ -856,6 +856,7 @@
   <string name="leave_for_owner">Αφού διαγραφεί η οικογένεια, όλα τα μέλη θα διαγραφούν, τα δεδομένα θα αδειάσουν, οι συσκευές που θα προστεθούν θα διαχωριστούν και θα επαναληφθούν.</string>
   <string name="leave_not_operate">Αφού εγκαταλείψετε την οικογένεια, δεν μπορείτε πλέον να χειρίζεστε συσκευές και Smart της οικογένειας.</string>
   <string name="left_button_device_offline">Επαναφορά Οδηγίες</string>
+  <string name="light_quit">Ακυρωση</string>
   <string name="light_scene_other_condition">Προσθήκη κατάστασης εκκίνησης</string>
   <string name="link_alexa">Σύνδεση με Alexa</string>
   <string name="link_alexa_info">Ελέγξτε τη συσκευή σας φωνητικά μέσω έξυπνων ηχείων της σειράς Amazon Echo. Πιέστε το πλήκτρο για να δέσετε τη συσκευή με τον λογαριασμό σας Amazon</string>
@@ -1358,6 +1359,7 @@
   <string name="temperature_unit">Μονάδες Θερμοκρασίας</string>
   <string name="terminate_account">Απενεργοποίηση λογαριασμού</string>
   <string name="terminate_account_introductions">Μετά την απενεργοποίηση του λογαριασμού, όλα τα δεδομένα χρήστη κάτω από αυτό το λογαριασμού θα διαγραφούν μόνιμα</string>
+  <string name="thing_light_scene_sort_quit_title">Αν πιέσετε Ακύρωση, η παραγγελία προβολής δεν θα αποθηκευτεί.</string>
   <string name="thing_map_confirm">Επιβεβαιώνω</string>
   <string name="thursday">Πέμπτη</string>
   <string name="timer">Συγχρονισμός</string>
