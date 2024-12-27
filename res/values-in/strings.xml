@@ -929,6 +929,7 @@
   <string name="later_on">Nanti</string>
   <string name="leave_for_owner">Setelah keluarga di hapus, semua anggota akan dihapus, data akan dihapus, semua perangkat yang ada akan dilepas dan direset.</string>
   <string name="left_button_device_offline">Mengatur ulang.</string>
+  <string name="light_quit">Batalkan</string>
   <string name="light_scene_other_condition">Tambahkan kondisi pemicu</string>
   <string name="link_alexa">Terhubung pada Amazon Alexa</string>
   <string name="link_alexa_info">Atur perangkat anda dengan suara dengan memakai speaker pintar seri Amazon Echo. Klik tombol untuk mengikat perangkat anda dengan akun Amazon anda.</string>
@@ -1441,6 +1442,7 @@
   <string name="temperature_unit">Satuan suhu</string>
   <string name="terminate_account">Nonaktifkan Akun</string>
   <string name="terminate_account_introductions">Setelah akun di non-aktifkan, semua data pengguna di akun ini akan dihapus selamanya.</string>
+  <string name="thing_light_scene_sort_quit_title">Bila anda memilih Batal, urutan tampilan tidak akan disimpan</string>
   <string name="thing_map_confirm">Konfirmasi</string>
   <string name="thursday">Kamis.</string>
   <string name="timer">Jadwal</string>

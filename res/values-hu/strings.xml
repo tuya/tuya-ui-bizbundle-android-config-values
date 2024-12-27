@@ -218,6 +218,7 @@
   <string name="app_guide_satis_content">Értékeljen minket</string>
   <string name="app_guide_satis_ok">Elégedett</string>
   <string name="app_guide_satis_title">Elégedettségi felmérés</string>
+  <string name="app_home_guide_entry_no_tip_anymore">Ne kérdezze meg újra</string>
   <string name="app_personal_center_customer_online">Szerviz</string>
   <string name="app_personal_center_family">Otthonkezelés</string>
   <string name="app_personal_center_help">Gyakori kérdések és visszajelzések</string>
@@ -1018,6 +1019,7 @@
   <string name="home_adv_sync_config_title">Szinkronizálja kedvenc kártyájának beállításait a honlapon ezzel a taggal.</string>
   <string name="home_adv_user_setting_diy_home_cell">Új Kezdőlap</string>
   <string name="home_card_guide_entry_addcard_msg">Próbáld ki a kedvenc kártyáidat, és élvezd a gyors irányítást.</string>
+  <string name="home_card_guide_entry_no_tip_anymore">Ne kérdezze meg újra</string>
   <string name="home_my_device">Saját eszközök</string>
   <string name="home_personal_center">Saját</string>
   <string name="home_security_call">Tárcsázás</string>
@@ -2251,6 +2253,7 @@
   <string name="leave_for_owner">Az Otthon törlése után, az összes tag törlődik az Otthonból, az adatok eltávolítása is megtörténik, és az eszközök párosítása is megszűnik.</string>
   <string name="leave_not_operate">Az Otthonból való kilépés után a továbbiakban már nem működtetheti az Otthonhoz tartozó eszközöket és Hangulatokokat.</string>
   <string name="left_button_device_offline">Visszaállítás</string>
+  <string name="light_quit">Vissza</string>
   <string name="light_scene_background">Kép</string>
   <string name="light_scene_other_action_save">Megerősítés</string>
   <string name="light_scene_other_condition">Aktiválási feltétel hozzáadása</string>
@@ -3164,6 +3167,7 @@
   <string name="thing_light_scene_delete">Fényjelenet törlése</string>
   <string name="thing_light_scene_item_delete">Jelenet törlése</string>
   <string name="thing_light_scene_item_manage">Fényjelenetek kezelése</string>
+  <string name="thing_light_scene_sort_quit_title">Ha a Mégse gombra kattint, akkor a kijelzősorrend nem kerül mentésre.</string>
   <string name="thing_local_device_disconnect">Kikapcsolt</string>
   <string name="thing_map_confirm">Jóváhagy</string>
   <string name="thing_map_set_location_no_permission_gosetting">Beállítás most</string>

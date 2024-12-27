@@ -727,6 +727,7 @@
   <string name="is_save_smart_update">De wijzigingen bewaren?</string>
   <string name="later_on">Later</string>
   <string name="left_button_device_offline">Instructies</string>
+  <string name="light_quit">Annuleren</string>
   <string name="light_scene_other_condition">Voeg een startvoorwaarde toe</string>
   <string name="link_cancel">Koppeling ongedaan maken</string>
   <string name="link_device_empty">Er kan geen apparaat worden gekoppeld</string>

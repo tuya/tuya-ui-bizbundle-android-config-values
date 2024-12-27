@@ -1274,6 +1274,7 @@
   <string name="leave_for_owner">След като домът е изтрит, всички членове ще бъдат изтрити, информацията ще се изтрие и всички устройства ще се разкачат.</string>
   <string name="leave_not_operate">След напускане на семейството, няма да можете да управлявате устройствата на семейството.</string>
   <string name="left_button_device_offline">Зануляване</string>
+  <string name="light_quit">Назад</string>
   <string name="light_scene_background">Изображение</string>
   <string name="light_scene_other_action_save">Потвърждение</string>
   <string name="light_scene_other_condition">Добавете условие за задействане</string>
@@ -1905,6 +1906,7 @@
   <string name="temperature_unit">Единица за температура</string>
   <string name="terminate_account">Деактивиране на Профила</string>
   <string name="terminate_account_introductions">След деактивиране на акаунта, цялата информация под този акаунт ще бъде изтрита.</string>
+  <string name="thing_light_scene_sort_quit_title">Ако натиснете Откажи, показаното подреждане няма да се запази.</string>
   <string name="thing_map_confirm">Потвърждение</string>
   <string name="thursday">Вторник</string>
   <string name="timer">График</string>

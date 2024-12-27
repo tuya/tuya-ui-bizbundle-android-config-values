@@ -801,6 +801,7 @@
   <string name="is_save_smart_update">Potwierdzić wprowadzone zmiany?</string>
   <string name="later_on">Porozmawiaj później</string>
   <string name="left_button_device_offline">Instrukcje resetowania</string>
+  <string name="light_quit">Anuluj</string>
   <string name="light_scene_input_name">Wpisz nazwę</string>
   <string name="light_scene_other_condition">Dodaj warunek uruchomienia</string>
   <string name="link_cancel">Rozdziel</string>

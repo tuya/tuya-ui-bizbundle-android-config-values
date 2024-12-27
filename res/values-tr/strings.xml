@@ -53,7 +53,6 @@
   <string name="NUMEN_SET_OWNER_FOR_LOCATION_MSG_TITLE">Ev Sahipliğini Devret</string>
   <string name="OUT_OF_DEV_STORAGE_CAPACITY">Bulut depolama alanı dışında</string>
   <string name="OUT_OF_FILE_CAPACITY">Tek fotoğraf %s MB sınırını aşıyor</string>
-  <string name="PHILIPHS_INVITATION_MSG_CONTENT">[${appName}] Değerli Kullanıcı, sonu ${lastMobile} ile biten kullanıcı sizi bir aile cihazına katılmaya davet etti. ${appName} uygulamayı indirin, giriş yaptıktan sonra bu bağlantıyı kopyalayın ve daveti kabul edin.</string>
   <string name="PHILIPHS_INVITATION_MSG_EMAIL_CONTENT">[${appName}] Değerli Kullanıcı, sonu ${lastMobile} ile biten kullanıcı sizi bir aile paylaşım cihazına katılmaya davet etti. ${appName}APP\'sini indirin, giriş yaptıktan sonra bu bağlantıyı kopyalayın ve daveti kabul edin. Davetiye Kodu: #${invitationCode}#</string>
   <string name="PRODUCT_NOT_EXISTS">Uygun Değil</string>
   <string name="QR_LOGIN_CROSS_REGION_NOT_SUPPORT">Başka bir veri merkezinde bulunan bir cihazı eklemek için QR kodu tarayamazsınız.</string>
@@ -1968,6 +1967,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="leave_for_owner">Ev Silindikten Sonra Tüm Üyeler Silinecek, veriler Temizlenecek ve Tüm Cihazların Eşleştirilmesi Kaldırılacaktır.</string>
   <string name="leave_not_operate">Aileden Ayrıldığınızda Artık Cihazları  veya Ailenin Uygulamasını Çalıştıramazsınız.</string>
   <string name="left_button_device_offline">Sıfırlama talimatları</string>
+  <string name="light_quit">Geri</string>
   <string name="light_scene_background">Resim</string>
   <string name="light_scene_dim_bright">Parlaklık</string>
   <string name="light_scene_dim_hue">Renk</string>
@@ -2090,7 +2090,7 @@ Alarm polis alarm platformuna gönderilmedi</string>
   <string name="menu_title_link">İlişkili Cihazlar</string>
   <string name="menu_title_share">Paylaşılan cihazlar</string>
   <string name="message_center">Mesaj Merkezi</string>
-  <string name="message_center_alarm">Alarm</string>
+  <string name="message_center_alarm">Bildirimler</string>
   <string name="message_center_apr">Nisan</string>
   <string name="message_center_aug">Ağustos</string>
   <string name="message_center_dec">Aralık</string>
@@ -2719,6 +2719,7 @@ Devam Edilsin Mi?</string>
   <string name="thing_hide_account_email">Tam E-posta Adresi Gizle</string>
   <string name="thing_hide_account_mobile">Tam Numarayı Gizle</string>
   <string name="thing_hour">Saat</string>
+  <string name="thing_light_scene_sort_quit_title">İptal\'İ Tıklatırsanız, Ekran Sırası Kaydedilmeyecektir.</string>
   <string name="thing_local_device_disconnect">Bağlantı Kesildi</string>
   <string name="thing_map_confirm">Onayla</string>
   <string name="thing_minute">Dakika</string>

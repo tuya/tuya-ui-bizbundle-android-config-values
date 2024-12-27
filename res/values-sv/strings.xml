@@ -474,6 +474,7 @@
   <string name="is_save_smart_update">Bekräfta ändringar</string>
   <string name="later_on">Senare</string>
   <string name="left_button_device_offline">Instruktioner för återställning</string>
+  <string name="light_quit">Avbryt</string>
   <string name="light_scene_other_condition">Lägg till ett utlösande villkor</string>
   <string name="load_error">Laddning misslyckades.</string>
   <string name="load_failed_check_network">Ladda ut timeout, kolla nätverket</string>

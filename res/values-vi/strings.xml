@@ -1181,6 +1181,7 @@
   <string name="leave_for_owner">Sau khi xoá nhà, tất cả thành viên, dữ liệu trong nhà này sẽ bị xoá theo và các thiết bị sẽ ở trạng thái chờ kết nối lại</string>
   <string name="leave_not_operate">Sau khi rời khỏi thành viên trong nhà, Bạn không thể điều khiển thiết bị và các ngữ cảnh thông minh</string>
   <string name="left_button_device_offline">Hướng dẫn đặt lại</string>
+  <string name="light_quit">Hủy bỏ</string>
   <string name="light_scene_background">Hình ảnh</string>
   <string name="light_scene_other_condition">Thêm điều kiện kích hoạt</string>
   <string name="link_alexa">Kết nối với Amazon Alexa</string>
@@ -1788,6 +1789,7 @@
   <string name="temperature_unit">Đơn vị nhiệt độ</string>
   <string name="terminate_account">Vô hiệu hóa tài khoản</string>
   <string name="terminate_account_introductions">Sau khi tài khoản bị vô hiệu hóa, tất cả dữ liệu người dùng trong tài khoản này sẽ bị xóa vĩnh viễn.</string>
+  <string name="thing_light_scene_sort_quit_title">Nếu bạn huỷ, kết quả sẽ không được lưu</string>
   <string name="thing_map_confirm">Xác nhận</string>
   <string name="thing_permission_full_screen_desc">Cho phép ứng dụng nhận thông báo toàn màn hình trên màn hình khóa.</string>
   <string name="thing_permission_full_screen_title">Truy cập vào thông báo toàn màn hình</string>
