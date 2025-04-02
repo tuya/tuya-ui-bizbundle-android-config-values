@@ -539,6 +539,7 @@
   <string name="data_upgrade">Betöltés - kérjük, várjon...</string>
   <string name="de_pwd">Jelszavak</string>
   <string name="debugging">Hibakeresés</string>
+  <string name="delete_device">Eszköz eltávolítása</string>
   <string name="delete_member_msg">Az Otthonból való eltávolítás után a tag a továbbiakban már nem működtetheti az Otthonhoz tartozó eszközöket és Hangulatokokat.</string>
   <string name="delete_member_tips">Biztosan le kívánja állítani az eszköz megosztását a következővel: %s?</string>
   <string name="dev_link">Társított eszközök</string>
@@ -2253,10 +2254,47 @@
   <string name="leave_for_owner">Az Otthon törlése után, az összes tag törlődik az Otthonból, az adatok eltávolítása is megtörténik, és az eszközök párosítása is megszűnik.</string>
   <string name="leave_not_operate">Az Otthonból való kilépés után a továbbiakban már nem működtetheti az Otthonhoz tartozó eszközöket és Hangulatokokat.</string>
   <string name="left_button_device_offline">Visszaállítás</string>
+  <string name="light_batch_management">Lámpa batch beállítások</string>
+  <string name="light_device_offline">Néhány eszköz megszakítja a felhőt</string>
+  <string name="light_dim_offline_device_desc">Kérjük, győződjön meg róla, hogy a készülék jele jó.</string>
+  <string name="light_dim_offline_device_title">Rendellenes berendezés:%sone</string>
   <string name="light_quit">Vissza</string>
+  <string name="light_room_device_empty_tip">A jobb felső sarokban kattintva hozzáadhatja a kívánt eszközt</string>
+  <string name="light_room_presets_title">Az előre beállított forgatókönyv automatikusan érvénybe lép a készülék konfigurációjának befejezése után.</string>
+  <string name="light_scene_add_preset">Előre beállított jelenetek hozzáadása</string>
+  <string name="light_scene_add_text">Hozzáadás</string>
   <string name="light_scene_background">Kép</string>
+  <string name="light_scene_bg_camera">Fénykép készítése</string>
+  <string name="light_scene_choose_city">Válassz várost</string>
+  <string name="light_scene_dim_bright_add">＋</string>
+  <string name="light_scene_dim_hue_add">＋</string>
+  <string name="light_scene_dim_saturation">Telítettségi lépés</string>
+  <string name="light_scene_dim_temp_add">＋</string>
+  <string name="light_scene_distributed_preview_title">Előnézeti megjegyzés</string>
+  <string name="light_scene_error_button_to_manage">Kezelés</string>
+  <string name="light_scene_latitude">Szélességi fok</string>
+  <string name="light_scene_local_cloud_setting">Helyi és felhőbeállítások (Laboratóriumi funkció)</string>
+  <string name="light_scene_longitude">Hosszúság</string>
   <string name="light_scene_other_action_save">Megerősítés</string>
   <string name="light_scene_other_condition">Aktiválási feltétel hozzáadása</string>
+  <string name="light_scene_reset">Visszaállítás</string>
+  <string name="light_scene_reset_tip">Biztosan vissza akarja állítani a biológiai ritmust?</string>
+  <string name="light_scene_rhythm_custom_mode">Egyéni</string>
+  <string name="light_scene_rhythm_default_city">Peking</string>
+  <string name="light_scene_rhythm_default_country">Kína</string>
+  <string name="light_scene_rhythm_default_lat">39.92</string>
+  <string name="light_scene_rhythm_default_lon">116.42</string>
+  <string name="light_scene_saturation_add">＋</string>
+  <string name="light_scene_type_distributed_bluetooth">Elosztott jelenet (Bluetooth)</string>
+  <string name="light_scene_type_distributed_zigbee">Elosztott jelenet (ZigBee)</string>
+  <string name="light_scene_type_distributed_zigbee_my">Elosztott jelenet (ZigBee)</string>
+  <string name="light_scene_type_local_mesh">Mobiltelefon közvetlen Bluetooth eszköz</string>
+  <string name="light_scene_type_preset">Előre beállított jelenet</string>
+  <string name="light_scene_what_is_distributed_zigbee">Mi az elosztott jelenet (ZigBee)</string>
+  <string name="light_set_home_location">Állítsa be az otthon helyát további információkért</string>
+  <string name="light_sigmesh_no_gateway_open">Mobiltelefon közvetlen Bluetooth eszköz</string>
+  <string name="lighting_group_lamp_disconnect_gateway">helyi kapcsolat</string>
+  <string name="lighting_list_sig_no_gateway">helyi kapcsolat</string>
   <string name="link_alexa">Csatlakoztatás Amazon Alexához</string>
   <string name="link_alexa_info">Vezérelje készülékét hanggal az Amazon Echo sorozat intelligens hangszóróin keresztül. Kattintson a gombra, hogy eszközét összekösse az Amazon-fiókjával.</string>
   <string name="link_cancel">Szétválasztás</string>
@@ -2999,7 +3037,7 @@
   <string name="setup_debug_switch">Hibakeresés</string>
   <string name="share_ble_wifi_device_offline_tip">Kérjük, győződjön meg arról, hogy a kettős módú eszközt csatlakoztatta az internethez, különben a címzett nem tudja irányítani a terméket. Folytatni?</string>
   <string name="share_ble_wifi_group_offline_tip">Jelenlegi csoportjába kettős módú eszközök tartoznak (Bluetooth + Wi-Fi), előfordulhat, hogy a megosztott nem tudja irányítani ezt az eszközt. Folytatja?</string>
-  <string name="share_methods">Ha az otthonának egyik lakója rendelkezik egy Tuya fiókkal, akkor javasoljuk, hogy adja hozzá a fiókot az Otthon tagjaként, hogy meg tudja vele osztani az összes eszközét és Hangulatokát.</string>
+  <string name="share_methods">Amennyiben más családtag is rendelkezik fiókkal, akkor javasoljuk, hogy a fiókot „családi fiókként” állítsák be, hogy a készüléket más családtagokkal is meg lehessen osztani.</string>
   <string name="shared_title">Saját megosztás</string>
   <string name="show_first_page">Megjelenítés a Kezdőlapon</string>
   <string name="show_scene_bind_room">Szoba</string>
@@ -3159,6 +3197,9 @@
   <string name="thing_light_manage_area_delete_failure">Sikertelen törlés.</string>
   <string name="thing_light_manage_area_delete_tips">Ez a szoba eszközökhöz van rendelve, és nem törölhető.</string>
   <string name="thing_light_operate_all_off">Mindent kikapcsolni</string>
+  <string name="thing_light_rhythm_default_mode_name2">Napkelte</string>
+  <string name="thing_light_rhythm_default_mode_name4">Naplemente</string>
+  <string name="thing_light_rhythm_scene_default_name">Új ritmus</string>
   <string name="thing_light_scene_batch_delete_tips">Biztos, hogy törölni szeretné a %d fényjelenet(eke)t?</string>
   <string name="thing_light_scene_batch_delete_tips_detail">A kapcsolódó ütemtervek szintén törlésre kerülnek.</string>
   <string name="thing_light_scene_batch_delete_toast">Törölve: %d fényjelenet(ek). Sikertelen: %d fényjelenet(ek).</string>
@@ -3168,6 +3209,7 @@
   <string name="thing_light_scene_item_delete">Jelenet törlése</string>
   <string name="thing_light_scene_item_manage">Fényjelenetek kezelése</string>
   <string name="thing_light_scene_sort_quit_title">Ha a Mégse gombra kattint, akkor a kijelzősorrend nem kerül mentésre.</string>
+  <string name="thing_light_turn_off_lights_tips">Előnézeti megjegyzés</string>
   <string name="thing_local_device_disconnect">Kikapcsolt</string>
   <string name="thing_map_confirm">Jóváhagy</string>
   <string name="thing_map_set_location_no_permission_gosetting">Beállítás most</string>
@@ -3311,7 +3353,7 @@
   <string name="tx_status_quick">Gyorsan villog (0,5 mp/1 alkalom)</string>
   <string name="tx_status_slow">Lassan villog (3 mp/1 alkalom)</string>
   <string name="tx_status_title">Jelzőfény állapotának kiválasztása</string>
-  <string name="thing_about_thingsmart">Smart Life Névjegy</string>
+  <string name="thing_about_thingsmart">Tuya Smart Névjegy</string>
   <string name="thing_account_bind">Csatolva</string>
   <string name="thing_account_bindphone_country_no_support">Mobiltelefonszámmal nem lehet kapcsolatot létesíteni.</string>
   <string name="thing_account_gotobind">Összekapcsolás most</string>
@@ -4236,6 +4278,7 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_light_lamp_add_area_empty">Nincsenek lámpák</string>
   <string name="thing_light_lamp_scene_title">Világítási jelenet kiválasztása</string>
   <string name="thing_light_mode">Normál üzemmód</string>
+  <string name="thing_light_scene">Okosfunkciók</string>
   <string name="thing_light_scene_add_success">Mentve</string>
   <string name="thing_light_scene_brightness">Fényerő</string>
   <string name="thing_light_scene_color_temperature">Színhőmérséklet</string>
@@ -4243,6 +4286,8 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_light_scene_create">Új világítási szenárió</string>
   <string name="thing_light_scene_default_name">Új világítási szenárió</string>
   <string name="thing_light_scene_delete_tips">A lámpák eltávolításra kerültek. A szenárió törlésre kerül.</string>
+  <string name="thing_light_scene_diy_scene_desc">Testreszabhatja az egyes lámpák állapotát, és a lámpa a konfiguráció szerint bemutatja az összhatást</string>
+  <string name="thing_light_scene_dynamic_scene">Dinamikus jelenet</string>
   <string name="thing_light_scene_edit">Világítási szenárió szerkesztése</string>
   <string name="thing_light_scene_edit_quit_tip">Biztos, hogy ki akar lépni?</string>
   <string name="thing_light_scene_edit_quit_tip_detail">A tartalom nem kerül mentésre a kilépés után</string>
@@ -4254,7 +4299,10 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_light_scene_main_light">Funkcionális világítás</string>
   <string name="thing_light_scene_manage_delete_scene_tips_detail">A szenárióban szereplő releváns ütemezések szintén törlődnek.</string>
   <string name="thing_light_scene_manage_delete_tips">Biztos, hogy törölni akarja?</string>
+  <string name="thing_light_scene_music_scene">Ritmusos Jelenet</string>
+  <string name="thing_light_scene_music_type">Ritmusos</string>
   <string name="thing_light_scene_net_error">A hálózat nem működik. Menj és nézd meg.</string>
+  <string name="thing_light_scene_network_is_lan">Jobb hatás LAN alatt</string>
   <string name="thing_light_scene_nonadjustable">Nem állítható</string>
   <string name="thing_light_scene_preview_success">Sikeres előnézet</string>
   <string name="thing_light_scene_scene_type">Változat</string>
@@ -4266,6 +4314,7 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_light_scene_turn_on">BE</string>
   <string name="thing_light_scene_unselect_all">Megszüntetés</string>
   <string name="thing_light_scene_white_light">Fehér</string>
+  <string name="thing_light_tab_scene">Okosfunkciók</string>
   <string name="thing_lightskin_edit_info">Szerkesztés</string>
   <string name="thing_line_notify_device_remove">Biztos, hogy törölni szeretné ezt az eszközt?</string>
   <string name="thing_line_notify_device_remove_desc">Törlés után az eszköz figyelmeztető üzenetei nem kerülnek elküldésre a LINE-ra.</string>
@@ -4749,8 +4798,12 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_review_operate_success_hint">Hogyan értékeli az alkalmazás során szerzett tapasztalatait?</string>
   <string name="thing_review_scene_add_success_title">Helyzet sikeresen hozzáadva.</string>
   <string name="thing_review_value_add_service_success_title">A vásárlás sikeres volt.</string>
+  <string name="thing_room_dining_room">Étkező</string>
+  <string name="thing_room_living_room">Nappali</string>
+  <string name="thing_room_master_bedroom">Fő hálószoba</string>
   <string name="thing_room_none_permission_tip">Lépjen kapcsolatba az Otthon tulajdonosával az Otthon beállítások &gt; Otthoni tagok engedélyezéséhez.</string>
   <string name="thing_room_none_permission_title">A közönséges tagok nem végezhetik el ezt a műveletet. Kérjen meg egy Adminisztrátort vagy az Otthon tulajdonosát, hogy segítsen.</string>
+  <string name="thing_room_study_room">Tanulószoba</string>
   <string name="thing_save_room_suc">Mentve</string>
   <string name="thing_scan_exit">Kilépés az előnézetből</string>
   <string name="thing_scan_guide_tip">Jelenleg elõnézeti módban van. Koppintson ide az előnézet bezárásához.</string>
@@ -4849,6 +4902,7 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_scene_turn_up">Felkapcs.</string>
   <string name="thing_scene_value_tip">Az egység %s, amely automatikusan kalibrálva lett.</string>
   <string name="thing_scene_view_offline_device">Offline eszköz megtekintése</string>
+  <string name="thing_schedule_scene_count">Okosfunkciók</string>
   <string name="thing_scnene_fetching_dp_list">Eszközinformációk beolvasása...</string>
   <string name="thing_search_retry">Újra beolvasás</string>
   <string name="thing_search_timeout_no_device">Beolvasás időkorlátja lejárt - nem található eszköz.</string>
@@ -4856,7 +4910,7 @@ A távvezérlés engedélyezéséhez koppintson a Felhőkapcsolat elemre az eszk
   <string name="thing_send_veri_code">Az ellenőrzőkód el lett küldve a mobiltelefonjára a %s telefonszámra.</string>
   <string name="thing_sensitive_region_update_main_page_tip">Fontos: Tegye meg a lehető leghamarabb.</string>
   <string name="thing_sensitive_region_upgrade_guide_title">Oktatóanyagok</string>
-  <string name="thing_sensitive_region_upgrade_guide_url_android">https://app-support.smart321.com/developerapp/upgrade-notice/tuyasmart?lang=en</string>
+  <string name="thing_sensitive_region_upgrade_guide_url_android"/>
   <string name="thing_sensitive_region_upgrade_guide_url_ios">https://app-support.smart321.com/developerapp/upgrade-notice/tuyasmart?lang=en</string>
   <string name="thing_sensitive_region_upgrade_update_title">Áttelepítés</string>
   <string name="thing_set_cover">Borító beállítása</string>
