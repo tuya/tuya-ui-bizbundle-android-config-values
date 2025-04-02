@@ -9,7 +9,7 @@
 			"N6":0.2,
 			"N7":0.1,
 			"N8":0.7,
-			"N9":0.05
+			"N9":0.1
 		},
 		"colors":{
 			"B1":"#000000",
@@ -20,7 +20,7 @@
 			"B6":"",
 			"M1":"#FF5A28",
 			"M2":"#FF4444",
-			"M3":"#00CC99",
+			"M3":"#23D1A5",
 			"M4":"#1989FA",
 			"M5":"#FF5A28"
 		},
@@ -29,7 +29,10 @@
 			"button_corner_type":"angle",
 			"card_corner_type":"angle"
 		},
-		"custom_colors":{},
+		"custom_colors":{
+			"B_Activator":"#000000",
+			"B_Login":"#000000"
+		},
 		"font":{
 			"app_bold_font":"",
 			"app_font":""
@@ -44,20 +47,20 @@
 		"N5":0.7,
 		"N6":0.2,
 		"N7":0.1,
-		"N8":0.3,
-		"N9":0.05
+		"N8":0.4,
+		"N9":0.03
 	},
 	"colors":{
-		"B1":"#EBB759",
+		"B1":"#F6F7FB",
 		"B2":"#FFFFFF",
-		"B3":"#ffebb759",
-		"B4":"#ffebb759",
-		"B5":"#ffebb759",
+		"B3":"#FFFFFF",
+		"B4":"#FFFFFF",
+		"B5":"#FFFFFF",
 		"B6":"",
-		"M1":"#598DEB",
+		"M1":"#FF5A28",
 		"M2":"#FF4444",
-		"M3":"#00CC99",
-		"M4":"#E819FA",
+		"M3":"#23D1A5",
+		"M4":"#1989FA",
 		"M5":"#FF5A28"
 	},
 	"corner":{
@@ -65,7 +68,10 @@
 		"button_corner_type":"angle",
 		"card_corner_type":"angle"
 	},
-	"custom_colors":{},
+	"custom_colors":{
+		"B_Activator":"#FFFFFF",
+		"B_Login":"#FFFFFF"
+	},
 	"font":{
 		"app_bold_font":"",
 		"app_font":""

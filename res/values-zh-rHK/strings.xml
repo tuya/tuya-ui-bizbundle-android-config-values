@@ -12,6 +12,7 @@
   <string name="DEVICE_RULE_DOOR_LOCK_DESC_GEOGRAPHYLEAVE">門鎖關閉</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYARRIVE">回家模式</string>
   <string name="DEVICE_RULE_DOOR_LOCK_TITLE_GEOGRAPHYLEAVE">離家模式</string>
+  <string name="FIRMWARE_OTA_INACTIVE_WAIT">設備當前處於未喚醒狀態無法立即升級，設備將在下次喚醒後開始升級</string>
   <string name="FIRMWARE_OTA_UPGRADING_1_V2">1.請保持藍牙設備電源始終處於連接狀態；
 2.請保持手機或藍牙網關與設備間距少於5米；
 3.固件升級過程中設備無法正常使用；
@@ -77,6 +78,8 @@
   <string name="account_vertify_message_for_phone">點擊“獲取驗證碼”，驗證碼將發送到你的手機：%s</string>
   <string name="account_wechat">微信</string>
   <string name="account_weibo">微博</string>
+  <string name="act_certify_device">設備未認證</string>
+  <string name="act_contact_service_certify_device">請聯系產品賣家</string>
   <string name="act_ez_failure_restart_iphone">嘗試重新啟動手機後重試</string>
   <string name="act_location_permission_message">開始權限後，可以自動取得 Wi-Fi 名稱</string>
   <string name="act_location_permission_title">開啟「位置」以取得 Wi-Fi 名稱</string>
@@ -142,6 +145,7 @@
   <string name="activator_wifi_not_available_please_change">請選擇以下可用的 Wi-Fi 連接</string>
   <string name="activator_wifi_setting_help">常見路由器的設置方法</string>
   <string name="activator_wifi_work">確保Wi-Fi信號良好</string>
+  <string name="active_choose_wifi">選擇 Wi-Fi</string>
   <string name="active_device_failure">設備激活失敗</string>
   <string name="activity_title_more_features">更多功能</string>
   <string name="activity_title_setting">設置</string>
@@ -192,6 +196,8 @@
   <string name="all_dev_shared">我收到的共用設備</string>
   <string name="allow_access_to_all_photos">允許訪問所有相片</string>
   <string name="already_add_dev">已添加設備</string>
+  <string name="android_launch_guide_finish">完成</string>
+  <string name="android_launch_guide_skip">跳過</string>
   <string name="animal_detect_on_tips">啟用鳥類偵測。您將只收到與鳥類有關的推播通知。</string>
   <string name="animal_expel_on_tips">啟用自動防松鼠功能。如有檢測到松鼠，系統會驅趕它們。</string>
   <string name="animal_identify_loading_tips">正在識別…</string>
@@ -357,7 +363,7 @@
   <string name="car_data_load_error_tips">數據加載失敗，請重試</string>
   <string name="car_login_tips">請先登錄 %s App</string>
   <string name="car_manage_scene">管理當前家庭中的“一鍵執行”</string>
-  <string name="car_manage_scene_empty">暫無可運行“一鍵執行”</string>
+  <string name="car_manage_scene_empty">暫無“一鍵執行”，請先去 App 場景頁創建場景</string>
   <string name="car_not_show_scene">以下場景不在 %s 中展示</string>
   <string name="car_scene_actions_num">%d 個任務</string>
   <string name="car_scene_enabled">可運行 “一鍵執行”</string>
@@ -570,6 +576,7 @@
   <string name="data_upgrade">加載中，請稍候...</string>
   <string name="de_pwd">的密碼</string>
   <string name="debugging">調試</string>
+  <string name="delete_device">移除設備</string>
   <string name="delete_member_msg">刪除後，該成員將不能操作家裏設備和智能</string>
   <string name="delete_member_tips">確認不再共用設備給 %s?</string>
   <string name="delete_share_contacts">確定刪除當前聯繫人？</string>
@@ -659,6 +666,16 @@
   <string name="discover_choose_pic_source">請選擇圖片來源</string>
   <string name="discover_device_failure">設備發現失敗</string>
   <string name="distance_warning_of_the_vehicle_ahead">距離車輛前方的警告</string>
+  <string name="diyhome_adv_card_default_change_diyhome_config_tip">您已經是家庭擁有者，已為您切換預設家庭配置</string>
+  <string name="diyhome_adv_card_energy_sub_title">今日</string>
+  <string name="diyhome_adv_card_energy_title">家庭耗能</string>
+  <string name="diyhome_adv_card_setting_default">家庭預設配置</string>
+  <string name="diyhome_adv_card_setting_personal">個人專屬配置</string>
+  <string name="diyhome_adv_card_setting_tip">目前使用的「家庭預設配置」僅家庭擁有者可編輯。若需自訂首頁配置，可點選左上角切換至“個人專屬配置”</string>
+  <string name="diyhome_adv_card_setting_toast_tip">無法修改“家庭預設配置”，若需修改請使用“個人專屬配置”</string>
+  <string name="diyhome_adv_card_soft_space_hum">濕度</string>
+  <string name="diyhome_adv_card_soft_space_temp">溫度</string>
+  <string name="diyhome_adv_card_soft_space_title">室內環境</string>
   <string name="diyhome_device_dashboard">資料看板</string>
   <string name="diyhome_device_dashboard_add_itemdata">新增資料</string>
   <string name="diyhome_device_dashboard_choose_device_title">選擇資料來源</string>
@@ -1186,7 +1203,7 @@
   <string name="homekit_goto_panel">進入面板</string>
   <string name="homekit_rebind_btn_text">重新綁定</string>
   <string name="homekit_research_btn_text">重新搜索</string>
-  <string name="homekit_setup_code_des">請輸入分享碼，將設備同步到塗鴉。同步後可以與塗鴉設備進行連動控制</string>
+  <string name="homekit_setup_code_des">請輸入分享碼，將設備同步到當前 App。同步後可以與設備進行聯動控制</string>
   <string name="homekit_setup_placeholder">請輸入11位或21位分享碼</string>
   <string name="homekit_upsupport_matter">暫無法支援新新增設備，您可在「家庭App」中查看</string>
   <string name="homepage_device_management_title">設備管理</string>
@@ -1519,7 +1536,7 @@
   <string name="image_load_failure">圖片加載失敗</string>
   <string name="image_size_limit_5MB">圖片大小不能超出 5 MB</string>
   <string name="immediate_updates">立即更新</string>
-  <string name="in_thing_msg">請在APP中使用</string>
+  <string name="in_thing_msg">請在 App 中使用</string>
   <string name="index_agreement">使用服務即表示您同意 {agreement}</string>
   <string name="index_apple_iap_pay">蘋果支付</string>
   <string name="index_pay_not_support_iap">您的應用不支持應用內支付，請升級至最新版本</string>
@@ -1547,6 +1564,8 @@
   <string name="invitation_confirm">邀請確認</string>
   <string name="invitation_confirm_detail">您有一個待確認的邀請，邀請您加入家庭：“%s”一起享受智慧生活帶來的便利。請您確認是否加入？</string>
   <string name="invitation_refuse">拒絕加入</string>
+  <string name="ios_launch_guide_finish">完成</string>
+  <string name="ios_launch_guide_skip">跳過</string>
   <string name="ipc_add_birdfeeder_info">請確保電池容量足夠，指示燈快速閃爍或聽到提示音。</string>
   <string name="ipc_ai_cloud_empty_des">無相關視頻\n未檢測到目標或未啟用 AI 分析</string>
   <string name="ipc_ai_fr">人臉識別</string>
@@ -2513,21 +2532,60 @@
   <string name="leave_for_owner">家庭刪除後，所有成員會被刪除、數據會被清空、已添加設備會被解綁和重置</string>
   <string name="leave_not_operate">離開後，將不能操作家裡設備和智能。</string>
   <string name="left_button_device_offline">重置說明</string>
+  <string name="light_batch_management">燈批次設定</string>
+  <string name="light_device_offline">某些設備斷開雲端連接</string>
+  <string name="light_dim_offline_device_desc">請確保設備信號良好。</string>
+  <string name="light_dim_offline_device_title">異常設備:%sone</string>
   <string name="light_preview_other_action_tips">僅支持燈光效果預覽</string>
   <string name="light_quit">返回</string>
+  <string name="light_room_device_empty_tip">您可以點擊右上角以添加所需的設備</string>
+  <string name="light_room_presets_title">預設場景在設備配置完成後將自動生效。</string>
+  <string name="light_scene_add_preset">新增預設場景</string>
+  <string name="light_scene_add_text">添加</string>
   <string name="light_scene_background">圖片</string>
+  <string name="light_scene_bg_camera">拍照</string>
+  <string name="light_scene_choose_city">選擇城市</string>
   <string name="light_scene_dim_bright">亮度</string>
+  <string name="light_scene_dim_bright_add">＋</string>
   <string name="light_scene_dim_hue">彩光</string>
+  <string name="light_scene_dim_hue_add">＋</string>
+  <string name="light_scene_dim_saturation">飽和度步驟</string>
   <string name="light_scene_dim_temp">色溫</string>
+  <string name="light_scene_dim_temp_add">＋</string>
+  <string name="light_scene_distributed_preview_title">預覽說明</string>
+  <string name="light_scene_error_button_to_manage">管理</string>
+  <string name="light_scene_go_to_local_cloud_setting">前往設置</string>
   <string name="light_scene_input_name">請輸入名稱</string>
   <string name="light_scene_item_edit">編輯燈光場景</string>
+  <string name="light_scene_latitude">緯度</string>
+  <string name="light_scene_local_cloud_setting">本地和雲端設定（實驗室功能）</string>
+  <string name="light_scene_longitude">經度</string>
   <string name="light_scene_no_action_desc">設備設置為無動作後，該場景觸發時不會對這個設備下發任何指令</string>
   <string name="light_scene_no_action_title">設置為無動作</string>
   <string name="light_scene_other_action">其他任務</string>
   <string name="light_scene_other_action_save">確定</string>
   <string name="light_scene_other_condition">添加觸發條件</string>
+  <string name="light_scene_reset">正在重設</string>
+  <string name="light_scene_reset_tip">您確定要重設生物節奏嗎？</string>
+  <string name="light_scene_rhythm_custom_mode">自訂</string>
+  <string name="light_scene_rhythm_default_city">北京</string>
+  <string name="light_scene_rhythm_default_country">中國</string>
+  <string name="light_scene_rhythm_default_lat">39.92</string>
+  <string name="light_scene_rhythm_default_lon">116.42</string>
+  <string name="light_scene_saturation_add">＋</string>
   <string name="light_scene_select_background">選擇</string>
   <string name="light_scene_select_color">選擇</string>
+  <string name="light_scene_type_distributed_bluetooth">分佈場景 (Bluetooth)</string>
+  <string name="light_scene_type_distributed_zigbee">分佈場景 (ZigBee)</string>
+  <string name="light_scene_type_distributed_zigbee_my">分佈場景 (ZigBee)</string>
+  <string name="light_scene_type_local_mesh">手機直接藍牙設備</string>
+  <string name="light_scene_type_preset">預設場景</string>
+  <string name="light_scene_what_is_distributed_zigbee">什麼是分散場景 (ZigBee)</string>
+  <string name="light_set_home_location">設置家庭位置，獲得更多信息</string>
+  <string name="light_sigmesh_no_gateway_open">手機直接藍牙設備</string>
+  <string name="lighting_group_choose_area">選擇房間</string>
+  <string name="lighting_group_lamp_disconnect_gateway">本地連接</string>
+  <string name="lighting_list_sig_no_gateway">本地連接</string>
   <string name="link_alexa">連接 Amazon Alexa</string>
   <string name="link_alexa_info">通過 Amazon Echo 系列智能音箱，用語音控制您的設備。點擊下方按鈕，綁定 Amazon 賬號。</string>
   <string name="link_cancel">取消關聯</string>
@@ -2692,6 +2750,8 @@
   <string name="message_center_nov">11月</string>
   <string name="message_center_oct">10月</string>
   <string name="message_center_sep">9月</string>
+  <string name="message_center_system_notice_account">開啟消息通知開關，及時獲取通知</string>
+  <string name="message_center_system_notice_enable">去開啟</string>
   <string name="message_center_title">消息中心</string>
   <string name="message_dnd_add">添加免打擾時段</string>
   <string name="message_dnd_desc">設備告警免打擾</string>
@@ -2713,6 +2773,8 @@
   <string name="message_dnd_tue">週二</string>
   <string name="message_dnd_wed">週三</string>
   <string name="message_setting_title">按時段免打擾</string>
+  <string name="message_system_notice_account">開啟消息通知開關，及時獲取通知</string>
+  <string name="message_system_notice_title">系統通知推送已關閉</string>
   <string name="message_tab_title">訊息</string>
   <string name="min_photo_select_tips">請至少選擇 %zd 張相片。</string>
   <string name="miniapp_content">探索</string>
@@ -2852,7 +2914,7 @@
   <string name="ota_update_nb_wait_remind">正在喚醒設備，可能需要一段時間；升級期間可返回進行其他操作。</string>
   <string name="ota_update_remind">1.升級過程中請保持設備電源始終處於連接狀態。 \n2.升級過程中設備將不能使用，請耐心等待。</string>
   <string name="ota_update_waiting_for_upgrading">等待更新至</string>
-  <string name="ota_update_waiting_wake_up">等待設備喚醒...</string>
+  <string name="ota_update_waiting_wake_up">請確保設備已喚醒</string>
   <string name="ota_update_warning">更新註意事項</string>
   <string name="ota_update_warning_text_can_control">升級可能持續較長時間，請確保設備處於電量充足狀態。</string>
   <string name="ota_update_warning_txt">升級可能持續較長時間，請確保設備處於電量充足狀態。更新時設備不可使用。</string>
@@ -3014,6 +3076,7 @@
   <string name="refresh_ota_status">刷新狀態</string>
   <string name="reget_validation_second">(%d 秒)</string>
   <string name="reinput">取消</string>
+  <string name="reinput_wifi_info">請重新輸入網絡</string>
   <string name="reload">重新加載</string>
   <string name="remote_reboot">遠程重新啟動</string>
   <string name="remote_reboot_device_offline">確保設備在線。</string>
@@ -3034,6 +3097,7 @@
   <string name="rename_device">設備名稱</string>
   <string name="repeat">重複</string>
   <string name="reset_device">重置設備</string>
+  <string name="reset_device_close_phone">請重置設備後將設備靠近手機</string>
   <string name="reset_rematch">請嘗試將設備重置後再重新配網</string>
   <string name="restart_router">請嘗試重啟路由器再重新配網</string>
   <string name="retry">重試</string>
@@ -3482,6 +3546,9 @@
   <string name="thing_light_manage_area_delete_failure">無法刪除</string>
   <string name="thing_light_manage_area_delete_tips">這個房間還有設備呢，不能刪除。</string>
   <string name="thing_light_operate_all_off">全部關閉</string>
+  <string name="thing_light_rhythm_default_mode_name2">日出</string>
+  <string name="thing_light_rhythm_default_mode_name4">日落</string>
+  <string name="thing_light_rhythm_scene_default_name">新節奏</string>
   <string name="thing_light_scene_batch_delete_tips">確定刪除 %d 個光線情境？</string>
   <string name="thing_light_scene_batch_delete_tips_detail">連接的日程表也將被刪除。</string>
   <string name="thing_light_scene_batch_delete_toast">已刪除：%d 個燈光場景。失敗：%d 個燈光場景。</string>
@@ -3494,6 +3561,7 @@
   <string name="thing_light_scene_select_type_tip">選擇類型</string>
   <string name="thing_light_scene_sort_quit_title">取消後排序結果將不會保存</string>
   <string name="thing_light_turn_off_lights_desc">為了不影響整體燈光效果，不支持節律場景功能的設備將被設置為關燈。</string>
+  <string name="thing_light_turn_off_lights_tips">預覽說明</string>
   <string name="thing_local_device_disconnect">已斷開</string>
   <string name="thing_map_confirm">確定</string>
   <string name="thing_map_set_location_no_permission_gosetting">立即設定</string>
@@ -4120,7 +4188,7 @@
   <string name="thing_biometric_login_passcode_not_set_tips">此設備尚未錄入密碼，請錄入密碼後使用</string>
   <string name="thing_biometric_login_passcode_not_set_title">此設備尚未錄入密碼</string>
   <string name="thing_biometric_login_setting_title">面容 ID</string>
-  <string name="thing_biometric_login_start_use_tips">你可以通過本設備中的面容 ID 登錄。我們不會保存此信息</string>
+  <string name="thing_biometric_login_start_use_tips">你可以通過本設備中的面容 ID 登錄 App。我們不會保存此信息</string>
   <string name="thing_biometric_login_start_use_title">要使用面容 ID 登錄嗎？</string>
   <string name="thing_biometric_login_stop_use_tips">你將無法繼續使用面容 ID 登錄</string>
   <string name="thing_biometric_login_stop_use_title">是否停用面容 ID 登錄？</string>
@@ -4646,6 +4714,7 @@
   <string name="thing_light_lamp_add_area_empty">暫不支持</string>
   <string name="thing_light_lamp_scene_title">選擇燈光場景</string>
   <string name="thing_light_mode">普通模式</string>
+  <string name="thing_light_scene">場景</string>
   <string name="thing_light_scene_add">添加新燈光場景</string>
   <string name="thing_light_scene_add_area_tip">選擇一個空間區域創建燈光場景\n部分設備暫未支持燈光場景，完成支持後會通知到您。</string>
   <string name="thing_light_scene_add_device_tip">按照主次調節燈光設置整體效果</string>
@@ -4657,6 +4726,8 @@
   <string name="thing_light_scene_default_name">新燈光場景</string>
   <string name="thing_light_scene_delete_tips">燈具已被移除，將刪除該場景。</string>
   <string name="thing_light_scene_diy_scene">燈光場景</string>
+  <string name="thing_light_scene_diy_scene_desc">自訂每盞燈的狀態，燈光將根據配置展現整體效果</string>
+  <string name="thing_light_scene_dynamic_scene">動態場景</string>
   <string name="thing_light_scene_edit">編輯燈光場景</string>
   <string name="thing_light_scene_edit_quit_tip">確認退出？</string>
   <string name="thing_light_scene_edit_quit_tip_detail">退出後所填內容將不會保存</string>
@@ -4668,7 +4739,10 @@
   <string name="thing_light_scene_main_light">功能燈光</string>
   <string name="thing_light_scene_manage_delete_scene_tips_detail">該場景下的相關日程也將會被刪除</string>
   <string name="thing_light_scene_manage_delete_tips">確定要刪除？</string>
+  <string name="thing_light_scene_music_scene">節奏場景</string>
+  <string name="thing_light_scene_music_type">節奏感</string>
   <string name="thing_light_scene_net_error">抱歉，網絡異常</string>
+  <string name="thing_light_scene_network_is_lan">LAN下效果更佳</string>
   <string name="thing_light_scene_nonadjustable">不可調</string>
   <string name="thing_light_scene_preview_success">預覽成功</string>
   <string name="thing_light_scene_scene_type">情景</string>
@@ -4682,6 +4756,7 @@
   <string name="thing_light_scene_turn_on">開燈</string>
   <string name="thing_light_scene_unselect_all">全不選</string>
   <string name="thing_light_scene_white_light">白光</string>
+  <string name="thing_light_tab_scene">場景</string>
   <string name="thing_lightskin_edit_info">編輯資料</string>
   <string name="thing_line_notify_device_remove">確定要刪除該設備？</string>
   <string name="thing_line_notify_device_remove_desc">刪除後，該設備的告警消息將不會發送至 LINE</string>
@@ -4865,7 +4940,11 @@
   <string name="thing_migration_device_config_init_fail">網關配置初始化失敗</string>
   <string name="thing_migration_device_data_init_fail">網關數據初始化失敗</string>
   <string name="thing_migration_device_helper">如何查看設備 SN 碼 / 設備 ID？</string>
-  <string name="thing_migration_device_tip">1. 當前新網關僅支持替換同個家庭內的故障網關；\n2. 請確認新網關處於通電狀態且無子設備；\n3. 被替換的故障網關處於斷電離線狀態；\n4. 替換成功後，故障網關將從家庭下移除；\n5. 為了更好的用戶體驗，建議被替換網關和新網關不在同一家庭環境下使用。</string>
+  <string name="thing_migration_device_tip">1. 當前新網關僅支持替換同個家庭內的故障網關!
+2. 請確認新網關處於通電狀態且無子設備。
+3. 被替換的故障網關處於斷電離線狀態。
+4. 替換成功後，故障網關將從家庭下移除。
+5. 替換完成後，被替換網關不允許重新上電，新老網關在同一家庭下使用會導致異常。</string>
   <string name="thing_migration_empty_gateway">暫無可替換網關，若網關已移除，請返回上一界面輸入 SN 碼</string>
   <string name="thing_migration_fail_desc">%1$s | 因 %2$s，%3$s 替換 %4$s 失敗。</string>
   <string name="thing_migration_get_code_from_device_list">從設備列表獲取設備 ID</string>
@@ -5029,7 +5108,7 @@
   <string name="thing_outdoor_device_not_connect_confirm">知道了</string>
   <string name="thing_outdoor_do_not_remind_again">不再提醒</string>
   <string name="thing_outdoor_empty_tips">行駛你的精彩。</string>
-  <string name="thing_outdoor_empty_title">智能出行</string>
+  <string name="thing_outdoor_empty_title">智慧出行</string>
   <string name="thing_outdoor_functions">常用功能</string>
   <string name="thing_outdoor_geofence_alert">報警提醒</string>
   <string name="thing_outdoor_geofence_msg_center_alarm">地理圍欄告警</string>
@@ -5190,8 +5269,12 @@
   <string name="thing_review_operate_success_hint">您是否對App功能比較滿意呢？</string>
   <string name="thing_review_scene_add_success_title">添加場景成功！</string>
   <string name="thing_review_value_add_service_success_title">增值服務購買成功！</string>
+  <string name="thing_room_dining_room">飯廳</string>
+  <string name="thing_room_living_room">客廳</string>
+  <string name="thing_room_master_bedroom">主臥室</string>
   <string name="thing_room_none_permission_tip">請先聯繫管理員在“家庭設置-家庭成員中開啟許可權”</string>
   <string name="thing_room_none_permission_title">普通成員不可操作</string>
+  <string name="thing_room_study_room">書房</string>
   <string name="thing_save_room_suc">保存成功！</string>
   <string name="thing_scan_exit">退出預覽</string>
   <string name="thing_scan_exit_preview_tip">確定退出預覽模式嗎</string>
@@ -5301,6 +5384,7 @@
   <string name="thing_scene_turn_up">調高</string>
   <string name="thing_scene_value_tip">數值單位為%s，已自動校準</string>
   <string name="thing_scene_view_offline_device">查看離線設備</string>
+  <string name="thing_schedule_scene_count">場景</string>
   <string name="thing_scnene_fetching_dp_list">正在獲取設備信息...</string>
   <string name="thing_scnene_fetching_dp_list_overtime">獲取超時</string>
   <string name="thing_search_retry">重新掃描</string>
@@ -5604,6 +5688,8 @@
   <string name="username_phone_is_null">請輸入對方註冊時使用的手機號或郵箱</string>
   <string name="verify_code_error">驗證碼錯誤，請重新輸入</string>
   <string name="version_check">檢查更新</string>
+  <string name="video_module_talkmode_one">語音對講</string>
+  <string name="video_module_talkmode_two">語音對講</string>
   <string name="video_size_limit_40MB">視頻大小不能超出 40 MB</string>
   <string name="videos">視頻</string>
   <string name="virtual_dev_id">虛擬ID</string>
